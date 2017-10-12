@@ -41,7 +41,7 @@ def parse_wizard_image(element):
     for img in img_list:
         wizard.media_links.append(FullPath(get_path(img), "title"))
     wizard.page_url = FullPath(get_path(element) + "/div[1]/h3/a", "href")
-    wizard.title = FullPath(get_path(element) + "/dev[1]/h3/a", "string")
+    wizard.title = FullPath(get_path(element) + "/div[1]/h3/a", "string")
     return wizard
 
 
@@ -62,14 +62,3 @@ def parse_page(file_name):
                 result = parse_wizard_image(wizard_image)
                 markup.add(result)
     return markup
-
-
-def main():
-    parse_page("../google/2/1.html")
-"""
-    with open("schema.txt", "w") as fo:
-        fo.write(dump)
-"""
-
-if __name__ == "__main__":
-    main()
