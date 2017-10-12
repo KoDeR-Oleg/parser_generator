@@ -23,7 +23,9 @@ class Component(object):
     def get_from_page(self, file_name, full_path):
         with open(file_name, "r") as file:
             tag = html.document_fromstring(file.read()).xpath(full_path.xpath)[0]
-        if full_path.attr == "href" or full_path.attr == "title":
+        if full_path.attr == "href" or full_path.attr == "title" or full_path.attr == "style":
+            if full_path.attr == "style":
+                return tag.get("style").split("//")[1][:-2]
             return tag.get(full_path.attr)
         text = ""
         for i in tag.itertext():
