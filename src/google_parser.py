@@ -1,5 +1,3 @@
-from bs4 import BeautifulSoup, element
-import json
 from lxml import html
 
 from src.Markup import SearchResult, FullPath, Markup, WizardImage
