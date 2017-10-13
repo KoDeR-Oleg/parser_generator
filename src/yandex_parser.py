@@ -49,7 +49,6 @@ def parse_page(file_name):
     markup.file = file_name
     block_list = tree.xpath("//html/body/div[3]/div[1]/div[2]/div[1]/div[1]/ul/li/div")
     for block in block_list:
-        result = None
         if len(block.xpath("./div[2]/div[2]")) > 0 and block.xpath("./div[2]/div[2]")[0].text == "реклама":
             continue
         if len(block.xpath("./h2/a")) > 0:
