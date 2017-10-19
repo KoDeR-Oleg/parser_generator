@@ -10,7 +10,7 @@ class FullPath(object):
         return self.xpath + "." + self.attr
 
 
-class Component(object):
+class MarkupComponent(object):
     def __init__(self):
         self.type = None
         self.alignment = None
@@ -41,30 +41,30 @@ class Component(object):
         return subst
 
 
-class SearchResult(Component):
+class SearchResult(MarkupComponent):
     def __init__(self):
-        Component.__init__(self)
+        MarkupComponent.__init__(self)
         self.type = "SEARCH_RESULT"
         self.snippet = None
         self.view_url = None
 
     def get_substitution(self, file_name):
-        subst = Component.get_substitution(self, file_name)
+        subst = MarkupComponent.get_substitution(self, file_name)
         subst["type"] = self.type
         subst["snippet"] = self.get_from_page(file_name, self.snippet)
         subst["view_url"] = self.get_from_page(file_name, self.view_url)
         return subst
 
 
-class WizardImage(Component):
+class WizardImage(MarkupComponent):
     def __init__(self):
-        Component.__init__(self)
+        MarkupComponent.__init__(self)
         self.type = "WIZARD"
         self.wizard_type = "WIZARD_IMAGE"
         self.media_links = list()
 
     def get_substitution(self, file_name):
-        subst = Component.get_substitution(self, file_name)
+        subst = MarkupComponent.get_substitution(self, file_name)
         subst["type"] = self.type
         subst["wizard_type"] = self.wizard_type
         subst["media_links"] = list()
