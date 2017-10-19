@@ -1,6 +1,17 @@
 from lxml import html
 
 
+class Component(object):
+    def __init__(self):
+        self.type = None
+        self.alignment = None
+        self.page_url = None
+        self.title = None
+
+    def __str__(self):
+        return str(self.__dict__)
+
+
 class FullPath(object):
     def __init__(self, xpath, attr):
         self.xpath = xpath
@@ -33,11 +44,11 @@ class MarkupComponent(object):
         return text
 
     def get_substitution(self, file_name):
-        subst = dict()
-        subst["type"] = self.type
-        subst["alignment"] = self.alignment
-        subst["page_url"] = self.get_from_page(file_name, self.page_url)
-        subst["title"] = self.get_from_page(file_name, self.title)
+        subst = Component()
+        subst.type = self.type
+        subst.alignment = self.alignment
+        subst.page_url = self.get_from_page(file_name, self.page_url)
+        subst.title = self.get_from_page(file_name, self.title)
         return subst
 
 
@@ -50,9 +61,9 @@ class MarkupSearchResult(MarkupComponent):
 
     def get_substitution(self, file_name):
         subst = MarkupComponent.get_substitution(self, file_name)
-        subst["type"] = self.type
-        subst["snippet"] = self.get_from_page(file_name, self.snippet)
-        subst["view_url"] = self.get_from_page(file_name, self.view_url)
+        subst.type = self.type
+        subst.snippet = self.get_from_page(file_name, self.snippet)
+        subst.view_url = self.get_from_page(file_name, self.view_url)
         return subst
 
 
@@ -65,11 +76,11 @@ class MarkupWizardImage(MarkupComponent):
 
     def get_substitution(self, file_name):
         subst = MarkupComponent.get_substitution(self, file_name)
-        subst["type"] = self.type
-        subst["wizard_type"] = self.wizard_type
-        subst["media_links"] = list()
+        subst.type = self.type
+        subst.wizard_type = self.wizard_type
+        subst.media_links = list()
         for img in self.media_links:
-            subst["media_links"].append(self.get_from_page(file_name, img))
+            subst.media_links.append(self.get_from_page(file_name, img))
         return subst
 
 
