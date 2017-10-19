@@ -41,7 +41,7 @@ class MarkupComponent(object):
         return subst
 
 
-class SearchResult(MarkupComponent):
+class MarkupSearchResult(MarkupComponent):
     def __init__(self):
         MarkupComponent.__init__(self)
         self.type = "SEARCH_RESULT"
@@ -56,7 +56,7 @@ class SearchResult(MarkupComponent):
         return subst
 
 
-class WizardImage(MarkupComponent):
+class MarkupWizardImage(MarkupComponent):
     def __init__(self):
         MarkupComponent.__init__(self)
         self.type = "WIZARD"

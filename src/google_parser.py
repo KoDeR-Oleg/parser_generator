@@ -1,5 +1,5 @@
 from lxml import html
-from Markup import SearchResult, FullPath, Markup, WizardImage
+from Markup import MarkupSearchResult, FullPath, Markup, MarkupWizardImage
 
 
 def get_index(parent, tag):
@@ -22,7 +22,7 @@ def get_path(element):
 
 
 def parse_document(element):
-    document = SearchResult()
+    document = MarkupSearchResult()
     document.alignment = "LEFT"
     document.page_url = FullPath(get_path(element) + "/h3/a", "href")
     document.title = FullPath(get_path(element) + "/h3/a", "string")
@@ -32,7 +32,7 @@ def parse_document(element):
 
 
 def parse_wizard_image(element):
-    wizard = WizardImage()
+    wizard = MarkupWizardImage()
     wizard.alignment = "LEFT"
     img_list = element.xpath("./div[2]/div/div/div/div/div/div/div/div/div/a/g-img/img")
     for img in img_list:

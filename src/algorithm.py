@@ -1,5 +1,5 @@
 from lxml import html
-from Markup import SearchResult, FullPath, Markup, WizardImage
+from Markup import MarkupSearchResult, FullPath, Markup, MarkupWizardImage
 
 
 def get_index(parent, tag):
@@ -58,7 +58,7 @@ def great_common_prefix(xpath1, xpath2):
 
 
 def parse_document(element, block_xpath, sample):
-    document = SearchResult()
+    document = MarkupSearchResult()
     document.alignment = "LEFT"
 
     block_xpath = extract_xpath(block_xpath)
@@ -78,7 +78,7 @@ def parse_document(element, block_xpath, sample):
 
 
 def parse_wizard_image(element, block_xpath, sample):
-    wizard = WizardImage()
+    wizard = MarkupWizardImage()
     wizard.alignment = "LEFT"
 
     block_xpath = extract_xpath(block_xpath)
