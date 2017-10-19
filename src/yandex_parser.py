@@ -1,5 +1,5 @@
 from lxml import html
-from src.Markup import SearchResult, FullPath, Markup, WizardImage
+from Markup import SearchResult, FullPath, Markup, WizardImage
 
 
 def get_index(parent, tag):

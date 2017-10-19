@@ -1,6 +1,5 @@
 import unittest
-
-from src.yandex_parser import parse_page
+from yandex_parser import parse_page
 
 
 class TestYandexParser(unittest.TestCase):

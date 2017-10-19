@@ -1,31 +1,31 @@
 import unittest
-import src.google_parser
-import src.algorithm
+import google_parser
+import algorithm
 
 
 class TestAlgorithm(unittest.TestCase):
 
     def test_filename_in_markup_page3(self):
         markup_list = []
-        markup_list.append(src.google_parser.parse_page("../google/2/1.html"))
-        markup_list.append(src.google_parser.parse_page("../google/2/2.html"))
-        result_markup = src.algorithm.parse_page("../google/2/3.html", markup_list)
+        markup_list.append(google_parser.parse_page("../google/2/1.html"))
+        markup_list.append(google_parser.parse_page("../google/2/2.html"))
+        result_markup = algorithm.parse_page("../google/2/3.html", markup_list)
 
         self.assertEqual(result_markup.file, "../google/2/3.html")
 
     def test_count_of_blocks_on_page3(self):
         markup_list = []
-        markup_list.append(src.google_parser.parse_page("../google/2/1.html"))
-        markup_list.append(src.google_parser.parse_page("../google/2/2.html"))
-        result_markup = src.algorithm.parse_page("../google/2/3.html", markup_list)
+        markup_list.append(google_parser.parse_page("../google/2/1.html"))
+        markup_list.append(google_parser.parse_page("../google/2/2.html"))
+        result_markup = algorithm.parse_page("../google/2/3.html", markup_list)
 
         self.assertEqual(len(result_markup.components), 9)
 
     def test_fields_of_first_result_search_on_page3(self):
         markup_list = []
-        markup_list.append(src.google_parser.parse_page("../google/2/1.html"))
-        markup_list.append(src.google_parser.parse_page("../google/2/2.html"))
-        result_markup = src.algorithm.parse_page("../google/2/3.html", markup_list)
+        markup_list.append(google_parser.parse_page("../google/2/1.html"))
+        markup_list.append(google_parser.parse_page("../google/2/2.html"))
+        result_markup = algorithm.parse_page("../google/2/3.html", markup_list)
 
         search_result = result_markup.components[0].get_substitution(result_markup.file)
         expected_dict = {"type": "SEARCH_RESULT",
@@ -38,33 +38,33 @@ class TestAlgorithm(unittest.TestCase):
 
     def test_count_of_media_links_on_page3(self):
         markup_list = []
-        markup_list.append(src.google_parser.parse_page("../google/2/1.html"))
-        markup_list.append(src.google_parser.parse_page("../google/2/2.html"))
-        result_markup = src.algorithm.parse_page("../google/2/3.html", markup_list)
+        markup_list.append(google_parser.parse_page("../google/2/1.html"))
+        markup_list.append(google_parser.parse_page("../google/2/2.html"))
+        result_markup = algorithm.parse_page("../google/2/3.html", markup_list)
 
         self.assertEqual(len(result_markup.components[0].media_links), 6)
 
     def test_title_of_wizard_image_on_page3(self):
         markup_list = []
-        markup_list.append(src.google_parser.parse_page("../google/2/1.html"))
-        markup_list.append(src.google_parser.parse_page("../google/2/2.html"))
-        result_markup = src.algorithm.parse_page("../google/2/3.html", markup_list)
+        markup_list.append(google_parser.parse_page("../google/2/1.html"))
+        markup_list.append(google_parser.parse_page("../google/2/2.html"))
+        result_markup = algorithm.parse_page("../google/2/3.html", markup_list)
 
         self.assertEqual(result_markup.components[0].get_substitution(result_markup.file)["title"], "Картинки по запросу парашют")
 
     def test_page_url_of_wizard_image_on_page3(self):
         markup_list = []
-        markup_list.append(src.google_parser.parse_page("../google/2/1.html"))
-        markup_list.append(src.google_parser.parse_page("../google/2/2.html"))
-        result_markup = src.algorithm.parse_page("../google/2/3.html", markup_list)
+        markup_list.append(google_parser.parse_page("../google/2/1.html"))
+        markup_list.append(google_parser.parse_page("../google/2/2.html"))
+        result_markup = algorithm.parse_page("../google/2/3.html", markup_list)
 
         self.assertEqual(result_markup.components[0].get_substitution(result_markup.file)["page_url"], "https://www.google.ru/search?q=%D0%BF%D0%B0%D1%80%D0%B0%D1%88%D1%8E%D1%82&newwindow=1&dcr=0&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwi5_bz9tu3WAhWJApoKHVbrCgwQsAQIfA")
 
     def test_media_links_on_page3(self):
         markup_list = []
-        markup_list.append(src.google_parser.parse_page("../google/2/1.html"))
-        markup_list.append(src.google_parser.parse_page("../google/2/2.html"))
-        result_markup = src.algorithm.parse_page("../google/2/3.html", markup_list)
+        markup_list.append(google_parser.parse_page("../google/2/1.html"))
+        markup_list.append(google_parser.parse_page("../google/2/2.html"))
+        result_markup = algorithm.parse_page("../google/2/3.html", markup_list)
 
         media_links = result_markup.components[0].get_substitution(result_markup.file)["media_links"]
         expected_list = ["http://www.happiness-shop.ru/parachute/construction-parachute.html",

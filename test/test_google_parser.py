@@ -1,6 +1,5 @@
 import unittest
-
-from src.google_parser import parse_page
+from google_parser import parse_page
 
 
 class TestGoogleParser(unittest.TestCase):
