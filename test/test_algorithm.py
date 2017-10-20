@@ -1,6 +1,7 @@
 import unittest
 import google_parser
 import algorithm
+from Markup import Component
 
 
 class TestAlgorithm(unittest.TestCase):
@@ -27,14 +28,15 @@ class TestAlgorithm(unittest.TestCase):
         markup_list.append(google_parser.parse_page("../google/2/2.html"))
         result_markup = algorithm.parse_page("../google/2/3.html", markup_list)
 
-        search_result = result_markup.components[0].get_substitution(result_markup.file)
-        expected_dict = {"type": "SEARCH_RESULT",
-                         "alignment": "LEFT",
-                         "page_url": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D1%88%D1%8E%D1%82",
-                         "title": "Парашют — Википедия",
-                         "snippet": "Парашю́т (фр. parachute) — устройство в форме зонта из ткани или другого мягкого материала, к которому стропами прикреплена подвесная система\xa0...",
-                         "view_url": "https://ru.wikipedia.org/wiki/Парашют"}
-        self.assertEqual(search_result, expected_dict)
+        search_result = result_markup.get_substitution(0)
+        expected_component = Component()
+        expected_component.type = "SEARCH_RESULT"
+        expected_component.alignment = "LEFT"
+        expected_component.page_url = "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D1%88%D1%8E%D1%82"
+        expected_component.title = "Парашют — Википедия"
+        expected_component.snippet = "Парашю́т (фр. parachute) — устройство в форме зонта из ткани или другого мягкого материала, к которому стропами прикреплена подвесная система\xa0..."
+        expected_component.view_url = "https://ru.wikipedia.org/wiki/Парашют"
+        self.assertEqual(search_result, expected_component)
 
     def test_count_of_media_links_on_page3(self):
         markup_list = []
@@ -50,7 +52,7 @@ class TestAlgorithm(unittest.TestCase):
         markup_list.append(google_parser.parse_page("../google/2/2.html"))
         result_markup = algorithm.parse_page("../google/2/3.html", markup_list)
 
-        self.assertEqual(result_markup.components[0].get_substitution(result_markup.file)["title"], "Картинки по запросу парашют")
+        self.assertEqual(result_markup.get_substitution(0).title, "Картинки по запросу парашют")
 
     def test_page_url_of_wizard_image_on_page3(self):
         markup_list = []
@@ -58,7 +60,7 @@ class TestAlgorithm(unittest.TestCase):
         markup_list.append(google_parser.parse_page("../google/2/2.html"))
         result_markup = algorithm.parse_page("../google/2/3.html", markup_list)
 
-        self.assertEqual(result_markup.components[0].get_substitution(result_markup.file)["page_url"], "https://www.google.ru/search?q=%D0%BF%D0%B0%D1%80%D0%B0%D1%88%D1%8E%D1%82&newwindow=1&dcr=0&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwi5_bz9tu3WAhWJApoKHVbrCgwQsAQIfA")
+        self.assertEqual(result_markup.get_substitution(0).page_url, "https://www.google.ru/search?q=%D0%BF%D0%B0%D1%80%D0%B0%D1%88%D1%8E%D1%82&newwindow=1&dcr=0&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwi5_bz9tu3WAhWJApoKHVbrCgwQsAQIfA")
 
     def test_media_links_on_page3(self):
         markup_list = []
@@ -66,7 +68,7 @@ class TestAlgorithm(unittest.TestCase):
         markup_list.append(google_parser.parse_page("../google/2/2.html"))
         result_markup = algorithm.parse_page("../google/2/3.html", markup_list)
 
-        media_links = result_markup.components[0].get_substitution(result_markup.file)["media_links"]
+        media_links = result_markup.get_substitution(0).media_links
         expected_list = ["http://www.happiness-shop.ru/parachute/construction-parachute.html",
                          "http://waterfuns.ru/shop/parashuty/",
                          "http://dic.academic.ru/dic.nsf/enc_tech/828/%D0%BF%D0%B0%D1%80%D0%B0%D1%88%D1%8E%D1%82",
