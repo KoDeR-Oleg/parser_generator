@@ -1,7 +1,7 @@
 import unittest
 import google_parser
 import algorithm
-from markup import Component
+from analysis import Component
 
 
 class TestAlgorithm(unittest.TestCase):

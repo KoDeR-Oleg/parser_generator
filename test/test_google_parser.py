@@ -1,6 +1,6 @@
 import unittest
 from google_parser import parse_page
-from markup import Component
+from analysis import Component
 
 
 class TestGoogleParser(unittest.TestCase):
