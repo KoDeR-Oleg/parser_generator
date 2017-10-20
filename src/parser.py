@@ -19,9 +19,10 @@ class Parser(object):
         return path
 
     @staticmethod
-    def get_markup(self, file_name):
+    def extract_markup(file_name):
         pass
 
     @staticmethod
-    def get_analysis(self, file_name):
-        return self.get_markup(file_name).get_substitution()
+    def parse(file_name):
+        pass
+        #return extract_markup(file_name).get_substitution()

@@ -26,7 +26,7 @@ class YandexParser(Parser):
         return wizard
 
     @staticmethod
-    def parse_page(file_name):
+    def extract_markup(file_name):
         with open(file_name, "r") as file:
             tree = html.document_fromstring(file.read())
         markup = Markup()

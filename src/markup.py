@@ -1,5 +1,5 @@
 from lxml import html
-from analysis import Component, Analysis
+from parser_result import Component, ParserResult
 
 
 class FullPath(object):
@@ -97,10 +97,10 @@ class Markup(object):
         with open(self.file, "r") as file:
             tree = html.document_fromstring(file.read())
         if element is None:
-            analysis = Analysis()
-            analysis.file = self.file
+            parser_result = ParserResult()
+            parser_result.file = self.file
             for component in self.components:
-                analysis.add(component.get_substitution(tree))
-            return analysis
+                parser_result.add(component.get_substitution(tree))
+            return parser_result
         else:
             return self.components[element].get_substitution(tree)

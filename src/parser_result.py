@@ -20,7 +20,7 @@ class Component(object):
         return self.__dict__ == other.__dict__
 
 
-class Analysis(object):
+class ParserResult(object):
     def __init__(self):
         self.file = None
         self.components = list()

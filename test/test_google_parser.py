@@ -1,29 +1,29 @@
 import unittest
 from google_parser import GoogleParser
-from analysis import Component
+from parser_result import Component
 from markup import MarkupSearchResult, FullPath
 
 
 class TestGoogleParser(unittest.TestCase):
 
     def test_filename_in_markup_page1(self):
-        markup = GoogleParser.parse_page("../google/2/1.html")
+        markup = GoogleParser.extract_markup("../google/2/1.html")
         self.assertEqual(markup.file, "../google/2/1.html")
 
     def test_filename_in_markup_page2(self):
-        markup = GoogleParser.parse_page("../google/2/2.html")
+        markup = GoogleParser.extract_markup("../google/2/2.html")
         self.assertEqual(markup.file, "../google/2/2.html")
 
     def test_count_of_blocks_on_page1(self):
-        markup = GoogleParser.parse_page("../google/2/1.html")
+        markup = GoogleParser.extract_markup("../google/2/1.html")
         self.assertEqual(len(markup.components), 10)
 
     def test_count_of_blocks_on_page2(self):
-        markup = GoogleParser.parse_page("../google/2/2.html")
+        markup = GoogleParser.extract_markup("../google/2/2.html")
         self.assertEqual(len(markup.components), 10)
 
     def test_markups_of_first_result_search_on_page1(self):
-        markup_component = GoogleParser.parse_page("../google/2/1.html").components[0]
+        markup_component = GoogleParser.extract_markup("../google/2/1.html").components[0]
         expected_component = MarkupSearchResult()
         expected_component.type = "SEARCH_RESULT"
         expected_component.alignment = "LEFT"
@@ -34,7 +34,7 @@ class TestGoogleParser(unittest.TestCase):
         self.assertEqual(markup_component, expected_component)
 
     def test_fields_of_first_result_search_on_page1(self):
-        markup = GoogleParser.parse_page("../google/2/1.html")
+        markup = GoogleParser.extract_markup("../google/2/1.html")
         search_result = markup.get_substitution(0)
         expected_component = Component()
         expected_component.type = "SEARCH_RESULT"
@@ -46,7 +46,7 @@ class TestGoogleParser(unittest.TestCase):
         self.assertEqual(search_result, expected_component)
 
     def test_fields_of_result_search_with_video_on_page1(self):
-        markup = GoogleParser.parse_page("../google/2/1.html")
+        markup = GoogleParser.extract_markup("../google/2/1.html")
         search_result = markup.get_substitution(7)
         expected_component = Component()
         expected_component.type = "SEARCH_RESULT"
@@ -58,7 +58,7 @@ class TestGoogleParser(unittest.TestCase):
         self.assertEqual(search_result, expected_component)
 
     def test_fields_of_last_result_search_on_page1(self):
-        markup = GoogleParser.parse_page("../google/2/1.html")
+        markup = GoogleParser.extract_markup("../google/2/1.html")
         search_result = markup.get_substitution(9)
         expected_component = Component()
         expected_component.type = "SEARCH_RESULT"
@@ -70,7 +70,7 @@ class TestGoogleParser(unittest.TestCase):
         self.assertEqual(search_result, expected_component)
 
     def test_fields_of_first_result_search_on_page2(self):
-        markup = GoogleParser.parse_page("../google/2/2.html")
+        markup = GoogleParser.extract_markup("../google/2/2.html")
         search_result = markup.get_substitution(0)
         expected_component = Component()
         expected_component.type = "SEARCH_RESULT"
@@ -82,7 +82,7 @@ class TestGoogleParser(unittest.TestCase):
         self.assertEqual(search_result, expected_component)
 
     def test_fields_of_result_search_with_video_on_page2(self):
-        markup = GoogleParser.parse_page("../google/2/2.html")
+        markup = GoogleParser.extract_markup("../google/2/2.html")
         search_result = markup.get_substitution(9)
         expected_component = Component()
         expected_component.type = "SEARCH_RESULT"
@@ -94,31 +94,31 @@ class TestGoogleParser(unittest.TestCase):
         self.assertEqual(search_result, expected_component)
 
     def test_count_of_media_links_on_page1(self):
-        markup = GoogleParser.parse_page("../google/2/1.html")
+        markup = GoogleParser.extract_markup("../google/2/1.html")
         self.assertEqual(len(markup.components[3].media_links), 5)
 
     def test_count_of_media_links_on_page2(self):
-        markup = GoogleParser.parse_page("../google/2/2.html")
+        markup = GoogleParser.extract_markup("../google/2/2.html")
         self.assertEqual(len(markup.components[5].media_links), 6)
 
     def test_title_of_wizard_image_on_page1(self):
-        markup = GoogleParser.parse_page("../google/2/1.html")
+        markup = GoogleParser.extract_markup("../google/2/1.html")
         self.assertEqual(markup.get_substitution(3).title, "Картинки по запросу яд")
 
     def test_title_of_wizard_image_on_page2(self):
-        markup = GoogleParser.parse_page("../google/2/2.html")
+        markup = GoogleParser.extract_markup("../google/2/2.html")
         self.assertEqual(markup.get_substitution(5).title, "Картинки по запросу карандаш")
 
     def test_page_url_of_wizard_image_on_page1(self):
-        markup = GoogleParser.parse_page("../google/2/1.html")
+        markup = GoogleParser.extract_markup("../google/2/1.html")
         self.assertEqual(markup.get_substitution(3).page_url, "https://www.google.ru/search?q=%D1%8F%D0%B4&newwindow=1&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwj62dOj8tvWAhWmFJoKHVGvDzoQsAQIQw")
 
     def test_page_url_of_wizard_image_on_page2(self):
-        markup = GoogleParser.parse_page("../google/2/2.html")
+        markup = GoogleParser.extract_markup("../google/2/2.html")
         self.assertEqual(markup.get_substitution(5).page_url, "https://www.google.ru/search?q=%D0%BA%D0%B0%D1%80%D0%B0%D0%BD%D0%B4%D0%B0%D1%88&newwindow=1&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwic0a6D9tvWAhWJDpoKHUJRDREQsAQIUg")
 
     def test_media_links_on_page1(self):
-        markup = GoogleParser.parse_page("../google/2/1.html")
+        markup = GoogleParser.extract_markup("../google/2/1.html")
         media_links = markup.get_substitution(3).media_links
         expected_list = ["http://www.i-sonnik.ru/yad/",
                          "http://lfly.ru/sonnik-yad-k-chemu-snitsya-yad.html",
@@ -128,7 +128,7 @@ class TestGoogleParser(unittest.TestCase):
         self.assertEqual(media_links, expected_list)
 
     def test_media_links_on_page2(self):
-        markup = GoogleParser.parse_page("../google/2/2.html")
+        markup = GoogleParser.extract_markup("../google/2/2.html")
         media_links = markup.get_substitution(5).media_links
         expected_list = ["http://www.lesyadraw.ru/raznye/predmety/kak-narisovat-karandash-na-bumage-poetapno.html",
                          "http://i-fakt.ru/interesnye-fakty-o-karandashe/",
@@ -139,14 +139,14 @@ class TestGoogleParser(unittest.TestCase):
         self.assertEqual(media_links, expected_list)
 
     def test_regress_on_page1(self):
-        markup = GoogleParser.parse_page("../google/2/1.html")
+        markup = GoogleParser.extract_markup("../google/2/1.html")
         search_result = markup.get_substitution()
         with open("../google/2/1.json", "r") as file:
             expected_string = file.read()
         self.assertEqual(str(search_result), expected_string)
 
     def test_regress_on_page2(self):
-        markup = GoogleParser.parse_page("../google/2/2.html")
+        markup = GoogleParser.extract_markup("../google/2/2.html")
         search_result = markup.get_substitution()
         with open("../google/2/2.json", "r") as file:
             expected_string = file.read()
