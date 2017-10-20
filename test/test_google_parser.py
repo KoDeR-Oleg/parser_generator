@@ -137,3 +137,17 @@ class TestGoogleParser(unittest.TestCase):
                          "https://www.etudesite.ru/catalog/lastiki_karandashi_quot_perfection_quot/",
                          "https://www.popmech.ru/history/12293-kto-i-kogda-izobrel-karandash/"]
         self.assertEqual(media_links, expected_list)
+
+    def test_regress_on_page1(self):
+        markup = parse_page("../google/2/1.html")
+        search_result = markup.get_substitution()
+        with open("../google/2/1.json", "r") as file:
+            expected_string = file.read()
+        self.assertEqual(str(search_result), expected_string)
+
+    def test_regress_on_page2(self):
+        markup = parse_page("../google/2/2.html")
+        search_result = markup.get_substitution()
+        with open("../google/2/2.json", "r") as file:
+            expected_string = file.read()
+        self.assertEqual(str(search_result), expected_string)

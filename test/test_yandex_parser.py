@@ -100,3 +100,17 @@ class TestYandexParser(unittest.TestCase):
                          "im0-tub-ru.yandex.net/i?id=a64b49cb5028dde1632048248050d956&n=22",
                          "im0-tub-ru.yandex.net/i?id=52a9ed57daafb3f8bcf99d2784695e78&n=22"]
         self.assertEqual(media_links, expected_list)
+
+    def test_regress_on_page1(self):
+        markup = parse_page("../yandex/1.html")
+        search_result = markup.get_substitution()
+        with open("../yandex/1.json", "r") as file:
+            expected_string = file.read()
+        self.assertEqual(str(search_result), expected_string)
+
+    def test_regress_on_page2(self):
+        markup = parse_page("../yandex/2.html")
+        search_result = markup.get_substitution()
+        with open("../yandex/2.json", "r") as file:
+            expected_string = file.read()
+        self.assertEqual(str(search_result), expected_string)
