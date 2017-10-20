@@ -86,6 +86,7 @@ class Markup(object):
             tree = html.document_fromstring(file.read())
         if element is None:
             analysis = Analysis()
+            analysis.file = self.file
             for component in self.components:
                 analysis.add(component.get_substitution(tree))
             return analysis
