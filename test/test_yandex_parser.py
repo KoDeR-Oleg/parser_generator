@@ -7,23 +7,28 @@ from markup import MarkupSearchResult, FullPath
 class TestYandexParser(unittest.TestCase):
 
     def test_filename_in_markup_page1(self):
-        markup = YandexParser.extract_markup("../yandex/1.html")
+        parser = YandexParser()
+        markup = parser.extract_markup("../yandex/1.html")
         self.assertEqual(markup.file, "../yandex/1.html")
 
     def test_filename_in_markup_page2(self):
-        markup = YandexParser.extract_markup("../yandex/2.html")
+        parser = YandexParser()
+        markup = parser.extract_markup("../yandex/2.html")
         self.assertEqual(markup.file, "../yandex/2.html")
 
     def test_count_of_blocks_on_page1(self):
-        markup = YandexParser.extract_markup("../yandex/1.html")
+        parser = YandexParser()
+        markup = parser.extract_markup("../yandex/1.html")
         self.assertEqual(len(markup.components), 11)
 
     def test_count_of_blocks_on_page2(self):
-        markup = YandexParser.extract_markup("../yandex/2.html")
+        parser = YandexParser()
+        markup = parser.extract_markup("../yandex/2.html")
         self.assertEqual(len(markup.components), 10)
 
     def test_markups_of_first_result_search_on_page1(self):
-        markup_component = YandexParser.extract_markup("../yandex/1.html").components[0]
+        parser = YandexParser()
+        markup_component = parser.extract_markup("../yandex/1.html").components[0]
         expected_component = MarkupSearchResult()
         expected_component.type = "SEARCH_RESULT"
         expected_component.alignment = "LEFT"
@@ -34,7 +39,8 @@ class TestYandexParser(unittest.TestCase):
         self.assertEqual(markup_component, expected_component)
 
     def test_fields_of_first_result_search_on_page1(self):
-        markup = YandexParser.extract_markup("../yandex/1.html")
+        parser = YandexParser()
+        markup = parser.extract_markup("../yandex/1.html")
         search_result = markup.get_substitution(0)
         expected_component = Component()
         expected_component.type = "SEARCH_RESULT"
@@ -46,7 +52,8 @@ class TestYandexParser(unittest.TestCase):
         self.assertEqual(search_result, expected_component)
 
     def test_fields_of_last_result_search_on_page1(self):
-        markup = YandexParser.extract_markup("../yandex/1.html")
+        parser = YandexParser()
+        markup = parser.extract_markup("../yandex/1.html")
         search_result = markup.get_substitution(10)
         expected_component = Component()
         expected_component.type = "SEARCH_RESULT"
@@ -58,7 +65,8 @@ class TestYandexParser(unittest.TestCase):
         self.assertEqual(search_result, expected_component)
 
     def test_fields_of_first_result_search_on_page2(self):
-        markup = YandexParser.extract_markup("../yandex/2.html")
+        parser = YandexParser()
+        markup = parser.extract_markup("../yandex/2.html")
         search_result = markup.get_substitution(0)
         expected_component = Component()
         expected_component.type = "SEARCH_RESULT"
@@ -70,7 +78,8 @@ class TestYandexParser(unittest.TestCase):
         self.assertEqual(search_result, expected_component)
 
     def test_fields_of_last_result_search_on_page2(self):
-        markup = YandexParser.extract_markup("../yandex/2.html")
+        parser = YandexParser()
+        markup = parser.extract_markup("../yandex/2.html")
         search_result = markup.get_substitution(9)
         expected_component = Component()
         expected_component.type = "SEARCH_RESULT"
@@ -82,19 +91,23 @@ class TestYandexParser(unittest.TestCase):
         self.assertEqual(search_result, expected_component)
 
     def test_count_of_media_links_on_page1(self):
-        markup = YandexParser.extract_markup("../yandex/1.html")
+        parser = YandexParser()
+        markup = parser.extract_markup("../yandex/1.html")
         self.assertEqual(len(markup.components[7].media_links), 3)
 
     def test_title_of_wizard_image_on_page1(self):
-        markup = YandexParser.extract_markup("../yandex/1.html")
+        parser = YandexParser()
+        markup = parser.extract_markup("../yandex/1.html")
         self.assertEqual(markup.get_substitution(7).title, "яд — смотрите картинки")
 
     def test_page_url_of_wizard_image_on_page1(self):
-        markup = YandexParser.extract_markup("../yandex/1.html")
+        parser = YandexParser()
+        markup = parser.extract_markup("../yandex/1.html")
         self.assertEqual(markup.get_substitution(7).page_url, "https://yandex.ru/images/search?text=%D1%8F%D0%B4&stype=image&lr=2&noreask=1&parent-reqid=1507840705773924-1204282718026678870245913-vla1-2156&source=wiz")
 
     def test_media_links_on_page1(self):
-        markup = YandexParser.extract_markup("../yandex/1.html")
+        parser = YandexParser()
+        markup = parser.extract_markup("../yandex/1.html")
         media_links = markup.get_substitution(7).media_links
         expected_list = ["im0-tub-ru.yandex.net/i?id=353e0e40d1d5ddf2f7a6be4fc3834d53&n=22",
                          "im0-tub-ru.yandex.net/i?id=a64b49cb5028dde1632048248050d956&n=22",
@@ -102,14 +115,16 @@ class TestYandexParser(unittest.TestCase):
         self.assertEqual(media_links, expected_list)
 
     def test_regress_on_page1(self):
-        markup = YandexParser.extract_markup("../yandex/1.html")
+        parser = YandexParser()
+        markup = parser.extract_markup("../yandex/1.html")
         search_result = markup.get_substitution()
         with open("../yandex/1.json", "r") as file:
             expected_string = file.read()
         self.assertEqual(str(search_result), expected_string)
 
     def test_regress_on_page2(self):
-        markup = YandexParser.extract_markup("../yandex/2.html")
+        parser = YandexParser()
+        markup = parser.extract_markup("../yandex/2.html")
         search_result = markup.get_substitution()
         with open("../yandex/2.json", "r") as file:
             expected_string = file.read()

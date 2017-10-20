@@ -4,8 +4,7 @@ from parser import Parser
 
 
 class YandexParser(Parser):
-    @staticmethod
-    def parse_document(element):
+    def parse_document(self, element):
         document = MarkupSearchResult()
         document.alignment = "LEFT"
         document.page_url = FullPath(Parser.get_path(element) + "/h2/a", "href")
@@ -14,8 +13,7 @@ class YandexParser(Parser):
         document.view_url = FullPath(Parser.get_path(element) + "/div[1]/div[1]/a[last()]", "href")
         return document
 
-    @staticmethod
-    def parse_wizard_image(element):
+    def parse_wizard_image(self, element):
         wizard = MarkupWizardImage()
         wizard.alignment = "LEFT"
         img_list = element.xpath("./div[2]/div/div/div/a")
@@ -25,8 +23,7 @@ class YandexParser(Parser):
         wizard.title = FullPath(Parser.get_path(element) + "/div[1]/h2/a", "string")
         return wizard
 
-    @staticmethod
-    def extract_markup(file_name):
+    def extract_markup(self, file_name):
         with open(file_name, "r") as file:
             tree = html.document_fromstring(file.read())
         markup = Markup()
@@ -36,9 +33,9 @@ class YandexParser(Parser):
             if len(block.xpath("./div[2]/div[2]")) > 0 and block.xpath("./div[2]/div[2]")[0].text == "реклама":
                 continue
             if len(block.xpath("./h2/a")) > 0:
-                result = YandexParser.parse_document(block)
+                result = self.parse_document(block)
                 markup.add(result)
             elif len(block.xpath("./div[1]/h2/a")) > 0 and len(block.xpath("./div[2]/div[@class='gallery']")):
-                result = YandexParser.parse_wizard_image(block)
+                result = self.parse_wizard_image(block)
                 markup.add(result)
         return markup
