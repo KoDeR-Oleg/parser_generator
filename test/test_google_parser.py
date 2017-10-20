@@ -1,6 +1,7 @@
 import unittest
 from google_parser import parse_page
 from analysis import Component
+from markup import MarkupSearchResult, FullPath
 
 
 class TestGoogleParser(unittest.TestCase):
@@ -20,6 +21,17 @@ class TestGoogleParser(unittest.TestCase):
     def test_count_of_blocks_on_page2(self):
         markup = parse_page("../google/2/2.html")
         self.assertEqual(len(markup.components), 10)
+
+    def test_markups_of_first_result_search_on_page1(self):
+        markup_component = parse_page("../google/2/1.html").components[0]
+        expected_component = MarkupSearchResult()
+        expected_component.type = "SEARCH_RESULT"
+        expected_component.alignment = "LEFT"
+        expected_component.page_url = FullPath("//html/body[1]/div[7]/div[3]/div[10]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h3/a", "href")
+        expected_component.title = FullPath("//html/body[1]/div[7]/div[3]/div[10]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h3/a", "string")
+        expected_component.snippet = FullPath("//html/body[1]/div[7]/div[3]/div[10]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div/div/span", "strings")
+        expected_component.view_url = FullPath("//html/body[1]/div[7]/div[3]/div[10]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div/div/div/cite", "string")
+        self.assertEqual(markup_component, expected_component)
 
     def test_fields_of_first_result_search_on_page1(self):
         markup = parse_page("../google/2/1.html")
