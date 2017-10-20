@@ -18,11 +18,8 @@ class Parser(object):
         path = "//html" + path
         return path
 
-    @staticmethod
-    def extract_markup(file_name):
+    def extract_markup(self, file_name):
         pass
 
-    @staticmethod
-    def parse(file_name):
-        pass
-        #return extract_markup(file_name).get_substitution()
+    def parse(self, file_name):
+        return self.extract_markup(file_name).get_substitution()

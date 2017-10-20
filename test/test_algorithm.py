@@ -7,25 +7,28 @@ from parser_result import Component
 class TestAlgorithm(unittest.TestCase):
 
     def test_filename_in_markup_page3(self):
+        parser = GoogleParser()
         markup_list = []
-        markup_list.append(GoogleParser.extract_markup("../google/2/1.html"))
-        markup_list.append(GoogleParser.extract_markup("../google/2/2.html"))
+        markup_list.append(parser.extract_markup("../google/2/1.html"))
+        markup_list.append(parser.extract_markup("../google/2/2.html"))
         analysis = algorithm.parse_page("../google/2/3.html", markup_list)
 
         self.assertEqual(analysis.file, "../google/2/3.html")
 
     def test_count_of_blocks_on_page3(self):
+        parser = GoogleParser()
         markup_list = []
-        markup_list.append(GoogleParser.extract_markup("../google/2/1.html"))
-        markup_list.append(GoogleParser.extract_markup("../google/2/2.html"))
+        markup_list.append(parser.extract_markup("../google/2/1.html"))
+        markup_list.append(parser.extract_markup("../google/2/2.html"))
         analysis = algorithm.parse_page("../google/2/3.html", markup_list)
 
         self.assertEqual(len(analysis.components), 9)
 
     def test_fields_of_first_result_search_on_page3(self):
+        parser = GoogleParser()
         markup_list = []
-        markup_list.append(GoogleParser.extract_markup("../google/2/1.html"))
-        markup_list.append(GoogleParser.extract_markup("../google/2/2.html"))
+        markup_list.append(parser.extract_markup("../google/2/1.html"))
+        markup_list.append(parser.extract_markup("../google/2/2.html"))
         analysis = algorithm.parse_page("../google/2/3.html", markup_list)
 
         search_result = analysis.components[0]
@@ -39,33 +42,37 @@ class TestAlgorithm(unittest.TestCase):
         self.assertEqual(search_result, expected_component)
 
     def test_count_of_media_links_on_page3(self):
+        parser = GoogleParser()
         markup_list = []
-        markup_list.append(GoogleParser.extract_markup("../google/2/1.html"))
-        markup_list.append(GoogleParser.extract_markup("../google/2/2.html"))
+        markup_list.append(parser.extract_markup("../google/2/1.html"))
+        markup_list.append(parser.extract_markup("../google/2/2.html"))
         analysis = algorithm.parse_page("../google/2/3.html", markup_list)
 
         self.assertEqual(len(analysis.components[0].media_links), 6)
 
     def test_title_of_wizard_image_on_page3(self):
+        parser = GoogleParser()
         markup_list = []
-        markup_list.append(GoogleParser.extract_markup("../google/2/1.html"))
-        markup_list.append(GoogleParser.extract_markup("../google/2/2.html"))
+        markup_list.append(parser.extract_markup("../google/2/1.html"))
+        markup_list.append(parser.extract_markup("../google/2/2.html"))
         analysis = algorithm.parse_page("../google/2/3.html", markup_list)
 
         self.assertEqual(analysis.components[0].title, "Картинки по запросу парашют")
 
     def test_page_url_of_wizard_image_on_page3(self):
+        parser = GoogleParser()
         markup_list = []
-        markup_list.append(GoogleParser.extract_markup("../google/2/1.html"))
-        markup_list.append(GoogleParser.extract_markup("../google/2/2.html"))
+        markup_list.append(parser.extract_markup("../google/2/1.html"))
+        markup_list.append(parser.extract_markup("../google/2/2.html"))
         analysis = algorithm.parse_page("../google/2/3.html", markup_list)
 
         self.assertEqual(analysis.components[0].page_url, "https://www.google.ru/search?q=%D0%BF%D0%B0%D1%80%D0%B0%D1%88%D1%8E%D1%82&newwindow=1&dcr=0&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwi5_bz9tu3WAhWJApoKHVbrCgwQsAQIfA")
 
     def test_media_links_on_page3(self):
+        parser = GoogleParser()
         markup_list = []
-        markup_list.append(GoogleParser.extract_markup("../google/2/1.html"))
-        markup_list.append(GoogleParser.extract_markup("../google/2/2.html"))
+        markup_list.append(parser.extract_markup("../google/2/1.html"))
+        markup_list.append(parser.extract_markup("../google/2/2.html"))
         analysis = algorithm.parse_page("../google/2/3.html", markup_list)
 
         media_links = analysis.components[0].media_links

@@ -4,8 +4,7 @@ from parser import Parser
 
 
 class GoogleParser(Parser):
-    @staticmethod
-    def parse_document(element):
+    def parse_document(self, element):
         document = MarkupSearchResult()
         document.alignment = "LEFT"
         document.page_url = FullPath(Parser.get_path(element) + "/h3/a", "href")
@@ -14,8 +13,7 @@ class GoogleParser(Parser):
         document.view_url = FullPath(Parser.get_path(element) + "/div/div/div/cite", "string")
         return document
 
-    @staticmethod
-    def parse_wizard_image(element):
+    def parse_wizard_image(self, element):
         wizard = MarkupWizardImage()
         wizard.alignment = "LEFT"
         img_list = element.xpath("./div[2]/div/div/div/div/div/div/div/div/div/a/g-img/img")
@@ -25,8 +23,7 @@ class GoogleParser(Parser):
         wizard.title = FullPath(Parser.get_path(element) + "/div[1]/h3/a", "string")
         return wizard
 
-    @staticmethod
-    def extract_markup(file_name):
+    def extract_markup(self, file_name):
         with open(file_name, "r") as file:
             tree = html.document_fromstring(file.read())
         markup = Markup()
@@ -35,11 +32,11 @@ class GoogleParser(Parser):
         for block in block_list:
             document_list = block.xpath("./div/div/div/div")
             for document in document_list:
-                result = GoogleParser.parse_document(document)
+                result = self.parse_document(document)
                 markup.add(result)
             wizard_image_list = block.xpath("./div/g-section-with-header")
             for wizard_image in wizard_image_list:
                 if len(wizard_image.xpath("./div[1]/h3/a")) > 0:
-                    result = GoogleParser.parse_wizard_image(wizard_image)
+                    result = self.parse_wizard_image(wizard_image)
                     markup.add(result)
         return markup
