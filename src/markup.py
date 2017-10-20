@@ -7,6 +7,9 @@ class FullPath(object):
         self.xpath = xpath
         self.attr = attr
 
+    def __eq__(self, other):
+        return self.__dict__ == other.__dict__
+
     def __str__(self):
         return self.xpath + "." + self.attr
 
@@ -20,6 +23,9 @@ class MarkupComponent(object):
 
     def __str__(self):
         return str(self.__dict__)
+
+    def __eq__(self, other):
+        return self.__dict__ == other.__dict__
 
     def get_from_page(self, tree, full_path):
         tag = tree.xpath(full_path.xpath)[0]
@@ -48,6 +54,9 @@ class MarkupSearchResult(MarkupComponent):
         self.snippet = None
         self.view_url = None
 
+    def __eq__(self, other):
+        return self.__dict__ == other.__dict__
+
     def get_substitution(self, tree):
         subst = MarkupComponent.get_substitution(self, tree)
         subst.type = self.type
@@ -62,6 +71,9 @@ class MarkupWizardImage(MarkupComponent):
         self.type = "WIZARD"
         self.wizard_type = "WIZARD_IMAGE"
         self.media_links = list()
+
+    def __eq__(self, other):
+        return self.__dict__ == other.__dict__
 
     def get_substitution(self, tree):
         subst = MarkupComponent.get_substitution(self, tree)
