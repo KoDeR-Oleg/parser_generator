@@ -130,6 +130,7 @@ class PrimitiveAlgorithm(Algorithm):
         self.document_xpath = self.combine_xpath(self.document_xpath[len(self.block_xpath):])
         self.wizard_xpath = self.combine_xpath(self.wizard_xpath[len(self.block_xpath):])
         self.block_xpath = self.combine_xpath(self.block_xpath)
+        return self
 
     def parse(self, file_name):
         with open(file_name, "r") as file:
