@@ -1,5 +1,6 @@
 from lxml import html
-from parser_result import Component, ParserResult
+from parser_result import Component, ParserResult, Encoder
+import json
 
 
 class FullPath(object):
@@ -22,7 +23,7 @@ class MarkupComponent(object):
         self.title = None
 
     def __str__(self):
-        return str(self.__dict__)
+        return json.dumps(self, cls=Encoder, ensure_ascii=False)
 
     def __eq__(self, other):
         return self.__dict__ == other.__dict__
@@ -89,6 +90,9 @@ class Markup(object):
     def __init__(self):
         self.file = None
         self.components = list()
+
+    def __str__(self):
+        return json.dumps(self, cls=Encoder, ensure_ascii=False, indent=4)
 
     def add(self, component):
         self.components.append(component)
