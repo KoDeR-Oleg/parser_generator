@@ -122,3 +122,17 @@ class TestYandexParser(unittest.TestCase):
         with open("../yandex/2.json", "r") as file:
             expected_string = file.read()
         self.assertEqual(str(search_result), expected_string)
+
+    def test_markup_regress_on_page1(self):
+        parser = YandexParser()
+        markup = parser.extract_markup("../yandex/1.html")
+        with open("../yandex/1_markup.json", "r") as file:
+            expected_markup = file.read()
+        self.assertEqual(str(markup), expected_markup)
+
+    def test_markup_regress_on_page2(self):
+        parser = YandexParser()
+        markup = parser.extract_markup("../yandex/2.html")
+        with open("../yandex/2_markup.json", "r") as file:
+            expected_markup = file.read()
+        self.assertEqual(str(markup), expected_markup)

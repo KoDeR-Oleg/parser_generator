@@ -1,1 +1,97 @@
-{"file": "../yandex/1.html", "components": [{"type": "SEARCH_RESULT", "alignment": "LEFT", "page_url": "https://money.yandex.ru/", "title": "Яндекс.Деньги — сервис онлайн-платежей", "snippet": "Оплата товаров и услуг через интернет, перевод денег на счета или банковские карты. Возможность оформить виртуальную или пластиковую банковскую карту.", "view_url": "https://money.yandex.ru/"}, {"type": "SEARCH_RESULT", "alignment": "LEFT", "page_url": "https://ru.wikipedia.org/wiki/%D0%AF%D0%B4", "title": "Яд — Википедия", "snippet": "Яд, отрава — вещество, приводящее в определенных дозах, даже небольших относительно массы тела, к нарушению жизнедеятельности организма...", "view_url": "https://ru.wikipedia.org/wiki/%D0%AF%D0%B4"}, {"type": "SEARCH_RESULT", "alignment": "LEFT", "page_url": "https://otravlenye.ru/yady/himicheskie-yady/samye-opasnye-i-smertelnye-yady.html", "title": "Что такое яд, список видов ядов с названиями", "snippet": "Яд – это токсин, который способен вызвать сильное отравление или даже смерть. Воздействие на человека зависит от количества яда, а также его вида.", "view_url": "https://otravlenye.ru/yady/himicheskie-yady/samye-opasnye-i-smertelnye-yady.html"}, {"type": "SEARCH_RESULT", "alignment": "LEFT", "page_url": "http://www.uznayvse.ru/interesting-facts/samyie-silnyie-yadyi-v-mire.html", "title": "Самые сильные яды в мире | Интересные факты", "snippet": "Прекрасно знакомые нам продукты и напитки могут оказаться смертельно опасными. А самые простые предметы - содержать яд.", "view_url": "http://www.uznayvse.ru/interesting-facts/samyie-silnyie-yadyi-v-mire.html"}, {"type": "SEARCH_RESULT", "alignment": "LEFT", "page_url": "https://decem.info/10-naibolee-izvestnyh-yadov-ispolzuemyh-dlya-ubijstva.html", "title": "10 наиболее известных ядов, используемых для убийства", "snippet": "Представляем вашему вниманию список наиболее известных ядов, которые использовались, для убийства людей на протяжении всей истории. 10. Болиголов.", "view_url": "https://decem.info/10-naibolee-izvestnyh-yadov-ispolzuemyh-dlya-ubijstva.html"}, {"type": "SEARCH_RESULT", "alignment": "LEFT", "page_url": "https://pikabu.ru/tag/%FF%E4/hot", "title": "яд", "snippet": "Но главным образом, яд был ядом. ... Отчасти, из-за страха перед трупным ядом не развивалась средневековая медицина.", "view_url": "https://pikabu.ru/tag/%FF%E4/hot"}, {"type": "SEARCH_RESULT", "alignment": "LEFT", "page_url": "http://dic.academic.ru/dic.nsf/ruwiki/35497", "title": "Яд - это... Что такое Яд?", "snippet": "Гематические яды (Heamotoxic) — яды, затрагивающие кровь. Нейротоксичный яд (Neurotoxic) — яды, поражающие нервную систему и мозг.", "view_url": "http://dic.academic.ru/dic.nsf/ruwiki/35497"}, {"type": "WIZARD", "alignment": "LEFT", "page_url": "https://yandex.ru/images/search?text=%D1%8F%D0%B4&stype=image&lr=2&noreask=1&parent-reqid=1507840705773924-1204282718026678870245913-vla1-2156&source=wiz", "title": "яд — смотрите картинки", "wizard_type": "WIZARD_IMAGE", "media_links": ["im0-tub-ru.yandex.net/i?id=353e0e40d1d5ddf2f7a6be4fc3834d53&n=22", "im0-tub-ru.yandex.net/i?id=a64b49cb5028dde1632048248050d956&n=22", "im0-tub-ru.yandex.net/i?id=52a9ed57daafb3f8bcf99d2784695e78&n=22"]}, {"type": "SEARCH_RESULT", "alignment": "LEFT", "page_url": "https://www.infoniac.ru/news/10-smertel-nyh-yadov-i-ih-deistvie-na-cheloveka.html", "title": "10 смертельных ядов и их действие на человека", "snippet": "Яды использовались с древних времен до настоящего времени в качестве оружия, противоядия и даже лекарства.", "view_url": "https://www.infoniac.ru/news/10-smertel-nyh-yadov-i-ih-deistvie-na-cheloveka.html"}, {"type": "SEARCH_RESULT", "alignment": "LEFT", "page_url": "http://ru-wiki.org/wiki/%D0%AF%D0%B4", "title": "Яд — WiKi", "snippet": "Яд — вещество, приводящее в дозах, даже небольших относительно массы тела, к нарушению жизнедеятельности организма: к отравлению, заболеваниям и патологическим состояниям и к смертельным исходам.", "view_url": "http://ru-wiki.org/wiki/%D0%AF%D0%B4"}, {"type": "SEARCH_RESULT", "alignment": "LEFT", "page_url": "http://www.habit.ru/18/252.html", "title": "Таблица ядов · Химия", "snippet": "Таблица ядов. Какие мысли возникают у Вас при слове «яд»? ... Итак, давайте познакомимся с ядами поближе.", "view_url": "http://www.habit.ru/18/252.html"}]}
+{
+    "file": "../yandex/1.html",
+    "components": [
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://money.yandex.ru/",
+            "title": "Яндекс.Деньги — сервис онлайн-платежей",
+            "snippet": "Оплата товаров и услуг через интернет, перевод денег на счета или банковские карты. Возможность оформить виртуальную или пластиковую банковскую карту.",
+            "view_url": "https://money.yandex.ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://ru.wikipedia.org/wiki/%D0%AF%D0%B4",
+            "title": "Яд — Википедия",
+            "snippet": "Яд, отрава — вещество, приводящее в определенных дозах, даже небольших относительно массы тела, к нарушению жизнедеятельности организма...",
+            "view_url": "https://ru.wikipedia.org/wiki/%D0%AF%D0%B4"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://otravlenye.ru/yady/himicheskie-yady/samye-opasnye-i-smertelnye-yady.html",
+            "title": "Что такое яд, список видов ядов с названиями",
+            "snippet": "Яд – это токсин, который способен вызвать сильное отравление или даже смерть. Воздействие на человека зависит от количества яда, а также его вида.",
+            "view_url": "https://otravlenye.ru/yady/himicheskie-yady/samye-opasnye-i-smertelnye-yady.html"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://www.uznayvse.ru/interesting-facts/samyie-silnyie-yadyi-v-mire.html",
+            "title": "Самые сильные яды в мире | Интересные факты",
+            "snippet": "Прекрасно знакомые нам продукты и напитки могут оказаться смертельно опасными. А самые простые предметы - содержать яд.",
+            "view_url": "http://www.uznayvse.ru/interesting-facts/samyie-silnyie-yadyi-v-mire.html"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://decem.info/10-naibolee-izvestnyh-yadov-ispolzuemyh-dlya-ubijstva.html",
+            "title": "10 наиболее известных ядов, используемых для убийства",
+            "snippet": "Представляем вашему вниманию список наиболее известных ядов, которые использовались, для убийства людей на протяжении всей истории. 10. Болиголов.",
+            "view_url": "https://decem.info/10-naibolee-izvestnyh-yadov-ispolzuemyh-dlya-ubijstva.html"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://pikabu.ru/tag/%FF%E4/hot",
+            "title": "яд",
+            "snippet": "Но главным образом, яд был ядом. ... Отчасти, из-за страха перед трупным ядом не развивалась средневековая медицина.",
+            "view_url": "https://pikabu.ru/tag/%FF%E4/hot"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://dic.academic.ru/dic.nsf/ruwiki/35497",
+            "title": "Яд - это... Что такое Яд?",
+            "snippet": "Гематические яды (Heamotoxic) — яды, затрагивающие кровь. Нейротоксичный яд (Neurotoxic) — яды, поражающие нервную систему и мозг.",
+            "view_url": "http://dic.academic.ru/dic.nsf/ruwiki/35497"
+        },
+        {
+            "type": "WIZARD",
+            "alignment": "LEFT",
+            "page_url": "https://yandex.ru/images/search?text=%D1%8F%D0%B4&stype=image&lr=2&noreask=1&parent-reqid=1507840705773924-1204282718026678870245913-vla1-2156&source=wiz",
+            "title": "яд — смотрите картинки",
+            "wizard_type": "WIZARD_IMAGE",
+            "media_links": [
+                "im0-tub-ru.yandex.net/i?id=353e0e40d1d5ddf2f7a6be4fc3834d53&n=22",
+                "im0-tub-ru.yandex.net/i?id=a64b49cb5028dde1632048248050d956&n=22",
+                "im0-tub-ru.yandex.net/i?id=52a9ed57daafb3f8bcf99d2784695e78&n=22"
+            ]
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://www.infoniac.ru/news/10-smertel-nyh-yadov-i-ih-deistvie-na-cheloveka.html",
+            "title": "10 смертельных ядов и их действие на человека",
+            "snippet": "Яды использовались с древних времен до настоящего времени в качестве оружия, противоядия и даже лекарства.",
+            "view_url": "https://www.infoniac.ru/news/10-smertel-nyh-yadov-i-ih-deistvie-na-cheloveka.html"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://ru-wiki.org/wiki/%D0%AF%D0%B4",
+            "title": "Яд — WiKi",
+            "snippet": "Яд — вещество, приводящее в дозах, даже небольших относительно массы тела, к нарушению жизнедеятельности организма: к отравлению, заболеваниям и патологическим состояниям и к смертельным исходам.",
+            "view_url": "http://ru-wiki.org/wiki/%D0%AF%D0%B4"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://www.habit.ru/18/252.html",
+            "title": "Таблица ядов · Химия",
+            "snippet": "Таблица ядов. Какие мысли возникают у Вас при слове «яд»? ... Итак, давайте познакомимся с ядами поближе.",
+            "view_url": "http://www.habit.ru/18/252.html"
+        }
+    ]
+}

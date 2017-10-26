@@ -161,3 +161,17 @@ class TestGoogleParser(unittest.TestCase):
         with open("../google/2/2.json", "r") as file:
             expected_string = file.read()
         self.assertEqual(str(search_result), expected_string)
+
+    def test_markup_regress_on_page1(self):
+        parser = GoogleParser()
+        markup = parser.extract_markup("../google/2/1.html")
+        with open("../google/2/1_markup.json", "r") as file:
+            expected_markup = file.read()
+        self.assertEqual(str(markup), expected_markup)
+
+    def test_markup_regress_on_page2(self):
+        parser = GoogleParser()
+        markup = parser.extract_markup("../google/2/2.html")
+        with open("../google/2/2_markup.json", "r") as file:
+            expected_markup = file.read()
+        self.assertEqual(str(markup), expected_markup)

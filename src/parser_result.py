@@ -26,7 +26,7 @@ class ParserResult(object):
         self.components = list()
 
     def __str__(self):
-        return json.dumps(self, cls=Encoder, ensure_ascii=False)
+        return json.dumps(self, cls=Encoder, ensure_ascii=False, indent=4)
 
     def add(self, component):
         self.components.append(component)
