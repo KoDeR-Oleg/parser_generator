@@ -1,6 +1,7 @@
 from lxml import html
 from markup import MarkupSearchResult, FullPath, Markup, MarkupWizardImage
 from parser import Parser
+from ideal_parser import IdealParser
 
 
 class GoogleParser(Parser):
@@ -40,3 +41,7 @@ class GoogleParser(Parser):
                     result = self.parse_wizard_image(wizard_image)
                     markup.add(result)
         return markup
+
+    def parse(self, file_name):
+        ideal = IdealParser()
+        return ideal.get_substitution(self.extract_markup(file_name))
