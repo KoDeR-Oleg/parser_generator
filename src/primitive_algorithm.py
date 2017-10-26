@@ -137,13 +137,13 @@ class PrimitiveAlgorithm(Algorithm):
         result_markup = Markup()
         result_markup.file = file_name
 
-        block_list = tree.xpath(block_xpath)
+        block_list = tree.xpath(self.block_xpath)
         for block in block_list:
-            if len(block.xpath("." + document_xpath)) > 0:
-                result = self.parse_document(block, block_xpath, self.sample_document)
+            if len(block.xpath("." + self.document_xpath)) > 0:
+                result = self.parse_document(block, self.block_xpath, self.sample_document)
                 result_markup.add(result)
-            elif len(block.xpath("." + wizard_xpath)) > 0:
-                result = self.parse_wizard_image(block, block_xpath, self.sample_wizard)
+            elif len(block.xpath("." + self.wizard_xpath)) > 0:
+                result = self.parse_wizard_image(block, self.block_xpath, self.sample_wizard)
                 result_markup.add(result)
 
         ideal = IdealParser()
