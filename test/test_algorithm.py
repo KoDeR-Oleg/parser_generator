@@ -1,6 +1,6 @@
 import unittest
 from google_parser import GoogleParser
-import primitive_algorithm
+from primitive_algorithm import PrimitiveAlgorithm
 from parser_result import Component
 
 
@@ -11,7 +11,8 @@ class TestAlgorithm(unittest.TestCase):
         markup_list = []
         markup_list.append(parser.extract_markup("../google/2/1.html"))
         markup_list.append(parser.extract_markup("../google/2/2.html"))
-        analysis = primitive_algorithm.parse_page("../google/2/3.html", markup_list)
+        primitive_algorithm = PrimitiveAlgorithm().learn(markup_list)
+        analysis = primitive_algorithm.parse("../google/2/3.html")
 
         self.assertEqual(analysis.file, "../google/2/3.html")
 
@@ -20,7 +21,8 @@ class TestAlgorithm(unittest.TestCase):
         markup_list = []
         markup_list.append(parser.extract_markup("../google/2/1.html"))
         markup_list.append(parser.extract_markup("../google/2/2.html"))
-        analysis = primitive_algorithm.parse_page("../google/2/3.html", markup_list)
+        primitive_algorithm = PrimitiveAlgorithm().learn(markup_list)
+        analysis = primitive_algorithm.parse("../google/2/3.html")
 
         self.assertEqual(len(analysis.components), 9)
 
@@ -29,7 +31,8 @@ class TestAlgorithm(unittest.TestCase):
         markup_list = []
         markup_list.append(parser.extract_markup("../google/2/1.html"))
         markup_list.append(parser.extract_markup("../google/2/2.html"))
-        analysis = primitive_algorithm.parse_page("../google/2/3.html", markup_list)
+        primitive_algorithm = PrimitiveAlgorithm().learn(markup_list)
+        analysis = primitive_algorithm.parse("../google/2/3.html")
 
         search_result = analysis.components[0]
         expected_component = Component()
@@ -46,7 +49,8 @@ class TestAlgorithm(unittest.TestCase):
         markup_list = []
         markup_list.append(parser.extract_markup("../google/2/1.html"))
         markup_list.append(parser.extract_markup("../google/2/2.html"))
-        analysis = primitive_algorithm.parse_page("../google/2/3.html", markup_list)
+        primitive_algorithm = PrimitiveAlgorithm().learn(markup_list)
+        analysis = primitive_algorithm.parse("../google/2/3.html")
 
         self.assertEqual(len(analysis.components[0].media_links), 6)
 
@@ -55,7 +59,8 @@ class TestAlgorithm(unittest.TestCase):
         markup_list = []
         markup_list.append(parser.extract_markup("../google/2/1.html"))
         markup_list.append(parser.extract_markup("../google/2/2.html"))
-        analysis = primitive_algorithm.parse_page("../google/2/3.html", markup_list)
+        primitive_algorithm = PrimitiveAlgorithm().learn(markup_list)
+        analysis = primitive_algorithm.parse("../google/2/3.html")
 
         self.assertEqual(analysis.components[0].title, "Картинки по запросу парашют")
 
@@ -64,7 +69,8 @@ class TestAlgorithm(unittest.TestCase):
         markup_list = []
         markup_list.append(parser.extract_markup("../google/2/1.html"))
         markup_list.append(parser.extract_markup("../google/2/2.html"))
-        analysis = primitive_algorithm.parse_page("../google/2/3.html", markup_list)
+        primitive_algorithm = PrimitiveAlgorithm().learn(markup_list)
+        analysis = primitive_algorithm.parse("../google/2/3.html")
 
         self.assertEqual(analysis.components[0].page_url, "https://www.google.ru/search?q=%D0%BF%D0%B0%D1%80%D0%B0%D1%88%D1%8E%D1%82&newwindow=1&dcr=0&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwi5_bz9tu3WAhWJApoKHVbrCgwQsAQIfA")
 
@@ -73,7 +79,8 @@ class TestAlgorithm(unittest.TestCase):
         markup_list = []
         markup_list.append(parser.extract_markup("../google/2/1.html"))
         markup_list.append(parser.extract_markup("../google/2/2.html"))
-        analysis = primitive_algorithm.parse_page("../google/2/3.html", markup_list)
+        primitive_algorithm = PrimitiveAlgorithm().learn(markup_list)
+        analysis = primitive_algorithm.parse("../google/2/3.html")
 
         media_links = analysis.components[0].media_links
         expected_list = ["http://www.happiness-shop.ru/parachute/construction-parachute.html",
