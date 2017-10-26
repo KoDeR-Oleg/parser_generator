@@ -1,0 +1,85 @@
+{
+    "file": "../google/golden/40.html",
+    "components": [
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://www.oanda.com/lang/ru/currency/converter/&sa=U&ved=0ahUKEwjd-_3Apo_XAhUnKpoKHWYBA5AQFggUMAA&usg=AOvVaw0op5jy2AcQdQUjD5VadIt8",
+            "title": "Конвертер валют | Валютные курсы | OANDA",
+            "snippet": "Бесплатный конвертор валют или справочная карточка для поездок за рубеж \nс использованием ежедневных валютных курсов OANDA®. Конвертируйте ...",
+            "view_url": "https://www.oanda.com/lang/ru/currency/converter/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://cash.rbc.ru/converter.html&sa=U&ved=0ahUKEwjd-_3Apo_XAhUnKpoKHWYBA5AQFggZMAE&usg=AOvVaw2noNLaq6gkWtPuPz08jTOi",
+            "title": "Конвертер валют - РБК",
+            "snippet": "Бесплатный конвертер валют онлайн. В конвертере используются \nпоследние курсы ЦБ РФ, FOREX.",
+            "view_url": "https://cash.rbc.ru/converter.html"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://finance.liga.net/rates/converter/&sa=U&ved=0ahUKEwjd-_3Apo_XAhUnKpoKHWYBA5AQFggfMAI&usg=AOvVaw1iIhJTlQtfpD8V9-lhlrs_",
+            "title": "Конвертер валют - онлайн конвертер валют - Лига-финансы",
+            "snippet": "Конвертер валют онлайн: украинская гривна, рубль, доллар $, евро €. \nКонвертор валют по курсу НБУ.",
+            "view_url": "finance.liga.net/rates/converter/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://finance.rambler.ru/calculators/converter/&sa=U&ved=0ahUKEwjd-_3Apo_XAhUnKpoKHWYBA5AQFgglMAM&usg=AOvVaw37zh6Dn2AzA6BNVwC9jp16",
+            "title": "Конвертер валют, валютный калькулятор онлайн — Рамблер ...",
+            "snippet": "Калькулятор курса валют – простой и удобный механизм, позволяющий \nвыполнять моментальные конвертации из одних денежных единиц в другие \nпо ...",
+            "view_url": "https://finance.rambler.ru/calculators/converter/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.banki.ru/products/currency/converter/&sa=U&ved=0ahUKEwjd-_3Apo_XAhUnKpoKHWYBA5AQFggrMAQ&usg=AOvVaw1Q4PMNDfUzMv8IgoXB7aKl",
+            "title": "Конвертер валют онлайн | Банки.ру",
+            "snippet": "Конвертер валют позволяет в режиме онлайн быстро перевести курсы \nиностранных валют между собой.",
+            "view_url": "www.banki.ru/products/currency/converter/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://myfin.by/converter&sa=U&ved=0ahUKEwjd-_3Apo_XAhUnKpoKHWYBA5AQFggxMAU&usg=AOvVaw1hac47MTKokhrrgy7EoEuC",
+            "title": "Конвертер валют онлайн. Калькулятор, перевод валют в Беларуси",
+            "snippet": "Конвертер валют онлайн позволяет производить перевод валют по курс НБ \nРБ, курсам банков Беларуси, также предоставляется калькулятор ...",
+            "view_url": "https://myfin.by/converter"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://finance.tut.by/calcs/konv_val/&sa=U&ved=0ahUKEwjd-_3Apo_XAhUnKpoKHWYBA5AQFgg3MAY&usg=AOvVaw02YpMw4Sppotwf35yoj_x3",
+            "title": "Калькуляторы | Калькулятор конвертер валют | ФИНАНСЫ | TUT ...",
+            "snippet": "Калькулятор конвертер валют. ... Конвертер валют. 0 отзывов. Конвертер \nвалют. Курс на 26 октября 2017 года. Изменить дату. январь, февраль, март\n ...",
+            "view_url": "https://finance.tut.by/calcs/konv_val/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.finanz.ru/konverter-valut&sa=U&ved=0ahUKEwjd-_3Apo_XAhUnKpoKHWYBA5AQFgg9MAc&usg=AOvVaw0XcOZ1zOkJ_gQm-Lj5otEH",
+            "title": "Конвертер валют | finanz.ru",
+            "snippet": "Международный валютный рынок Forex (Форекс) является альтернативой \nорганизованным биржевым торгам валютой и позволяет совершать сделки в\n ...",
+            "view_url": "www.finanz.ru/konverter-valut"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://finance.i.ua/converter/&sa=U&ved=0ahUKEwjd-_3Apo_XAhUnKpoKHWYBA5AQFghDMAg&usg=AOvVaw0wEoXMpU1khNT-LG2Q4MPv",
+            "title": "Конвертер валют онлайн. Конвертер валют Украины онлайн по ...",
+            "snippet": "Конвертер валют онлайн – сервис, который поможет вам рассчитать \nстоимость обмена валют мира (курсы доллара к гривне, доллара к евро, \nевро к ...",
+            "view_url": "https://finance.i.ua/converter/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://tables.finance.ua/ru/currency/converter&sa=U&ved=0ahUKEwjd-_3Apo_XAhUnKpoKHWYBA5AQFghJMAk&usg=AOvVaw2-4XZRW47ipQft_gcB0YjF",
+            "title": "Конвертер валют - Валютный калькулятор онлайн",
+            "snippet": "Конвертер валют Finance.ua Украина - удобный онлайн калькулятор для \nконвертации денег из одной валюты в другую по курсу НБУ. Валютный ...",
+            "view_url": "tables.finance.ua/ru/currency/converter"
+        }
+    ]
+}

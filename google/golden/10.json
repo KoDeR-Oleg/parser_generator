@@ -1,0 +1,85 @@
+{
+    "file": "../google/golden/10.html",
+    "components": [
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://vseigru.net/&sa=U&ved=0ahUKEwjR5dfWro_XAhXiQJoKHbjMBrcQFggUMAA&usg=AOvVaw0eP0DQp5RbFEZUYLsFmEqn",
+            "title": "Все Игры - Онлайн",
+            "snippet": "Это игровой портал, где собраны все самые новые онлайн игры. Каждая \nдевочка и каждый мальчик сможет найти для себя интересные онлайн игры\n ...",
+            "view_url": "vseigru.net/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.igrixl.ru/&sa=U&ved=0ahUKEwjR5dfWro_XAhXiQJoKHbjMBrcQFggfMAE&usg=AOvVaw1bvZxeTUaO2ieyFK1Zy2XU",
+            "title": "Игры - играйте 3500 безплатных онлайн игр!",
+            "snippet": "Самые новые и забавные игры на одном вебсайте! У нас найдете более \n3500 игр!",
+            "view_url": "www.igrixl.ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://poki.com/ru&sa=U&ved=0ahUKEwjR5dfWro_XAhXiQJoKHbjMBrcQFggqMAI&usg=AOvVaw38DLUiAfiClff--5jSY_-j",
+            "title": "Poki / Super Igri: Бесплатные Онлайн Игры",
+            "snippet": "Тысячи бесплатных онлайн игр ждут вас на Poki. Сыграйте в онлайн и flash \nигры совершенно бесплатно!",
+            "view_url": "poki.com/ru"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.game-game.com.ua/&sa=U&ved=0ahUKEwjR5dfWro_XAhXiQJoKHbjMBrcQFggwMAM&usg=AOvVaw3YvBhkMPnA3eiOr0mVtwA9",
+            "title": "Игры онлайн бесплатно — флеш игры на Game-Game",
+            "snippet": "Игры онлайн бесплатно. На сайте можно играть в бесплатные онлайн флеш \nигры. Большой сборник мини онлайн флеш игр для детей. Есть лучшие ...",
+            "view_url": "www.game-game.com.ua/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://minigames.mail.ru/&sa=U&ved=0ahUKEwjR5dfWro_XAhXiQJoKHbjMBrcQFgg2MAQ&usg=AOvVaw33NMGcpT5efceUk9IDDeQO",
+            "title": "Мини-игры@Mail.Ru: Бесплатные игры онлайн без регистрации ...",
+            "snippet": "Бесплатные игры онлайн без регистрации! Игры для двоих, игры флеш, \nновые хорошие лучшие игры, на mail можно играть бесплатно без \nрегистрации ...",
+            "view_url": "https://minigames.mail.ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://minigames.mail.ru/erudit&sa=U&ved=0ahUKEwjR5dfWro_XAhXiQJoKHbjMBrcQFgg8MAU&usg=AOvVaw0f4VBLOIEWWAu_XIEif9bA",
+            "title": "Эрудит - Мини-игры Mail.Ru",
+            "snippet": "Эрудит – игра онлайн без регистрации. Эрудит на Мини-игры@Mail.ru – это \nвозможность играть на двоих в онлайне бесплатно. Играйте в слова ...",
+            "view_url": "https://minigames.mail.ru/erudit"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.ourgames.ru/&sa=U&ved=0ahUKEwjR5dfWro_XAhXiQJoKHbjMBrcQFghCMAY&usg=AOvVaw36cPgsvYBE96yZ-2I7_lPX",
+            "title": "OurGames.ru: Бесплатные онлайн флеш игры для всех",
+            "snippet": "Бесплатные игры. Широкий выбор бесплатных онлайн игр на русском языке. \nЛогические игры, маджонг, зума, бабл шутер, игры шарики, новые игры ...",
+            "view_url": "www.ourgames.ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://www.pacogames.com/ru&sa=U&ved=0ahUKEwjR5dfWro_XAhXiQJoKHbjMBrcQFghIMAc&usg=AOvVaw08QADZHp7JmCer7E9ssa7x",
+            "title": "PacoGames.com - Играть только лучшие бесплатные онлайн игры.",
+            "snippet": "Популярные игровой сайт. Ежедневные обновления. Игры разделены на \nнесколько категорий. Играть в бесплатные онлайн игры.",
+            "view_url": "https://www.pacogames.com/ru"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://playkey.net/ru/intro_know/&sa=U&ved=0ahUKEwjR5dfWro_XAhXiQJoKHbjMBrcQFghNMAg&usg=AOvVaw3Zi63p81hlx5Ftl871KBeY",
+            "title": "PLAYKEY | игры онлайн",
+            "snippet": "Играй онлайн в крутые игры на любом компьютере. Облачная технология \nPlaykey позволит тебе играть без скачивания и установки в современные ...",
+            "view_url": "https://playkey.net/ru/intro_know/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.nickelodeon.ru/games&sa=U&ved=0ahUKEwjR5dfWro_XAhXiQJoKHbjMBrcQFghTMAk&usg=AOvVaw30XnbhApBVgHnTQkS37Oql",
+            "title": "Бесплатные игры онлайн | Игры для девочек и мальчиков.",
+            "snippet": "Огромный выбор игр от Nickelodeon: для мальчиков и девочек, гонки и \nстрелялки, флеш игры и 3d и другие детские игры на Nickelodeon Россия!",
+            "view_url": "www.nickelodeon.ru/games"
+        }
+    ]
+}

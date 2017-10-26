@@ -1,0 +1,85 @@
+{
+    "file": "../google/golden/29.html",
+    "components": [
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://www.superjob.ru/vakansii/pryamoj-rabotodatel.html&sa=U&ved=0ahUKEwiz6orero_XAhWEE5oKHRGADNcQFggmMAA&usg=AOvVaw0R9qRnK4raO5nMWu32-Jdd",
+            "title": "Работа в Москве от прямых работодателей, свежие вакансии в ...",
+            "snippet": "Выбирайте среди 400000 вакансий в Москве от прямых работодателей. \nИщите работу с Superjob.",
+            "view_url": "https://www.superjob.ru/.../pryamoj-rabotodatel.html"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://www.avito.ru/moskva/vakansii&sa=U&ved=0ahUKEwiz6orero_XAhWEE5oKHRGADNcQFggrMAE&usg=AOvVaw0-5iHkj9x8_7U1D6wTwgt6",
+            "title": "Вакансии в Москве - свежие объявления работодателей на Avito",
+            "snippet": "Объявления о приеме на работу в Москве. Самая свежая база вакансий на ... \nПланшет Samsung (который оперативно работает) работа интересная и ...",
+            "view_url": "https://www.avito.ru/moskva/vakansii"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://vk.com/moscow_rabota&sa=U&ved=0ahUKEwiz6orero_XAhWEE5oKHRGADNcQFggxMAI&usg=AOvVaw1RAep-_AM3Xo-Y7HS4M48J",
+            "title": "Работа в Москве | ВКонтакте",
+            "snippet": "Здесь работа всегда есть и всегда будет: офисная, удаленная, стажировки и \nдр. Более 49 актуальных вакансий в Москве и МО ежедневно, никаких ...",
+            "view_url": "https://vk.com/moscow_rabota"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://www.rabota.ru/vacancy&sa=U&ved=0ahUKEwiz6orero_XAhWEE5oKHRGADNcQFgg3MAM&usg=AOvVaw27Qk6ie7Cq-_AD8usTwv-g",
+            "title": "Свежие вакансии в Москве - 30584 вакансии на Rabota.ru",
+            "snippet": "Свежие вакансии и работа в Москве. Зарплата до 120000 руб. Удобный и \nбыстрый поиск работы на сайте Rabota.ru.",
+            "view_url": "https://www.rabota.ru/vacancy"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.job-mo.ru/city/77/&sa=U&ved=0ahUKEwiz6orero_XAhWEE5oKHRGADNcQFgg8MAQ&usg=AOvVaw1z6kLYyJd8mezc3WMwI0C9",
+            "title": "Работа в Москве - 118676 вакансий в Москве, поиск работы",
+            "snippet": "Работа в Москве - 118676 актуальных вакансий в Москве, бесплатное \nразмещение резюме. Работа в городе Москва и вакансии на Job-MO.ru!",
+            "view_url": "www.job-mo.ru/city/77/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://hh.ru/metro&sa=U&ved=0ahUKEwiz6orero_XAhWEE5oKHRGADNcQFghCMAU&usg=AOvVaw0zLIYiFK1Z25R2GVQwjBFJ",
+            "title": "Работа в Москве по станциям метро - Hh",
+            "snippet": "Открытые вакансии по станциям метро в Москве. Найдите работу рядом с \nдомом!",
+            "view_url": "https://hh.ru/metro"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://rabota.yandex.ru/search%3Frid%3D213&sa=U&ved=0ahUKEwiz6orero_XAhWEE5oKHRGADNcQFghIMAY&usg=AOvVaw2UDxtoq6GKjjtkJHQjUBXN",
+            "title": "Работа в Москве, поиск работы в Москве, свежие вакансии - на ...",
+            "snippet": "Поиск работы по запросу «» в Москве. Свежие актуальные вакансии со всего \nинтернета, работа в ведущих компаниях в Москве. Удобный поиск и ...",
+            "view_url": "https://rabota.yandex.ru/search?rid=213"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://irr.ru/jobs-education/vacancies/&sa=U&ved=0ahUKEwiz6orero_XAhWEE5oKHRGADNcQFghOMAc&usg=AOvVaw39R-RV8AbuvpHXqQzXhggJ",
+            "title": "Вакансии в Москве: работа от прямых работодателей сегодня",
+            "snippet": "Работа ИЗ РУК В РУКИ в Москве. Поиск работы - ещё 4 170 объявлений \nсвежих вакансий от прямых работодателей и кадровых агентств. Найди \nработу ...",
+            "view_url": "https://irr.ru/jobs-education/vacancies/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://moskva.trud.com/&sa=U&ved=0ahUKEwiz6orero_XAhWEE5oKHRGADNcQFghUMAg&usg=AOvVaw0bydfXYxLOWigAkDgHw6z-",
+            "title": "Работа в Москве. Вакансии в Москве. Поиск работы в Москве на ...",
+            "snippet": "Работа в Москве, поиск работы и вакансий в Москве. Большой выбор \nвакансий и резюме на сайте TRUD.com.",
+            "view_url": "moskva.trud.com/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://careerist.ru/&sa=U&ved=0ahUKEwiz6orero_XAhWEE5oKHRGADNcQFghaMAk&usg=AOvVaw2W_v0xj7E_EKV1l6vfgfWL",
+            "title": "Работа в Москве, поиск вакансий на Карьерист.ру",
+            "snippet": "Карьерист.ру✓ Работа Москве от прямых работодателей ➤ Открытые \nгорячие вакансии ☎ Предложения по трудоустройству.",
+            "view_url": "https://careerist.ru/"
+        }
+    ]
+}

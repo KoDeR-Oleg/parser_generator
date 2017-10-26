@@ -1,0 +1,85 @@
+{
+    "file": "../google/golden/35.html",
+    "components": [
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://spb.drom.ru/auto/&sa=U&ved=0ahUKEwjRka3gro_XAhXiQpoKHQsyBhMQFgg4MAA&usg=AOvVaw0EpcGdQJqLyXSdkzbPk1dl",
+            "title": "Продажа автомобилей в Санкт-Петербурге, новые и ...",
+            "snippet": "Продажа автомобилей в Санкт-\nПетербурге .... Новые автомобили .... о \nпродаже в Санкт-Петербурге ... 2002\n—2017 Drom.ru (Санкт-Петербург)",
+            "view_url": "https://spb.drom.ru/auto/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://auto.ru/sankt-peterburg/&sa=U&ved=0ahUKEwjRka3gro_XAhXiQpoKHQsyBhMQFgg-MAE&usg=AOvVaw2sXeR13_1E6bFke2Jbywo9",
+            "title": "Авто.ру: купить, продать и обменять машину в Санкт-Петербурге",
+            "snippet": "Авто.ру: объявления о продаже машин, мотоциклов и спецтехники в Санкт-\nПетербурге. Цена на новые и бу автомобили. Запчасти, сервисные центры ...",
+            "view_url": "https://auto.ru/sankt-peterburg/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://auto.ru/sankt-peterburg/cars/used/&sa=U&ved=0ahUKEwjRka3gro_XAhXiQpoKHQsyBhMQFghjMAU&usg=AOvVaw36vHjMxAjNip4HXE4SULhp",
+            "title": "Продажа автомобилей с пробегом в Санкт-Петербурге: легко ...",
+            "snippet": "Продажа автомобилей с пробегом в Санкт-Петербурге .... Теперь вы можете \nнайти всё что нужно для автомобиля у нас, на Авто.ру. Более 15 000 000 ...",
+            "view_url": "https://auto.ru/sankt-peterburg/cars/used/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://www.avito.ru/sankt-peterburg/avtomobili&sa=U&ved=0ahUKEwjRka3gro_XAhXiQpoKHQsyBhMQFghlMAY&usg=AOvVaw1HsVL3ZZQpwz5l2Zsy7Y4J",
+            "title": "Продажа подержанных и новых автомобилей в Санкт ... - Avito",
+            "snippet": "Купить новый или б/у авто – частные объявления о продаже новых и авто с \nпробегом. Продать автомобиль в Санкт-Петербурге на Avito.",
+            "view_url": "https://www.avito.ru/sankt-peterburg/avtomobili"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.bluefish.ru/spb/&sa=U&ved=0ahUKEwjRka3gro_XAhXiQpoKHQsyBhMQFghrMAc&usg=AOvVaw1noXI0ho9qYYxaF4tF8EHC",
+            "title": "Продажа подержанных автомобилей - 1685 бу авто в в Санкт ...",
+            "snippet": "BlueFish - объявления о продаже подержанных автомобилей - 1685 бу авто в \nв Санкт-Петербурге. Реальные фото, цены, технические характеристики.",
+            "view_url": "www.bluefish.ru/spb/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://saint-petersburg.irr.ru/cars/&sa=U&ved=0ahUKEwjRka3gro_XAhXiQpoKHQsyBhMQFghxMAg&usg=AOvVaw1dJo7ut5iuAryrCyq8DPFV",
+            "title": "Продажа авто в Санкт-Петербурге, объявления ИЗ РУК В РУКИ ...",
+            "snippet": "АВТО на Irr.ru. Продажа автомобилей в Санкт-Петербурге. Новые и \nподержанные иномарки и отечественные авто - объявления о покупке и \nпродаже ...",
+            "view_url": "https://saint-petersburg.irr.ru/cars/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://car.ru/auto/&sa=U&ved=0ahUKEwjRka3gro_XAhXiQpoKHQsyBhMQFgh3MAk&usg=AOvVaw1mETUtv6zYd52jct8JQju0",
+            "title": "Продажа подержанных автомобилей, новых и авто с пробегом ...",
+            "snippet": "Объявления о продаже авто. Продажа подержанных автомобилей и новых. \nАвтосалоны, авторынки и частные объявления.",
+            "view_url": "https://car.ru/auto/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://auto.e1.ru/&sa=U&ved=0ahUKEwjRka3gro_XAhXiQpoKHQsyBhMQFgh9MAo&usg=AOvVaw1PHjBvkxUu40bZY_90sqHo",
+            "title": "Продажа авто в Екатеринбурге с пробегом. E1 ... - Екатеринбург",
+            "snippet": "Более 30 000 объявлений о продаже автомобилей в Екатеринбурге и \nобласти. Купить новый или авто с пробегом на E1.АВТО – просто! \nБесплатные ...",
+            "view_url": "https://auto.e1.ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://am.ru/&sa=U&ved=0ahUKEwjRka3gro_XAhXiQpoKHQsyBhMQFgiDATAL&usg=AOvVaw2ZPhd1EGPrDddGp9z7F3ee",
+            "title": "Продажа авто: новые и с пробегом (бу) автомобили на онлайн ...",
+            "snippet": "Крупнейший авторынок Рунета: покупка и продажа новых и подержанных (б/\nу) автомобилей во всех регионах России. Свежие предложения, данные об ...",
+            "view_url": "https://am.ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://www.rolf-vitebskiy.ru/cars/mileage/&sa=U&ved=0ahUKEwjRka3gro_XAhXiQpoKHQsyBhMQFgiJATAM&usg=AOvVaw0qnzrexU74AXen2uKKX9uH",
+            "title": "Продажа автомобилей с пробегом в СПб: купить б/у авто в ...",
+            "snippet": "Предлагаем продажу подержанных автомобилей в салоне официального \nдилера по достыпным ценам.",
+            "view_url": "https://www.rolf-vitebskiy.ru/cars/mileage/"
+        }
+    ]
+}

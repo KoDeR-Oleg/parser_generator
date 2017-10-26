@@ -1,0 +1,85 @@
+{
+    "file": "../google/golden/7.html",
+    "components": [
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://translate.yandex.ru/m/translate&sa=U&ved=0ahUKEwiJob3Vro_XAhXEDpoKHc7SA0QQFggUMAA&usg=AOvVaw3jHs8rN4r8tFtBUdqhnS6Y",
+            "title": "Яндекс.Переводчик – словарь и онлайн перевод на английский ...",
+            "snippet": "Бесплатный онлайн перевод с английского и других языков на русский и \nобратно. Переводчик работает со словами, текстами, а также веб-\nстраницами ...",
+            "view_url": "https://translate.yandex.ru/m/translate"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://translate.google.com/%3Fhl%3Dru&sa=U&ved=0ahUKEwiJob3Vro_XAhXEDpoKHc7SA0QQFggeMAE&usg=AOvVaw2UCQVJA_Kfyp1POQtPVtMd",
+            "title": "Google Переводчик",
+            "snippet": "Бесплатный сервис Google позволяет мгновенно переводить слова, фразы и \nвеб-страницы с английского на более чем 100 языков и обратно.",
+            "view_url": "https://translate.google.com/?hl=ru"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.translate.ru/&sa=U&ved=0ahUKEwiJob3Vro_XAhXEDpoKHc7SA0QQFggkMAI&usg=AOvVaw0YeVl-QsjHFvm31lQTrC1x",
+            "title": "Переводчик онлайн и словарь от PROMT: английский, русский ...",
+            "snippet": "Первый онлайн-переводчик Рунета. Бесплатный перевод текстов и поиск по \nсловарям. Грамматика, произношение, транскрипция и правила чтения.",
+            "view_url": "www.translate.ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.translate.ua/ru/on-line&sa=U&ved=0ahUKEwiJob3Vro_XAhXEDpoKHc7SA0QQFggqMAM&usg=AOvVaw3WStZdZvGR_XgKBjoh3L9m",
+            "title": "Онлайн-переводчик",
+            "snippet": "Онлайн перевод на http://www.translate.ua - это быстро, доступно и \nбесплатно. К Вашим услугам самый популярный бесплатный онлайн \nпереводчик ...",
+            "view_url": "www.translate.ua/ru/on-line"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://perevod.i.ua/anglo-russkiy/&sa=U&ved=0ahUKEwiJob3Vro_XAhXEDpoKHc7SA0QQFggwMAQ&usg=AOvVaw1URIuDJnmn00sjEJaxYgMx",
+            "title": "Переводчик онлайн с английского на русский язык. Онлайн ...",
+            "snippet": "Переводчик онлайн - это удобный, а также бесплатный сервис мгновенного \nперевода текста. Доступны переводы с русского и украинского на ...",
+            "view_url": "https://perevod.i.ua/anglo-russkiy/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://www.native-english.ru/translate&sa=U&ved=0ahUKEwiJob3Vro_XAhXEDpoKHc7SA0QQFgg2MAU&usg=AOvVaw1DPX88UonXllfStKCFxgb5",
+            "title": "Онлайн переводчик - Native English",
+            "snippet": "Воспользуйтесь бесплатным русско-английским онлайн переводчиком для \nперевода непонятного для вас слова, фразы или небольшого текста.",
+            "view_url": "https://www.native-english.ru/translate"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.rdfo.ru/%3Fmenu%3DTranslatorOnline&sa=U&ved=0ahUKEwiJob3Vro_XAhXEDpoKHc7SA0QQFgg7MAY&usg=AOvVaw2DZzNrw7YWKCvQd7-kI3Gk",
+            "title": "Англо — Русский переводчик, гугл (Google), неск. языков, онлайн",
+            "snippet": "Бесплатный онлайн перевод текстов гугл с английского на русский а так же \nрусско -английский -немецкий -французский и др. языков - для многих людей\n ...",
+            "view_url": "www.rdfo.ru/?menu=TranslatorOnline"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://www.lingvolive.com/ru-ru&sa=U&ved=0ahUKEwiJob3Vro_XAhXEDpoKHc7SA0QQFghBMAc&usg=AOvVaw2KWSJsXsl5SXu-mQVcwfoB",
+            "title": "Lingvo Live — онлайн-словарь от ABBYY. Переводчик для ...",
+            "snippet": "С помощью Словаря ABBYY Lingvo вы сможете самостоятельно сделать \nпрофессиональный перевод слов и выражений с английского на русский, ...",
+            "view_url": "https://www.lingvolive.com/ru-ru"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.reverso.net/text_translation.aspx%3Flang%3DRU&sa=U&ved=0ahUKEwiJob3Vro_XAhXEDpoKHc7SA0QQFghHMAg&usg=AOvVaw3SKLlHMD_rs2YA6st8t6e9",
+            "title": "Reverso | Free online translation, dictionary",
+            "snippet": "Reverso.net : Free online translation in French, Spanish, Italian, German, \nRussian, ... Добро пожаловать на Reverso.net, бесплатный он-лайн \nпереводчик со ...",
+            "view_url": "www.reverso.net/text_translation.aspx?lang=RU"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.m-translate.ru/&sa=U&ved=0ahUKEwiJob3Vro_XAhXEDpoKHc7SA0QQFghNMAk&usg=AOvVaw0KMbxjT3jjaGb_yTSfzPOL",
+            "title": "Мобильный Переводчик » Перевод Онлайн » m-translate.ru",
+            "snippet": "Качественный мобильный переводчик с английского на русский, распознает \nи переводит 104 языка, бесплатный словарь, перевод онлайн.",
+            "view_url": "www.m-translate.ru/"
+        }
+    ]
+}

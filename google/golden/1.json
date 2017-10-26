@@ -1,0 +1,61 @@
+{
+    "file": "../google/golden/1.html",
+    "components": [
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://tankionline.com/ru/&sa=U&ved=0ahUKEwjq9LHTro_XAhWtZpoKHfILD_YQFggcMAA&usg=AOvVaw3wAjidtuUWTkSl7E3HvicA",
+            "title": "Танки Онлайн — бесплатная браузерная онлайн игра",
+            "snippet": "Прими участие в бешеных танковых боях - круши вражеские танки, помогай \nсвоей команде, развивай свой танк, строй военную карьеру! Множество ...",
+            "view_url": "tankionline.com/ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://vk.com/tankionline&sa=U&ved=0ahUKEwjq9LHTro_XAhWtZpoKHfILD_YQFggoMAM&usg=AOvVaw0qLsmBCx8NtqjiDEgVc2_p",
+            "title": "Танки Онлайн | ВКонтакте",
+            "snippet": "Танки Онлайн — первый многопользовательский 3D-боевик на Flash. Прими \nучастие в бешеных танковых боях - круши вражеские танки, помогай своей ...",
+            "view_url": "https://vk.com/tankionline"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://igroutka.net/dlya-malchikov/tanki/&sa=U&ved=0ahUKEwjq9LHTro_XAhWtZpoKHfILD_YQFgg2MAY&usg=AOvVaw0MiR8K4zxPN9LeU5LYhJXC",
+            "title": "Игры Танки - Онлайн Бесплатно! - ИгроУтка",
+            "snippet": "Пожалуй, нет ни одного геймера мужского пола, который бы не любил играть \nв танки онлайн. Огромная бронированная машина, сметающая на пути ...",
+            "view_url": "igroutka.net/dlya-malchikov/tanki/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://ru.tankiforum.com/&sa=U&ved=0ahUKEwjq9LHTro_XAhWtZpoKHfILD_YQFgg8MAc&usg=AOvVaw2-r4YRvG4ocOCMtzRvLnAY",
+            "title": "Форумы - Танки Онлайн - официальный форум",
+            "snippet": "В этом разделе вы можете почерпнуть информацию о помощниках игры: \nвиды деятельности, участники, условия вступления в их ряды.",
+            "view_url": "ru.tankiforum.com/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://ru.tankiwiki.com/&sa=U&ved=0ahUKEwjq9LHTro_XAhWtZpoKHfILD_YQFghCMAg&usg=AOvVaw05bTn7em3g_vp4EfLsx9Ua",
+            "title": "Энциклопедия игры «Танки Онлайн» — Tanki Online Wiki",
+            "snippet": "«Танки Онлайн» — первый онлайновый трёхмерный боевик на Flash. Игра \nудостоилась ряда престижных наград, включая Site of the Day на Favourite ...",
+            "view_url": "https://ru.tankiwiki.com/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://vseigru.net/igry-tanki.html&sa=U&ved=0ahUKEwjq9LHTro_XAhWtZpoKHfILD_YQFghIMAk&usg=AOvVaw1tGk4eqU_jgllUF-Y2bPFR",
+            "title": "Игры Танки - Бесплатно Онлайн!",
+            "snippet": "Танки – безусловно, одно из самых эффективных средств для наземных \nбоевых сражений. Танки применялись в военных действиях во времена ...",
+            "view_url": "vseigru.net/igry-tanki.html"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://worldoftanks.ru/&sa=U&ved=0ahUKEwjq9LHTro_XAhWtZpoKHfILD_YQFghOMAo&usg=AOvVaw2Q88GdXKMDYAtXjnXZBI2e",
+            "title": "World of Tanks – Бесплатная Онлайн-игра про Танки",
+            "snippet": "Реалистичные битвы на легендарных танках, более 500 машин готовы к \nбою, 150 млн игроков по всему миру. Присоединяйся к культовой игре Мир ...",
+            "view_url": "https://worldoftanks.ru/"
+        }
+    ]
+}

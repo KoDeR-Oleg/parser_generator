@@ -1,0 +1,77 @@
+{
+    "file": "../google/golden/49.html",
+    "components": [
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://www.ivi.ru/movies&sa=U&ved=0ahUKEwit9fHEpo_XAhVpIpoKHfmbAUIQFggUMAA&usg=AOvVaw0PS1ofUPEZv1j2VuvcEnsM",
+            "title": "Смотреть фильмы онлайн бесплатно в хорошем качестве и без ...",
+            "snippet": "Вы любите смотреть фильмы онлайн и проводите много времени, \nпрочесывая сайты в поисках чего-нибудь интересного? Стоит задержаться \nна ivi.ru ...",
+            "view_url": "https://www.ivi.ru/movies"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://www.ivi.ru/new/movie-new&sa=U&ved=0ahUKEwit9fHEpo_XAhVpIpoKHfmbAUIQFggdMAE&usg=AOvVaw0iUr_0WwdKqahjA_MraBcc",
+            "title": "Фильмы-новинки 2016-2017 годов – смотреть онлайн бесплатно ...",
+            "snippet": "Фильмы-новинки 2016-2017 годов вы можете посмотреть онлайн \nсовершенно бесплатно в хорошем качестве. Самые свежие фильмы всех \nжанров в ...",
+            "view_url": "https://www.ivi.ru/new/movie-new"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://megogo.net/ru/films&sa=U&ved=0ahUKEwit9fHEpo_XAhVpIpoKHfmbAUIQFggrMAU&usg=AOvVaw2PnRG09ZzHzq10rolMw0bv",
+            "title": "Фильмы - смотреть онлайн бесплатно в хорошем качестве и без ...",
+            "snippet": "Смотреть фильмы, сериалы, мультфильмы онлайн бесплатно и легально.",
+            "view_url": "megogo.net/ru/films"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://baskino.co/new/&sa=U&ved=0ahUKEwit9fHEpo_XAhVpIpoKHfmbAUIQFggxMAY&usg=AOvVaw1GaviRCKkZNbIuZMuSIpni",
+            "title": "Кино новинки 2016 и 2017 года смотреть онлайн бесплатно",
+            "snippet": "На сайте baskino.club вы можете смотреть онлайн практически все \nкиноновинки 2016-2017 года и новые фильмы 2017 года. Мы стараемся ...",
+            "view_url": "baskino.co/new/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://kinogo.club/filmy_2017/&sa=U&ved=0ahUKEwit9fHEpo_XAhVpIpoKHfmbAUIQFgg3MAc&usg=AOvVaw0Ko1jpj1cVkppRyIn3URQv",
+            "title": "Фильмы 2017 смотреть онлайн, смотреть кино новинки 2017 в ...",
+            "snippet": "Все фильмы новинки 2017 года онлайн в хорошем качестве. У нас \nпосмотреть фильмы 2017 года онлайн можно бесплатно и без регистрации.",
+            "view_url": "kinogo.club/filmy_2017/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://kinoprofi.org/&sa=U&ved=0ahUKEwit9fHEpo_XAhVpIpoKHfmbAUIQFgg8MAg&usg=AOvVaw3-IYs0HU8k3yD3drpDRXbn",
+            "title": "КиноПрофи: Фильмы онлайн, смотреть Кино бесплатно",
+            "snippet": "КиноПрофи.НЕТ переехал на Kinoprofi.org — инновационный портал, \nпозволяющий смотреть фильмы онлайн бесплатно в хорошем качестве как \nна ...",
+            "view_url": "kinoprofi.org/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://hdkinohit.net/films2017/&sa=U&ved=0ahUKEwit9fHEpo_XAhVpIpoKHfmbAUIQFghBMAk&usg=AOvVaw2fX6VCqeKZcEpoJc76djEm",
+            "title": "Фильмы 2017 смотреть онлайн, лучшие фильмы 2017 в ...",
+            "snippet": "Смотреть фильмы 2017 онлайн бесплатно, все фильмы представлены \nтолько в хорошем hd 720 качестве и доступны всем без регистрации.",
+            "view_url": "hdkinohit.net/films2017/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://kinokrad.co/filmy-novinki-2017/&sa=U&ved=0ahUKEwit9fHEpo_XAhVpIpoKHfmbAUIQFghGMAo&usg=AOvVaw2qQuxmKadgzNSxbhJVQ-lW",
+            "title": "Фильмы 2017 смотреть онлайн, лучшие Новинки кино 2017",
+            "snippet": "Не пропустите главные новинки фильмов 2017 года в хорошем качестве. \nНачинайте смотреть фильмы 2017 онлайн бесплатно. Весь контент \nдоступен ...",
+            "view_url": "kinokrad.co/filmy-novinki-2017/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://bobfilm.club/filmi-2017/&sa=U&ved=0ahUKEwit9fHEpo_XAhVpIpoKHfmbAUIQFghLMAs&usg=AOvVaw3jYw7HOZmuaOnTThDvuB1z",
+            "title": "Фильмы 2017 смотреть онлайн, новинки кино 2017 года ...",
+            "snippet": "БобФильм – Это сайт с большой коллекцией онлайн кино фильмов 2017, \n2016 и 2015 годов смотреть онлайн которые, можно совершенно бесплатно \nи ...",
+            "view_url": "bobfilm.club/filmi-2017/"
+        }
+    ]
+}

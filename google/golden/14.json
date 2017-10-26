@@ -1,0 +1,61 @@
+{
+    "file": "../google/golden/14.html",
+    "components": [
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://tv.mail.ru/&sa=U&ved=0ahUKEwjR9Y3Yro_XAhUqS5oKHUl6CBgQFggVMAA&usg=AOvVaw0JC8a79s7nhLiwcC66moRW",
+            "title": "Телепрограмма на сегодня и на завтра, программа передач ТВ ...",
+            "snippet": "Телепрограмма: программа ТВ-передач на сегодня, на завтра, на неделю - \nвсе каналы и телепередачи по жанрам и по времени - город Москва.",
+            "view_url": "https://tv.mail.ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://tv.yandex.ru/213&sa=U&ved=0ahUKEwjR9Y3Yro_XAhUqS5oKHUl6CBgQFggpMAc&usg=AOvVaw1vGbiUx20KdkEd6riZLW8C",
+            "title": "Программа передач на сегодня в Москве — Яндекс.Телепрограмма",
+            "snippet": "Актуальная программа передач в Москве на сегодня. Полная ТВ-программа \nна неделю. Анонсы передач с фото, видео. Рекомендации к просмотру.",
+            "view_url": "https://tv.yandex.ru/213"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://ntvplus.ru/tv/&sa=U&ved=0ahUKEwjR9Y3Yro_XAhUqS5oKHUl6CBgQFgguMAg&usg=AOvVaw3gU9v6wIZhJVQkyzSOjqNs",
+            "title": "Телепрограмма на сегодня, программа передач на все каналы ...",
+            "snippet": "Программа передач на сегодня и ближайшую неделю на все каналы \nэфирного, спутникового и цифрового телевидения.",
+            "view_url": "https://ntvplus.ru/tv/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.tele.ru/programma/moskva/&sa=U&ved=0ahUKEwjR9Y3Yro_XAhUqS5oKHUl6CBgQFgg0MAk&usg=AOvVaw0VfdGEleov-61uPW6wr1hW",
+            "title": "Телепрограмма в г. Москва. Программа передач на сегодня и на ...",
+            "snippet": "Узнайте программу передач вашего города на сегодня и на неделю. \nАктуальная ТВ программа Первый, Россия, НТВ, Домашний, ТНТ, СТС и \nдругих ...",
+            "view_url": "www.tele.ru/programma/moskva/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://www.vl.ru/tv/&sa=U&ved=0ahUKEwjR9Y3Yro_XAhUqS5oKHUl6CBgQFgg6MAo&usg=AOvVaw3sKMIW8og4jkW4IKLG3H3M",
+            "title": "Программа передач на сегодня и завтра , телепрограмма ТВ ...",
+            "snippet": "Программа передач ТВ на неделю, на сегодня, телепрограмма сейчас. \nМестные и спутниковые телеканалы - все каналы. Архив телепередач.",
+            "view_url": "https://www.vl.ru/tv/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://www.chita.ru/tv/&sa=U&ved=0ahUKEwjR9Y3Yro_XAhUqS5oKHUl6CBgQFghAMAs&usg=AOvVaw2z4GVhosKB_i4RswM99Jd-",
+            "title": "Телепрограмма | Чита | Забайкальский край",
+            "snippet": "Программа телевидения на эфирные и кабельные каналы по местному \nвремени.",
+            "view_url": "https://www.chita.ru/tv/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://russia.tv/tvp/&sa=U&ved=0ahUKEwjR9Y3Yro_XAhUqS5oKHUl6CBgQFghGMAw&usg=AOvVaw2yY8IweMaBkAOguGBzXSvX",
+            "title": "Телеканал «Россия» / Программа телепередач на сегодня и на ...",
+            "snippet": "Телеканал «Россия 1» онлайн - полная программа передач канала на \nофициальном сайте RUSSIA.TV. Телепрограмма обновляется в режиме \nонлайн.",
+            "view_url": "https://russia.tv/tvp/"
+        }
+    ]
+}

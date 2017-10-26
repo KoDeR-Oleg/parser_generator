@@ -1,0 +1,85 @@
+{
+    "file": "../google/golden/16.html",
+    "components": [
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://www.pochta.ru/TRACKING&sa=U&ved=0ahUKEwimqPLYro_XAhUkP5oKHRyhBCkQFggUMAA&usg=AOvVaw3DL840_tfQv27CdIDAjD1O",
+            "title": "Отслеживание - Почта России",
+            "snippet": "Введите трек-номер или несколько номеров через пробел. Как узнать трек-\nномер · Розыск отправлений · Отправляйте открытки друзьям и родным.",
+            "view_url": "https://www.pochta.ru/TRACKING"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://www.pochta.ru/&sa=U&ved=0ahUKEwimqPLYro_XAhUkP5oKHRyhBCkQFggdMAE&usg=AOvVaw2Nw5dgTuhZUT1BNozOVTWL",
+            "title": "Почта России",
+            "snippet": "Отслеживание · Письма · Посылки · Открытки · Денежные переводы · \nОтделения · Курьер · Индекс · Бланки · Электронные письма · Подписка \nонлайн ...",
+            "view_url": "https://www.pochta.ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://gdeposylka.ru/courier/russian-post&sa=U&ved=0ahUKEwimqPLYro_XAhUkP5oKHRyhBCkQFggjMAI&usg=AOvVaw2PxhqFYicz_AtrRvqa4ZVJ",
+            "title": "Почта России отслеживание почтовых отправлений - ГдеПосылка",
+            "snippet": "Почта России отслеживание почтовых отправлений службы на сервисе Где \nПосылка. Быстро отследить посылку Почта России с отправкой ...",
+            "view_url": "https://gdeposylka.ru/courier/russian-post"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://track24.ru/&sa=U&ved=0ahUKEwimqPLYro_XAhUkP5oKHRyhBCkQFggqMAM&usg=AOvVaw2MrqV8HApluN08URYWT38I",
+            "title": "Отслеживание почтовых отправлений и посылок, трекинг ...",
+            "snippet": "и тому подобное, [red]РАЗЪЯСНЯЕМ[/red] - у нас сайт ОТСЛЕЖИВАНИЯ \nпосылок, а не выдачи предсказаний по ним. [red]За ответами на такие \nвопросы ...",
+            "view_url": "https://track24.ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://print-post.com/trekking_posylok.htm&sa=U&ved=0ahUKEwimqPLYro_XAhUkP5oKHRyhBCkQFggwMAQ&usg=AOvVaw0laAcL4vistu8st3l01KAG",
+            "title": "Отслеживание почтовых отправлений почты России",
+            "snippet": "Отслеживание почтовых отправлений почты России. Что-бы узнать, где \nнаходится ваша посылка - введите номер почтового отправления (почты ...",
+            "view_url": "https://print-post.com/trekking_posylok.htm"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://1track.ru/&sa=U&ved=0ahUKEwimqPLYro_XAhUkP5oKHRyhBCkQFgg2MAU&usg=AOvVaw0Iyb7hGGx7RAXywYizZkkc",
+            "title": "Отслеживание посылок (трэкинг) - отследить по идентификатору ...",
+            "snippet": "Сервис 1track.ru позволяет получить актуальную информацию о \nместоположении и стутусе Вашего почтового отправления. Для \nотслеживания посылки ...",
+            "view_url": "https://1track.ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://postal.ninja/ru&sa=U&ved=0ahUKEwimqPLYro_XAhUkP5oKHRyhBCkQFgg7MAY&usg=AOvVaw0KGdIdD9wr5hoRXO9NUFn6",
+            "title": "Отслеживание почтовых отправлений, международных посылок ...",
+            "snippet": "Отслеживание почтовых отправлений международных почтовых служб и \nкурьерских компаний России, Украины, Беларуси, Казахстана, США, ...",
+            "view_url": "https://postal.ninja/ru"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://post2go.ru/courier/russian-post&sa=U&ved=0ahUKEwimqPLYro_XAhUkP5oKHRyhBCkQFghAMAc&usg=AOvVaw065iEgtCPqXErZlQk5zs2O",
+            "title": "Почта России отследить посылку | Post2Go — отслеживание ...",
+            "snippet": "Почта России: отслеживание отправлений ... информация по Контролю \nкачества и розыску почтовых отправлений Почты РФ доступна по ссылке ...",
+            "view_url": "https://post2go.ru/courier/russian-post"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.sf-express.com/ru/ru/dynamic_functions/waybill/&sa=U&ved=0ahUKEwimqPLYro_XAhUkP5oKHRyhBCkQFghGMAg&usg=AOvVaw0wnE7oIfwKCloq6DY29FtL",
+            "title": "Отслеживание почтовых отправлений - S.F. Express",
+            "snippet": "Отслеживание почтовых отправлений. Введите трек-номер. Пожалуйста, \nвведите правильный код проверки. Почтовый идентификатор состоит из 12\n ...",
+            "view_url": "www.sf-express.com/ru/ru/dynamic.../waybill/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.rospt.ru/trek&sa=U&ved=0ahUKEwimqPLYro_XAhUkP5oKHRyhBCkQFghMMAk&usg=AOvVaw0JTBwbSlMgnb85jBuRIjL0",
+            "title": "Отслеживание почтовых отправлений почты России по трек ...",
+            "snippet": "В отчете Вы получите данные о прохождении почтового отправления по \nотделениям почты России. Перейдя на страницу нужного отделения - можно\n ...",
+            "view_url": "www.rospt.ru/trek"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "file": "../google/golden/47.html",
+    "components": [
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://www.skyscanner.ru/&sa=U&ved=0ahUKEwjzmO3Dpo_XAhUF5xoKHUmbCUIQFgg6MAA&usg=AOvVaw2vVLg3BgeYmiRaopWoAMAH",
+            "title": "Дешевые авиабилеты онлайн: поиск и сравнение цен на билеты ...",
+            "snippet": "Скайсканер – бесплатный поисковик дешевых авиабилетов онлайн. \nСравните тысячи рейсов и выбирайте самое выгодное предложение.",
+            "view_url": "https://www.skyscanner.ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://www.aviasales.ru/&sa=U&ved=0ahUKEwjzmO3Dpo_XAhUF5xoKHUmbCUIQFghEMAE&usg=AOvVaw3dIvnMr2DL0uZoPZGZjbVT",
+            "title": "Дешевые авиабилеты онлайн, цены. Поиск билетов на самолет ...",
+            "snippet": "Aviasales.ru помогает найти и купить самые дешевые авиабилеты. Поиск \nбилетов на самолет по 728 авиакомпаниям, ведущим авиакассам и лучшие ...",
+            "view_url": "https://www.aviasales.ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://www.momondo.ru/&sa=U&ved=0ahUKEwjzmO3Dpo_XAhUF5xoKHUmbCUIQFghPMAI&usg=AOvVaw0R_fkhaS7MlAnkMaXF9h_J",
+            "title": "Дешевые авиабилеты: поиск и сравнение цен | momondo",
+            "snippet": "Поиск авиабилетов онлайн ✈ найдите лучшие цены на билеты на самолет и \nсамые актуальные спецпредложения от авиакомпаний на momondo.",
+            "view_url": "https://www.momondo.ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://www.ozon.travel/flight/&sa=U&ved=0ahUKEwjzmO3Dpo_XAhUF5xoKHUmbCUIQFghUMAM&usg=AOvVaw1UCxe2mgB2PU3aKi1yRjWp",
+            "title": "Дешевые авиабилеты онлайн на OZON.travel",
+            "snippet": "Покупка авиабилетов. Продажа билетов на самолет онлайн. Забронировать \nи купить авиа билеты круглосуточно.",
+            "view_url": "https://www.ozon.travel/flight/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://avia.tutu.ru/2read/cheap_tickets/cheap_avia/&sa=U&ved=0ahUKEwjzmO3Dpo_XAhUF5xoKHUmbCUIQFghZMAQ&usg=AOvVaw1vLuP2KAuO_rc_D3fYlGOU",
+            "title": "Дешевые авиабилеты - Туту.ру",
+            "snippet": "Есть несколько простых способов найти дешевые авиабилеты. Первый \nспособ — покупать билеты туда-обратно у одной и той же авиакомпании.",
+            "view_url": "https://avia.tutu.ru/2read/cheap_tickets/cheap_avia/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://avia.yandex.ru/&sa=U&ved=0ahUKEwjzmO3Dpo_XAhUF5xoKHUmbCUIQFgheMAU&usg=AOvVaw3Jc3r6lzIb7hG-ysor7PJN",
+            "title": "Яндекс.Авиабилеты: поиск и покупка дешевых авиабилетов",
+            "snippet": "Быстрый и удобный поиск билетов на самолет. Яндекс.Авиабилеты помогут \nнайти нужные рейсы из аэропортов России и мира, сравнить цены, ...",
+            "view_url": "https://avia.yandex.ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://avia.tripmydream.com/&sa=U&ved=0ahUKEwjzmO3Dpo_XAhUF5xoKHUmbCUIQFghkMAY&usg=AOvVaw13QZua_qtLAc30wXBfKHRI",
+            "title": "Дешевые авиабилеты: купить билет на самолет онлайн ...",
+            "snippet": "Самые дешевые авиабилеты онлайн: поиск лучших перелетов, сравнение \nцены. Купить билет на самолет недорого вместе с сайтом-агрегатором ...",
+            "view_url": "https://avia.tripmydream.com/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://www.airlines-inform.ru/ticket/&sa=U&ved=0ahUKEwjzmO3Dpo_XAhUF5xoKHUmbCUIQFghqMAc&usg=AOvVaw2CMv_li4u-659BdgPuT8MB",
+            "title": "Самые дешевые авиабилеты - поиск дешевых авиабилетов по ...",
+            "snippet": "Самые дешевые авиабилеты - поиск всем авиакомпаниям мира. Сравнение \nцен: более 800 перевозчиков и 100 агентств по продаже авиабилетов по ...",
+            "view_url": "https://www.airlines-inform.ru/ticket/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://ru.ctrip.com/flights/&sa=U&ved=0ahUKEwjzmO3Dpo_XAhUF5xoKHUmbCUIQFghvMAg&usg=AOvVaw3sal2Y7zr5_ECmtj4vVfl6",
+            "title": "Дешевые авиабилеты, авиабилеты и авиабилеты с 55% скидкой ...",
+            "snippet": "Получить дешевые рейсы! Поиск авиабилетов, иЗабронируйте с Ctrip \nсэкономить до 55% на стоимости авиабилетов. Просмотрите расписание \nрейсов ...",
+            "view_url": "ru.ctrip.com/flights/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://www.svyaznoy.travel/&sa=U&ved=0ahUKEwjzmO3Dpo_XAhUF5xoKHUmbCUIQFgh1MAk&usg=AOvVaw30TfpV4V7tN_wiO3luqh9D",
+            "title": "Связной Трэвел: Авиабилеты онлайн. Купить дешевые билеты ...",
+            "snippet": "Онлайн-сервис для выгодного бронирования авиабилетов. Связной.Travel \nпредлагает купить билеты на самолет в любую точку мира по хорошей цене\n ...",
+            "view_url": "https://www.svyaznoy.travel/"
+        }
+    ]
+}

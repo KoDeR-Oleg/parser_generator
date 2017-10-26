@@ -1,0 +1,69 @@
+{
+    "file": "../google/golden/0.html",
+    "components": [
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://online.sberbank.ru/&sa=U&ved=0ahUKEwiQvYfTro_XAhVlEpoKHd1PBEgQFggVMAA&usg=AOvVaw2sdWRn_cJX-BTRNL0kVc4-",
+            "title": "Сбербанк Онлайн",
+            "snippet": "Если вас просят ввести пароль входа в Сбербанк Онлайн для отмены или \nаннулирования операции, не делайте этого. Это мошенники ...",
+            "view_url": "https://online.sberbank.ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://www.sberbank.ru/ru/person/dist_services/inner_sbol&sa=U&ved=0ahUKEwiQvYfTro_XAhVlEpoKHd1PBEgQFggoMAU&usg=AOvVaw2qynQt3Y6bEczIXSfjwDHu",
+            "title": "Сбербанк Онлайн - Sberbank.ru",
+            "snippet": "Не обязательно идти в отделение банка, для перевода средств и оплаты \nуслуг. Любые платежи можно просто и выгодно перевести через Сбербанк ...",
+            "view_url": "https://www.sberbank.ru/ru/person/dist.../inner_sbol"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://www.sberbank.ru/ru/person/dist_services&sa=U&ved=0ahUKEwiQvYfTro_XAhVlEpoKHd1PBEgQFgguMAY&usg=AOvVaw2egwAfvB62mmOFwgMSqZ6h",
+            "title": "«Сбербанк» - Онлайн-услуги - Sberbank.ru",
+            "snippet": "Сбербанк Онлайн. Совершайте множество банковских операций, используя \nкомпьютер и доступ в Интернет. Войти.  ...",
+            "view_url": "https://www.sberbank.ru/ru/person/dist_services"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://sbi.sberbank.ru:9443/ic&sa=U&ved=0ahUKEwiQvYfTro_XAhVlEpoKHd1PBEgQFggzMAc&usg=AOvVaw1UOqyGAa0ueFE8TN-MCw1T",
+            "title": "Сбербанк Бизнес Онлайн - Sberbank Business Online Интернет ...",
+            "snippet": "Информируем Вас о том, что в последнее время участились случаи \nмошеннических рассылок от имени Сбербанка. Схема мошенничества \nвыглядят ...",
+            "view_url": "https://sbi.sberbank.ru:9443/ic"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.sberbank.ru/ru/person/dist_services/inner_apps&sa=U&ved=0ahUKEwiQvYfTro_XAhVlEpoKHd1PBEgQFgg5MAg&usg=AOvVaw1dJFGzt0UQ0bFvKdBGmuiw",
+            "title": "«Сбербанк» - Мобильное приложение - Sberbank.ru",
+            "snippet": "Приложение для Android. Приложение для Windows Phone. 1. Установите \nприложение Сбербанк Онлайн на ваше устройство (iPhone, iPad, Android, ...",
+            "view_url": "www.sberbank.ru/ru/person/dist_services/inner_apps"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://play.google.com/store/apps/details%3Fid%3Dru.sberbankmobile%26hl%3Dru&sa=U&ved=0ahUKEwiQvYfTro_XAhVlEpoKHd1PBEgQFgg-MAk&usg=AOvVaw0mhiKa8JnvVJCcUuH4Gk3n",
+            "title": "Приложения в Google Play – Сбербанк Онлайн",
+            "snippet": "Вы просили, ждали, надеялись, и мы сделали это. Встречайте новый \nСбербанк Онлайн для Android - самое безопасное банковское приложение в \nмире, ...",
+            "view_url": "https://play.google.com/.../details?id...sberbankmobile..."
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://itunes.apple.com/ru/app/%25D1%2581%25D0%25B1%25D0%25B5%25D1%2580%25D0%25B1%25D0%25B0%25D0%25BD%25D0%25BA-%25D0%25BE%25D0%25BD%25D0%25BB%25D0%25B0%25D0%25B9%25D0%25BD/id492224193%3Fmt%3D8&sa=U&ved=0ahUKEwiQvYfTro_XAhVlEpoKHd1PBEgQFghFMAo&usg=AOvVaw1PfoSXrNEsxCAe0LIRYVR6",
+            "title": "Сбербанк Онлайн в App Store - iTunes - Apple",
+            "snippet": "5 дн. назад ... Банк в вашем кармане еще никогда не был таким удобным. - Держите под \nконтролем баланс и движение средств по всем вашим ...",
+            "view_url": "https://itunes.apple.com/.../сбербанк-онлайн/id492224193?..."
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://www.sravni.ru/banki/info/sberbank-onlajn/&sa=U&ved=0ahUKEwiQvYfTro_XAhVlEpoKHd1PBEgQFghMMAs&usg=AOvVaw07_o6f6MeB_bqPTnoWqvRO",
+            "title": "Сбербанк Онлайн - Сравни.ру",
+            "snippet": "Сбербанк Онлайн (Сбербанк ОнЛ@йн) – это система дистанционного \nобслуживания клиентов, позволяющая получать многие банковские услуги с ...",
+            "view_url": "https://www.sravni.ru/banki/info/sberbank-onlajn/"
+        }
+    ]
+}

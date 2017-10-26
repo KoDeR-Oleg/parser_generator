@@ -1,0 +1,61 @@
+{
+    "file": "../google/golden/3.html",
+    "components": [
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://m.ok.ru/&sa=U&ved=0ahUKEwiTt5DUro_XAhVmApoKHeTsDn4QFggVMAA&usg=AOvVaw3L9xIkdzhB3kS-LXOkXT8t",
+            "title": "Добро пожаловать в Одноклассники!",
+            "snippet": "Развлекательная социальная сеть – общение с друзьями, фото и видео, \nфильмы и сериалы, музыка, игры, группы по интересам.",
+            "view_url": "https://m.ok.ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.odnoklassniki.ru/mobilepromo%3Fst.cmd%3DmobilePromo&sa=U&ved=0ahUKEwiTt5DUro_XAhVmApoKHeTsDn4QFggpMAc&usg=AOvVaw2uGo320olAGNkmTVeziyt7",
+            "title": "Одноклассники в вашем мобильном m.ok.ru",
+            "snippet": "",
+            "view_url": "www.odnoklassniki.ru/mobilepromo?st.cmd=mobilePromo"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://pctip.ru/%3Fvoprosy_pro_odnoklassniki/kak_vklyuchitb_polnuyu_versiyu_saita_odnoklassniki&sa=U&ved=0ahUKEwiTt5DUro_XAhVmApoKHeTsDn4QFgguMAg&usg=AOvVaw2kwegSs7qbEwpf2zV1EiZH",
+            "title": "Как переключиться на полную версию сайта одноклассники и ...",
+            "snippet": "В этой статье описан самый простой способ переключения с мобильной \nверсии сайта одноклассники на полную.",
+            "view_url": "pctip.ru/?voprosy...odnoklassniki/...odnoklassniki"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://odnoklassnikihelp.com/odnoklassniki-mobilnaya-versiya-moya-stranica/&sa=U&ved=0ahUKEwiTt5DUro_XAhVmApoKHeTsDn4QFgg0MAk&usg=AOvVaw3RtpHkKaBMTuqUSGdkLq28",
+            "title": "Одноклассники мобильная версия - Все об Одноклассники",
+            "snippet": "Одноклассники не стали исключением: сначала была предложена \nмобильная версия сайта, затем появилось фирменное приложение, которое \nможно ...",
+            "view_url": "odnoklassnikihelp.com/odnoklassniki-mobilnaya-versiya-moya-stranica/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://play.google.com/store/apps/details%3Fid%3Dru.ok.android%26hl%3Dru&sa=U&ved=0ahUKEwiTt5DUro_XAhVmApoKHeTsDn4QFgg5MAo&usg=AOvVaw1fQ0QW4rroB17CCdVwQGyK",
+            "title": "Приложения в Google Play – Одноклассники",
+            "snippet": "Это место, где каждый найдет для себя что-нибудь интересное и \nувлекательное. С помощью приложения Одноклассники можно: – всегда \nоставаться ...",
+            "view_url": "https://play.google.com/store/apps/details?id=ru..."
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://itunes.apple.com/ru/app/%25D0%25BE%25D0%25B4%25D0%25BD%25D0%25BE%25D0%25BA%25D0%25BB%25D0%25B0%25D1%2581%25D1%2581%25D0%25BD%25D0%25B8%25D0%25BA%25D0%25B8/id398465290%3Fmt%3D8&sa=U&ved=0ahUKEwiTt5DUro_XAhVmApoKHeTsDn4QFghAMAs&usg=AOvVaw0YB-WYIuny8UmRhzeCDepK",
+            "title": "Одноклассники в App Store - iTunes - Apple",
+            "snippet": "3 дн. назад ... Одноклассники – крупнейшая развлекательная социальная сеть в России. \nЭто место, где каждый найдет для себя что-нибудь ...",
+            "view_url": "https://itunes.apple.com/.../одноклассники/id398465290?..."
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://vhodvseti.com/odnoklassniki-mobil.php&sa=U&ved=0ahUKEwiTt5DUro_XAhVmApoKHeTsDn4QFghHMAw&usg=AOvVaw2DyQHcHrvti7CTgK2-EkW6",
+            "title": "Мобильные Одноклассники - вход на мобильную версию m.ok.ru",
+            "snippet": "Мобильные Одноклассники вход на сайт. Мобильные Одноклассники или \nмобильная версия обычных Одноклассников, если правильная говорить, ...",
+            "view_url": "vhodvseti.com/odnoklassniki-mobil.php"
+        }
+    ]
+}
