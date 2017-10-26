@@ -6,7 +6,8 @@ from parser_result import ParserResult, Component
 class IdealParser(Parser):
     def get_from_page(self, tree, full_path):
         tag = tree.xpath(full_path.xpath)[0]
-        if full_path.attr == "href" or full_path.attr == "title" or full_path.attr == "style":
+        attrs = ["href", "title", "style", "src"]
+        if full_path.attr in attrs:
             if full_path.attr == "style":
                 return tag.get("style").split("//")[1][:-2]
             return tag.get(full_path.attr)
