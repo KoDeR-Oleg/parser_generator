@@ -22,4 +22,4 @@ class Parser(object):
         pass
 
     def parse(self, file_name):
-        return self.extract_markup(file_name).get_substitution()
+        pass

@@ -1,5 +1,6 @@
 import unittest
 from google_parser import GoogleParser
+from ideal_parser import IdealParser
 from parser_result import Component
 from markup import MarkupSearchResult, FullPath
 
@@ -42,8 +43,9 @@ class TestGoogleParser(unittest.TestCase):
 
     def test_fields_of_first_result_search_on_page1(self):
         parser = GoogleParser()
+        ideal = IdealParser()
         markup = parser.extract_markup("../google/2/1.html")
-        search_result = markup.get_substitution(0)
+        search_result = ideal.get_substitution(markup, 0)
         self.assertEqual(search_result.type, "SEARCH_RESULT")
         self.assertEqual(search_result.alignment, "LEFT")
         self.assertEqual(search_result.page_url, "https://ru.wikipedia.org/wiki/%D0%AF%D0%B4")
@@ -53,8 +55,9 @@ class TestGoogleParser(unittest.TestCase):
 
     def test_fields_of_result_search_with_video_on_page1(self):
         parser = GoogleParser()
+        ideal = IdealParser()
         markup = parser.extract_markup("../google/2/1.html")
-        search_result = markup.get_substitution(7)
+        search_result = ideal.get_substitution(markup, 7)
         self.assertEqual(search_result.type, "SEARCH_RESULT")
         self.assertEqual(search_result.alignment, "LEFT")
         self.assertEqual(search_result.page_url, "https://russia.tv/video/show/brand_id/62142/episode_id/1546175/video_id/1677534/")
@@ -64,8 +67,9 @@ class TestGoogleParser(unittest.TestCase):
 
     def test_fields_of_last_result_search_on_page1(self):
         parser = GoogleParser()
+        ideal = IdealParser()
         markup = parser.extract_markup("../google/2/1.html")
-        search_result = markup.get_substitution(9)
+        search_result = ideal.get_substitution(markup, 9)
         self.assertEqual(search_result.type, "SEARCH_RESULT")
         self.assertEqual(search_result.alignment, "LEFT")
         self.assertEqual(search_result.page_url, "https://vk.com/jaxta")
@@ -75,8 +79,9 @@ class TestGoogleParser(unittest.TestCase):
 
     def test_fields_of_first_result_search_on_page2(self):
         parser = GoogleParser()
+        ideal = IdealParser()
         markup = parser.extract_markup("../google/2/2.html")
-        search_result = markup.get_substitution(0)
+        search_result = ideal.get_substitution(markup, 0)
         self.assertEqual(search_result.type, "SEARCH_RESULT")
         self.assertEqual(search_result.alignment, "LEFT")
         self.assertEqual(search_result.page_url, "http://karandash-production.ru/")
@@ -86,8 +91,9 @@ class TestGoogleParser(unittest.TestCase):
 
     def test_fields_of_result_search_with_video_on_page2(self):
         parser = GoogleParser()
+        ideal = IdealParser()
         markup = parser.extract_markup("../google/2/2.html")
-        search_result = markup.get_substitution(9)
+        search_result = ideal.get_substitution(markup, 9)
         self.assertEqual(search_result.type, "SEARCH_RESULT")
         self.assertEqual(search_result.alignment, "LEFT")
         self.assertEqual(search_result.page_url, "https://www.youtube.com/watch?v=AUUBSKXLKtU")
@@ -107,28 +113,33 @@ class TestGoogleParser(unittest.TestCase):
 
     def test_title_of_wizard_image_on_page1(self):
         parser = GoogleParser()
+        ideal = IdealParser()
         markup = parser.extract_markup("../google/2/1.html")
-        self.assertEqual(markup.get_substitution(3).title, "Картинки по запросу яд")
+        self.assertEqual(ideal.get_substitution(markup, 3).title, "Картинки по запросу яд")
 
     def test_title_of_wizard_image_on_page2(self):
         parser = GoogleParser()
+        ideal = IdealParser()
         markup = parser.extract_markup("../google/2/2.html")
-        self.assertEqual(markup.get_substitution(5).title, "Картинки по запросу карандаш")
+        self.assertEqual(ideal.get_substitution(markup, 5).title, "Картинки по запросу карандаш")
 
     def test_page_url_of_wizard_image_on_page1(self):
         parser = GoogleParser()
+        ideal = IdealParser()
         markup = parser.extract_markup("../google/2/1.html")
-        self.assertEqual(markup.get_substitution(3).page_url, "https://www.google.ru/search?q=%D1%8F%D0%B4&newwindow=1&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwj62dOj8tvWAhWmFJoKHVGvDzoQsAQIQw")
+        self.assertEqual(ideal.get_substitution(markup, 3).page_url, "https://www.google.ru/search?q=%D1%8F%D0%B4&newwindow=1&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwj62dOj8tvWAhWmFJoKHVGvDzoQsAQIQw")
 
     def test_page_url_of_wizard_image_on_page2(self):
         parser = GoogleParser()
+        ideal = IdealParser()
         markup = parser.extract_markup("../google/2/2.html")
-        self.assertEqual(markup.get_substitution(5).page_url, "https://www.google.ru/search?q=%D0%BA%D0%B0%D1%80%D0%B0%D0%BD%D0%B4%D0%B0%D1%88&newwindow=1&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwic0a6D9tvWAhWJDpoKHUJRDREQsAQIUg")
+        self.assertEqual(ideal.get_substitution(markup, 5).page_url, "https://www.google.ru/search?q=%D0%BA%D0%B0%D1%80%D0%B0%D0%BD%D0%B4%D0%B0%D1%88&newwindow=1&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwic0a6D9tvWAhWJDpoKHUJRDREQsAQIUg")
 
     def test_media_links_on_page1(self):
         parser = GoogleParser()
+        ideal = IdealParser()
         markup = parser.extract_markup("../google/2/1.html")
-        media_links = markup.get_substitution(3).media_links
+        media_links = ideal.get_substitution(markup, 3).media_links
         self.assertEqual(media_links[0], "http://www.i-sonnik.ru/yad/")
         self.assertEqual(media_links[1], "http://lfly.ru/sonnik-yad-k-chemu-snitsya-yad.html")
         self.assertEqual(media_links[2], "http://ohrana.ru/articles/37425/")
@@ -137,8 +148,9 @@ class TestGoogleParser(unittest.TestCase):
 
     def test_media_links_on_page2(self):
         parser = GoogleParser()
+        ideal = IdealParser()
         markup = parser.extract_markup("../google/2/2.html")
-        media_links = markup.get_substitution(5).media_links
+        media_links = ideal.get_substitution(markup, 5).media_links
         self.assertEqual(media_links[0], "http://www.lesyadraw.ru/raznye/predmety/kak-narisovat-karandash-na-bumage-poetapno.html")
         self.assertEqual(media_links[1], "http://i-fakt.ru/interesnye-fakty-o-karandashe/")
         self.assertEqual(media_links[2], "https://wordassociations.net/ru/%D0%B0%D1%81%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D1%86%D0%B8%D0%B8-%D0%BA-%D1%81%D0%BB%D0%BE%D0%B2%D1%83/%D0%9A%D0%B0%D1%80%D0%B0%D0%BD%D0%B4%D0%B0%D1%88")
@@ -148,16 +160,18 @@ class TestGoogleParser(unittest.TestCase):
 
     def test_regress_on_page1(self):
         parser = GoogleParser()
+        ideal = IdealParser()
         markup = parser.extract_markup("../google/2/1.html")
-        search_result = markup.get_substitution()
+        search_result = ideal.get_substitution(markup)
         with open("../google/2/1.json", "r") as file:
             expected_string = file.read()
         self.assertEqual(str(search_result), expected_string)
 
     def test_regress_on_page2(self):
         parser = GoogleParser()
+        ideal = IdealParser()
         markup = parser.extract_markup("../google/2/2.html")
-        search_result = markup.get_substitution()
+        search_result = ideal.get_substitution(markup)
         with open("../google/2/2.json", "r") as file:
             expected_string = file.read()
         self.assertEqual(str(search_result), expected_string)

@@ -1,5 +1,6 @@
 from lxml import html
 from markup import MarkupSearchResult, FullPath, MarkupWizardImage, Markup
+from ideal_parser import IdealParser
 
 
 def get_index(parent, tag):
@@ -139,4 +140,6 @@ def parse_page(file_name, markup_list):
         elif len(block.xpath("." + wizard_xpath)) > 0:
             result = parse_wizard_image(block, block_xpath, sample_wizard)
             result_markup.add(result)
-    return result_markup.get_substitution()
+
+    ideal = IdealParser()
+    return ideal.get_substitution(result_markup)
