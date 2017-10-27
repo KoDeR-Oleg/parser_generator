@@ -43,7 +43,7 @@ class PrimitiveAlgorithm(Algorithm):
 
     def combine_xpath(self, extract_list):
         xpath = ""
-        if extract_list[0][0] == "html":
+        if len(extract_list) > 0 and extract_list[0][0] == "html":
             xpath = "/"
         for item in extract_list:
             xpath += "/" + item[0]
