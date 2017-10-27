@@ -6,7 +6,10 @@ import json
 
 class IdealParser(Parser):
     def get_from_page(self, tree, full_path):
-        tag = tree.xpath(full_path.xpath)[0]
+        tag = tree.xpath(full_path.xpath)
+        if len(tag) == 0:
+            return ""
+        tag = tag[0]
         attrs = ["href", "title", "style", "src"]
         if full_path.attr in attrs:
             if full_path.attr == "style":
