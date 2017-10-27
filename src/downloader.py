@@ -68,3 +68,6 @@ for i in range(len(request_list)):
     parser = GoogleParser_v2()
     with open(file_name + ".json", "w") as file:
         file.write(str(parser.parse(file_name + ".html")))
+    with open(file_name + "_markup.json", "w") as file:
+        file.write(str(parser.extract_markup(file_name + ".html")))
+
