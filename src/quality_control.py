@@ -8,7 +8,7 @@ class QualityControl(object):
         self.metric = metric
         self.aggregator = aggregator
 
-    def cv(self, algorithm, n_iter=50):
+    def cv(self, algorithm, n_iter=10):
         N = 50
         nums = np.arange(0, N, dtype=np.int)
         total = 0
@@ -27,9 +27,9 @@ class QualityControl(object):
             dist = list()
             for i in range(test_nums.shape[0]):
                 parser_result = algorithm.parse("../google/golden/" + str(test_nums[i]) + ".html")
-                ideal_result = ideal_parser.parse("../google/golden/" + str(test_nums[i]) + ".html")
+                ideal_result = ideal_parser.parse("../google/golden/" + str(test_nums[i]) + ".json")
                 dist.append(self.metric.distance(parser_result, ideal_result))
-            total += self.aggregator(dist)
+            total += self.aggregator.aggregate(dist)
 
         return total / n_iter
 
