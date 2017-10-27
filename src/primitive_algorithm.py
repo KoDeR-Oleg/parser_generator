@@ -113,6 +113,8 @@ class PrimitiveAlgorithm(Algorithm):
             for component in markup.components:
                 self.block_xpath = self.great_common_prefix(self.block_xpath, self.extract_xpath(component.title.xpath))
                 if component.type == "SEARCH_RESULT":
+                    self.block_xpath = self.great_common_prefix(self.block_xpath,
+                                                                self.extract_xpath(component.snippet.xpath))
                     if self.document_xpath == []:
                         self.document_xpath = self.extract_xpath(component.title.xpath)
                         self.sample_document = component
