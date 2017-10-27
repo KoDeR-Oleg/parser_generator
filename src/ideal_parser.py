@@ -1,6 +1,7 @@
 from lxml import html
 from parser import Parser
 from parser_result import ParserResult, Component
+from markup import Markup, MarkupSearchResult, MarkupWizardImage, FullPath
 import json
 
 
@@ -20,6 +21,13 @@ class IdealParser(Parser):
             text += i
         return text
 
+    def extract_document(self, document):
+        result = MarkupSearchResult()
+        result.type = document['type']
+        result.snippet = FullPath(**document['snippet'])
+        result.view_url = FullPath(**document['view_url'])
+        return result
+
     def parse_document(self, document, result):
         result.type = document['type']
         result.snippet = document['snippet']
@@ -31,6 +39,15 @@ class IdealParser(Parser):
         subst.snippet = self.get_from_page(tree, document.snippet)
         subst.view_url = self.get_from_page(tree, document.view_url)
         return subst
+
+    def extract_wizard(self, wizard):
+        result = MarkupWizardImage()
+        result.type = wizard['type']
+        result.wizard_type = wizard['wizard_type']
+        result.media_links = list()
+        for img in wizard['media_links']:
+            result.media_links.append(FullPath(**img))
+        return result
 
     def parse_wizard(self, wizard, result):
         result.type = wizard['type']
@@ -47,6 +64,18 @@ class IdealParser(Parser):
         for img in wizard.media_links:
             subst.media_links.append(self.get_from_page(tree, img))
         return subst
+
+    def extract_markup_component(self, component):
+        result = None
+        if component['type'] == "SEARCH_RESULT":
+            result = self.extract_document(component)
+        if component['type'] == "WIZARD":
+            result = self.extract_wizard(component)
+        result.type = component['type']
+        result.alignment = component['alignment']
+        result.page_url = FullPath(**component['page_url'])
+        result.title = FullPath(**component['title'])
+        return result
 
     def parse_component(self, component):
         result = Component()
@@ -92,3 +121,12 @@ class IdealParser(Parser):
         for component in js['components']:
             parser_result.add(self.parse_component(component))
         return parser_result
+
+    def extract_markup(self, file_name):
+        with open(file_name, "r") as file:
+            js = json.load(file)
+        markup = Markup()
+        markup.file = js['file']
+        for component in js['components']:
+            markup.add(self.extract_markup_component(component))
+        return markup
