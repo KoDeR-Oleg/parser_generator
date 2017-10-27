@@ -2,10 +2,10 @@ from metric import Metric
 
 
 class LevensteinMetric(Metric):
-    def __init__(self):
-        self.add_cost = 1
-        self.del_cost = 1
-        self.change_cost = 1
+    def __init__(self, add=1, delete=1, change=1):
+        self.add_cost = add
+        self.del_cost = delete
+        self.change_cost = change
 
     def get_strings(self, pr1, pr2):
         cnt = len(pr1.components)
