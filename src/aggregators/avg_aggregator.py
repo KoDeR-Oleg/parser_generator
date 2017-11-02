@@ -1,4 +1,4 @@
-from metric_aggregator import MetricAggregator
+from aggregators.metric_aggregator import MetricAggregator
 
 
 class AvgAggregator(MetricAggregator):
