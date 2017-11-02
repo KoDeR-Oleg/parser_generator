@@ -9,9 +9,6 @@ class LevensteinMetric(Metric):
 
     def distance(self, lst1, lst2):
         n, m = len(lst1), len(lst2)
-        if n > m:
-            lst1, lst2 = lst2, lst1
-            n, m = m, n
 
         current_row = range(n + 1)
         for i in range(1, m + 1):
