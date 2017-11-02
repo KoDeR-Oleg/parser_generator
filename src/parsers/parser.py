@@ -10,4 +10,4 @@ class Parser:
 
     @abstractmethod
     def parse(self, file_name):
-        """Получение ParserResult из строки"""
+        """Получение ParserResult из файла"""
