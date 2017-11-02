@@ -2,6 +2,7 @@ from lxml import html
 
 from markup import MarkupSearchResult, FullPath, Markup, MarkupWizardImage
 from parsers.parser import Parser
+from parsers.ideal_parser import IdealParser
 
 
 class YandexParser(Parser):
@@ -48,9 +49,11 @@ class YandexParser(Parser):
             tree = html.document_fromstring(file.read())
         markup = Markup()
         markup.file = file_name
-        block_list = tree.xpath("//html/body/div[3]/div[1]/div[2]/div[1]/div[1]/ul/li/div")
+        block_list = tree.xpath("//html/body/div[3]/div/div[2]/div/div/ul/li/div")
+        print(block_list)
         for block in block_list:
-            if len(block.xpath("./div[2]/div[2]")) > 0 and block.xpath("./div[2]/div[2]")[0].text == "реклама":
+            if (len(block.xpath("./div[2]/div[2]")) > 0 and block.xpath("./div[2]/div[2]")[0].text == "реклама") or \
+                    (len(block.xpath("./div[1]/div[2]")) > 0 and block.xpath("./div[1]/div[2]")[0].text == "реклама"):
                 continue
             if len(block.xpath("./h2/a")) > 0:
                 result = self.parse_rearch_result(block)
@@ -59,3 +62,7 @@ class YandexParser(Parser):
                 result = self.parse_wizard_image(block)
                 markup.add(result)
         return markup
+
+    def parse(self, file_name):
+        ideal = IdealParser()
+        return ideal.get_substitution(self.extract_markup(file_name))
