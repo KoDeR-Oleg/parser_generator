@@ -1,4 +1,4 @@
-from metric import Metric
+from metrics.metric import Metric
 
 
 class LevensteinMetric(Metric):
@@ -7,21 +7,10 @@ class LevensteinMetric(Metric):
         self.del_cost = delete
         self.change_cost = change
 
-    def get_strings(self, pr1, pr2):
-        cnt = len(pr1.components)
-        string1 = list(range(cnt))
-        string2 = [cnt] * len(pr2.components)
-        for j in range(len(pr2.components)):
-            for i in range(len(pr1.components)):
-                if pr2.components[j] == pr1.components[i]:
-                    string2[j] = string1[i]
-        return string1, string2
-
-    def distance(self, pr1, pr2):
-        str1, str2 = self.get_strings(pr1, pr2)
-        n, m = len(str1), len(str2)
+    def distance(self, lst1, lst2):
+        n, m = len(lst1), len(lst2)
         if n > m:
-            str1, str2 = str2, str1
+            str1, str2 = lst2, lst1
             n, m = m, n
 
         current_row = range(n + 1)
@@ -31,7 +20,7 @@ class LevensteinMetric(Metric):
                 add = previous_row[j] + self.add_cost
                 delete = current_row[j - 1] + self.del_cost
                 change = previous_row[j - 1]
-                if str1[j - 1] != str2[i - 1]:
+                if lst1[j - 1] != lst2[i - 1]:
                     change += self.change_cost
                 current_row[j] = min(add, delete, change)
 
