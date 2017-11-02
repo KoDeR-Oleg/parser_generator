@@ -9,5 +9,5 @@ class Algorithm:
         """Обучение на списке разметок"""
 
     @abstractmethod
-    def parse(self, file_name):
+    def parse(self, string):
         """Парсинг строки"""
