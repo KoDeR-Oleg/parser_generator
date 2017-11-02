@@ -50,7 +50,6 @@ class YandexParser(Parser):
         markup = Markup()
         markup.file = file_name
         block_list = tree.xpath("//html/body/div[3]/div/div[2]/div/div/ul/li/div")
-        print(block_list)
         for block in block_list:
             if (len(block.xpath("./div[2]/div[2]")) > 0 and block.xpath("./div[2]/div[2]")[0].text == "реклама") or \
                     (len(block.xpath("./div[1]/div[2]")) > 0 and block.xpath("./div[1]/div[2]")[0].text == "реклама"):
