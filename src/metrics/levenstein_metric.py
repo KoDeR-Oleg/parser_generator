@@ -10,9 +10,9 @@ class LevensteinMetric(Metric):
     def distance(self, lst1, lst2):
         n, m = len(lst1), len(lst2)
 
-        current_row = range(n + 1)
+        current_row = range(0, (n + 1) * self.del_cost, self.del_cost)
         for i in range(1, m + 1):
-            previous_row, current_row = current_row, [i] + [0] * n
+            previous_row, current_row = current_row, [i * self.add_cost] + [0] * n
             for j in range(1, n + 1):
                 add = previous_row[j] + self.add_cost
                 delete = current_row[j - 1] + self.del_cost
