@@ -1,6 +1,13 @@
-class Algorithm(object):
-    def learn(self, markup_list):
-        return self
+from abc import ABCMeta, abstractmethod
 
+
+class Algorithm:
+    __metaclass__ = ABCMeta
+
+    @abstractmethod
+    def learn(self, markup_list):
+        """Обучение на списке разметок"""
+
+    @abstractmethod
     def parse(self, file_name):
-        return None
+        """Парсинг строки"""
