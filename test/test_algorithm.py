@@ -7,16 +7,6 @@ from parsers.google_parser import GoogleParser
 
 class TestAlgorithm(unittest.TestCase):
 
-    def test_filename_in_markup_page3(self):
-        parser = GoogleParser()
-        markup_list = []
-        markup_list.append(parser.extract_markup("test/google/2/1.html"))
-        markup_list.append(parser.extract_markup("test/google/2/2.html"))
-        primitive_algorithm = PrimitiveAlgorithm().learn(markup_list)
-        analysis = primitive_algorithm.parse("test/google/2/3.html")
-
-        self.assertEqual(analysis.file, "test/google/2/3.html")
-
     def test_count_of_blocks_on_page3(self):
         parser = GoogleParser()
         markup_list = []
