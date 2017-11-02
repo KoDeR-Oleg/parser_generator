@@ -10,7 +10,7 @@ class LevensteinMetric(Metric):
     def distance(self, lst1, lst2):
         n, m = len(lst1), len(lst2)
         if n > m:
-            str1, str2 = lst2, lst1
+            lst1, lst2 = lst2, lst1
             n, m = m, n
 
         current_row = range(n + 1)
