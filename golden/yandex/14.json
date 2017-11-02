@@ -1,0 +1,84 @@
+{
+    "components": [
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://tv.yandex.ru/2",
+            "title": "Программа передач на сегодня в Санкт-Петербурге...",
+            "snippet": "Актуальная программа передач в Санкт-Петербурге на сегодня. Полная ТВ-программа на неделю. Анонсы передач с фото, видео.",
+            "view_url": "https://tv.yandex.ru/2"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://tv.mail.ru/sankt_peterburg/",
+            "title": "Телепрограмма на сегодня и на завтра, программа...",
+            "snippet": "tv.mail.ru›Все каналы",
+            "view_url": ""
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://www.ontvtime.ru/tv",
+            "title": "Сейчас в эфире: телепрограмма на сегодня и на неделю",
+            "snippet": "ontvtime.ru›tv",
+            "view_url": ""
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://www.s-tv.ru/tv/",
+            "title": "Телепрограмма на сегодня",
+            "snippet": "05.00 Телеканал \"Доброе утро\". Инфо 09.00 Новости. 09.15 Контрольная закупка.∗ 09.50 Жить здорово! [12+]∗ 10.55 Модный приговор.∗ Инфо 12.00 Новости...",
+            "view_url": "http://www.s-tv.ru/tv/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://www.Tele.ru/programma/sankt-peterburg/",
+            "title": "ТВ программа в г. Санкт-Петербург. Программа передач...",
+            "snippet": "Смотрите телепрограмму на сегодня и на неделю каналов Первый, Россия, НТВ, ТВ центр, ТНТ, СТС и других каналов. Самая полная ТВ программа.",
+            "view_url": "http://www.Tele.ru/programma/sankt-peterburg/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://tv.rambler.ru/",
+            "title": "Видео-картина дня онлайн — ТВ-программа на...",
+            "snippet": "ТВ-программа на неделю. Анонсы и описания передач.",
+            "view_url": "https://tv.rambler.ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://tv.akado.ru/program/time/",
+            "title": "Телепрограмма на сегодня: ТВ программа по времени",
+            "snippet": "Все Антенна АКАДО Антенна АКАДО (FTA) ТВ-Звёзды ТВ-Звёзды HD ТВ-Звёзды Premium БОКС ТВ Футбол СУПЕР СПОРТ VIASAT ... Магазин на диване Top Shop TV.",
+            "view_url": "http://tv.akado.ru/program/time/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://www.vsetv.com/schedule.html",
+            "title": "ВсёТВ | российский базовый | Телепрограмма",
+            "snippet": "ZIK (на укр.) Zoom Zoom (на укр.) ZooПарк Авто Плюс Авто24 Алекс ТВ Анекдот ТВ Астрахань 24 ББЧ ... \"ОТРажение\". ТВ Центр. программа на неделю: вся. 10.",
+            "view_url": "http://www.vsetv.com/schedule.html"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://www.programma.tv/",
+            "title": "Программа тв передач на все каналы телевидения...",
+            "snippet": "Программа тв передач на все каналы телевидения: Россия, Украина, Беларусь. Телепрограмма на неделю.",
+            "view_url": "http://www.programma.tv/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://interzet.domru.ru/domru-tv/program",
+            "title": "Телепрограмма в Санкт-Петербурге Дом.ru InterZet",
+            "snippet": "ТВ на вашем смартфоне. Смотрите передачи где удобно. ... Телепрограмма. Смотрите полную программу передач.",
+            "view_url": "https://interzet.domru.ru/domru-tv/program"
+        }
+    ]
+}

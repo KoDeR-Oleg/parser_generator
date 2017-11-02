@@ -1,0 +1,84 @@
+{
+    "components": [
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://www.tutu.ru/SPb/",
+            "title": "Расписание электричек Санкт-Петербург 2017.",
+            "snippet": "Изменения в расписании электричек Санкт-Петербурга. 267 изменений в расписании в ближайшие 15 дней.",
+            "view_url": "https://www.tutu.ru/SPb/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://rasp.yandex.ru/city/2",
+            "title": "Санкт-Петербург. Расписание самолётов, поездов...",
+            "snippet": "rasp.yandex.ru›Санкт-Петербург",
+            "view_url": ""
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://sankt-peterburg.elektrichki.net/raspisanie/",
+            "title": "Расписание электричек Санкт-Петербург",
+            "snippet": "В данный момент расписание электричек станции Санкт-Петербург содержит 676 электропоездов(пригородных поездов)...",
+            "view_url": "http://sankt-peterburg.elektrichki.net/raspisanie/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://raspisanie24.com/elektrichki/sankt-peterburg/",
+            "title": "Расписание электричек Санкт-Петербург",
+            "snippet": "Расписание электричек по станции Санкт-Петербург, время прибытия и отправления электричек со станции.",
+            "view_url": "http://raspisanie24.com/elektrichki/sankt-peterburg/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://www.TransportSpb.com/trains/",
+            "title": "Расписание электричек Санкт-Петербурга 2017...",
+            "snippet": "Расписание электричек Санкт-Петербурга 2017. Электрички. Поезда. Поиск электричек по направлениям.",
+            "view_url": "http://www.TransportSpb.com/trains/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://xn--80aapkb3algkc.xn--p1ai/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%BA%D0%B0/78/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3",
+            "title": "Расписание электричек из Санкт-Петербурга",
+            "snippet": "Эта страница позволит вам узнать расписание электричек (пригородных поездов), отправляющихся из Санкт-Петербурга и прибывающих в Санкт-Петербург...",
+            "view_url": "http://xn--80aapkb3algkc.xn--p1ai/%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%BA%D0%B0/78/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://rasp.yandex.kz/station/9602497?type=suburban",
+            "title": "Расписание электричек: Санкт-Петербург (Финляндский...",
+            "snippet": "Расписание электричек (пригородных поездов) по станции Финляндский вокзал — график 2017 г. с учётом плановых оперативных изменений .",
+            "view_url": "https://rasp.yandex.kz/station/9602497?type=suburban"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://rasp.yandex.ua/station/9602494?type=suburban&lang=ru",
+            "title": "Расписание электричек: Санкт-Петербург (Московский...)",
+            "snippet": "Расписание электричек (пригородных поездов) по станции Московский вокзал — график 2017 г. с учётом плановых оперативных изменений .",
+            "view_url": "https://rasp.yandex.ua/station/9602494?type=suburban&lang=ru"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://rozklad.spb.ru/elektrichki",
+            "title": "Расписание электричек в Санкт-Петербурге...",
+            "snippet": "Про пригородные электрички в Санкт-Петербурге. Балтийский вокзал. ... Расписание рейсов. Рейс. Время прибытия.",
+            "view_url": "https://rozklad.spb.ru/elektrichki"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://www.poletim-poedem.ru/elekrichki/st-peterburg/439-finskiy-railway",
+            "title": "ФИНЛЯНДСКИЙ | Расписание электричек",
+            "snippet": "Возможны отмены электричек и изменение времени отправления. ... Расписание электричек. электричка Санкт-Петербург - Выборг.",
+            "view_url": "http://www.poletim-poedem.ru/elekrichki/st-peterburg/439-finskiy-railway"
+        }
+    ]
+}

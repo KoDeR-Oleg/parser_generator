@@ -1,0 +1,84 @@
+{
+    "components": [
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://market.yandex.ru/?clid=703",
+            "title": "Яндекс.Маркет — выбор товаров и места их покупки",
+            "snippet": "Поиск товаров в интернет- и офлайн-магазинах, сравнение цен и характеристик. Рейтинг магазинов. Отзывы покупателей. Возможность покупки некоторых товаров через сервис.",
+            "view_url": "https://market.yandex.ru/?clid=703"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://yandex.ru/support/partnermarket",
+            "title": "Яндекс.Маркет для магазинов",
+            "snippet": "yandex.ru›support/partnermarket",
+            "view_url": ""
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://ru.wikipedia.org/wiki/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D1%82",
+            "title": "Яндекс.Маркет — Википедия",
+            "snippet": "Яндекс.Маркет — сервис, помогающий делать покупки в интернете. Интернет-магазины предлагают на \"Маркете\" товары...",
+            "view_url": "https://ru.wikipedia.org/wiki/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D1%82"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://vk.com/yandex.market",
+            "title": "Яндекс.Маркет — ВКонтакте",
+            "snippet": "Перейдите на страницу пользователя, чтобы посмотреть публикации или отправить сообщение.",
+            "view_url": "https://vk.com/yandex.market"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://irecommend.ru/content/yandeks-market",
+            "title": "Яндекс Маркет | Отзывы покупателей",
+            "snippet": "Яндекс.Маркет поначалу был чуть ли не единственной площадкой, где можно без проблем найти нужный товар с определенными характеристиками...",
+            "view_url": "http://irecommend.ru/content/yandeks-market"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://www.facebook.com/yandex.market/",
+            "title": "Яндекс.Маркет - Главная | Facebook",
+            "snippet": "Официальное сообщество Яндекс.Маркет в Facebook. Новости, полезные советы, ответы на ваши вопросы.",
+            "view_url": "https://www.facebook.com/yandex.market/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://dic.academic.ru/dic.nsf/ruwiki/1185314",
+            "title": "Яндекс.Маркет - это... Что такое Яндекс.Маркет?",
+            "snippet": "В феврале 2009 года сервис «Яндекс.Маркет» прирос услугой «История посещений магазинов».",
+            "view_url": "https://dic.academic.ru/dic.nsf/ruwiki/1185314"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://www.youtube.com/channel/UCi6nhZ53_CzR2THquBWolfQ",
+            "title": "Яндекс.Маркет для бизнеса - YouTube",
+            "snippet": "Добро пожаловать! Это официальный канал Яндекс.Маркета для магазинов. Здесь мы с удовольствием делимся полезным видеоконтентом по Яндекс.Маркету...",
+            "view_url": "https://www.youtube.com/channel/UCi6nhZ53_CzR2THquBWolfQ"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://partner.market.yandex.ru/",
+            "title": "Яндекс.Маркет — регистрация нового магазина",
+            "snippet": "Форма для регистрации офлайн- и интернет-магазинов на сервисе. Подсказки по заполнению анкеты. Помощь.",
+            "view_url": "http://partner.market.yandex.ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://play.google.com/store/apps/details?id=ru.yandex.market",
+            "title": "Яндекс.Маркет — мобильное приложение",
+            "snippet": "Путеводитель по товарам: информация о ценах, скидках, магазинах. Заказ товара посредством звонка, из приложения или на сайте интернет-магазина.",
+            "view_url": "https://play.google.com/store/apps/details?id=ru.yandex.market"
+        }
+    ]
+}

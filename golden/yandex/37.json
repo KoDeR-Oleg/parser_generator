@@ -1,0 +1,84 @@
+{
+    "components": [
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://loveplanet.ru/",
+            "title": "«Love planet» — сайт знакомств",
+            "snippet": "Знакомства в России и за рубежом для переписки, поиска друзей, серьезных отношений и создания семьи.",
+            "view_url": "https://loveplanet.ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://www.mamba.ru/",
+            "title": "«Мамба» — бесплатный сайт знакомств",
+            "snippet": "mamba.ru",
+            "view_url": ""
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://MyLove.ru/",
+            "title": "«MyLove.ru» — сайт знакомств",
+            "snippet": "MyLove.ru",
+            "view_url": ""
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://www.24open.ru/",
+            "title": "«24open.ru» — сайт знакомств",
+            "snippet": "Знакомства без обязательной регистрации для дружбы, флирта, серьёзных отношений. Поиск анкет, рейтинг фотографий девушек и юношей, блоги, игры и др. сервисы.",
+            "view_url": "http://www.24open.ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://dating.ru/",
+            "title": "Датинг ру — сайт знакомств, объединяющий сквозь...",
+            "snippet": "Бесплатный сайт знакомств позволяет общаться с любым количеством людей и в любое время без ограничений!",
+            "view_url": "http://dating.ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://tabor.ru/",
+            "title": "Знакомства на Tabor.ru - сайт знакомств c бесплатной...",
+            "snippet": "Регистрация на сайте знакомств полностью бесплатна и займет не более двух минут. Познакомиться сможет каждый!",
+            "view_url": "https://tabor.ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://beboo.ru/znakomstva/sanktpeterburg?",
+            "title": "Знакомства Санкт-Петербург, бесплатный сайт...",
+            "snippet": "Альтернативный вариант знакомства в Санкт-Петербурге – сайт ... Beboo - сайт знакомств, бесплатная регистрация на котором даст новые возможности.",
+            "view_url": "http://beboo.ru/znakomstva/sanktpeterburg?"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://lovepeterburg.ru/",
+            "title": "Знакомства в Санкт—Петербурге и Ленинградской...",
+            "snippet": "Популярный бесплатный сайт знакомств Санкт-Петербурга и Ленинградской области.",
+            "view_url": "http://lovepeterburg.ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://fotostrana.ru/search/",
+            "title": "Сайт знакомств Фотострана. Бесплатные знакомства...",
+            "snippet": "Сайт знакомств Фотострана представляет вам возможность бесплатно познакомиться с людьми в твоем городе.",
+            "view_url": "https://fotostrana.ru/search/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://badoo.com/ru/",
+            "title": "Знакомься с новыми людьми на Badoo, заводи друзей...",
+            "snippet": "Знакомства в городе Ростов-на-Дону. ... Знакомства в городе Санкт-Петербург.",
+            "view_url": "https://badoo.com/ru/"
+        }
+    ]
+}

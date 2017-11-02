@@ -1,0 +1,84 @@
+{
+    "components": [
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://vseigru.net/",
+            "title": "Все Игры - Онлайн",
+            "snippet": "Игры онлайн. Добро пожаловать на \"Vseigru.net\"! Это игровой портал, где собраны все самые новые онлайн игры.",
+            "view_url": "http://vseigru.net/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://www.game01.ru/",
+            "title": "Играть онлайн в игры на 146% бесплатно",
+            "snippet": "game01.ru",
+            "view_url": ""
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://www.Game-Game.com.ua/",
+            "title": "Игры онлайн бесплатно — флеш игры на Game-Game",
+            "snippet": "Game-Game.com.ua",
+            "view_url": ""
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://www.f-games.ru/",
+            "title": "Игры онлайн - флеш игры бесплатно",
+            "snippet": "Бесплатные игры онлайн на флеш. Новинки После обновления флешки с этой страницы переезжают в свои разделы, ищите их там.",
+            "view_url": "http://www.f-games.ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://www.flashgames.ru/",
+            "title": "Бесплатные онлайн игры, флеш игры, играй бесплатно...",
+            "snippet": "Бесплатно играй в онлайн флеш игры на flashgames.ru! Все игры на нашем сайте всегда были и будут бесплатными...",
+            "view_url": "http://www.flashgames.ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://caniplay.ru/",
+            "title": "Игры онлайн бесплатно - Играй на CANIPLAY.RU",
+            "snippet": "Игры онлайн бесплатно. Однажды мы узнали, что от работы даже кони дохнут, поэтому сразу же решили создать сайт с самыми интересными развлечениями и...",
+            "view_url": "http://caniplay.ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://www.igrixl.ru/",
+            "title": "Игры - играйте 3500 безплатных онлайн игр!",
+            "snippet": "Самые новые и забавные игры на одном вебсайте! У нас найдете более 3500 игр! ... Бесплатные онлайн-игры на IgriXL.ru.",
+            "view_url": "http://www.igrixl.ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://ru.sgames.org/",
+            "title": "Игры онлайн. Играть бесплатно",
+            "snippet": "Игры онлайн для всех и каждого. Если уроки выучены, мамины поручения выполнены, можно и поиграть.",
+            "view_url": "http://ru.sgames.org/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://www.era-igr.ru/",
+            "title": "Онлайн игры бесплатно для девочек, мальчиков и их...",
+            "snippet": "10 000 популярных бесплатных онлайн игр, которые пополняются каждый день. У нас есть онлайн игры различных жанров.",
+            "view_url": "http://www.era-igr.ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://igroutka.net/",
+            "title": "Игры Онлайн Бесплатно! - ИгроУтка",
+            "snippet": "Бесплатные онлайн игры для всех. ... Выбирай любимую категорию, загружай игры в свой браузер, и наслаждайся процессом в любое удобное время!",
+            "view_url": "http://igroutka.net/"
+        }
+    ]
+}

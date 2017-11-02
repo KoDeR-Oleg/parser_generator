@@ -1,0 +1,84 @@
+{
+    "components": [
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://www.skyscanner.ru/",
+            "title": "Дешевые авиабилеты онлайн: поиск... - Skyscanner",
+            "snippet": "skyscanner.ru",
+            "view_url": ""
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://www.aviasales.ru/",
+            "title": "Дешевые авиабилеты онлайн, цены. — Aviasales.ru",
+            "snippet": "aviasales.ru",
+            "view_url": ""
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://AviaSovet.ru/aviabileti/sanktpeterburg",
+            "title": "Самые дешёвые авиабилеты в Санкт-Петербург от...",
+            "snippet": "Самый дешевый авиабилет в Санкт-Петербург, найденный нашими пользователями с помощью поисковика авиабилетов Авиа...",
+            "view_url": "http://AviaSovet.ru/aviabileti/sanktpeterburg"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://www.momondo.ru/",
+            "title": "Дешевые авиабилеты: поиск и сравнение цен | momondo",
+            "snippet": "Дешевые авиабилеты в популярные города. Перелеты в города с наибольшим количеством запросов.",
+            "view_url": "https://www.momondo.ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://biletyplus.ru/",
+            "title": "Билеты на самолет: поиск дешевых авиабилетов онлайн...",
+            "snippet": "Поиск дешевых авиабилетов. В одну сторону Туда и обратно. ... Авиабилеты из Санкт-Петербурга. Цена на сегодня 31.10.2017.",
+            "view_url": "https://biletyplus.ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://www.OZON.travel/flight/",
+            "title": "Дешевые авиабилеты онлайн на OZON.travel",
+            "snippet": "Поиск дешевых авиабилетов без наценки. Почему авиабилеты в OZON.travel не дороже, чем на сайтах авиакомпаний, а иногда и дешевле?",
+            "view_url": "https://www.OZON.travel/flight/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://peterburg-avia.ru/",
+            "title": "Авиабилеты из Санкт-Петербурга купить дешево без...",
+            "snippet": "Исходя из этих соображений, огромное количество гостей города и коренных петербуржцев предпочитают приобретать дешевые авиабилеты из...",
+            "view_url": "http://peterburg-avia.ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://welcometravel.ru/flytickets/",
+            "title": "Подбор дешевых авиабилетов с официальных сайтов...",
+            "snippet": "И когда мы начинали искать самые дешевые авиабилеты, находилось сотни сайтов ненужных сайтов.",
+            "view_url": "https://welcometravel.ru/flytickets/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://www.tripadvisor.ru/Flights-g298507-St_Petersburg_Northwestern_District-Cheap_Discount_Airfares.html",
+            "title": "Дешевые авиабилеты в Санкт-Петербург из 68 ₽ на...",
+            "snippet": "Дешевые авиабилеты в Санкт-Петербург доступны на рейсах из ключевых городов России.",
+            "view_url": "https://www.tripadvisor.ru/Flights-g298507-St_Petersburg_Northwestern_District-Cheap_Discount_Airfares.html"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://avia.tutu.ru/",
+            "title": "Авиабилеты и расписание самолетов. Стоимость...",
+            "snippet": "Купить и заказать авиабилеты онлайн на самолет быстро и удобно. ... Помните, что дешевые авиабилеты раскупают быстрее всего.",
+            "view_url": "https://avia.tutu.ru/"
+        }
+    ]
+}

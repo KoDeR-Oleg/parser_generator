@@ -1,0 +1,84 @@
+{
+    "components": [
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://www.fast-torrent.ru/most-films/",
+            "title": "Популярные фильмы смотреть онлайн или скачать...",
+            "snippet": "Как и в других разделах нашего сайта, вы можете скачать популярные фильмы бесплатно и без регистрации.",
+            "view_url": "http://www.fast-torrent.ru/most-films/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://www.torrentino.me/movies?quality=hd",
+            "title": "Скачать фильмы хорошее качество",
+            "snippet": "Скачивайте лучшие фильмы хорошее качество на Торрентино нет. ... искать в разделе фильмы сериалы торренты игра.",
+            "view_url": "http://www.torrentino.me/movies?quality=hd"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://zona-film.com/",
+            "title": "Скачать фильмы бесплатно без регистрации через...",
+            "snippet": "zona-film.com",
+            "view_url": ""
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://kinomiks.net/luchshie-filmy",
+            "title": "Лучшие фильмы - скачать, смотреть",
+            "snippet": "Но это только с виду, на самом деле он является единственным обладателем особыми сверхъестественными способностями. Скачать фильм бесплатно ».",
+            "view_url": "http://kinomiks.net/luchshie-filmy"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://torrentum.ru/load/filmy/1",
+            "title": "Фильмы 2017 скачать торрент",
+            "snippet": "Torrentum.ru - это развлекательный торрент трекер, где можно cкачать бесплатно Фильмы торрентом и без регистрации , а так же посмотреть фильмы онлайн!",
+            "view_url": "http://torrentum.ru/load/filmy/1"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://ckopo.net/films/",
+            "title": "Скачать фильмы через торрент бесплатно без...",
+            "snippet": "Скачать фильмы торрент. Все без исключения любят смотреть художественные и документальные фильмы, мультфильмы, сериалы и телепередачи.",
+            "view_url": "http://ckopo.net/films/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://n-torrents.ru/load/films/17",
+            "title": "Фильмы скачать через торрент бесплатно в хорошем...",
+            "snippet": "Скачивайте фильмы через торрент бесплатно у нас. Вы сможете скачать новые фильмы с торрента в самом лучшем качестве и на высокой скорости без...",
+            "view_url": "http://n-torrents.ru/load/films/17"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://DugTor.ru/filmy/",
+            "title": "Скачать Фильмы через торрент в хорошем качестве...",
+            "snippet": "Скачать Фильмы через торрент. Новинки года: 2014 2015 2016 2017.",
+            "view_url": "http://DugTor.ru/filmy/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://kino-bezsms.com/page/3/",
+            "title": "Скачать фильмы бесплатно в хорошем качестве без...",
+            "snippet": "На нашем сайте Вы можете бесплатно скачать любой фильм в хорошем качестве, причем без регистрации, без смс и по прямой ссылке.",
+            "view_url": "http://kino-bezsms.com/page/3/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://torrentum.net/films/",
+            "title": "Фильмы новинки скачать через торрент бесплатно",
+            "snippet": "Скачать Фильмы новинки через торрент бесплатно, скачать Фильмы торрент в хорошем качестве HD 720 1080.",
+            "view_url": "http://torrentum.net/films/"
+        }
+    ]
+}

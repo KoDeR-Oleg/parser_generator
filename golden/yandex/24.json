@@ -1,0 +1,84 @@
+{
+    "components": [
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://www.myplaycity.ru/games/",
+            "title": "Скачать игры - Скачать бесплатные игры - Играть...",
+            "snippet": "Скачать игры. Видеообзор лучшей игры. Категории. Для Мальчиков.",
+            "view_url": "http://www.myplaycity.ru/games/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://www.torrentino.me/games",
+            "title": "Скачать игры 2017 через торрент бесплатно без...",
+            "snippet": "искать в разделе фильмы сериалы торренты игра. Найти.",
+            "view_url": "http://www.torrentino.me/games"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://n-torrents.ru/load/pc_games/1",
+            "title": "Игры на ПК (PC) скачать торрент бесплатно без...",
+            "snippet": "Скачать игры через торрент можно у нас — огромный архив торрентов. Мы собрали коллекцию бесплатных игр, которые вы сможете скачать с торрента без...",
+            "view_url": "http://n-torrents.ru/load/pc_games/1"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://www.atarata.ru/new-games/",
+            "title": "Новые бесплатные игры, Скачать бесплатно, Игры...",
+            "snippet": "Скачайте новую игру на любой вкус: для мальчиков и для девочек, гонки для тех, кто любит скорость, и логические игры для любителей головоломок...",
+            "view_url": "http://www.atarata.ru/new-games/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://torrentum.ru/load/igry/8",
+            "title": "Игры 2017 скачать торрент",
+            "snippet": "Torrentum.ru - это развлекательный торрент трекер, где можно cкачать бесплатно Игры торрентом и без регистрации !",
+            "view_url": "http://torrentum.ru/load/igry/8"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://play-apk.ru/game/",
+            "title": "Скачать игры на андроид бесплатно полные версии без...",
+            "snippet": "Любые игры, от самых популярных до никому не известных, могут быть найдены на этом сайте и стать любимыми на смартфоне, нужно только скачать игры на...",
+            "view_url": "http://play-apk.ru/game/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://www.myrealgames.com/ru/download-free-games/",
+            "title": "Все Скачиваемые Бесплатные Игры - Скачать Игры",
+            "snippet": "100% Бесплатные Игры Скачать. Many sites say: \"Download Free Games\". You download the games and see 60min trial versions with \"buy\" button.",
+            "view_url": "http://www.myrealgames.com/ru/download-free-games/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://www.nevosoft.ru/",
+            "title": "Игры от Невософт - скачать игры бесплатно для...",
+            "snippet": "Каталог игр: логические, «я ищу», аркадные, симуляторы и др. Описания, отзывы, анонсы новинок. Возможность скачать игры бесплатно и купить их полные версии.",
+            "view_url": "https://www.nevosoft.ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://torrent9.ru/",
+            "title": "Скачать игры через торрент",
+            "snippet": "Скачать игры через торрент на нашем сайте очень просто. У нас огромная коллекция бесплатных игр для пк без регистрации.",
+            "view_url": "http://torrent9.ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://www.gametop.com/ru/category/downloadable.html",
+            "title": "Скачать Игры - Бесплатные Игры",
+            "snippet": "Скачать Бесплатные Игры. Все наши бесплатные игры на 100% безопасны, свободны от вирусов, встроенной рекламы, вредоносных программ и тулбаров.",
+            "view_url": "http://www.gametop.com/ru/category/downloadable.html"
+        }
+    ]
+}

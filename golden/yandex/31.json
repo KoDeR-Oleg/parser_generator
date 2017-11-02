@@ -1,0 +1,84 @@
+{
+    "components": [
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://1001goroskop.ru/",
+            "title": "Гороскоп на сегодня | 1001 ГОРОСКОП",
+            "snippet": "1001goroskop.ru",
+            "view_url": ""
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://AstroHelper.ru/goroskopy/na-segodnya/",
+            "title": "Точный гороскоп на сегодня для всех знаков Зодиака",
+            "snippet": "Гороскоп на сегодня по знакам Зодиака. Ваш точный гороскоп для всез знаков Зодиака на сегодня, который позволит вам избежать многих проблем, и сделать...",
+            "view_url": "http://AstroHelper.ru/goroskopy/na-segodnya/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://www.AstroMeridian.ru/horoscope_na_segodnja.php",
+            "title": "Гороскоп на сегодня | АстроМеридиан",
+            "snippet": "Гороскоп на сегодня | АстроМеридиан. Задайте себе вопрос: вы бы хотели, чтобы вам сегодня повезло и день прошел удачно?",
+            "view_url": "http://www.AstroMeridian.ru/horoscope_na_segodnja.php"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://www.oculus.ru/goroskop_na_segodnya/",
+            "title": "Гороскоп на сегодня от Окулус",
+            "snippet": "Гороскоп на сегодня - это прогноз для типичных представителей Знаков Зодиака. Гороскоп на сегодня учитывает наиболее яркие астрологические аспекты...",
+            "view_url": "https://www.oculus.ru/goroskop_na_segodnya/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://horo.mail.ru/",
+            "title": "Гороскоп на сегодня, на день, на завтра, на неделю, на год",
+            "snippet": "Гороскоп для всех знаков на сегодня",
+            "view_url": "https://horo.mail.ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://horoscopes.rambler.ru/",
+            "title": "Гороскоп на сегодня, завтра, месяц, год. Лунный...",
+            "snippet": "Общий гороскоп на сегодня расскажет о том, что нас ожидает в течение дня. 11-12 лунные сутки.",
+            "view_url": "https://horoscopes.rambler.ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://felomena.com/goroskopy/na-segodnya/",
+            "title": "Точный гороскоп на сегодня для мужчин и женщин...",
+            "snippet": "Гороскоп на сегодня. Астрологический прогноз составлен на: 29.10.2017 года (московское, GMT +3:00). В первой половине дня будут легко удаваться дела...",
+            "view_url": "http://felomena.com/goroskopy/na-segodnya/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://astroscope.ru/horoskop/ejednevniy_goroskop/",
+            "title": "Гороскоп на сегодня, гороскоп на завтра, ежедневные...",
+            "snippet": "Оксана 2017-01-22 11:26:37. Гороскоп супер! И к гадалке ходить не надо. ... Отличный гороскоп! У меня все гороскопы на сегодня сходятся почти сто...",
+            "view_url": "http://astroscope.ru/horoskop/ejednevniy_goroskop/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://www.predskazanie.ru/daily_horoscope/",
+            "title": "Гороскоп на сегодня",
+            "snippet": "Наш гороскоп на сегодня расскажет, как пройдёт день, поможет иначе взглянуть на ситуацию и добавит в Вашу жизнь немного удачи.",
+            "view_url": "http://www.predskazanie.ru/daily_horoscope/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://www.oracle-today.ru/prediction/daily/",
+            "title": "Гороскоп на сегодня - Официальный сайт газеты «Оракул»",
+            "snippet": "30 Октября 2017 года, 12 лунные сутки. ... Гороскоп на сегодня. ОВЕН 21 марта - 20 апреля.",
+            "view_url": "http://www.oracle-today.ru/prediction/daily/"
+        }
+    ]
+}

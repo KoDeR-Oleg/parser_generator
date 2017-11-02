@@ -1,0 +1,84 @@
+{
+    "components": [
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://translate.google.com/?hl=ru",
+            "title": "Google Переводчик",
+            "snippet": "Переводчик Google для бизнеса –Инструменты переводчика Переводчик сайтов. ... О Переводчике Google Сообщества Мобильная версия.",
+            "view_url": "https://translate.google.com/?hl=ru"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://www.translate.ru/",
+            "title": "«Translate.ru» — онлайн-переводчик и словарь Promt",
+            "snippet": "translate.ru",
+            "view_url": ""
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://www.ltran.ru/english-russian",
+            "title": "Англо-русский онлайн переводчик. Переводчик...",
+            "snippet": "Английская виртуальная клавиатура онлайн. Видеоуроки английского. ... виртуальные клавиатуры 70 языков TranslatorsDB.ru - база переводчиков России.",
+            "view_url": "http://www.ltran.ru/english-russian"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://www.bing.com/translator?",
+            "title": "Переводчик Bing",
+            "snippet": "Приложения. Помощь. Переводчик Microsoft для бизнеса. Все. Изображения.",
+            "view_url": "http://www.bing.com/translator?"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://slovariki.org/translator",
+            "title": "Переводчик онлайн",
+            "snippet": "Онлайн переводчик текста на английский, французский, немецкий, испанский, украинский и другие языки.",
+            "view_url": "http://slovariki.org/translator"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://tetran.ru/OnLineTranslator",
+            "title": "Онлайн-переводчик – Tetran Translation Company",
+            "snippet": "Онлайн-переводчик. К Вашим услугам бесплатно предлагается онлайн переводчик с/на 58 языков мира.",
+            "view_url": "http://tetran.ru/OnLineTranslator"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://www.free-online-translation.com/ru/",
+            "title": "Онлайн-переводчик - free-online-translation.com",
+            "snippet": "Бесплатный онлайн переводчик с 64 языков и обратно. Определить язык Русский Татарский Азербайджанский Арабский Английский ...",
+            "view_url": "http://www.free-online-translation.com/ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://translate.meta.ua/",
+            "title": "«Translate.meta.ua» — онлайн-переводчик",
+            "snippet": "Русский, украинский, английский, латышский, немецкий языки. Перевод слов и предложений.",
+            "view_url": "http://translate.meta.ua/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://o-db.ru/ru/translate",
+            "title": "Переводчик онлайн на o-db.ru",
+            "snippet": "Онлайн-перевод текста. Переводчик позволяет автоматически переводить текст между более, чем 30 языками.",
+            "view_url": "http://o-db.ru/ru/translate"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://www.translito.com/",
+            "title": "WWW.TRANSLITO.COM : Online 37 languages text...",
+            "snippet": "translator, translation, translate, Online, language, text, word, dictionary, Translate from all languages you need.",
+            "view_url": "http://www.translito.com/"
+        }
+    ]
+}

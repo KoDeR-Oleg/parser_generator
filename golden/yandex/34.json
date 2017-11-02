@@ -1,0 +1,97 @@
+{
+    "components": [
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3",
+            "title": "Санкт-Петербург — Википедия",
+            "snippet": "Санкт-Петербу́рг (с 18 [31] августа 1914 года до 26 января 1924 года — Петрогра́д, с 26 января 1924 года до 6 сентября 1991 года — Ленингра́д)...",
+            "view_url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://vk.com/o_st.petersburg",
+            "title": "Санкт-Петербург - это мой... — ВКонтакте",
+            "snippet": "Перейдите на страницу пользователя, чтобы посмотреть публикации или отправить сообщение.",
+            "view_url": "https://vk.com/o_st.petersburg"
+        },
+        {
+            "type": "WIZARD",
+            "alignment": "LEFT",
+            "page_url": "//yandex.ru/images/search?text=%D1%81%D0%B0%D0%BD%D0%BA%D1%82%20%D0%BF%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3&stype=image&lr=2&noreask=1&parent-reqid=1509664064874510-1490881569267860899224114-man1-3588&source=wiz",
+            "title": "санкт петербург — смотрите картинки",
+            "wizard_type": "WIZARD_IMAGE",
+            "media_links": [
+                "im0-tub-ru.yandex.net/i?id=5d56faa62b48d2210564e483d9060316&n=22",
+                "im0-tub-ru.yandex.net/i?id=fe00666b4465cac69a840e67a9d15ab9&n=22",
+                "im0-tub-ru.yandex.net/i?id=738f550540b274eb852bb218aa7410c7&n=22",
+                "im0-tub-ru.yandex.net/i?id=30e073668973172cd677589eb8be1897&n=22"
+            ]
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://www.spb-guide.ru/",
+            "title": "Достопримечательности Санкт-Петербурга: фото...",
+            "snippet": "Сегодня на сайте 24618 фото достопримечательностей Санкт-Петербурга: соборы и музеи, Петергоф и Эрмитаж, белые ночи и многое другое.",
+            "view_url": "https://www.spb-guide.ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://www.SmilePlanet.ru/russia/sankt-peterburg/",
+            "title": "Санкт-Петербург — интересно и полезно с фото и видео",
+            "snippet": "Санкт-Петербург – один из красивейших мегаполисов мира, посмотреть на который приезжают путешественники из разных уголков планеты.",
+            "view_url": "https://www.SmilePlanet.ru/russia/sankt-peterburg/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://www.restbee.ru/world/azija/rossia/sankt-peterburg",
+            "title": "Санкт-Петербург, Россия - отдых, погода, отзывы...",
+            "snippet": "В 1965 Петербургу было присвоено звание «Город-герой». Санкт-Петербург считается самым северным городом-миллионщиком в мире.",
+            "view_url": "http://www.restbee.ru/world/azija/rossia/sankt-peterburg"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://nesiditsa.ru/city/sankt-peterburg",
+            "title": "Санкт-Петербург",
+            "snippet": "Как только не именуют Санкт-Петербург! Это и северная столица, и Северная Пальмира, и «Окно в Европу», и «культурная столица», и «Северная Венеция»...",
+            "view_url": "http://nesiditsa.ru/city/sankt-peterburg"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://tonkosti.ru/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3",
+            "title": "Санкт-Петербург — отдых, экскурсии, музеи, кухня...",
+            "snippet": "Культурная столица России, северная Венеция, детище Петра — так часто называют Санкт-Петербург, второй по величине город нашей необъятной с населением...",
+            "view_url": "https://tonkosti.ru/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://www.gov.spb.ru/",
+            "title": "Официальный сайт администрации Санкт-Петербурга",
+            "snippet": "Структура и состав, новости администрации. Биография губернатора. Список правительства. Электронная приёмная...",
+            "view_url": "http://www.gov.spb.ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://www.visit-petersburg.ru/",
+            "title": "«Городской туристический портал Санкт-Петербурга»",
+            "snippet": "Обзор событий культурной, спортивной и конгрессной жизни Санкт-Петербурга. Каталог отелей, достопримечательностей. Путеводитель по городу, виртуальные туры и аудиомаршруты. Анонс мероприятий.",
+            "view_url": "http://www.visit-petersburg.ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://www.101hotels.ru/recreation/russia/sankt-peterburg/about",
+            "title": "О городе Санкт-Петербурге",
+            "snippet": "О городе Санкт-Петербурге, год основания города, достопримечательности, гостиницы, развлечения, отзывы гостей города.",
+            "view_url": "http://www.101hotels.ru/recreation/russia/sankt-peterburg/about"
+        }
+    ]
+}

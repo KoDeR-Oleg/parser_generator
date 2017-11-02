@@ -1,0 +1,84 @@
+{
+    "components": [
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://korrespondent.net/ukraine/",
+            "title": "Новости Украины сегодня - лента... - Korrespondent.net",
+            "snippet": "korrespondent.net›Украина",
+            "view_url": ""
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://rian.com.ua/?/",
+            "title": "РИА Новости Украина Репортажи. Интервью. Аналитика",
+            "snippet": "Как зарабатывают на контрабанде - в обзоре РИА Новости Украина. ... \"Петлюризация Украины\": евреи массово покидают страну.",
+            "view_url": "http://rian.com.ua/?/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://riafan.ru/category/ukraina",
+            "title": "Последние новости Украины сегодня и за последний час",
+            "snippet": "riafan.ru›Украина",
+            "view_url": ""
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://xn----8sbeyckrgcbzinq9j.ru-an.info/",
+            "title": "Новости Украины - последние украинские новости - РуАН",
+            "snippet": "Новости Украины: Фармакологическая мафия ежегодно убивает сотни миллионов людей, Лондонские паразиты призывают Украину продать 10 млн. гектаров земли...",
+            "view_url": "http://xn----8sbeyckrgcbzinq9j.ru-an.info/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://zelv.ru/ukraina/",
+            "title": "Новости Украины сегодня 2017 - последние новости...",
+            "snippet": "Новости Украины сегодня онлайн. Последние новости в Украине 2017 - свежие актуальные события, происходящие в данной стране.",
+            "view_url": "https://zelv.ru/ukraina/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://news-front.info/category/news/ukraine/",
+            "title": "Новости Украины",
+            "snippet": "Новости Украины 2015. Новости последнего часа. Смотрите и читайте онлайн. Боевые действия на Украине — онлайн сводка.",
+            "view_url": "https://news-front.info/category/news/ukraine/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://telegraf.com.ua/ukraina/",
+            "title": "Новости Украины. Последние свежие новости в Украине...",
+            "snippet": "Новости Украины и мира. Телеграф на Google+. ... Последние новости Украины. Убийство Окуевой: полиция ввела план \"перехват\".",
+            "view_url": "https://telegraf.com.ua/ukraina/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://www.segodnya.ua/ukraine.html",
+            "title": "Новости Украины. Последние новости... | СЕГОДНЯ",
+            "snippet": "Горячая новость. Новости Cегодня. прямой эфир. ... Амина Окуева – участница Революции достоинства и войны на востоке Украины.",
+            "view_url": "https://www.segodnya.ua/ukraine.html"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://vesti-ukr.com/strana",
+            "title": "Новости Украины. Последние новости Украины сегодня.",
+            "snippet": "События Украины в последних новостях. Только актуальные новости в Украине за 2017 год.",
+            "view_url": "https://vesti-ukr.com/strana"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://24tv.ua/ru/ukraina_tag1119/",
+            "title": "Новости Украины сегодня: последние новости...",
+            "snippet": "Читатели сайта \"24\" знают последние новости Украины первыми, ведь больше всего наши журналисты ценят оперативность.",
+            "view_url": "https://24tv.ua/ru/ukraina_tag1119/"
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "components": [
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://zaycev.net/",
+            "title": "Зайцев.нет! Скачать музыку бесплатно в формате...",
+            "snippet": "zaycev.net",
+            "view_url": ""
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://my-hit.fm/",
+            "title": "Скачать музыку MP3 бесплатно, песни и музыка без...",
+            "snippet": "my-hit.fm",
+            "view_url": ""
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://ipleer.fm/",
+            "title": "iPleer.fm - Скачать Музыку и Песни Бесплатно...",
+            "snippet": "iPleer.fm - Скачать музыку бесплатно и слушать онлайн. (бесконечная прокрутка).",
+            "view_url": "https://ipleer.fm/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://myzuka.me/",
+            "title": "Скачать бесплатно музыку и песни в mp3 и слушать...",
+            "snippet": "Скачать mp3 музыку бесплатно на Myzuka.me. Музыка.fm — музыкальный портал, на котором вы можете бесплатно слушать песни и скачать музыку в...",
+            "view_url": "https://myzuka.me/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://mp3-you.me/pop_chart.html",
+            "title": "Лучшая музыка - скачать бесплатно или слушать онлайн...",
+            "snippet": "Лучшая музыка. Скачать и послушать музыку бесплатно и без регистрации на mp3-you.net.",
+            "view_url": "http://mp3-you.me/pop_chart.html"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://mp3poisk.info/",
+            "title": "MP3poisk.me - Скачать музыку бесплатно в MP3",
+            "snippet": "MP3poisk.me - Скачать музыку бесплатно в формате MP3 и слушать онлайн песни бесплатно, скачивать музыку через торрент без регистрации.",
+            "view_url": "https://mp3poisk.info/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://top-music.top/",
+            "title": "Скачать бесплатно песни на top-music.top – лучшая...",
+            "snippet": "Скачивай лучшие музыкальные mp3 новинки, слушай отборные хиты, саундтреки, музыку для спорта и самые горячие песни из хит-парадов на top-music.top!",
+            "view_url": "https://top-music.top/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://zvonko.me/",
+            "title": "Музыка онлайн на Zvonko.me - скачать музыку...",
+            "snippet": "Музыка во всем своем разнообразии - от рока до классики. На Zvonko.me Вы сможете послушать эфиры любимых радиостанций, скачать саундтреки к только...",
+            "view_url": "https://zvonko.me/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://patefon.net/",
+            "title": "Музыка на Patefon.fm - скачать MP3 бесплатно, слушать...",
+            "snippet": "А самое лучшее, что можно всю МП3 музыку скачать бесплатно на свой пк, планшет или мобильный телефон на IOS и андройде.",
+            "view_url": "https://patefon.net/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://zvooq.online/",
+            "title": "Звук онлайн - тут найдешь как скачать музыку и песни...",
+            "snippet": "На музыкальном портале Звук.онлайн вся музыка бесплатна и в отличном качестве, в Топ 100 собраны самые горячие новинки и хиты, которые можно скачать...",
+            "view_url": "https://zvooq.online/"
+        }
+    ]
+}

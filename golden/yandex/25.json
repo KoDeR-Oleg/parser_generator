@@ -1,0 +1,97 @@
+{
+    "components": [
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://www.moscowmap.ru/imap_moscow.shtml",
+            "title": "Карта Москвы 2017",
+            "snippet": "Интерактивная карта Москвы и Московской области. Карта Карта Google Карта Yandex. Карта Москвы - инструкция по использованию.",
+            "view_url": "https://www.moscowmap.ru/imap_moscow.shtml"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://www.street-viewer.ru/moscow/",
+            "title": "Карта Москвы, поиск улиц и домов по карте",
+            "snippet": "street-viewer.ru›Карта Москвы",
+            "view_url": ""
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://bestmaps.ru/goroda/moscow",
+            "title": "Карта Москвы с улицами на спутниковой карте онлайн",
+            "snippet": "Спутниковые фотографии Москвы, интерактивная карта Московской области онлайн, с возможностью увеличивать и уменьшать масштаб карты.",
+            "view_url": "https://bestmaps.ru/goroda/moscow"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://2gis.ru/moscow/search/%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D1%8B%20%D0%B8%20%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B9%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8/tab/firms",
+            "title": "Карта москвы и московской области в Москве на карте...",
+            "snippet": "Результаты поиска по запросу \"Карта москвы и московской области\" на карте в Москве.",
+            "view_url": "https://2gis.ru/moscow/search/%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D1%8B%20%D0%B8%20%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B9%20%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8/tab/firms"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://RusMap.net/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0",
+            "title": "Карта Москвы подробная: с улицами и номерами домов",
+            "snippet": "Карта Москвы. Для быстрого и интерактивного поиска объектов, Вы можете нажать на любую точку на карте и перейти на страницу с информацией о ней.",
+            "view_url": "http://RusMap.net/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://www.tourister.ru/world/europe/russia/city/moscow/map",
+            "title": "Карта Москвы и Московской области. Гостиницы Москвы...",
+            "snippet": "Карты и схемы Москвы. Выше представлена интерактивная карта Москвы и Московской области на русском языке от компании Google.",
+            "view_url": "https://www.tourister.ru/world/europe/russia/city/moscow/map"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://kartami.ru/moskva",
+            "title": "Карта Москвы подробная: районы, названия улиц...",
+            "snippet": "Карта Москвы предоставлена совместно с сервисом «Яндекс карты». ... Координаты Москвы: 55.76° северной широты и 37.62° восточной долготы.",
+            "view_url": "http://kartami.ru/moskva"
+        },
+        {
+            "type": "WIZARD",
+            "alignment": "LEFT",
+            "page_url": "//yandex.ru/images/search?text=%D0%BA%D0%B0%D1%80%D1%82%D0%B0%20%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D1%8B&stype=image&lr=2&noreask=1&parent-reqid=1509664057335990-1532571772332018922420854-vla1-2807&source=wiz",
+            "title": "карта москвы — смотрите картинки",
+            "wizard_type": "WIZARD_IMAGE",
+            "media_links": [
+                "im0-tub-ru.yandex.net/i?id=7ed6e2967ddcaf350f7943f80303142b&n=22",
+                "im0-tub-ru.yandex.net/i?id=4250c82ff080324a62920efda0f0b39a&n=22",
+                "im0-tub-ru.yandex.net/i?id=0978dd417ea6645fdf1c297866e01e03&n=22",
+                "im0-tub-ru.yandex.net/i?id=590d7f5a29f4857a7d6b761810d1b390&n=22"
+            ]
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://maps-online.ru/moskovskaya-oblast/moskva/",
+            "title": "Карта Москвы и Московской области с городами...",
+            "snippet": "Представляем Вашему вниманию подробную карту Москвы, которая содержит названия всех улиц и номера домов.",
+            "view_url": "http://maps-online.ru/moskovskaya-oblast/moskva/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://mapdata.ru/moskva/",
+            "title": "Карта Москвы с районами, улицами и номерами домов",
+            "snippet": "На этой странице находится подробная онлайн карта города Москвы с районами, улицами и номерами домов.",
+            "view_url": "http://mapdata.ru/moskva/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://MapsRF.ru/moskva-karta.html",
+            "title": "Подробная карта Москвы с улицами, Спутниковая",
+            "snippet": "Подробная карта Москвы с улицами и номерами домов. Актуальная спутниковая карта Москвы.",
+            "view_url": "http://MapsRF.ru/moskva-karta.html"
+        }
+    ]
+}

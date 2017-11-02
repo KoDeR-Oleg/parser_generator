@@ -1,0 +1,84 @@
+{
+    "components": [
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://www.myscore.ru/",
+            "title": "MyScore.ru: футбол онлайн трансляции, спорт матчей...",
+            "snippet": "myscore.ru",
+            "view_url": ""
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://SmotriSport.tv/event/football/?null",
+            "title": "Футбол онлайн - прямые трансляции футбола",
+            "snippet": "Трансляции футбола онлайн. Вы не желаете ограничивать знания о любимой игре несколькими европейскими чемпионатами?",
+            "view_url": "http://SmotriSport.tv/event/football/?null"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://soccer365.ru/online/%D1%8E",
+            "title": "Футбол онлайн - смотреть прямые трансляции...",
+            "snippet": "ямайка. япония. Все Онлайн Завершенные Расписание.",
+            "view_url": "http://soccer365.ru/online/%D1%8E"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://www.soccerstand.com/ru/",
+            "title": "Футбол прямые трансляции - Результаты онлайн и счет...",
+            "snippet": "Посетите Soccerstand.com/ru, на котором есть футбольные онлайн результаты, прямые трансляции и результаты игр.",
+            "view_url": "https://www.soccerstand.com/ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://checklive.ru/sport_online/football",
+            "title": "Футбол онлайн: смотреть прямые трансляции",
+            "snippet": "Смотреть футбол онлайн на сайте чеклав можно бесплатно. Все трансляции матчей идут в прямом эфире и доступны для просмотра через интернет.",
+            "view_url": "https://checklive.ru/sport_online/football"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://sport5online.com/translation/football/",
+            "title": "Смотреть футбол бесплатно | онлайн футбол бесплатно",
+            "snippet": "Возможность смотреть футбол онлайн предоставляется абсолютно бесплатно. Смотреть прямой эфир матчей по футболу...",
+            "view_url": "http://sport5online.com/translation/football/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://goal-time.net/live",
+            "title": "Трансляции футбольных матчей - Смотреть футбол...",
+            "snippet": "Онлайн-трансляции матчей. Матчи сегодня Матчи завтра.",
+            "view_url": "http://goal-time.net/live"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://livesport.overbetting.net/football/",
+            "title": "Смотреть футбол онлайн: прямые видео трансляции на...",
+            "snippet": "Онлайн. Чемпионат Аргентины. Примера B. Метрополитана (3). ... Футбол Чемпионат Италии. Серия А. Верона - Интер Предматч центр.",
+            "view_url": "https://livesport.overbetting.net/football/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://kinoclips1.net/news/futbol_lokomotiv_moskva_sherif_02_11_2017_liga_evropy_smotret_onlajn_2/2017-11-02-17680",
+            "title": "Футбол Локомотив Москва - Шериф смотреть онлайн...",
+            "snippet": "У вас хорошая возможность смотреть онлайн Футбол. Лига Европы Локомотив Москва - Шериф 02.11.2017 в хорошем качестве бесплатно без регистрации.",
+            "view_url": "http://kinoclips1.net/news/futbol_lokomotiv_moskva_sherif_02_11_2017_liga_evropy_smotret_onlajn_2/2017-11-02-17680"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://footballhd.ru/online-video/",
+            "title": "Футбол онлайн - Прямые трансляции футбола смотреть...",
+            "snippet": "Вы не знаете где смотреть в интернете футбол онлайн? Прямые трансляции футбола бесплатно и без регистрации.",
+            "view_url": "https://footballhd.ru/online-video/"
+        }
+    ]
+}

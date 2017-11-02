@@ -1,0 +1,84 @@
+{
+    "components": [
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://www.sp-piter.ru/",
+            "title": "Совместные покупки - объединяйтесь, это выгодно!",
+            "snippet": "sp-piter.ru",
+            "view_url": ""
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://sp.BabyBlog.ru/saint-petersburg",
+            "title": "Совместные покупки. Сайт совместных закупок...",
+            "snippet": "Совместные покупки Санкт-Петербург – это уникальная услуга, позволяющая приобрести любые вещи по оптовым расценкам.",
+            "view_url": "https://sp.BabyBlog.ru/saint-petersburg"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://vk.com/club131582013",
+            "title": "Совместные покупки СПб | ВКонтакте - Санкт-Петербург",
+            "snippet": "Совместные покупки Осиновая Роща, Сертолово, Вартемяги, Агалатово, Левашово, п.Песочный! Метро Пр.Просвещения, м.Парнас, м.Озерки!",
+            "view_url": "https://vk.com/club131582013"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://spb.sptovarov.ru/",
+            "title": "Санкт-Петербург – сайт совместных покупок в СПБ",
+            "snippet": "Форум совместных покупок Санкт-Петербург – это настоящая находка для жителей Северной Пальмиры. Здесь можно купить любые нужные вам вещи.",
+            "view_url": "http://spb.sptovarov.ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://www.100sp.ru/saint-petersburg",
+            "title": "Совместные покупки в Санкт-Петербурге",
+            "snippet": "Сайт совместных покупок в Санкт-Петербурге. ... Совместные покупки с доставкой из других городов.",
+            "view_url": "http://www.100sp.ru/saint-petersburg"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://spb.amady-sp.ru/",
+            "title": "Совместные покупки Санкт-Петербург - amady-sp.ru...",
+            "snippet": "Иными словами, совместные покупки Санкт-Петербург — это весьма выгодно и очень удобно.",
+            "view_url": "https://spb.amady-sp.ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://spvpitere.ru/",
+            "title": "Совместные покупки - Санкт-Петербург - Оптовые...",
+            "snippet": "Совместные покупки - оптовые закупки товаров в Санкт-Петербурге и Ленинградской области (Волхов, Выборг, Гатчина, Кингисепп, Кириши, Кировск...",
+            "view_url": "http://spvpitere.ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://spb.spcity-friends.ru/",
+            "title": "Совместные закупки",
+            "snippet": "Показать все закупки. ©2014 \"Город друзей\" Совместные покупки. Отправьте нам сообщение.",
+            "view_url": "http://spb.spcity-friends.ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://spb.tsh.ru/",
+            "title": "Совместные покупки в Санкт-Петербурге",
+            "snippet": "Совместные покупки Твой Шоппинг в Санкт-Петербурге - это отличная возможность покупать товары в розницу по оптовым ценам...",
+            "view_url": "https://spb.tsh.ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://sp2all.ru/sp/sankt-peterburg",
+            "title": "Совместные закупки в Санкт-Петербурге (Ленинградской...",
+            "snippet": "Совместные покупки 2.0 в Санкт-Петербурге. ... Совместные закупки на нашем сайте - это удобный способ купить товары.",
+            "view_url": "https://sp2all.ru/sp/sankt-peterburg"
+        }
+    ]
+}

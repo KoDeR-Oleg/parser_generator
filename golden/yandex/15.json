@@ -1,0 +1,84 @@
+{
+    "components": [
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://www.gismeteo.ru/weather-sankt-peterburg-4079/",
+            "title": "погода в Санкт-Петербурге сегодня ― прогноз погоды...",
+            "snippet": "gismeteo.ru›Сегодня",
+            "view_url": ""
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://weather.rambler.ru/v-sankt-peterburge/",
+            "title": "Погода в Санкт-Петербурге на сегодня – точный прогноз...",
+            "snippet": "weather.rambler.ru›Санкт-Петербург",
+            "view_url": ""
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://world-weather.ru/pogoda/russia/saint_petersburg/",
+            "title": "Погода в Санкт-Петербурге - точный прогноз погоды...",
+            "snippet": "Точный прогноз погоды в Санкт-Петербурге на сегодня, завтра, неделю. ... Погода в крупных и ближайших городах.",
+            "view_url": "https://world-weather.ru/pogoda/russia/saint_petersburg/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://rp5.ru/%D0%9F%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0_%D0%B2_%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D0%B5",
+            "title": "Погода в Санкт-Петербурге",
+            "snippet": "Прогноз погоды в Санкт-Петербурге. ... Расписание Погоды в Санкт-Петербурге.",
+            "view_url": "https://rp5.ru/%D0%9F%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0_%D0%B2_%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D0%B5"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://www.meteoservice.ru/weather/forecast/sankt-peterburg.html",
+            "title": "Прогноз погоды в Санкт-Петербурге - Метеосервис",
+            "snippet": "Населению города с такими особенностями организма особенно важно иметь точный прогноз погоды в Санкт-Петербурге...",
+            "view_url": "https://www.meteoservice.ru/weather/forecast/sankt-peterburg.html"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://www.foreca.ru/Russia/Saint_Petersburg",
+            "title": "Прогноз погоды Санкт-Петербург - Foreca.ru",
+            "snippet": "Прогноз на 15 дней. Карты погоды. ... В 30/10 21:00 Станция наблюдений Санкт-Петербург Фактическая погода, Санкт-Петербург.",
+            "view_url": "https://www.foreca.ru/Russia/Saint_Petersburg"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://spb.nuipogoda.ru/",
+            "title": "Погода в Санкт-Петербурге. Поминутный прогноз погоды.",
+            "snippet": "Текущая погода в городе Санкт-Петербург. Температура ... Прогноз погоды на 3 дня.",
+            "view_url": "https://spb.nuipogoda.ru/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://www.accuweather.com/ru/ru/-/295212/early-morning-weather/295212",
+            "title": "Санкт-Петербург: погода - Прогноз погоды AccuWeather...",
+            "snippet": "Местная сводка погоды. Почасовой прогноз. Долг. ... Санкт-Петербург: карта погоды - Поблизости.",
+            "view_url": "https://www.accuweather.com/ru/ru/-/295212/early-morning-weather/295212"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://sinoptik.com.ru/%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D1%81%D0%B0%D0%BD%D0%BA%D1%82-%D0%BF%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3",
+            "title": "Погода в Санкт-Петербурге. Прогноз... - SINOPTIK.",
+            "snippet": "- - ...  - Прогноз погоды в Санкт-Петербурге на сегодня: С утра и до самого вечера небо скрыто за облаками.",
+            "view_url": "https://sinoptik.com.ru/%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D0%B0-%D1%81%D0%B0%D0%BD%D0%BA%D1%82-%D0%BF%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://o-pogode.ru/pogoda/sankt-peterburg",
+            "title": "Долгосрочный прогноз погоды - Санкт-Петербург",
+            "snippet": "ЛУЧШИЙ САЙТ 2017! Погода в Санкт-Петербурге. ... Прогноз погоды на 7 дней. (кликните на день для получения подробного прогноза).",
+            "view_url": "http://o-pogode.ru/pogoda/sankt-peterburg"
+        }
+    ]
+}

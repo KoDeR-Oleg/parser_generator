@@ -1,0 +1,84 @@
+{
+    "components": [
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://cash.rbc.ru/converter.html",
+            "title": "Конвертер валют",
+            "snippet": "Конвертер валют онлайн — инструмент, который позволит вам рассчитать соотношения актуальных курсов денежных средств всего мира на сегодня.",
+            "view_url": "https://cash.rbc.ru/converter.html"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://www.calculator888.ru/converter-valut/",
+            "title": "Конвертер валют, перевод валют",
+            "snippet": "Используйте Конвертер Валют для быстрого и удобного перевода валют. Переводчик Валют работает онлайн со всеми основными валютами мира.",
+            "view_url": "http://www.calculator888.ru/converter-valut/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://www.oanda.com/lang/ru/currency/converter/",
+            "title": "Конвертер валют | Валютные курсы | OANDA",
+            "snippet": "Конвертер валют. Приложение Forex Trade. На главную страницу > Инструменты для валютных операций > Конвертор валют.",
+            "view_url": "https://www.oanda.com/lang/ru/currency/converter/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://www.banki.ru/products/currency/converter/",
+            "title": "Конвертер валют онлайн | Банки.ру",
+            "snippet": "Информация о котировках валют обновляется каждый час. Онлайн-конвертер валют очень удобен в использовании и сэкономит ваше время.",
+            "view_url": "http://www.banki.ru/products/currency/converter/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://hqrates.com/konverter/",
+            "title": "Онлайн конвертер валют",
+            "snippet": "Конвертировать. Установите конвертер валют на свой сайт New! Спасибо, что рассказываете о конвертере друзьям",
+            "view_url": "http://hqrates.com/konverter/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://ru.investing.com/currency-converter/",
+            "title": "Конвертер валют — Investing.com",
+            "snippet": "Наш конвертер валют моментально пересчитает любую сумму из одной валюты в другую с учетом последних изменений.",
+            "view_url": "https://ru.investing.com/currency-converter/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://calcus.ru/currency",
+            "title": "Конвертер валют",
+            "snippet": "Конвертер валют. AUD - Австралийский доллар AZN ... Информация о курсах валют предоставлена Центральным Банком России от 30.10.2017.",
+            "view_url": "https://calcus.ru/currency"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://finance.rambler.ru/calculators/converter/",
+            "title": "Конвертер валют, валютный... — Рамблер/финансы",
+            "snippet": "Конвертер валют онлайн выполняет автоматический пересчет по курсу ЦБ РФ. С помощью навигации по дате, конвертер валют онлайн по запросу производит...",
+            "view_url": "https://finance.rambler.ru/calculators/converter/"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "http://www.finanz.ru/konverter-valut",
+            "title": "Конвертер валют | finanz.ru",
+            "snippet": "Конвертер (конвертор) валют является важным вспомогательным инструментом для участников рынка Forex (Форекс)...",
+            "view_url": "http://www.finanz.ru/konverter-valut"
+        },
+        {
+            "type": "SEARCH_RESULT",
+            "alignment": "LEFT",
+            "page_url": "https://NashaPlaneta.net/services/konverter-valuty",
+            "title": "Туристический конвертер валют по странам",
+            "snippet": "Туристический конвертер и калькулятор валют по странам, курсы мировых валют сегодня. ... Конвертация происходит на основе официальных мировых курсов валют.",
+            "view_url": "https://NashaPlaneta.net/services/konverter-valuty"
+        }
+    ]
+}
