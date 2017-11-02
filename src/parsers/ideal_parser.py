@@ -108,7 +108,6 @@ class IdealParser(Parser):
             tree = html.document_fromstring(file.read())
         if element is None:
             parser_result = ParserResult()
-            parser_result.file = markup.file
             for component in markup.components:
                 parser_result.add(self.get_substitution_component(tree, component))
             return parser_result
@@ -119,7 +118,6 @@ class IdealParser(Parser):
         with open(file_name, "r") as file:
             js = json.load(file)
         parser_result = ParserResult()
-        parser_result.file = js['file']
         for component in js['components']:
             parser_result.add(self.parse_component(component))
         return parser_result

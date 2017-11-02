@@ -22,7 +22,6 @@ class Component(object):
 
 class ParserResult(object):
     def __init__(self):
-        self.file = None
         self.components = list()
 
     def __str__(self):
