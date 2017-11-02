@@ -27,7 +27,9 @@ class QualityControl(object):
             algorithm.learn(markup_list)
             dist = list()
             for i in range(test_nums.shape[0]):
-                parser_result = algorithm.parse("../golden/google/" + str(test_nums[i]) + ".html")
+                with open("../golden/google/" + str(test_nums[i]) + ".html", "r") as file:
+                    string = file.read()
+                parser_result = algorithm.parse(string)
                 ideal_result = ideal_parser.parse("../golden/google/" + str(test_nums[i]) + ".json")
                 dist.append(self.metric.distance(parser_result, ideal_result))
             total += self.aggregator.aggregate(dist)
