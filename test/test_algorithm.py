@@ -1,7 +1,8 @@
 import unittest
-from google_parser import GoogleParser
-from primitive_algorithm import PrimitiveAlgorithm
+
 from parser_result import Component
+from parsers.google_parser import GoogleParser
+from primitive_algorithm import PrimitiveAlgorithm
 
 
 class TestAlgorithm(unittest.TestCase):

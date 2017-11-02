@@ -1,7 +1,8 @@
 from lxml import html
+
 from markup import MarkupSearchResult, FullPath, Markup, MarkupWizardImage
-from parser import Parser
-from ideal_parser import IdealParser
+from parsers.ideal_parser import IdealParser
+from parsers.parser import Parser
 
 
 class GoogleParser(Parser):

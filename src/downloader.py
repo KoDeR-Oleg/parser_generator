@@ -1,5 +1,4 @@
-import requests
-from google_parser_v2 import GoogleParser_v2
+from parsers.google_parser_v2 import GoogleParser_v2
 
 url = "https://www.google.com/search?q="
 suf_url = "&gs_l=psy-ab.3..0i67k1j0i131k1j0l2j0i131k1j0l2j0i131k1j0l2.829898.832060.0.832979.8.8.0.0.0.0.169.737.7j1.8.0....0...1.1.64.psy-ab..0.8.735...35i39k1.0.cGY3eIJaieU"

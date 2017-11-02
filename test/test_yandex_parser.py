@@ -1,8 +1,7 @@
 import unittest
-from yandex_parser import YandexParser
-from ideal_parser import IdealParser
-from parser_result import Component
-from markup import MarkupSearchResult, FullPath
+
+from parsers.ideal_parser import IdealParser
+from parsers.yandex_parser import YandexParser
 
 
 class TestYandexParser(unittest.TestCase):

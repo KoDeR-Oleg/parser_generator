@@ -1,8 +1,7 @@
 import unittest
-from google_parser import GoogleParser
-from ideal_parser import IdealParser
-from parser_result import Component
-from markup import MarkupSearchResult, FullPath
+
+from parsers.google_parser import GoogleParser
+from parsers.ideal_parser import IdealParser
 
 
 class TestGoogleParser(unittest.TestCase):

@@ -1,6 +1,7 @@
 from lxml import html
+
 from markup import MarkupSearchResult, FullPath, Markup, MarkupWizardImage
-from parser import Parser
+from parsers.parser import Parser
 
 
 class YandexParser(Parser):

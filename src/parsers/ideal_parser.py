@@ -1,8 +1,10 @@
-from lxml import html
-from parser import Parser
-from parser_result import ParserResult, Component
-from markup import Markup, MarkupSearchResult, MarkupWizardImage, FullPath
 import json
+
+from lxml import html
+
+from markup import Markup, MarkupSearchResult, MarkupWizardImage, FullPath
+from parser_result import ParserResult, Component
+from parsers.parser import Parser
 
 
 class IdealParser(Parser):

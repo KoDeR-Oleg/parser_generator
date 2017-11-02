@@ -1,7 +1,8 @@
 from lxml import html
-from markup import MarkupSearchResult, FullPath, MarkupWizardImage, Markup
-from ideal_parser import IdealParser
+
 from algorithm import Algorithm
+from markup import MarkupSearchResult, FullPath, MarkupWizardImage, Markup
+from parsers.ideal_parser import IdealParser
 
 
 class PrimitiveAlgorithm(Algorithm):

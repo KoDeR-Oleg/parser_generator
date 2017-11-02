@@ -1,6 +1,7 @@
 import numpy as np
-from google_parser_v2 import GoogleParser_v2
-from ideal_parser import IdealParser
+
+from parsers.google_parser_v2 import GoogleParser_v2
+from parsers.ideal_parser import IdealParser
 
 
 class QualityControl(object):
