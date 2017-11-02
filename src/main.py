@@ -1,9 +1,9 @@
 from avg_aggregator import AvgAggregator
-from metrics.levenstein_metric import LevensteinMetric
+from metrics.parser_result_levenstein_metric import ParserResultLevensteinMetric
 from primitive_algorithm import PrimitiveAlgorithm
 from quality_control import QualityControl
 
-metric = LevensteinMetric()
+metric = ParserResultLevensteinMetric()
 aggregator = AvgAggregator()
 
 algorithm = PrimitiveAlgorithm()
