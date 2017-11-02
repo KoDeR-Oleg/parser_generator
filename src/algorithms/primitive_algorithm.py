@@ -1,6 +1,6 @@
 from lxml import html
 
-from algorithm import Algorithm
+from algorithms.algorithm import Algorithm
 from markup import MarkupSearchResult, FullPath, MarkupWizardImage, Markup
 from parsers.ideal_parser import IdealParser
 
