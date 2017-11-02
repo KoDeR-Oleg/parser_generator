@@ -7,7 +7,7 @@ from parsers.ideal_parser import IdealParser
 
 class PrimitiveAlgorithm(Algorithm):
     def __init__(self):
-        self.sample_document = None
+        self.sample_search_result = None
         self.sample_wizard = None
         self.block_xpath = None
         self.document_xpath = None
@@ -107,7 +107,7 @@ class PrimitiveAlgorithm(Algorithm):
     def learn(self, markup_list):
         self.block_xpath = self.extract_xpath(markup_list[0].components[0].title.xpath)
         self.document_xpath = []
-        self.sample_document = None
+        self.sample_search_result = None
         self.wizard_xpath = []
         self.sample_wizard = None
         for markup in markup_list:
@@ -118,7 +118,7 @@ class PrimitiveAlgorithm(Algorithm):
                                                                 self.extract_xpath(component.snippet.xpath))
                     if self.document_xpath == []:
                         self.document_xpath = self.extract_xpath(component.title.xpath)
-                        self.sample_document = component
+                        self.sample_search_result = component
                     else:
                         self.document_xpath = self.great_common_prefix(self.document_xpath,
                                                                        self.extract_xpath(component.title.xpath))
@@ -144,7 +144,7 @@ class PrimitiveAlgorithm(Algorithm):
         block_list = tree.xpath(self.block_xpath)
         for block in block_list:
             if len(block.xpath("." + self.document_xpath)) > 0:
-                result = self.parse_document(block, self.block_xpath, self.sample_document)
+                result = self.parse_document(block, self.block_xpath, self.sample_search_result)
                 result_markup.add(result)
             elif len(block.xpath("." + self.wizard_xpath)) > 0:
                 result = self.parse_wizard_image(block, self.block_xpath, self.sample_wizard)
