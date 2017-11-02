@@ -1,3 +1,9 @@
-class MetricAggregator(object):
+from abc import ABCMeta, abstractmethod
+
+
+class MetricAggregator:
+    __metaclass__ = ABCMeta
+
+    @abstractmethod
     def aggregate(self, lst):
-        return None
+        """Агрегация результатов"""
