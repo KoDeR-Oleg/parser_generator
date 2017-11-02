@@ -1,8 +1,7 @@
 from lxml import html
 
 from algorithms.algorithm import Algorithm
-from markup import MarkupSearchResult, FullPath, MarkupWizardImage, Markup
-from parsers.ideal_parser import IdealParser
+from parser_result import ParserResult, Component
 
 
 class PrimitiveAlgorithm(Algorithm):
@@ -63,27 +62,41 @@ class PrimitiveAlgorithm(Algorithm):
                 common_list.append((xpath1[i][0], 0))
         return common_list
 
-    def parse_document(self, element, block_xpath, sample):
-        document = MarkupSearchResult()
-        document.alignment = "LEFT"
+    def get_attr(self, tags, attr):
+        if len(tags) == 0:
+            return ""
+        tag = tags[0]
+        attrs = ["href", "title", "style", "src"]
+        if attr in attrs:
+            if attr == "style":
+                return tag.get("style").split("//")[1][:-2]
+            return tag.get(attr)
+        text = ""
+        for i in tag.itertext():
+            text += i
+        return text
+
+    def parse_search_result(self, element, block_xpath, sample):
+        search_result = Component()
+        search_result.alignment = "LEFT"
 
         block_xpath = self.extract_xpath(block_xpath)
 
         page_url_xpath = self.extract_xpath(sample.page_url.xpath)[len(block_xpath):]
-        document.page_url = FullPath(self.get_path(element) + self.combine_xpath(page_url_xpath), sample.page_url.attr)
+        search_result.page_url = self.get_attr(element.xpath(self.combine_xpath(page_url_xpath)), sample.page_url.attr)
 
         title_xpath = self.extract_xpath(sample.title.xpath)[len(block_xpath):]
-        document.title = FullPath(self.get_path(element) + self.combine_xpath(title_xpath), sample.title.attr)
+        search_result.title = self.get_attr(element.xpath(self.combine_xpath(title_xpath)), sample.title.attr)
 
         snippet_xpath = self.extract_xpath(sample.snippet.xpath)[len(block_xpath):]
-        document.snippet = FullPath(self.get_path(element) + self.combine_xpath(snippet_xpath), sample.snippet.attr)
+        search_result.snippet = self.get_attr(element.xpath(self.combine_xpath(snippet_xpath)), sample.snippet.attr)
 
         view_url_xpath = self.extract_xpath(sample.view_url.xpath)[len(block_xpath):]
-        document.view_url = FullPath(self.get_path(element) + self.combine_xpath(view_url_xpath), sample.view_url.attr)
-        return document
+        search_result.view_url = self.get_attr(element.xpath(self.combine_xpath(view_url_xpath)), sample.view_url.attr)
+        return search_result
 
     def parse_wizard_image(self, element, block_xpath, sample):
-        wizard = MarkupWizardImage()
+        wizard = Component()
         wizard.alignment = "LEFT"
 
         block_xpath = self.extract_xpath(block_xpath)
@@ -95,13 +108,13 @@ class PrimitiveAlgorithm(Algorithm):
 
         img_list = element.xpath("." + inner_xpath)
         for img in img_list:
-            wizard.media_links.append(FullPath(self.get_path(img), sample.media_links[0].attr))
+            wizard.media_links = self.get_attr(img, sample.media_links[0].attr)
 
         page_url_xpath = self.extract_xpath(sample.page_url.xpath)[len(block_xpath):]
-        wizard.page_url = FullPath(self.get_path(element) + self.combine_xpath(page_url_xpath), sample.page_url.attr)
+        wizard.page_url = self.get_attr(element.xpath(self.combine_xpath(page_url_xpath)), sample.page_url.attr)
 
         title_xpath = self.extract_xpath(sample.title.xpath)[len(block_xpath):]
-        wizard.title = FullPath(self.get_path(element) + self.combine_xpath(title_xpath), sample.title.attr)
+        wizard.title = self.get_attr(element.xpath(self.combine_xpath(title_xpath)), sample.title.attr)
         return wizard
 
     def learn(self, markup_list):
@@ -135,20 +148,17 @@ class PrimitiveAlgorithm(Algorithm):
         self.block_xpath = self.combine_xpath(self.block_xpath)
         return self
 
-    def parse(self, file_name):
-        with open(file_name, "r") as file:
-            tree = html.document_fromstring(file.read())
-        result_markup = Markup()
-        result_markup.file = file_name
+    def parse(self, string):
+        tree = html.document_fromstring(string)
+        parser_result = ParserResult()
 
         block_list = tree.xpath(self.block_xpath)
         for block in block_list:
             if len(block.xpath("." + self.document_xpath)) > 0:
-                result = self.parse_document(block, self.block_xpath, self.sample_search_result)
-                result_markup.add(result)
+                result = self.parse_search_result(block, self.block_xpath, self.sample_search_result)
+                parser_result.add(result)
             elif len(block.xpath("." + self.wizard_xpath)) > 0:
                 result = self.parse_wizard_image(block, self.block_xpath, self.sample_wizard)
-                result_markup.add(result)
+                parser_result.add(result)
 
-        ideal = IdealParser()
-        return ideal.get_substitution(result_markup)
+        return parser_result
