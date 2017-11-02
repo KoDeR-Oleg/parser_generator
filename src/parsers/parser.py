@@ -1,7 +1,7 @@
 from abc import ABCMeta, abstractmethod
 
 
-class Parser(object):
+class Parser:
     __metaclass__ = ABCMeta
 
     @abstractmethod
