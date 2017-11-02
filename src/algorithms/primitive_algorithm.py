@@ -41,8 +41,10 @@ class PrimitiveAlgorithm(Algorithm):
                 extract_list[i] = (tlist[0], int(tlist[1][:-1]))
         return extract_list
 
-    def combine_xpath(self, extract_list):
+    def combine_xpath(self, extract_list, relative=False):
         xpath = ""
+        if relative:
+            xpath = "."
         if len(extract_list) > 0 and extract_list[0][0] == "html":
             xpath = "/"
         for item in extract_list:
@@ -63,9 +65,13 @@ class PrimitiveAlgorithm(Algorithm):
         return common_list
 
     def get_attr(self, tags, attr):
-        if len(tags) == 0:
-            return ""
-        tag = tags[0]
+        if isinstance(tags, list):
+            if len(tags) == 0:
+                return ""
+            else:
+                tag = tags[0]
+        else:
+            tag = tags
         attrs = ["href", "title", "style", "src"]
         if attr in attrs:
             if attr == "style":
@@ -78,25 +84,28 @@ class PrimitiveAlgorithm(Algorithm):
 
     def parse_search_result(self, element, block_xpath, sample):
         search_result = Component()
+        search_result.type = "SEARCH_RESULT"
         search_result.alignment = "LEFT"
 
         block_xpath = self.extract_xpath(block_xpath)
 
         page_url_xpath = self.extract_xpath(sample.page_url.xpath)[len(block_xpath):]
-        search_result.page_url = self.get_attr(element.xpath(self.combine_xpath(page_url_xpath)), sample.page_url.attr)
+        search_result.page_url = self.get_attr(element.xpath(self.combine_xpath(page_url_xpath, True)), sample.page_url.attr)
 
         title_xpath = self.extract_xpath(sample.title.xpath)[len(block_xpath):]
-        search_result.title = self.get_attr(element.xpath(self.combine_xpath(title_xpath)), sample.title.attr)
+        search_result.title = self.get_attr(element.xpath(self.combine_xpath(title_xpath, True)), sample.title.attr)
 
         snippet_xpath = self.extract_xpath(sample.snippet.xpath)[len(block_xpath):]
-        search_result.snippet = self.get_attr(element.xpath(self.combine_xpath(snippet_xpath)), sample.snippet.attr)
+        search_result.snippet = self.get_attr(element.xpath(self.combine_xpath(snippet_xpath, True)), sample.snippet.attr)
 
         view_url_xpath = self.extract_xpath(sample.view_url.xpath)[len(block_xpath):]
-        search_result.view_url = self.get_attr(element.xpath(self.combine_xpath(view_url_xpath)), sample.view_url.attr)
+        search_result.view_url = self.get_attr(element.xpath(self.combine_xpath(view_url_xpath, True)), sample.view_url.attr)
         return search_result
 
     def parse_wizard_image(self, element, block_xpath, sample):
         wizard = Component()
+        wizard.type = "WIZARD"
+        wizard.wizard_type = "WIZARD_IMAGE"
         wizard.alignment = "LEFT"
 
         block_xpath = self.extract_xpath(block_xpath)
@@ -104,17 +113,18 @@ class PrimitiveAlgorithm(Algorithm):
         inner_xpath = self.extract_xpath(sample.media_links[0].xpath)
         for img in sample.media_links:
             inner_xpath = self.great_common_prefix(inner_xpath, self.extract_xpath(img.xpath))
-        inner_xpath = self.combine_xpath(inner_xpath[len(block_xpath):])
+        inner_xpath = self.combine_xpath(inner_xpath[len(block_xpath):], True)
 
-        img_list = element.xpath("." + inner_xpath)
+        wizard.media_links = list()
+        img_list = element.xpath(inner_xpath)
         for img in img_list:
-            wizard.media_links = self.get_attr(img, sample.media_links[0].attr)
+            wizard.media_links.append(self.get_attr(img, sample.media_links[0].attr))
 
         page_url_xpath = self.extract_xpath(sample.page_url.xpath)[len(block_xpath):]
-        wizard.page_url = self.get_attr(element.xpath(self.combine_xpath(page_url_xpath)), sample.page_url.attr)
+        wizard.page_url = self.get_attr(element.xpath(self.combine_xpath(page_url_xpath, True)), sample.page_url.attr)
 
         title_xpath = self.extract_xpath(sample.title.xpath)[len(block_xpath):]
-        wizard.title = self.get_attr(element.xpath(self.combine_xpath(title_xpath)), sample.title.attr)
+        wizard.title = self.get_attr(element.xpath(self.combine_xpath(title_xpath, True)), sample.title.attr)
         return wizard
 
     def learn(self, markup_list):
@@ -154,10 +164,10 @@ class PrimitiveAlgorithm(Algorithm):
 
         block_list = tree.xpath(self.block_xpath)
         for block in block_list:
-            if len(block.xpath("." + self.document_xpath)) > 0:
+            if len(block.xpath("." + self.document_xpath)) > 0 and self.sample_search_result is not None:
                 result = self.parse_search_result(block, self.block_xpath, self.sample_search_result)
                 parser_result.add(result)
-            elif len(block.xpath("." + self.wizard_xpath)) > 0:
+            elif len(block.xpath("." + self.wizard_xpath)) > 0 and self.sample_wizard is not None:
                 result = self.parse_wizard_image(block, self.block_xpath, self.sample_wizard)
                 parser_result.add(result)
 
