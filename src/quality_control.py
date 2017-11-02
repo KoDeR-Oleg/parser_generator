@@ -22,13 +22,13 @@ class QualityControl(object):
             parser = GoogleParser_v2()
             markup_list = list()
             for i in range(learn_nums.shape[0]):
-                markup_list.append(parser.extract_markup("../google/golden/" + str(learn_nums[i]) + ".html"))
+                markup_list.append(parser.extract_markup("../golden/google/" + str(learn_nums[i]) + ".html"))
 
             algorithm.learn(markup_list)
             dist = list()
             for i in range(test_nums.shape[0]):
-                parser_result = algorithm.parse("../google/golden/" + str(test_nums[i]) + ".html")
-                ideal_result = ideal_parser.parse("../google/golden/" + str(test_nums[i]) + ".json")
+                parser_result = algorithm.parse("../golden/google/" + str(test_nums[i]) + ".html")
+                ideal_result = ideal_parser.parse("../golden/google/" + str(test_nums[i]) + ".json")
                 dist.append(self.metric.distance(parser_result, ideal_result))
             total += self.aggregator.aggregate(dist)
 
