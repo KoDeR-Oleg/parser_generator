@@ -1,25 +1,13 @@
+from abc import ABCMeta, abstractmethod
+
+
 class Parser(object):
-    @staticmethod
-    def get_index(parent, tag):
-        index = 1
-        for child in parent.iterchildren():
-            if child == tag:
-                return index
-            if child.tag == tag.tag:
-                index += 1
-        return None
+    __metaclass__ = ABCMeta
 
-    @staticmethod
-    def get_path(element):
-        path = ""
-        while element.tag != "html":
-            path = "/" + element.tag + "[" + str(Parser.get_index(element.getparent(), element)) + "]" + path
-            element = element.getparent()
-        path = "//html" + path
-        return path
-
+    @abstractmethod
     def extract_markup(self, file_name):
-        pass
+        """Получение разметки файла"""
 
+    @abstractmethod
     def parse(self, file_name):
-        pass
+        """Получение ParserResult из строки"""

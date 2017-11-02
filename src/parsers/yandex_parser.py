@@ -5,13 +5,32 @@ from parsers.parser import Parser
 
 
 class YandexParser(Parser):
+    @staticmethod
+    def get_index(parent, tag):
+        index = 1
+        for child in parent.iterchildren():
+            if child == tag:
+                return index
+            if child.tag == tag.tag:
+                index += 1
+        return None
+
+    @staticmethod
+    def get_path(element):
+        path = ""
+        while element.tag != "html":
+            path = "/" + element.tag + "[" + str(YandexParser.get_index(element.getparent(), element)) + "]" + path
+            element = element.getparent()
+        path = "//html" + path
+        return path
+
     def parse_document(self, element):
         document = MarkupSearchResult()
         document.alignment = "LEFT"
-        document.page_url = FullPath(Parser.get_path(element) + "/h2/a", "href")
-        document.title = FullPath(Parser.get_path(element) + "/h2/a", "string")
-        document.snippet = FullPath(Parser.get_path(element) + "/div[2]/div[1]", "string")
-        document.view_url = FullPath(Parser.get_path(element) + "/div[1]/div[1]/a[last()]", "href")
+        document.page_url = FullPath(YandexParser.get_path(element) + "/h2/a", "href")
+        document.title = FullPath(YandexParser.get_path(element) + "/h2/a", "string")
+        document.snippet = FullPath(YandexParser.get_path(element) + "/div[2]/div[1]", "string")
+        document.view_url = FullPath(YandexParser.get_path(element) + "/div[1]/div[1]/a[last()]", "href")
         return document
 
     def parse_wizard_image(self, element):
@@ -19,9 +38,9 @@ class YandexParser(Parser):
         wizard.alignment = "LEFT"
         img_list = element.xpath("./div[2]/div/div/div/a")
         for img in img_list:
-            wizard.media_links.append(FullPath(Parser.get_path(img) + "/div[1]/div[1]", "style"))
-        wizard.page_url = FullPath(Parser.get_path(element) + "/div[1]/h2/a", "href")
-        wizard.title = FullPath(Parser.get_path(element) + "/div[1]/h2/a", "string")
+            wizard.media_links.append(FullPath(YandexParser.get_path(img) + "/div[1]/div[1]", "style"))
+        wizard.page_url = FullPath(YandexParser.get_path(element) + "/div[1]/h2/a", "href")
+        wizard.title = FullPath(YandexParser.get_path(element) + "/div[1]/h2/a", "string")
         return wizard
 
     def extract_markup(self, file_name):

@@ -6,13 +6,32 @@ from parsers.parser import Parser
 
 
 class GoogleParser_v2(Parser):
+    @staticmethod
+    def get_index(parent, tag):
+        index = 1
+        for child in parent.iterchildren():
+            if child == tag:
+                return index
+            if child.tag == tag.tag:
+                index += 1
+        return None
+
+    @staticmethod
+    def get_path(element):
+        path = ""
+        while element.tag != "html":
+            path = "/" + element.tag + "[" + str(GoogleParser_v2.get_index(element.getparent(), element)) + "]" + path
+            element = element.getparent()
+        path = "//html" + path
+        return path
+
     def parse_document(self, element):
         document = MarkupSearchResult()
         document.alignment = "LEFT"
-        document.page_url = FullPath(Parser.get_path(element) + "/h3/a", "href")
-        document.title = FullPath(Parser.get_path(element) + "/h3/a", "string")
-        document.snippet = FullPath(Parser.get_path(element) + "/div/span", "strings")
-        document.view_url = FullPath(Parser.get_path(element) + "/div/div/cite", "string")
+        document.page_url = FullPath(GoogleParser_v2.get_path(element) + "/h3/a", "href")
+        document.title = FullPath(GoogleParser_v2.get_path(element) + "/h3/a", "string")
+        document.snippet = FullPath(GoogleParser_v2.get_path(element) + "/div/span", "strings")
+        document.view_url = FullPath(GoogleParser_v2.get_path(element) + "/div/div/cite", "string")
         return document
 
     def parse_wizard_image(self, element):
@@ -20,9 +39,9 @@ class GoogleParser_v2(Parser):
         wizard.alignment = "LEFT"
         img_list = element.xpath("./div/a/img")
         for img in img_list:
-            wizard.media_links.append(FullPath(Parser.get_path(img), "src"))
-        wizard.page_url = FullPath(Parser.get_path(element) + "/h3/a", "href")
-        wizard.title = FullPath(Parser.get_path(element) + "/h3/a", "string")
+            wizard.media_links.append(FullPath(GoogleParser_v2.get_path(img), "src"))
+        wizard.page_url = FullPath(GoogleParser_v2.get_path(element) + "/h3/a", "href")
+        wizard.title = FullPath(GoogleParser_v2.get_path(element) + "/h3/a", "string")
         return wizard
 
     def extract_markup(self, file_name):
