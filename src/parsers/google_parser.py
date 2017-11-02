@@ -25,14 +25,14 @@ class GoogleParser(Parser):
         path = "//html" + path
         return path
 
-    def parse_document(self, element):
-        document = MarkupSearchResult()
-        document.alignment = "LEFT"
-        document.page_url = FullPath(GoogleParser.get_path(element) + "/h3/a", "href")
-        document.title = FullPath(GoogleParser.get_path(element) + "/h3/a", "string")
-        document.snippet = FullPath(GoogleParser.get_path(element) + "/div/div/span", "strings")
-        document.view_url = FullPath(GoogleParser.get_path(element) + "/div/div/div/cite", "string")
-        return document
+    def parse_search_result(self, element):
+        search_result = MarkupSearchResult()
+        search_result.alignment = "LEFT"
+        search_result.page_url = FullPath(GoogleParser.get_path(element) + "/h3/a", "href")
+        search_result.title = FullPath(GoogleParser.get_path(element) + "/h3/a", "string")
+        search_result.snippet = FullPath(GoogleParser.get_path(element) + "/div/div/span", "strings")
+        search_result.view_url = FullPath(GoogleParser.get_path(element) + "/div/div/div/cite", "string")
+        return search_result
 
     def parse_wizard_image(self, element):
         wizard = MarkupWizardImage()
@@ -53,7 +53,7 @@ class GoogleParser(Parser):
         for block in block_list:
             document_list = block.xpath("./div/div/div/div")
             for document in document_list:
-                result = self.parse_document(document)
+                result = self.parse_search_result(document)
                 markup.add(result)
             wizard_image_list = block.xpath("./div/g-section-with-header")
             for wizard_image in wizard_image_list:

@@ -24,14 +24,14 @@ class YandexParser(Parser):
         path = "//html" + path
         return path
 
-    def parse_document(self, element):
-        document = MarkupSearchResult()
-        document.alignment = "LEFT"
-        document.page_url = FullPath(YandexParser.get_path(element) + "/h2/a", "href")
-        document.title = FullPath(YandexParser.get_path(element) + "/h2/a", "string")
-        document.snippet = FullPath(YandexParser.get_path(element) + "/div[2]/div[1]", "string")
-        document.view_url = FullPath(YandexParser.get_path(element) + "/div[1]/div[1]/a[last()]", "href")
-        return document
+    def parse_rearch_result(self, element):
+        search_result = MarkupSearchResult()
+        search_result.alignment = "LEFT"
+        search_result.page_url = FullPath(YandexParser.get_path(element) + "/h2/a", "href")
+        search_result.title = FullPath(YandexParser.get_path(element) + "/h2/a", "string")
+        search_result.snippet = FullPath(YandexParser.get_path(element) + "/div[2]/div[1]", "string")
+        search_result.view_url = FullPath(YandexParser.get_path(element) + "/div[1]/div[1]/a[last()]", "href")
+        return search_result
 
     def parse_wizard_image(self, element):
         wizard = MarkupWizardImage()
@@ -53,7 +53,7 @@ class YandexParser(Parser):
             if len(block.xpath("./div[2]/div[2]")) > 0 and block.xpath("./div[2]/div[2]")[0].text == "реклама":
                 continue
             if len(block.xpath("./h2/a")) > 0:
-                result = self.parse_document(block)
+                result = self.parse_rearch_result(block)
                 markup.add(result)
             elif len(block.xpath("./div[1]/h2/a")) > 0 and len(block.xpath("./div[2]/div[@class='gallery']")):
                 result = self.parse_wizard_image(block)

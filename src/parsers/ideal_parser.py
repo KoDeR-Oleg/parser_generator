@@ -23,20 +23,20 @@ class IdealParser(Parser):
             text += i
         return text
 
-    def extract_document(self, document):
+    def extract_search_result(self, document):
         result = MarkupSearchResult()
         result.type = document['type']
         result.snippet = FullPath(**document['snippet'])
         result.view_url = FullPath(**document['view_url'])
         return result
 
-    def parse_document(self, document, result):
+    def parse_search_result(self, document, result):
         result.type = document['type']
         result.snippet = document['snippet']
         result.view_url = document['view_url']
         return result
 
-    def get_substitution_document(self, tree, document, subst):
+    def get_substitution_search_result(self, tree, document, subst):
         subst.type = document.type
         subst.snippet = self.get_from_page(tree, document.snippet)
         subst.view_url = self.get_from_page(tree, document.view_url)
@@ -70,7 +70,7 @@ class IdealParser(Parser):
     def extract_markup_component(self, component):
         result = None
         if component['type'] == "SEARCH_RESULT":
-            result = self.extract_document(component)
+            result = self.extract_search_result(component)
         if component['type'] == "WIZARD":
             result = self.extract_wizard(component)
         result.type = component['type']
@@ -86,7 +86,7 @@ class IdealParser(Parser):
         result.page_url = component['page_url']
         result.title = component['title']
         if result.type == "SEARCH_RESULT":
-            result = self.parse_document(component, result)
+            result = self.parse_search_result(component, result)
         if result.type == "WIZARD":
             result = self.parse_wizard(component, result)
         return result
@@ -98,7 +98,7 @@ class IdealParser(Parser):
         subst.page_url = self.get_from_page(tree, component.page_url)
         subst.title = self.get_from_page(tree, component.title)
         if component.type == "SEARCH_RESULT":
-            subst = self.get_substitution_document(tree, component, subst)
+            subst = self.get_substitution_search_result(tree, component, subst)
         if component.type == "WIZARD":
             subst = self.get_substitution_wizard(tree, component, subst)
         return subst
