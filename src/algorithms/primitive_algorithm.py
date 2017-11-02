@@ -35,10 +35,10 @@ class PrimitiveAlgorithm(Algorithm):
             extract_list = extract_list[1:]
         for i in range(len(extract_list)):
             if extract_list[i][-1] != "]":
-                extract_list[i] = (extract_list[i], 0)
+                extract_list[i] = (extract_list[i], "0")
             else:
                 tlist = extract_list[i].split("[")
-                extract_list[i] = (tlist[0], int(tlist[1][:-1]))
+                extract_list[i] = (tlist[0], tlist[1][:-1])
         return extract_list
 
     def combine_xpath(self, extract_list, relative=False):
@@ -49,7 +49,7 @@ class PrimitiveAlgorithm(Algorithm):
             xpath = "/"
         for item in extract_list:
             xpath += "/" + item[0]
-            if item[1] > 0:
+            if str(item[1]) > "0":
                 xpath += "[" + str(item[1]) + "]"
         return xpath
 
