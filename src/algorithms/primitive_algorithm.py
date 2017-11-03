@@ -7,7 +7,7 @@ from parser_result import ParserResult, Component
 class PrimitiveAlgorithm(Algorithm):
     def __init__(self):
         self.sample_search_result = None
-        self.sample_wizard = None
+        self.sample_wizard_image = None
         self.block_xpath = None
         self.document_xpath = None
         self.wizard_xpath = None
@@ -132,7 +132,7 @@ class PrimitiveAlgorithm(Algorithm):
         self.document_xpath = []
         self.sample_search_result = None
         self.wizard_xpath = []
-        self.sample_wizard = None
+        self.sample_wizard_image = None
         for markup in markup_list:
             for component in markup.components:
                 self.block_xpath = self.great_common_prefix(self.block_xpath, self.extract_xpath(component.title.xpath))
@@ -145,10 +145,10 @@ class PrimitiveAlgorithm(Algorithm):
                     else:
                         self.document_xpath = self.great_common_prefix(self.document_xpath,
                                                                        self.extract_xpath(component.title.xpath))
-                if component.type == "WIZARD":
+                if component.type == "WIZARD" and component.wizard_type == "WIZARD_IMAGE":
                     if self.wizard_xpath == []:
                         self.wizard_xpath = self.extract_xpath(component.title.xpath)
-                        self.sample_wizard = component
+                        self.sample_wizard_image = component
                     else:
                         self.wizard_xpath = self.great_common_prefix(self.wizard_xpath,
                                                                      self.extract_xpath(component.title.xpath))
@@ -167,8 +167,8 @@ class PrimitiveAlgorithm(Algorithm):
             if len(block.xpath("." + self.document_xpath)) > 0 and self.sample_search_result is not None:
                 result = self.parse_search_result(block, self.block_xpath, self.sample_search_result)
                 parser_result.add(result)
-            elif len(block.xpath("." + self.wizard_xpath)) > 0 and self.sample_wizard is not None:
-                result = self.parse_wizard_image(block, self.block_xpath, self.sample_wizard)
+            elif len(block.xpath("." + self.wizard_xpath)) > 0 and self.sample_wizard_image is not None:
+                result = self.parse_wizard_image(block, self.block_xpath, self.sample_wizard_image)
                 parser_result.add(result)
 
         return parser_result
