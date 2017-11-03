@@ -57,7 +57,7 @@ request_list = ["сбербанк+онлайн",
 for i in range(len(request_list)):
 
     full_url = url + request_list[i] + suf_url
-    file_name = "../google/golden/" + str(i)
+    file_name = "../../golden/google/" + str(i)
     """
     response = requests.get(full_url)
     with open(file_name + ".html", "w") as file:
