@@ -9,6 +9,13 @@
             "view_url": "https://www.sport-express.ru/"
         },
         {
+            "type": "WIZARD",
+            "alignment": "LEFT",
+            "page_url": "/search?q=%D1%81%D0%BF%D0%BE%D1%80%D1%82+%D1%8D%D0%BA%D1%81%D0%BF%D1%80%D0%B5%D1%81%D1%81&newwindow=1&dcr=0&ie=UTF-8&prmd=ivns&source=univ&tbm=nws&tbo=u&sa=X&ved=0ahUKEwil6rzUro_XAhVDGZoKHYHIB7AQqAIIKA",
+            "title": "Новости по запросу спорт экспресс",
+            "wizard_type": "WIZARD_NEWS"
+        },
+        {
             "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://vk.com/sportexpress&sa=U&ved=0ahUKEwil6rzUro_XAhVDGZoKHYHIB7AQFgguMAk&usg=AOvVaw2sXcgNGaT7uUX0yhKiDh1L",

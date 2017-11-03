@@ -46,6 +46,13 @@
             "view_url": "https://www.SmilePlanet.ru/russia/sankt-peterburg/"
         },
         {
+            "type": "WIZARD",
+            "alignment": "LEFT",
+            "page_url": "https://news.yandex.ru/yandsearch?text=санкт петербург&lr=225&rpt=nnews2&rel=rel&grhow=clutop&from=serp",
+            "title": "Санкт петербург — новости",
+            "wizard_type": "WIZARD_NEWS"
+        },
+        {
             "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://www.restbee.ru/world/azija/rossia/sankt-peterburg",

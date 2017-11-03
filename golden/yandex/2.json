@@ -41,6 +41,13 @@
             "view_url": "http://irecommend.ru/content/yandeks-market"
         },
         {
+            "type": "WIZARD",
+            "alignment": "LEFT",
+            "page_url": "https://news.yandex.ru/yandsearch?text=яндекс маркет&lr=225&rpt=nnews2&rel=rel&grhow=clutop&from=serp",
+            "title": "Яндекс маркет — новости",
+            "wizard_type": "WIZARD_NEWS"
+        },
+        {
             "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://www.facebook.com/yandex.market/",

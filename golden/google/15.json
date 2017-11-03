@@ -17,6 +17,13 @@
             "view_url": "https://weather.rambler.ru/v-sankt-peterburge/14-days/"
         },
         {
+            "type": "WIZARD",
+            "alignment": "LEFT",
+            "page_url": "/search?q=%D0%BF%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7+%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D1%8B&newwindow=1&dcr=0&ie=UTF-8&prmd=ivns&source=univ&tbm=nws&tbo=u&sa=X&ved=0ahUKEwj0pL3Yro_XAhWoIJoKHfJFBLUQqAIIIA",
+            "title": "Новости по запросу прогноз погоды",
+            "wizard_type": "WIZARD_NEWS"
+        },
+        {
             "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://www.gismeteo.ru/weather-sankt-peterburg-4079/weekly/&sa=U&ved=0ahUKEwj0pL3Yro_XAhWoIJoKHfJFBLUQFggpMAY&usg=AOvVaw3Zgt21u5kWaWtsMTkBD3L1",

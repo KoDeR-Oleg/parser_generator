@@ -37,6 +37,13 @@
             "title": "Поздравления с днем рождения — Tostun.Ru",
             "snippet": "На сайте Tostun.Ru собраны современные поздравления с днем рождения, в \nстихах и прозе, удивительно оригинальные и легко запоминающиеся.",
             "view_url": "tostun.ru/pozdrav/den-rozhdeniya/"
+        },
+        {
+            "type": "WIZARD",
+            "alignment": "LEFT",
+            "page_url": "/search?q=%D1%81+%D0%B4%D0%BD%D0%B5%D0%BC+%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F&newwindow=1&dcr=0&ie=UTF-8&prmd=ivns&source=univ&tbm=nws&tbo=u&sa=X&ved=0ahUKEwiWpOHaro_XAhVlJpoKHakDAGMQqAIIQQ",
+            "title": "Новости по запросу с днем рождения",
+            "wizard_type": "WIZARD_NEWS"
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "file": "../google/golden/12.html",
+    "file": "../../golden/google/12.html",
     "components": [
         {
             "type": "SEARCH_RESULT",
@@ -40,6 +40,19 @@
                 "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[2]/div/div/cite",
                 "attr": "string"
             }
+        },
+        {
+            "type": "WIZARD",
+            "alignment": "LEFT",
+            "page_url": {
+                "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[3]/div[1]/h3[1]/a[1]",
+                "attr": "href"
+            },
+            "title": {
+                "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[3]/div[1]/h3[1]/a[1]",
+                "attr": "string"
+            },
+            "wizard_type": "WIZARD_NEWS"
         },
         {
             "type": "SEARCH_RESULT",

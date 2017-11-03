@@ -17,6 +17,13 @@
             "view_url": "https://www.ivi.ru/new/movie-new"
         },
         {
+            "type": "WIZARD",
+            "alignment": "LEFT",
+            "page_url": "/search?q=%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B5%D1%82%D1%8C+%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B&newwindow=1&dcr=0&ie=UTF-8&prmd=ivns&source=univ&tbm=nws&tbo=u&sa=X&ved=0ahUKEwit9fHEpo_XAhVpIpoKHfmbAUIQqAIIIg",
+            "title": "Новости по запросу смотреть фильмы",
+            "wizard_type": "WIZARD_NEWS"
+        },
+        {
             "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://megogo.net/ru/films&sa=U&ved=0ahUKEwit9fHEpo_XAhVpIpoKHfmbAUIQFggrMAU&usg=AOvVaw2PnRG09ZzHzq10rolMw0bv",

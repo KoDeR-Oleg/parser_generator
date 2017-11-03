@@ -1,5 +1,5 @@
 {
-    "file": "../google/golden/16.html",
+    "file": "../../golden/google/16.html",
     "components": [
         {
             "type": "SEARCH_RESULT",

@@ -1,6 +1,13 @@
 {
     "components": [
         {
+            "type": "WIZARD",
+            "alignment": "LEFT",
+            "page_url": "/search?q=%D0%B3%D0%BE%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF+%D0%BD%D0%B0+%D1%81%D0%B5%D0%B3%D0%BE%D0%B4%D0%BD%D1%8F&newwindow=1&dcr=0&ie=UTF-8&prmd=ivns&source=univ&tbm=nws&tbo=u&sa=X&ved=0ahUKEwiH9Ofero_XAhWFAJoKHciGCesQqAIIFA",
+            "title": "Новости по запросу гороскоп на сегодня",
+            "wizard_type": "WIZARD_NEWS"
+        },
+        {
             "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://horo.mail.ru/&sa=U&ved=0ahUKEwiH9Ofero_XAhWFAJoKHciGCesQFggbMAI&usg=AOvVaw2fdHbg2xSwwNqmq-zNre7c",

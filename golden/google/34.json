@@ -25,6 +25,13 @@
             "view_url": "https://www.tripadvisor.ru/Tourism-g298507-St_Petersburg_Northwestern_ District-Vacations.html"
         },
         {
+            "type": "WIZARD",
+            "alignment": "LEFT",
+            "page_url": "/search?q=%D1%81%D0%B0%D0%BD%D0%BA%D1%82+%D0%BF%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3&newwindow=1&dcr=0&ie=UTF-8&prmd=ivnsm&source=univ&tbm=nws&tbo=u&sa=X&ved=0ahUKEwidnujfro_XAhVCb5oKHWt_A1sQqAIIKg",
+            "title": "Новости по запросу санкт петербург",
+            "wizard_type": "WIZARD_NEWS"
+        },
+        {
             "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://vk.com/o_st.petersburg&sa=U&ved=0ahUKEwidnujfro_XAhVCb5oKHWt_A1sQFggzMAY&usg=AOvVaw3vYZrV2SS4VNJLgxWvEfRG",

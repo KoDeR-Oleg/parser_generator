@@ -9,6 +9,13 @@
             "view_url": "http://www.online-probki.ru/probki-v-sankt-peterburge/joomla/yandeks-probki-v-sankt-peterburge-sejchas-v-rezhime-onlajn.html"
         },
         {
+            "type": "WIZARD",
+            "alignment": "LEFT",
+            "page_url": "https://news.yandex.ru/yandsearch?text=яндекс пробки&lr=225&rpt=nnews2&rel=rel&grhow=clutop&from=serp",
+            "title": "Яндекс пробки — новости",
+            "wizard_type": "WIZARD_NEWS"
+        },
+        {
             "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://yandex-probki.ru/saint-petersburg.htm",

@@ -62,6 +62,19 @@
             }
         },
         {
+            "type": "WIZARD",
+            "alignment": "LEFT",
+            "page_url": {
+                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[5]/div[1]/div[1]/h2/a[2]",
+                "attr": "href"
+            },
+            "title": {
+                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[5]/div[1]/div[1]/h2/a[2]",
+                "attr": "string"
+            },
+            "wizard_type": "WIZARD_NEWS"
+        },
+        {
             "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": {

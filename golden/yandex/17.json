@@ -25,6 +25,13 @@
             "view_url": "http://www.cbr.ru/"
         },
         {
+            "type": "WIZARD",
+            "alignment": "LEFT",
+            "page_url": "https://news.yandex.ru/yandsearch?text=курс доллара&lr=225&rpt=nnews2&rel=rel&grhow=clutop&from=serp",
+            "title": "Курс доллара — новости",
+            "wizard_type": "WIZARD_NEWS"
+        },
+        {
             "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://www.capitaloff.ru/kurs-obmena-dollara/?city=spb",
