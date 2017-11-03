@@ -51,6 +51,16 @@ class MarkupWizardImage(MarkupComponent):
         return self.__dict__ == other.__dict__
 
 
+class MarkupWizardNews(MarkupComponent):
+    def __init__(self):
+        MarkupComponent.__init__(self)
+        self.type = "WIZARD"
+        self.wizard_type = "WIZARD_NEWS"
+
+    def __eq__(self, other):
+        return self.__dict__ == other.__dict__
+
+
 class Markup(object):
     def __init__(self):
         self.file = None

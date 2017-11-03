@@ -1,6 +1,6 @@
 from lxml import html
 
-from markup import MarkupSearchResult, FullPath, Markup, MarkupWizardImage
+from markup import MarkupSearchResult, FullPath, Markup, MarkupWizardImage, MarkupWizardNews
 from parsers.ideal_parser import IdealParser
 from parsers.parser import Parser
 
@@ -44,6 +44,13 @@ class GoogleParser_v2(Parser):
         wizard.title = FullPath(GoogleParser_v2.get_path(element) + "/h3/a", "string")
         return wizard
 
+    def parse_wizard_news(self, element):
+        wizard = MarkupWizardNews()
+        wizard.alignment = "LEFT"
+        wizard.page_url = FullPath(GoogleParser_v2.get_path(element), "href")
+        wizard.title = FullPath(GoogleParser_v2.get_path(element), "string")
+        return wizard
+
     def extract_markup(self, file_name):
         with open(file_name, "r") as file:
             tree = html.document_fromstring(file.read())
@@ -61,6 +68,10 @@ class GoogleParser_v2(Parser):
                 if len(wizard_image.xpath("./div[1]/a")) > 0:
                     result = self.parse_wizard_image(wizard_image)
                     markup.add(result)
+            wizard_news_list = block.xpath("./div/h3/a")
+            for wizard_news in wizard_news_list:
+                result = self.parse_wizard_news(wizard_news)
+                markup.add(result)
         return markup
 
     def parse(self, file_name):

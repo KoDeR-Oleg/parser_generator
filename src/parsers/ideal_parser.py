@@ -59,12 +59,17 @@ class IdealParser(Parser):
             result.media_links.append(img)
         return result
 
-    def get_substitution_wizard(self, tree, wizard, subst):
+    def get_substitution_wizard_image(self, tree, wizard, subst):
         subst.type = wizard.type
         subst.wizard_type = wizard.wizard_type
         subst.media_links = list()
         for img in wizard.media_links:
             subst.media_links.append(self.get_from_page(tree, img))
+        return subst
+
+    def get_substitution_wizard_news(self, tree, wizard, subst):
+        subst.type = wizard.type
+        subst.wizard_type = wizard.wizard_type
         return subst
 
     def extract_markup_component(self, component):
@@ -100,7 +105,10 @@ class IdealParser(Parser):
         if component.type == "SEARCH_RESULT":
             subst = self.get_substitution_search_result(tree, component, subst)
         if component.type == "WIZARD":
-            subst = self.get_substitution_wizard(tree, component, subst)
+            if component.wizard_type == "WIZARD_IMAGE":
+                subst = self.get_substitution_wizard_image(tree, component, subst)
+            if component.wizard_type == "WIZARD_NEWS":
+                subst = self.get_substitution_wizard_news(tree, component, subst)
         return subst
 
     def get_substitution(self, markup, element=None):

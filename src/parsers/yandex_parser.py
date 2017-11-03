@@ -1,6 +1,6 @@
 from lxml import html
 
-from markup import MarkupSearchResult, FullPath, Markup, MarkupWizardImage
+from markup import MarkupSearchResult, FullPath, Markup, MarkupWizardImage, MarkupWizardNews
 from parsers.parser import Parser
 from parsers.ideal_parser import IdealParser
 
@@ -44,6 +44,13 @@ class YandexParser(Parser):
         wizard.title = FullPath(YandexParser.get_path(element) + "/div[1]/h2/a", "string")
         return wizard
 
+    def parse_wizard_news(self, element):
+        wizard = MarkupWizardNews()
+        wizard.alignment = "LEFT"
+        wizard.page_url = FullPath(YandexParser.get_path(element) + "/div[1]/h2/a[2]", "href")
+        wizard.title = FullPath(YandexParser.get_path(element) + "/div[1]/h2/a[2]", "string")
+        return wizard
+
     def extract_markup(self, file_name):
         with open(file_name, "r") as file:
             tree = html.document_fromstring(file.read())
@@ -57,8 +64,11 @@ class YandexParser(Parser):
             if len(block.xpath("./h2/a")) > 0:
                 result = self.parse_rearch_result(block)
                 markup.add(result)
-            elif len(block.xpath("./div[1]/h2/a")) > 0 and len(block.xpath("./div[2]/div[@class='gallery']")):
+            elif len(block.xpath("./div[1]/h2/a")) > 0 and len(block.xpath("./div[2]/div[@class='gallery']")) > 0:
                 result = self.parse_wizard_image(block)
+                markup.add(result)
+            elif len(block.xpath("./div[1]/h2/a")) > 1:
+                result = self.parse_wizard_news(block)
                 markup.add(result)
         return markup
 
