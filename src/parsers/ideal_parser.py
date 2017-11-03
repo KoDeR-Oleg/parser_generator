@@ -2,7 +2,7 @@ import json
 
 from lxml import html
 
-from markup import Markup, MarkupSearchResult, MarkupWizardImage, FullPath
+from markup import Markup, MarkupSearchResult, MarkupWizardImage, FullPath, MarkupWizardNews
 from parser_result import ParserResult, Component
 from parsers.parser import Parser
 
@@ -42,21 +42,36 @@ class IdealParser(Parser):
         subst.view_url = self.get_from_page(tree, document.view_url)
         return subst
 
-    def extract_wizard(self, wizard):
+    def extract_wizard_image(self, wizard):
         result = MarkupWizardImage()
-        result.type = wizard['type']
-        result.wizard_type = wizard['wizard_type']
         result.media_links = list()
         for img in wizard['media_links']:
             result.media_links.append(FullPath(**img))
         return result
 
+    def extract_wizard_news(self, wizard):
+        result = MarkupWizardNews()
+        return result
+
+    def extract_wizard(self, wizard):
+        result = None
+        if wizard['wizard_type'] == "WIZARD_IMAGE":
+            result = self.extract_wizard_image(wizard)
+        elif wizard['wizard_type'] == "WIZARD_NEWS":
+            result = self.extract_wizard_news(wizard)
+        result.type = wizard['type']
+        result.wizard_type = wizard['wizard_type']
+        return result
+
     def parse_wizard(self, wizard, result):
         result.type = wizard['type']
         result.wizard_type = wizard['wizard_type']
-        result.media_links = list()
-        for img in wizard['media_links']:
-            result.media_links.append(img)
+        if wizard['wizard_type'] == "WIZARD_IMAGE":
+            result.media_links = list()
+            for img in wizard['media_links']:
+                result.media_links.append(img)
+        elif wizard['wizard_type'] == "WIZARD_NEWS":
+            pass
         return result
 
     def get_substitution_wizard_image(self, tree, wizard, subst):
