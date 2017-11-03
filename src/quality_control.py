@@ -9,7 +9,7 @@ class QualityControl(object):
         self.aggregator = aggregator
 
     def cv(self, algorithm, path, n_iter=1):
-        np.random.seed(42)
+        np.random.seed(40)
         N = 50
         nums = np.arange(0, N, dtype=np.int)
         total = 0
