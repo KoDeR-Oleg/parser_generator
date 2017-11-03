@@ -30,12 +30,6 @@ class IdealParser(Parser):
         result.view_url = FullPath(**document['view_url'])
         return result
 
-    def parse_search_result(self, document, result):
-        result.type = document['type']
-        result.snippet = document['snippet']
-        result.view_url = document['view_url']
-        return result
-
     def get_substitution_search_result(self, tree, document, subst):
         subst.type = document.type
         subst.snippet = self.get_from_page(tree, document.snippet)
@@ -61,17 +55,6 @@ class IdealParser(Parser):
             result = self.extract_wizard_news(wizard)
         result.type = wizard['type']
         result.wizard_type = wizard['wizard_type']
-        return result
-
-    def parse_wizard(self, wizard, result):
-        result.type = wizard['type']
-        result.wizard_type = wizard['wizard_type']
-        if wizard['wizard_type'] == "WIZARD_IMAGE":
-            result.media_links = list()
-            for img in wizard['media_links']:
-                result.media_links.append(img)
-        elif wizard['wizard_type'] == "WIZARD_NEWS":
-            pass
         return result
 
     def get_substitution_wizard_image(self, tree, wizard, subst):
@@ -101,14 +84,7 @@ class IdealParser(Parser):
 
     def parse_component(self, component):
         result = Component()
-        result.type = component['type']
-        result.alignment = component['alignment']
-        result.page_url = component['page_url']
-        result.title = component['title']
-        if result.type == "SEARCH_RESULT":
-            result = self.parse_search_result(component, result)
-        if result.type == "WIZARD":
-            result = self.parse_wizard(component, result)
+        result.__dict__ = component
         return result
 
     def get_substitution_component(self, tree, component):
