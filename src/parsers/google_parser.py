@@ -1,8 +1,8 @@
 from lxml import html
 
 from markup import MarkupSearchResult, FullPath, Markup, MarkupWizardImage
-from parsers.ideal_parser import IdealParser
 from parsers.parser import Parser
+from parser_result import ParserResult, Component
 
 
 class GoogleParser(Parser):
@@ -25,7 +25,7 @@ class GoogleParser(Parser):
         path = "//html" + path
         return path
 
-    def parse_search_result(self, element):
+    def extract_search_result(self, element):
         search_result = MarkupSearchResult()
         search_result.alignment = "LEFT"
         search_result.page_url = FullPath(GoogleParser.get_path(element) + "/h3/a", "href")
@@ -34,7 +34,32 @@ class GoogleParser(Parser):
         search_result.view_url = FullPath(GoogleParser.get_path(element) + "/div/div/div/cite", "string")
         return search_result
 
-    def parse_wizard_image(self, element):
+    def get_from_page(self, element, xpath, attr):
+        tag = element.xpath(xpath)
+        if len(tag) == 0:
+            return ""
+        tag = tag[0]
+        attrs = ["href", "title", "style", "src"]
+        if attr in attrs:
+            if attr == "style":
+                return tag.get("style").split("//")[1][:-2]
+            return tag.get(attr)
+        text = ""
+        for i in tag.itertext():
+            text += i
+        return text
+
+    def parse_search_result(self, element):
+        search_result = Component()
+        search_result.type = "SEARCH_RESULT"
+        search_result.alignment = "LEFT"
+        search_result.page_url = self.get_from_page(element, "./h3/a", "href")
+        search_result.title = self.get_from_page(element, "./h3/a", "string")
+        search_result.snippet = self.get_from_page(element, "./div/div/span", "string")
+        search_result.view_url = self.get_from_page(element, "./div/div/div/cite", "string")
+        return search_result
+
+    def extract_wizard_image(self, element):
         wizard = MarkupWizardImage()
         wizard.alignment = "LEFT"
         img_list = element.xpath("./div[2]/div/div/div/div/div/div/div/div/div/a/g-img/img")
@@ -42,6 +67,19 @@ class GoogleParser(Parser):
             wizard.media_links.append(FullPath(GoogleParser.get_path(img), "title"))
         wizard.page_url = FullPath(GoogleParser.get_path(element) + "/div[1]/h3/a", "href")
         wizard.title = FullPath(GoogleParser.get_path(element) + "/div[1]/h3/a", "string")
+        return wizard
+
+    def parse_wizard_image(self, element):
+        wizard = Component()
+        wizard.type = "WIZARD"
+        wizard.wizard_type = "WIZARD_IMAGE"
+        wizard.alignment = "LEFT"
+        img_list = element.xpath("./div[2]/div/div/div/div/div/div/div/div/div/a/g-img/img")
+        wizard.media_links = list()
+        for img in img_list:
+            wizard.media_links.append(self.get_from_page(img, ".", "title"))
+        wizard.page_url = self.get_from_page(element, "./div[1]/h3/a", "href")
+        wizard.title = self.get_from_page(element, "./div[1]/h3/a", "string")
         return wizard
 
     def extract_markup(self, file_name):
@@ -53,15 +91,27 @@ class GoogleParser(Parser):
         for block in block_list:
             document_list = block.xpath("./div/div/div/div")
             for document in document_list:
-                result = self.parse_search_result(document)
+                result = self.extract_search_result(document)
                 markup.add(result)
             wizard_image_list = block.xpath("./div/g-section-with-header")
             for wizard_image in wizard_image_list:
                 if len(wizard_image.xpath("./div[1]/h3/a")) > 0:
-                    result = self.parse_wizard_image(wizard_image)
+                    result = self.extract_wizard_image(wizard_image)
                     markup.add(result)
         return markup
 
-    def parse(self, file_name):
-        ideal = IdealParser()
-        return ideal.get_substitution(self.extract_markup(file_name))
+    def parse(self, string):
+        tree = html.document_fromstring(string)
+        parser_result = ParserResult()
+        block_list = tree.xpath("//html/body/div[7]/div[3]/div[10]/div[1]/div[2]/div/div[2]/div[2]/div/div/div/div")
+        for block in block_list:
+            document_list = block.xpath("./div/div/div/div")
+            for document in document_list:
+                result = self.parse_search_result(document)
+                parser_result.add(result)
+            wizard_image_list = block.xpath("./div/g-section-with-header")
+            for wizard_image in wizard_image_list:
+                if len(wizard_image.xpath("./div[1]/h3/a")) > 0:
+                    result = self.parse_wizard_image(wizard_image)
+                    parser_result.add(result)
+        return parser_result

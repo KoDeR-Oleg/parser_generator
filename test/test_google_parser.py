@@ -170,20 +170,18 @@ class TestGoogleParser(unittest.TestCase):
 
     def test_regress_on_page1(self):
         parser = GoogleParser()
-        ideal = IdealParser()
-        markup = parser.extract_markup("test/google/2/1.html")
-        markup.file = "test/google/2/1.html"
-        search_result = ideal.get_substitution(markup)
+        with open("test/google/2/1.html", "r") as file:
+            string = file.read()
+        search_result = parser.parse(string)
         with open("test/google/2/1.json", "r") as file:
             expected_string = file.read()
         self.assertEqual(str(search_result), expected_string)
 
     def test_regress_on_page2(self):
         parser = GoogleParser()
-        ideal = IdealParser()
-        markup = parser.extract_markup("test/google/2/2.html")
-        markup.file = "test/google/2/2.html"
-        search_result = ideal.get_substitution(markup)
+        with open("test/google/2/2.html", "r") as file:
+            string = file.read()
+        search_result = parser.parse(string)
         with open("test/google/2/2.json", "r") as file:
             expected_string = file.read()
         self.assertEqual(str(search_result), expected_string)

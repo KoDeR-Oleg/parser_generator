@@ -123,20 +123,16 @@ class TestYandexParser(unittest.TestCase):
 
     def test_regress_on_page1(self):
         parser = YandexParser()
-        ideal = IdealParser()
-        markup = parser.extract_markup("test/yandex/1.html")
-        markup.file = "test/yandex/1.html"
-        search_result = ideal.get_substitution(markup)
+        with open("test/yandex/1.html", "r") as file:
+            search_result = parser.parse(file.read())
         with open("test/yandex/1.json", "r") as file:
             expected_string = file.read()
         self.assertEqual(str(search_result), expected_string)
 
     def test_regress_on_page2(self):
         parser = YandexParser()
-        ideal = IdealParser()
-        markup = parser.extract_markup("test/yandex/2.html")
-        markup.file = "test/yandex/2.html"
-        search_result = ideal.get_substitution(markup)
+        with open("test/yandex/2.html", "r") as file:
+            search_result = parser.parse(file.read())
         with open("test/yandex/2.json", "r") as file:
             expected_string = file.read()
         self.assertEqual(str(search_result), expected_string)
