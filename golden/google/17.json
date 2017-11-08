@@ -1,83 +1,94 @@
 {
     "components": [
         {
-            "type": "WIZARD",
             "alignment": "LEFT",
             "page_url": "/search?q=%D0%BA%D1%83%D1%80%D1%81+%D0%B4%D0%BE%D0%BB%D0%BB%D0%B0%D1%80%D0%B0&newwindow=1&dcr=0&ie=UTF-8&prmd=ivns&source=univ&tbm=nws&tbo=u&sa=X&ved=0ahUKEwjN3J3Zro_XAhUsD5oKHe65ASkQqAIIFA",
+            "py/object": "parser_result.Component",
             "title": "Новости по запросу курс доллара",
+            "type": "WIZARD",
             "wizard_type": "WIZARD_NEWS"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://finance.rambler.ru/currencies/USD/&sa=U&ved=0ahUKEwjN3J3Zro_XAhUsD5oKHe65ASkQFggdMAQ&usg=AOvVaw2vsGbhXdRDRdoMU_dTCJCe",
-            "title": "Курс доллара США (USD) по ЦБ на сегодня и завтра, выгодный ...",
+            "py/object": "parser_result.Component",
             "snippet": "Официальный курс доллара США (USD) ЦБ РФ к рублю на сегодня и завтра. \nКурс доллара онлайн на биржах ММВБ и Форекс. Выгодный курс обмена ...",
+            "title": "Курс доллара США (USD) по ЦБ на сегодня и завтра, выгодный ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://finance.rambler.ru/currencies/USD/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://www.sberometer.ru/&sa=U&ved=0ahUKEwjN3J3Zro_XAhUsD5oKHe65ASkQFggoMAU&usg=AOvVaw1USXQyaC_w-UjGe28_8mRm",
-            "title": "Сберометр - курс доллара и евро на завтра",
+            "py/object": "parser_result.Component",
             "snippet": "Сберометр - инструмент для измерения и сохранения сбережений: советы, \nтекущие курсы валют, курс доллара и евро на завтра, официальные курсы ...",
+            "title": "Сберометр - курс доллара и евро на завтра",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.sberometer.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://www.forexpf.ru/currency_usd.asp&sa=U&ved=0ahUKEwjN3J3Zro_XAhUsD5oKHe65ASkQFggtMAY&usg=AOvVaw13eWLKcJoOzA4RsMG9wMxi",
-            "title": "Курс доллара онлайн | Курс доллара к рублю Forex ... - Forexpf.Ru",
+            "py/object": "parser_result.Component",
             "snippet": "Курс доллара - Официальный курс доллара ЦБ. Курсы доллара к евро, к \nрублю и к другим валютам на межбанковском валютном рынке.",
+            "title": "Курс доллара онлайн | Курс доллара к рублю Forex ... - Forexpf.Ru",
+            "type": "SEARCH_RESULT",
             "view_url": "www.forexpf.ru/currency_usd.asp"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://www.banki.ru/products/currency/cash/usd/sankt-peterburg/&sa=U&ved=0ahUKEwjN3J3Zro_XAhUsD5oKHe65ASkQFggzMAc&usg=AOvVaw0zMzRnQSr6l4kHg9h84U9V",
-            "title": "Курс доллара США в Санкт-Петербурге на сегодня, выгодный ...",
+            "py/object": "parser_result.Component",
             "snippet": "Выгодный курс покупки/продажи доллара США в Санкт-Петербурге на \nсегодня. Найдите лучший курс обмена доллара США в банках Санкт-\nПетербурга.",
+            "title": "Курс доллара США в Санкт-Петербурге на сегодня, выгодный ...",
+            "type": "SEARCH_RESULT",
             "view_url": "www.banki.ru/products/currency/.../sankt-peterburg/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://www.banki.ru/products/currency/cash/usd/moskva/&sa=U&ved=0ahUKEwjN3J3Zro_XAhUsD5oKHe65ASkQFgg5MAg&usg=AOvVaw3hKJEgUgV_Bkc_vsnHCBRq",
-            "title": "Курс доллара США в Москве на сегодня, выгодный обмен ...",
+            "py/object": "parser_result.Component",
             "snippet": "Курс доллара США в Москве на сегодня. Продажа, покупка доллара США в \nобменниках Москвы по выгодному курсу.",
+            "title": "Курс доллара США в Москве на сегодня, выгодный обмен ...",
+            "type": "SEARCH_RESULT",
             "view_url": "www.banki.ru/products/currency/cash/usd/moskva/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://www.topnews.ru/news_id_110185.html&sa=U&ved=0ahUKEwjN3J3Zro_XAhUsD5oKHe65ASkQFgg_MAk&usg=AOvVaw24gIkgUCcHtuGp6pUJoe-3",
-            "title": "Курс доллара на сегодня, 26 октября 2017: рубль наконец-то ...",
+            "py/object": "parser_result.Component",
             "snippet": "16 ч. назад ... Курс валют на сегодня, 26 октября 2017: ЦБ РФ поднял курсы доллара и евро \nна сегодня.",
+            "title": "Курс доллара на сегодня, 26 октября 2017: рубль наконец-то ...",
+            "type": "SEARCH_RESULT",
             "view_url": "www.topnews.ru/news_id_110185.html"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://www.topnews.ru/news_id_110183.html&sa=U&ved=0ahUKEwjN3J3Zro_XAhUsD5oKHe65ASkQFghFMAo&usg=AOvVaw2UF3ag79iNJ3Gi_zkgDBip",
-            "title": "Курс доллара на сегодня, 26 октября 2017: Китай примет ...",
+            "py/object": "parser_result.Component",
             "snippet": "1 день назад ... Курс валют на сегодня, 26 октября 2017: ЦБ РФ поднял курсы доллара и евро \nна сегодня.",
+            "title": "Курс доллара на сегодня, 26 октября 2017: Китай примет ...",
+            "type": "SEARCH_RESULT",
             "view_url": "www.topnews.ru/news_id_110183.html"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://news.yandex.ru/quotes/1.html&sa=U&ved=0ahUKEwjN3J3Zro_XAhUsD5oKHe65ASkQFghLMAs&usg=AOvVaw2PchpqDScmgTeYjwTObC6y",
-            "title": "Курс доллара США USD к российскому рублю по ЦБ РФ на ...",
+            "py/object": "parser_result.Component",
             "snippet": "График изменения курса доллара США в рублях по ЦБ РФ за неделю, месяц, \nквартал, год, всё время. Динамика, рост, падение, официальный курс USD ...",
+            "title": "Курс доллара США USD к российскому рублю по ЦБ РФ на ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://news.yandex.ru/quotes/1.html"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://rg.ru/2017/09/26/nazvany-kursy-dollara-i-evro-k-2018-godu.html&sa=U&ved=0ahUKEwjN3J3Zro_XAhUsD5oKHe65ASkQFghRMAw&usg=AOvVaw13b5Eh3tUDHvkNlJLlKWjj",
-            "title": "Названы курсы доллара и евро к 2018 году — Российская газета",
+            "py/object": "parser_result.Component",
             "snippet": "26 сен 2017 ... Экономисты рассчитали курсы валют к началу следующего года, Названы \nкурсы доллара и евро к 2018 году, Георгий Панин.",
+            "title": "Названы курсы доллара и евро к 2018 году — Российская газета",
+            "type": "SEARCH_RESULT",
             "view_url": "https://rg.ru/.../nazvany-kursy-dollara-i-evro-k-2018-godu.html"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

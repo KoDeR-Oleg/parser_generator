@@ -1,84 +1,95 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://sbi.sberbank.ru:9443/ic",
-            "title": "Sberbank Business Online Интернет-Клиент",
+            "py/object": "parser_result.Component",
             "snippet": "Подробнее о мерах безопасности при работе в Сбербанк Бизнес Онлайн можно узнать насайте Банка или впамятке.",
+            "title": "Sberbank Business Online Интернет-Клиент",
+            "type": "SEARCH_RESULT",
             "view_url": "https://sbi.sberbank.ru:9443/ic"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://www.sberbank.ru/ru/s_m_business/new_means/",
-            "title": "«Сбербанк» - Малому бизнесу - Сбербанк Бизнес Онлайн",
+            "py/object": "parser_result.Component",
             "snippet": "Сбербанк Бизнес Онлайн — это система дистанционного банковского обслуживания, предоставляющая возможность посредством стандартного...",
+            "title": "«Сбербанк» - Малому бизнесу - Сбербанк Бизнес Онлайн",
+            "type": "SEARCH_RESULT",
             "view_url": "http://www.sberbank.ru/ru/s_m_business/new_means/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://www.sberbank.ru/ru/legal/new_means/",
-            "title": "Корпоративным клиентам - Сбербанк Бизнес Онлайн",
+            "py/object": "parser_result.Component",
             "snippet": "Воспользоваться сервисом пользователи Сбербанк Бизнес Онлайн могут перейдя в раздел Услуги — E-Invoicing — Сервис проверки контрагентов.",
+            "title": "Корпоративным клиентам - Сбербанк Бизнес Онлайн",
+            "type": "SEARCH_RESULT",
             "view_url": "http://www.sberbank.ru/ru/legal/new_means/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://data.sberbank.ru/moscow/ru/s_m_business/bankingservice/remoteservice/new_means/",
-            "title": "«Сбербанк России» - Сбербанк Бизнес Онлайн",
+            "py/object": "parser_result.Component",
             "snippet": "Сбербанк Бизнес Онлайн — это система дистанционного банковского обслуживания, предоставляющая возможность посредством стандартного...",
+            "title": "«Сбербанк России» - Сбербанк Бизнес Онлайн",
+            "type": "SEARCH_RESULT",
             "view_url": "http://data.sberbank.ru/moscow/ru/s_m_business/bankingservice/remoteservice/new_means/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://otzovik.com/reviews/sberbank_biznes_onlayn/",
-            "title": "Отзывы о Сбербанк бизнес онлайн",
+            "py/object": "parser_result.Component",
             "snippet": "Сбербанк бизнес онлайн - отзывы",
+            "title": "Отзывы о Сбербанк бизнес онлайн",
+            "type": "SEARCH_RESULT",
             "view_url": "http://otzovik.com/reviews/sberbank_biznes_onlayn/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://sberon.com/sberbank-biznes-onlajn-podrobnoe-opisanie",
-            "title": "Сбербанк Бизнес Онлайн. Подробное описание...",
+            "py/object": "parser_result.Component",
             "snippet": "Как создать платежное поручение в Сбербанк Бизнес Онлайн. Сбербанк Бизнес Онлайн: статусы во время обработки документации.",
+            "title": "Сбербанк Бизнес Онлайн. Подробное описание...",
+            "type": "SEARCH_RESULT",
             "view_url": "http://sberon.com/sberbank-biznes-onlajn-podrobnoe-opisanie"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://investorschool.ru/sberbank-biznes-onlajn-instrukciya",
-            "title": "Сбербанк Бизнес онлайн: инструкция",
+            "py/object": "parser_result.Component",
             "snippet": "Что такое Сбербанк бизнес онлайн? Это интернет-банкинг для малого бизнеса – индивидуальных предпринимателей и юридических лиц.",
+            "title": "Сбербанк Бизнес онлайн: инструкция",
+            "type": "SEARCH_RESULT",
             "view_url": "http://investorschool.ru/sberbank-biznes-onlajn-instrukciya"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://www.Sravni.ru/banki/info/sberbank-biznes-onlajn/",
-            "title": "Сбербанк Бизнес Онлайн",
+            "py/object": "parser_result.Component",
             "snippet": "«Сбербанк Бизнес Онлайн» представляет собой уникальную дистанционную систему обслуживания для бизнеса.",
+            "title": "Сбербанк Бизнес Онлайн",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.Sravni.ru/banki/info/sberbank-biznes-onlajn/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://sbankin.com/sberbank-biznes-onlajn",
-            "title": "Сбербанк Бизнес ОнЛайн: вход в управление бизнесом...",
+            "py/object": "parser_result.Component",
             "snippet": "Сбербанк Бизнес Онлайн – сервис, который разработан специально для корпоративных клиентов.",
+            "title": "Сбербанк Бизнес ОнЛайн: вход в управление бизнесом...",
+            "type": "SEARCH_RESULT",
             "view_url": "http://sbankin.com/sberbank-biznes-onlajn"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://prosberbank.com/sberbank-online/sberbank-biznes-onlajn-instrukciya-polzovatelya",
-            "title": "Сбербанк Бизнес Онлайн вход в систему - интернет...",
+            "py/object": "parser_result.Component",
             "snippet": "Зайти в Сбербанк Бизнес Онлайн можно через официальный сайт по адресу www.sberbank.ru.",
+            "title": "Сбербанк Бизнес Онлайн вход в систему - интернет...",
+            "type": "SEARCH_RESULT",
             "view_url": "http://prosberbank.com/sberbank-online/sberbank-biznes-onlajn-instrukciya-polzovatelya"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

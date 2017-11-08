@@ -1,83 +1,94 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://weather.rambler.ru/v-sankt-peterburge/&sa=U&ved=0ahUKEwj0pL3Yro_XAhWoIJoKHfJFBLUQFggVMAE&usg=AOvVaw1yl7OXeZR5zT1RaTpSWCyA",
-            "title": "Погода в Санкт-Петербурге на сегодня – точный прогноз на день ...",
+            "py/object": "parser_result.Component",
             "snippet": "Подробный прогноз погоды в Санкт-Петербурге на сегодня с учетом \nвозможных изменений в течение дня: ветер, осадки, давление, влажность, ...",
+            "title": "Погода в Санкт-Петербурге на сегодня – точный прогноз на день ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://weather.rambler.ru/v-sankt-peterburge/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://weather.rambler.ru/v-sankt-peterburge/14-days/&sa=U&ved=0ahUKEwj0pL3Yro_XAhWoIJoKHfJFBLUQFggbMAI&usg=AOvVaw0HogKZTcqsf3T9CMX0xr5E",
-            "title": "Погода в Санкт-Петербурге на 14 дней – точный прогноз погоды ...",
+            "py/object": "parser_result.Component",
             "snippet": "Подробный прогноз погоды в Санкт-Петербурге на 14 дней: осадки, \nатмосферное давление, уровень влажности, скорость и направление ветра,\n ...",
+            "title": "Погода в Санкт-Петербурге на 14 дней – точный прогноз погоды ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://weather.rambler.ru/v-sankt-peterburge/14-days/"
         },
         {
-            "type": "WIZARD",
             "alignment": "LEFT",
             "page_url": "/search?q=%D0%BF%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7+%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D1%8B&newwindow=1&dcr=0&ie=UTF-8&prmd=ivns&source=univ&tbm=nws&tbo=u&sa=X&ved=0ahUKEwj0pL3Yro_XAhWoIJoKHfJFBLUQqAIIIA",
+            "py/object": "parser_result.Component",
             "title": "Новости по запросу прогноз погоды",
+            "type": "WIZARD",
             "wizard_type": "WIZARD_NEWS"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://www.gismeteo.ru/weather-sankt-peterburg-4079/weekly/&sa=U&ved=0ahUKEwj0pL3Yro_XAhWoIJoKHfJFBLUQFggpMAY&usg=AOvVaw3Zgt21u5kWaWtsMTkBD3L1",
-            "title": "GISMETEO: погода в Санкт-Петербурге на неделю — прогноз ...",
+            "py/object": "parser_result.Component",
             "snippet": "Погода в Санкт-Петербурге на неделю, прогноз погоды на 7 дней для \nнаселенного пункта Санкт-Петербург, Санкт-Петербург (город \nфедерального ...",
+            "title": "GISMETEO: погода в Санкт-Петербурге на неделю — прогноз ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.gismeteo.ru/weather-sankt...4079/weekly/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://www.gismeteo.ru/weather-moscow-4368/10-days/&sa=U&ved=0ahUKEwj0pL3Yro_XAhWoIJoKHfJFBLUQFgguMAc&usg=AOvVaw3biRN1Jm7tLpqv3KAqkMUK",
-            "title": "GISMETEO: погода в Москве на 10 дней — прогноз погоды на 10 ...",
+            "py/object": "parser_result.Component",
             "snippet": "Погода в Москве на 10 дней, прогноз погоды на 10 дней для населенного \nпункта Москва, Москва (город федерального значения), Россия.",
+            "title": "GISMETEO: погода в Москве на 10 дней — прогноз погоды на 10 ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.gismeteo.ru/weather-moscow.../10-days/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://yandex.ru/pogoda/saint-petersburg&sa=U&ved=0ahUKEwj0pL3Yro_XAhWoIJoKHfJFBLUQFggzMAg&usg=AOvVaw1eaxhRy5d6iyn1sqGCDs9F",
-            "title": "Прогноз погоды в Санкт-Петербурге на 10 дней — Яндекс.Погода",
+            "py/object": "parser_result.Component",
             "snippet": "Подробный прогноз погоды для Санкт-Петербурга на сегодня, завтра, \nнеделю, 10 дней, месяц. Температура воздуха и воды, осадки, давление и ...",
+            "title": "Прогноз погоды в Санкт-Петербурге на 10 дней — Яндекс.Погода",
+            "type": "SEARCH_RESULT",
             "view_url": "https://yandex.ru/pogoda/saint-petersburg"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://www.accuweather.com/ru/ru/saint-petersburg/295212/weather-forecast/295212&sa=U&ved=0ahUKEwj0pL3Yro_XAhWoIJoKHfJFBLUQFgg4MAk&usg=AOvVaw37PBC5eToml6vPUdysOfsw",
-            "title": "Санкт-Петербург: погода - Прогноз погоды AccuWeather для ...",
+            "py/object": "parser_result.Component",
             "snippet": "Санкт-Петербург, Россия. Погода. 0°C ... Карты · Спутник · Карты прогноза \nпогоды ... Санкт-Петербург: карта погоды - Поблизости. +- ...",
+            "title": "Санкт-Петербург: погода - Прогноз погоды AccuWeather для ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.accuweather.com/ru/ru/.../weather.../295212"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://www.accuweather.com/ru/ru/saint-petersburg/295212/hourly-weather-forecast/295212&sa=U&ved=0ahUKEwj0pL3Yro_XAhWoIJoKHfJFBLUQFgg9MAo&usg=AOvVaw27ph0dO4eRqhRwLfdlOulx",
-            "title": "Санкт-Петербург: почасовой прогноз - Прогноз погоды ...",
+            "py/object": "parser_result.Component",
             "snippet": "Темп. (°C), 1°, 0°, 0°, 0°, 0°, 0°, 0°, 0°. RealFeel®, -4°, -5°, -5°, -5°, -5°, -5°, -5°, -5\n°. Ветер (км/ч), 15 ВЮВ, 15 ВЮВ, 17 ВЮВ, 17 ВЮВ, 17 ВЮВ, 17 ВЮВ ...",
+            "title": "Санкт-Петербург: почасовой прогноз - Прогноз погоды ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.accuweather.com/ru/ru/...weather.../295212"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://meteoinfo.ru/forecasts5000/russia/leningrad-region&sa=U&ved=0ahUKEwj0pL3Yro_XAhWoIJoKHfJFBLUQFghCMAs&usg=AOvVaw0rEHLrCCoslQKiUXf5Ho6M",
-            "title": "Санкт-Петербург - прогноз погоды на неделю от ...",
+            "py/object": "parser_result.Component",
             "snippet": "Прогноз погоды для городов России и Мира. Предупреждения об опасных и \n... Комментарий к погоде, Переменная облачность, небольшие осадки ...",
+            "title": "Санкт-Петербург - прогноз погоды на неделю от ...",
+            "type": "SEARCH_RESULT",
             "view_url": "meteoinfo.ru/forecasts5000/russia/leningrad-region"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://www.foreca.ru/Russia/Saint_Petersburg&sa=U&ved=0ahUKEwj0pL3Yro_XAhWoIJoKHfJFBLUQFghHMAw&usg=AOvVaw3j37f4CNz-gNJF6ibOdf4I",
-            "title": "Прогноз погоды Санкт-Петербург - Foreca.ru",
+            "py/object": "parser_result.Component",
             "snippet": "Закат солнца: 17:20. Долгота дня: 9 ч 16 мин. В 26/10 11:30. Станция \nнаблюдений Санкт-Петербург Фактическая погода, Санкт-Петербург > ...",
+            "title": "Прогноз погоды Санкт-Петербург - Foreca.ru",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.foreca.ru/Russia/Saint_Petersburg"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

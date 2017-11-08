@@ -1,9 +1,4 @@
-import json
-
-
-class Encoder(json.JSONEncoder):
-    def default(self, o):
-        return o.__dict__
+import jsonpickle
 
 
 class Component(object):
@@ -14,7 +9,8 @@ class Component(object):
         self.title = None
 
     def __str__(self):
-        return json.dumps(self, cls=Encoder, ensure_ascii=False)
+        jsonpickle.set_encoder_options('simplejson', sort_keys=True, indent=4, ensure_ascii=False)
+        return jsonpickle.encode(self)
 
     def __eq__(self, other):
         return self.__dict__ == other.__dict__
@@ -25,7 +21,8 @@ class ParserResult(object):
         self.components = list()
 
     def __str__(self):
-        return json.dumps(self, cls=Encoder, ensure_ascii=False, indent=4)
+        jsonpickle.set_encoder_options('simplejson', sort_keys=True, indent=4, ensure_ascii=False)
+        return jsonpickle.encode(self)
 
     def add(self, component):
         self.components.append(component)

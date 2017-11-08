@@ -1,91 +1,103 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://m.ok.ru/",
-            "title": "Добро пожаловать в Одноклассники!",
+            "py/object": "parser_result.Component",
             "snippet": "одноклассники. Логин, адрес почты или телефон. Пароль.",
+            "title": "Добро пожаловать в Одноклассники!",
+            "type": "SEARCH_RESULT",
             "view_url": "https://m.ok.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://www.odnoklassniki.ru/",
-            "title": "«Одноклассники.ru» — социальная сеть",
+            "py/object": "parser_result.Component",
             "snippet": "odnoklassniki.ru",
+            "title": "«Одноклассники.ru» — социальная сеть",
+            "type": "SEARCH_RESULT",
             "view_url": ""
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://pc4me.ru/odnoklassniki-mobilnaya-versiya-vhod.html",
-            "title": "“Одноклассники” мобильная версия – вход",
+            "py/object": "parser_result.Component",
             "snippet": "В последнее время становится популярной мобильная версия \" Одноклассников\" и именно вход через компьютер.",
+            "title": "“Одноклассники” мобильная версия – вход",
+            "type": "SEARCH_RESULT",
             "view_url": "http://pc4me.ru/odnoklassniki-mobilnaya-versiya-vhod.html"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://socialnie-seti.info/odnoklassniki/odnoklassniki-mobile-version/",
-            "title": "Вход в Одноклассники мобильная версия | Cоциальные...",
+            "py/object": "parser_result.Component",
             "snippet": "Возможности мобильной версии сайта Одноклассники. Возможности мобильной версии мало отличаются от той, что вы используете на своем...",
+            "title": "Вход в Одноклассники мобильная версия | Cоциальные...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://socialnie-seti.info/odnoklassniki/odnoklassniki-mobile-version/"
         },
         {
-            "type": "WIZARD",
             "alignment": "LEFT",
             "page_url": "https://news.yandex.ru/yandsearch?text=одноклассники.мобильная версия&lr=225&rpt=nnews2&rel=rel&grhow=clutop&from=serp",
+            "py/object": "parser_result.Component",
             "title": "Одноклассники.мобильная версия — новости",
+            "type": "WIZARD",
             "wizard_type": "WIZARD_NEWS"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://zatupila.ru/odnoklassniki-mobilnaja-versija.html",
-            "title": "Одноклассники мобильная версия – моя страница",
+            "py/object": "parser_result.Component",
             "snippet": "Одноклассники моя страница – мобильная версия. Чтобы войти на свою страницу, необходимо ввести в браузере сайт ok.ru.",
+            "title": "Одноклассники мобильная версия – моя страница",
+            "type": "SEARCH_RESULT",
             "view_url": "http://zatupila.ru/odnoklassniki-mobilnaja-versija.html"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://odnoklassnikihelp.com/odnoklassniki-mobilnaya-versiya-moya-stranica/",
-            "title": "Одноклассники мобильная версия",
+            "py/object": "parser_result.Component",
             "snippet": "Одноклассники не стали исключением: сначала была предложена мобильная версия сайта, затем появилось фирменное приложение...",
+            "title": "Одноклассники мобильная версия",
+            "type": "SEARCH_RESULT",
             "view_url": "http://odnoklassnikihelp.com/odnoklassniki-mobilnaya-versiya-moya-stranica/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://v-PC.ru/mobilnye-odnoklassniki-vxod-m-ok-ru.html",
-            "title": "Одноклассники мобильная версия вход на мою страницу",
+            "py/object": "parser_result.Component",
             "snippet": "Если Вы каждый раз ищите свою страничку в обычной или мобильной версии, ищите в поисковой строке Google или Yandex: мобильные одноклассники моя...",
+            "title": "Одноклассники мобильная версия вход на мою страницу",
+            "type": "SEARCH_RESULT",
             "view_url": "https://v-PC.ru/mobilnye-odnoklassniki-vxod-m-ok-ru.html"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://www.bolshoyvopros.ru/questions/107121-kak-vojti-v-mobilnye-odnoklassniki.html",
-            "title": "Мобильная версия Одноклассников",
+            "py/object": "parser_result.Component",
             "snippet": "Мобильная версия Одноклассников. Мобильные Одноклассники - это версия, созданная специально для использования с мобильного телефона.",
+            "title": "Мобильная версия Одноклассников",
+            "type": "SEARCH_RESULT",
             "view_url": "http://www.bolshoyvopros.ru/questions/107121-kak-vojti-v-mobilnye-odnoklassniki.html"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://odnoklassniki-helper.ru/%D0%BE%D0%B4%D0%BD%D0%BE%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BD%D0%B8%D0%BA%D0%B8-%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F/",
-            "title": "Одноклассники мобильная версия",
+            "py/object": "parser_result.Component",
             "snippet": "У социальной сети Одноклассники, как и у других крупных интернет ресурсов, конечно же есть мобильная версия.",
+            "title": "Одноклассники мобильная версия",
+            "type": "SEARCH_RESULT",
             "view_url": "http://odnoklassniki-helper.ru/%D0%BE%D0%B4%D0%BD%D0%BE%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BD%D0%B8%D0%BA%D0%B8-%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://set-os.ru/mobile-version-odnoklassniki/",
-            "title": "М.ОК.РУ - мобильная версия Одноклассники.",
+            "py/object": "parser_result.Component",
             "snippet": "При первой попытке входа в Одноклассники через мобильную версию m.ok.ru, сайт попросит авторизоваться",
+            "title": "М.ОК.РУ - мобильная версия Одноклассники.",
+            "type": "SEARCH_RESULT",
             "view_url": "https://set-os.ru/mobile-version-odnoklassniki/"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

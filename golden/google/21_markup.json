@@ -1,113 +1,140 @@
 {
-    "file": "21.html",
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": {
-                "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[1]/h3/a",
-                "attr": "href"
+                "attr": "href",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[1]/h3/a"
+            },
+            "py/object": "markup.MarkupSearchResult",
+            "snippet": {
+                "attr": "strings",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[1]/div/span"
             },
             "title": {
-                "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[1]/h3/a",
-                "attr": "string"
+                "attr": "string",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[1]/h3/a"
             },
-            "snippet": {
-                "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[1]/div/span",
-                "attr": "strings"
-            },
+            "type": "SEARCH_RESULT",
             "view_url": {
-                "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[1]/div/div/cite",
-                "attr": "string"
+                "attr": "string",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[1]/div/div/cite"
             }
         },
         {
-            "type": "WIZARD",
             "alignment": "LEFT",
-            "page_url": {
-                "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[2]/h3/a",
-                "attr": "href"
-            },
-            "title": {
-                "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[2]/h3/a",
-                "attr": "string"
-            },
-            "wizard_type": "WIZARD_IMAGE",
             "media_links": [
                 {
-                    "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[2]/div[1]/a[1]/img[1]",
-                    "attr": "src"
+                    "attr": "src",
+                    "py/object": "markup.FullPath",
+                    "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[2]/div[1]/a[1]/img[1]"
                 },
                 {
-                    "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[2]/div[1]/a[2]/img[1]",
-                    "attr": "src"
+                    "attr": "src",
+                    "py/object": "markup.FullPath",
+                    "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[2]/div[1]/a[2]/img[1]"
                 },
                 {
-                    "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[2]/div[1]/a[3]/img[1]",
-                    "attr": "src"
+                    "attr": "src",
+                    "py/object": "markup.FullPath",
+                    "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[2]/div[1]/a[3]/img[1]"
                 },
                 {
-                    "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[2]/div[1]/a[4]/img[1]",
-                    "attr": "src"
+                    "attr": "src",
+                    "py/object": "markup.FullPath",
+                    "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[2]/div[1]/a[4]/img[1]"
                 },
                 {
-                    "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[2]/div[1]/a[5]/img[1]",
-                    "attr": "src"
+                    "attr": "src",
+                    "py/object": "markup.FullPath",
+                    "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[2]/div[1]/a[5]/img[1]"
                 }
-            ]
-        },
-        {
-            "type": "SEARCH_RESULT",
-            "alignment": "LEFT",
+            ],
             "page_url": {
-                "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[3]/h3/a",
-                "attr": "href"
+                "attr": "href",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[2]/h3/a"
             },
+            "py/object": "markup.MarkupWizardImage",
             "title": {
-                "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[3]/h3/a",
-                "attr": "string"
+                "attr": "string",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[2]/h3/a"
             },
-            "snippet": {
-                "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[3]/div/span",
-                "attr": "strings"
-            },
-            "view_url": {
-                "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[3]/div/div/cite",
-                "attr": "string"
-            }
-        },
-        {
-            "type": "SEARCH_RESULT",
-            "alignment": "LEFT",
-            "page_url": {
-                "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[4]/h3/a",
-                "attr": "href"
-            },
-            "title": {
-                "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[4]/h3/a",
-                "attr": "string"
-            },
-            "snippet": {
-                "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[4]/div/span",
-                "attr": "strings"
-            },
-            "view_url": {
-                "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[4]/div/div/cite",
-                "attr": "string"
-            }
-        },
-        {
             "type": "WIZARD",
+            "wizard_type": "WIZARD_IMAGE"
+        },
+        {
             "alignment": "LEFT",
             "page_url": {
-                "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[5]/div[1]/h3[1]/a[1]",
-                "attr": "href"
+                "attr": "href",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[3]/h3/a"
+            },
+            "py/object": "markup.MarkupSearchResult",
+            "snippet": {
+                "attr": "strings",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[3]/div/span"
             },
             "title": {
-                "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[5]/div[1]/h3[1]/a[1]",
-                "attr": "string"
+                "attr": "string",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[3]/h3/a"
             },
+            "type": "SEARCH_RESULT",
+            "view_url": {
+                "attr": "string",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[3]/div/div/cite"
+            }
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": {
+                "attr": "href",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[4]/h3/a"
+            },
+            "py/object": "markup.MarkupSearchResult",
+            "snippet": {
+                "attr": "strings",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[4]/div/span"
+            },
+            "title": {
+                "attr": "string",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[4]/h3/a"
+            },
+            "type": "SEARCH_RESULT",
+            "view_url": {
+                "attr": "string",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[4]/div/div/cite"
+            }
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": {
+                "attr": "href",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[5]/div[1]/h3[1]/a[1]"
+            },
+            "py/object": "markup.MarkupWizardNews",
+            "title": {
+                "attr": "string",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[5]/div[1]/h3[1]/a[1]"
+            },
+            "type": "WIZARD",
             "wizard_type": "WIZARD_NEWS"
         }
-    ]
+    ],
+    "file": "21.html",
+    "py/object": "markup.Markup"
 }

@@ -1,83 +1,94 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://yandex.ru/maps/2/saint-petersburg/probki&sa=U&ved=0ahUKEwjp1YXXro_XAhWlJZoKHaCzCZoQFggUMAA&usg=AOvVaw2QWBeWhY5OVhgpCnDQoj9P",
-            "title": "Пробки в Санкт-Петербурге — Яндекс.Карты",
+            "py/object": "parser_result.Component",
             "snippet": "Пробки в Санкт-Петербурге в режиме онлайн на Яндекс.Картах. Построение \nмаршрутов проезда на автомобиле и общественном транспорте с учетом ...",
+            "title": "Пробки в Санкт-Петербурге — Яндекс.Карты",
+            "type": "SEARCH_RESULT",
             "view_url": "https://yandex.ru/maps/2/saint-petersburg/probki"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://yandex.ru/maps/213/moscow/probki&sa=U&ved=0ahUKEwjp1YXXro_XAhWlJZoKHaCzCZoQFggZMAE&usg=AOvVaw2fxDBjVgApiY-DubZb4FdY",
-            "title": "Пробки в Москве — Яндекс.Карты",
+            "py/object": "parser_result.Component",
             "snippet": "Пробки в Москве в режиме онлайн на Яндекс.Картах. Построение \nмаршрутов проезда на автомобиле и общественном транспорте с учетом \nпробок.",
+            "title": "Пробки в Москве — Яндекс.Карты",
+            "type": "SEARCH_RESULT",
             "view_url": "https://yandex.ru/maps/213/moscow/probki"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://yandex.ru/maps/probki&sa=U&ved=0ahUKEwjp1YXXro_XAhWlJZoKHaCzCZoQFggeMAI&usg=AOvVaw1Oh_jWOVVltjLSpnpXZQaZ",
-            "title": "Пробки на дорогах — Яндекс.Карты",
+            "py/object": "parser_result.Component",
             "snippet": "Яндекс.Пробки: пробки на дорогах городов и областей России в режиме \nонлайн. Построение маршрутов и онлайн-навигация с учетом пробок.",
+            "title": "Пробки на дорогах — Яндекс.Карты",
+            "type": "SEARCH_RESULT",
             "view_url": "https://yandex.ru/maps/probki"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://yandex.ru/maps/65/novosibirsk/probki&sa=U&ved=0ahUKEwjp1YXXro_XAhWlJZoKHaCzCZoQFggjMAM&usg=AOvVaw3SgZWfCQXppaPlFmcoWTsJ",
-            "title": "Пробки в Новосибирске — Яндекс.Карты",
+            "py/object": "parser_result.Component",
             "snippet": "Пробки в Новосибирске в режиме онлайн на Яндекс.Картах. Построение \nмаршрутов проезда на автомобиле и общественном транспорте с учетом ...",
+            "title": "Пробки в Новосибирске — Яндекс.Карты",
+            "type": "SEARCH_RESULT",
             "view_url": "https://yandex.ru/maps/65/novosibirsk/probki"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://yandex.ru/maps/47/nizhny-novgorod/probki&sa=U&ved=0ahUKEwjp1YXXro_XAhWlJZoKHaCzCZoQFggoMAQ&usg=AOvVaw2U-KgwIlpacokcgHKvFKIE",
-            "title": "Пробки в Нижнем Новгороде — Яндекс.Карты",
+            "py/object": "parser_result.Component",
             "snippet": "Пробки в Нижнем Новгороде в режиме онлайн на Яндекс.Картах. \nПостроение маршрутов проезда на автомобиле и общественном \nтранспорте с ...",
+            "title": "Пробки в Нижнем Новгороде — Яндекс.Карты",
+            "type": "SEARCH_RESULT",
             "view_url": "https://yandex.ru/maps/47/nizhny-novgorod/probki"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://yandex.ru/maps/54/yekaterinburg/probki&sa=U&ved=0ahUKEwjp1YXXro_XAhWlJZoKHaCzCZoQFggtMAU&usg=AOvVaw26M5RTZar8tJVoedDoZYlc",
-            "title": "Пробки в Екатеринбурге — Яндекс.Карты - Екатеринбург",
+            "py/object": "parser_result.Component",
             "snippet": "Пробки в Екатеринбурге в режиме онлайн на Яндекс.Картах. Построение \nмаршрутов проезда на автомобиле и общественном транспорте с учетом ...",
+            "title": "Пробки в Екатеринбурге — Яндекс.Карты - Екатеринбург",
+            "type": "SEARCH_RESULT",
             "view_url": "https://yandex.ru/maps/54/yekaterinburg/probki"
         },
         {
-            "type": "WIZARD",
             "alignment": "LEFT",
             "page_url": "/search?q=%D1%8F%D0%BD%D0%B4%D0%B5%D0%BA%D1%81+%D0%BF%D1%80%D0%BE%D0%B1%D0%BA%D0%B8&newwindow=1&dcr=0&ie=UTF-8&prmd=ivns&source=univ&tbm=nws&tbo=u&sa=X&ved=0ahUKEwjp1YXXro_XAhWlJZoKHaCzCZoQqAIIMg",
+            "py/object": "parser_result.Component",
             "title": "Новости по запросу яндекс пробки",
+            "type": "WIZARD",
             "wizard_type": "WIZARD_NEWS"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://yandex.ru/maps/62/krasnoyarsk/probki&sa=U&ved=0ahUKEwjp1YXXro_XAhWlJZoKHaCzCZoQFgg7MAk&usg=AOvVaw19NreNjs1Jwg1soLSAaBUS",
-            "title": "Пробки в Красноярске — Яндекс.Карты - Красноярск",
+            "py/object": "parser_result.Component",
             "snippet": "Пробки в Красноярске в режиме онлайн на Яндекс.Картах. Построение \nмаршрутов проезда на автомобиле и общественном транспорте с учетом \nпробок.",
+            "title": "Пробки в Красноярске — Яндекс.Карты - Красноярск",
+            "type": "SEARCH_RESULT",
             "view_url": "https://yandex.ru/maps/62/krasnoyarsk/probki"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://yandex-probki.ru/saint-petersburg.htm&sa=U&ved=0ahUKEwjp1YXXro_XAhWlJZoKHaCzCZoQFghAMAo&usg=AOvVaw0WQ4dQlG8ZwogJYpMGR53D",
-            "title": "Яндекс пробки Санкт-Петербурга онлайн - yandex-probki.ru",
+            "py/object": "parser_result.Component",
             "snippet": "Площадь Санкт-Петербурга - 1439 км2. Население - 5 131 942 человек (на \n2014 год) Автомобильный код: 78, 98, 178. Координаты на географической ...",
+            "title": "Яндекс пробки Санкт-Петербурга онлайн - yandex-probki.ru",
+            "type": "SEARCH_RESULT",
             "view_url": "yandex-probki.ru/saint-petersburg.htm"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://www.online-probki.ru/probki-v-sankt-peterburge/joomla/yandeks-probki-v-sankt-peterburge-sejchas-v-rezhime-onlajn.html&sa=U&ved=0ahUKEwjp1YXXro_XAhWlJZoKHaCzCZoQFghGMAs&usg=AOvVaw3AeElNGxZ8BsokBI_MBDOt",
-            "title": "Яндекс пробки в Спб (Санкт-Петербурге) - Онлайн пробки",
+            "py/object": "parser_result.Component",
             "snippet": "Яндекс пробки позволяют посмотреть онлайн загруженность дорог Санкт - ... \nЧтобы включить отображение автомобильных пробок, нажмите кнопку ...",
+            "title": "Яндекс пробки в Спб (Санкт-Петербурге) - Онлайн пробки",
+            "type": "SEARCH_RESULT",
             "view_url": "www.online-probki.ru/probki.../yandeks-probki-v-sankt-peterburge-sejchas- v-rezhime-onlajn.html"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

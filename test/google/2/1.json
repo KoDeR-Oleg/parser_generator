@@ -1,90 +1,101 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://ru.wikipedia.org/wiki/%D0%AF%D0%B4",
-            "title": "Яд — Википедия",
+            "py/object": "parser_result.Component",
             "snippet": "Яд, отрава — вещество, приводящее в определенных дозах, даже небольших относительно массы тела, к нарушению жизнедеятельности организма: ...",
+            "title": "Яд — Википедия",
+            "type": "SEARCH_RESULT",
             "view_url": "https://ru.wikipedia.org/wiki/Яд"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://money.yandex.ru/",
-            "title": "Yandex.Money - Яндекс",
+            "py/object": "parser_result.Component",
             "snippet": "Яндекс.Деньги выручат в разных ситуациях. Боитесь использовать карту в интернете. Хотите собрать деньги на подарок или хорошее дело. Нет карты ...",
+            "title": "Yandex.Money - Яндекс",
+            "type": "SEARCH_RESULT",
             "view_url": "https://money.yandex.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://www.infoniac.ru/news/10-smertel-nyh-yadov-i-ih-deistvie-na-cheloveka.html",
-            "title": "10 смертельных ядов и их действие на человека - Infoniac",
+            "py/object": "parser_result.Component",
             "snippet": "15 апр. 2013 г. - Слово \"яд\" используется, чтобы описать любое вещество, ... Даже в небольшом количестве, яд может привести к отравлению и смерти.",
+            "title": "10 смертельных ядов и их действие на человека - Infoniac",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.infoniac.ru/news/10-smertel-nyh-yadov-i-ih-deistvie-na-cheloveka.html"
         },
         {
-            "type": "WIZARD",
             "alignment": "LEFT",
-            "page_url": "https://www.google.ru/search?q=%D1%8F%D0%B4&newwindow=1&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwj62dOj8tvWAhWmFJoKHVGvDzoQsAQIQw",
-            "title": "Картинки по запросу яд",
-            "wizard_type": "WIZARD_IMAGE",
             "media_links": [
                 "http://www.i-sonnik.ru/yad/",
                 "http://lfly.ru/sonnik-yad-k-chemu-snitsya-yad.html",
                 "http://ohrana.ru/articles/37425/",
                 "http://himsnab-spb.ru/article/pi/toxin/",
                 "http://bezsna.net/tolkovanie_snov/4832-yad.html"
-            ]
+            ],
+            "page_url": "https://www.google.ru/search?q=%D1%8F%D0%B4&newwindow=1&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwj62dOj8tvWAhWmFJoKHVGvDzoQsAQIQw",
+            "py/object": "parser_result.Component",
+            "title": "Картинки по запросу яд",
+            "type": "WIZARD",
+            "wizard_type": "WIZARD_IMAGE"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://ru.wiktionary.org/wiki/%D1%8F%D0%B4",
-            "title": "яд — Викисловарь",
+            "py/object": "parser_result.Component",
             "snippet": "перен. нечто или некто, оказывающий вредное влияние на кого-либо, причиняющий неприятности, отравляющий жизнь ◇ Он для тебя яд. ◇ Сколько ...",
+            "title": "яд — Викисловарь",
+            "type": "SEARCH_RESULT",
             "view_url": "https://ru.wiktionary.org/wiki/яд"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://ru.wikiquote.org/wiki/%D0%AF%D0%B4",
-            "title": "Яд — Викицитатник",
+            "py/object": "parser_result.Component",
             "snippet": "Яд — вещество, приводящее в дозах, даже небольших относительно массы тела, к нарушению жизнедеятельности организма: к отравлению, ...",
+            "title": "Яд — Викицитатник",
+            "type": "SEARCH_RESULT",
             "view_url": "https://ru.wikiquote.org/wiki/Яд"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://russia.tv/article/show/article_id/34932/",
-            "title": "Яд для банкира: вдова - преступница или жертва? / Новости кино и ...",
+            "py/object": "parser_result.Component",
             "snippet": "18 сент. 2017 г. - Ее обвиняют в том, что она подсыпала яд - таллий - в картофельное пюре, которое приготовила для любимого мужа. Кто истинный ...",
+            "title": "Яд для банкира: вдова - преступница или жертва? / Новости кино и ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://russia.tv/article/show/article_id/34932/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://russia.tv/video/show/brand_id/62142/episode_id/1546175/video_id/1677534/",
-            "title": "Андрей Малахов. Прямой эфир / Яд для банкира: отравить жизнь ...",
+            "py/object": "parser_result.Component",
             "snippet": "Ее обвиняют в том, что она подсыпала яд - таллий - в картофельное пюре, которое приготовила для любимого мужа. Кто истинный ...",
+            "title": "Андрей Малахов. Прямой эфир / Яд для банкира: отравить жизнь ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://russia.tv/video/show/brand_id/62142/...id/.../1677534/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://lurkmore.to/%D0%AF%D0%B4",
-            "title": "Яд — Lurkmore",
+            "py/object": "parser_result.Component",
             "snippet": "3 авг. 2015 г. - Желаете избавиться от тёщи или просто стать героем? Яд — самый аккуратный способ!",
+            "title": "Яд — Lurkmore",
+            "type": "SEARCH_RESULT",
             "view_url": "lurkmore.to/Яд"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://vk.com/jaxta",
-            "title": "ЯД | ВКонтакте",
+            "py/object": "parser_result.Component",
             "snippet": "6 дней назад - Отбираем туда 3% самых популярных и обсуждаемых по Вашему мнению постов с ЯД, FORMATICA и ShockBlast и выкладываем ночью, ...",
+            "title": "ЯД | ВКонтакте",
+            "type": "SEARCH_RESULT",
             "view_url": "https://vk.com/jaxta"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

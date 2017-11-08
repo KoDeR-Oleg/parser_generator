@@ -1,98 +1,110 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://PozdravOK.ru/pozdravleniya/den-rozhdeniya/",
-            "title": "Поздравления с днем рождения",
+            "py/object": "parser_result.Component",
             "snippet": "PozdravOK.ru›pozdravleniya/den-rozhdeniya/",
+            "title": "Поздравления с днем рождения",
+            "type": "SEARCH_RESULT",
             "view_url": ""
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://www.romanticflyers.ru/krasivye-pozdravleniya-s-dnem-rozhdeniya.html",
-            "title": "Красивые поздравления с Днем Рождения",
+            "py/object": "parser_result.Component",
             "snippet": "Стоит отметить, что существует множество самых разных вариантов, в которые можно оформить красивые поздравления с днем рождения. Это может быть, к примеру, поздравление в стихах.",
+            "title": "Красивые поздравления с Днем Рождения",
+            "type": "SEARCH_RESULT",
             "view_url": "http://www.romanticflyers.ru/krasivye-pozdravleniya-s-dnem-rozhdeniya.html"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://krasivye-pozdravlenija.ru/pozdravleniya/s-dnem-rozhdeniya",
-            "title": "Поздравления с Днем рождения — Поздравляшки.ру",
+            "py/object": "parser_result.Component",
             "snippet": "Оригинальное поздравление с Днем рождения в стихах. Желаю быть в плену у счастья И в окружении успеха, На милость радости сдаваться, Встречать везде помехи смеха.",
+            "title": "Поздравления с Днем рождения — Поздравляшки.ру",
+            "type": "SEARCH_RESULT",
             "view_url": "http://krasivye-pozdravlenija.ru/pozdravleniya/s-dnem-rozhdeniya"
         },
         {
-            "type": "WIZARD",
             "alignment": "LEFT",
-            "page_url": "//yandex.ru/images/search?text=%D0%BF%D0%BE%D0%B7%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%81%20%D0%B4%D0%BD%D0%B5%D0%BC%20%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F&stype=image&lr=2&noreask=1&parent-reqid=1509664041689574-1795070651965011287527272-man1-3704&source=wiz",
-            "title": "поздравления с днем рождения — смотрите картинки",
-            "wizard_type": "WIZARD_IMAGE",
             "media_links": [
                 "im0-tub-ru.yandex.net/i?id=d784974f3e704040d80895d827d79bd9&n=22",
                 "im0-tub-ru.yandex.net/i?id=42eab6a364f91eb4c6652e9aefdfbc2e&n=22",
                 "im0-tub-ru.yandex.net/i?id=d2d6ec29bb146aa90440e9cc2dcac359&n=22",
                 "im0-tub-ru.yandex.net/i?id=08718dac80009bebeda115ba65aa3e83&n=22",
                 "im0-tub-ru.yandex.net/i?id=31338adf9c4e1cf4fa0dcf58e27888d4&n=22"
-            ]
+            ],
+            "page_url": "//yandex.ru/images/search?text=%D0%BF%D0%BE%D0%B7%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%81%20%D0%B4%D0%BD%D0%B5%D0%BC%20%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F&stype=image&lr=2&noreask=1&parent-reqid=1509664041689574-1795070651965011287527272-man1-3704&source=wiz",
+            "py/object": "parser_result.Component",
+            "title": "поздравления с днем рождения — смотрите картинки",
+            "type": "WIZARD",
+            "wizard_type": "WIZARD_IMAGE"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://otmetim.info/pozdravleniya-s-dnem-rozhdeniya/",
-            "title": "Поздравления с днем рождения в стихах",
+            "py/object": "parser_result.Component",
             "snippet": "А поздравления с днем рождения в стихах делают его еще радостнее. Кроме того, у нас есть поздравления с днем рождения в прозе и поздравления женщине в стихах.",
+            "title": "Поздравления с днем рождения в стихах",
+            "type": "SEARCH_RESULT",
             "view_url": "http://otmetim.info/pozdravleniya-s-dnem-rozhdeniya/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://www.stost.ru/f/15/tswnyzm.html",
-            "title": "Поздравления с днем рождения — 1675 поздравлений",
+            "py/object": "parser_result.Component",
             "snippet": "Поздравляю тебя с Днем рождения! И желаю тебе всего того, Что есть на земле! ... С днем рожденья тебя поздравляю, Ты прочти поздравленья мои, От души всей тебе я желаю.",
+            "title": "Поздравления с днем рождения — 1675 поздравлений",
+            "type": "SEARCH_RESULT",
             "view_url": "http://www.stost.ru/f/15/tswnyzm.html"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://t-loves.narod.ru/pozdravlenie-den-rojdeniya-luchiye.htm",
-            "title": "Поздравления с днем рождения 2017",
+            "py/object": "parser_result.Component",
             "snippet": "День рождения - праздник большой! И сегодня мы шлём поздравление: Счастья Вам всей, желая душой И всем жизненным планам - свершение! ... Вас поздравляем с днем рождения, Пускай сопутствует всегда, Достойным целям всем - везенье, И...",
+            "title": "Поздравления с днем рождения 2017",
+            "type": "SEARCH_RESULT",
             "view_url": "http://t-loves.narod.ru/pozdravlenie-den-rojdeniya-luchiye.htm"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://krasgmu.net/publ/stihi_s_dnem_rogdeniya/4-1-0-143",
-            "title": "Стихи и Поздравления с Днем рождения! Поздравить...",
+            "py/object": "parser_result.Component",
             "snippet": "Поздравления с днем рождения в стихах! Приближается день Рождения близкого человека? ... Стихи с Днем рождения! Прикольные поздравления на день рождения в стихах!",
+            "title": "Стихи и Поздравления с Днем рождения! Поздравить...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://krasgmu.net/publ/stihi_s_dnem_rogdeniya/4-1-0-143"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://pozdravchiki.ru/pozdravleniya-s-dnem-rozhdeniya/",
-            "title": "Поздравления с днем рождения | Лучшие поздравления",
+            "py/object": "parser_result.Component",
             "snippet": "Поздравляю с Днем рожденья, И хочу тебе сказать, О такой как ты подруге, Можно только лишь мечтать! *** Обычно в день такой большой, Который назван день рождения, Друзья с открытою душой Тебе приносят поздравления.",
+            "title": "Поздравления с днем рождения | Лучшие поздравления",
+            "type": "SEARCH_RESULT",
             "view_url": "http://pozdravchiki.ru/pozdravleniya-s-dnem-rozhdeniya/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://mysekret.ru/pozdravleniya/s-dnem-rozhdeniya-pozdravleniya-s-dnem-rozhdeniya.html",
-            "title": "Поздравления с днем рождения поздравления",
+            "py/object": "parser_result.Component",
             "snippet": "Поздравления. Поздравление с юбилеем 50 лет. ... Поздравления с днем рождения прикольные короткие смешные другу. ОСТАВЬТЕ ОТВЕТ Отменить ответ.",
+            "title": "Поздравления с днем рождения поздравления",
+            "type": "SEARCH_RESULT",
             "view_url": "http://mysekret.ru/pozdravleniya/s-dnem-rozhdeniya-pozdravleniya-s-dnem-rozhdeniya.html"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://prazdnik.na-svyazi.ru/bir/",
-            "title": "Поздравления с Днем Рождения",
+            "py/object": "parser_result.Component",
             "snippet": "Поздравляем с днем рождения, Желаем больше ярких дней, Побольше радостных улыбок и веселья. От нас, компании от всей Прими в подарок поздравления И пожелания долгих дней, Счастливой жизни, тёплых вёсен, Уютных зим и жарких лет.",
+            "title": "Поздравления с Днем Рождения",
+            "type": "SEARCH_RESULT",
             "view_url": "http://prazdnik.na-svyazi.ru/bir/"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

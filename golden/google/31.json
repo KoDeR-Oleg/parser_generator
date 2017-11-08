@@ -1,83 +1,94 @@
 {
     "components": [
         {
-            "type": "WIZARD",
             "alignment": "LEFT",
             "page_url": "/search?q=%D0%B3%D0%BE%D1%80%D0%BE%D1%81%D0%BA%D0%BE%D0%BF+%D0%BD%D0%B0+%D1%81%D0%B5%D0%B3%D0%BE%D0%B4%D0%BD%D1%8F&newwindow=1&dcr=0&ie=UTF-8&prmd=ivns&source=univ&tbm=nws&tbo=u&sa=X&ved=0ahUKEwiH9Ofero_XAhWFAJoKHciGCesQqAIIFA",
+            "py/object": "parser_result.Component",
             "title": "Новости по запросу гороскоп на сегодня",
+            "type": "WIZARD",
             "wizard_type": "WIZARD_NEWS"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://horo.mail.ru/&sa=U&ved=0ahUKEwiH9Ofero_XAhWFAJoKHciGCesQFggbMAI&usg=AOvVaw2fdHbg2xSwwNqmq-zNre7c",
-            "title": "Гороскоп на сегодня, на день, на завтра, на неделю, на год ...",
+            "py/object": "parser_result.Component",
             "snippet": "Гороскоп, Знаки Зодиака, гороскоп на сегодня, гороскоп на завтра, гороскоп \nна неделю, гороскоп на месяц, гороскоп на год, Восточный гороскоп, ...",
+            "title": "Гороскоп на сегодня, на день, на завтра, на неделю, на год ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://horo.mail.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://1001goroskop.ru/&sa=U&ved=0ahUKEwiH9Ofero_XAhWFAJoKHciGCesQFggmMAM&usg=AOvVaw3t48gF3chQ_xBvE6Y9-1vx",
-            "title": "Гороскоп на сегодня | 1001 ГОРОСКОП",
+            "py/object": "parser_result.Component",
             "snippet": "Ежескоп: ✹ Гороскоп на сегодня | Любовный гороскоп на сегодня | Бизнес-\nгороскоп на сегодня | Гороскоп здоровья...",
+            "title": "Гороскоп на сегодня | 1001 ГОРОСКОП",
+            "type": "SEARCH_RESULT",
             "view_url": "1001goroskop.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://horoscopes.rambler.ru/&sa=U&ved=0ahUKEwiH9Ofero_XAhWFAJoKHciGCesQFggwMAQ&usg=AOvVaw2pLvIYez0ILPSvTM8fB-ye",
-            "title": "Рамблер/Гороскопы: Гороскоп на сегодня, завтра, месяц, год ...",
+            "py/object": "parser_result.Component",
             "snippet": "Рамблер/гороскопы – гороскоп на сегодня, завтра, неделю, месяц, год для \nвсех знаков зодиака. Бесплатные астрологические прогнозы. Лунный и ...",
+            "title": "Рамблер/Гороскопы: Гороскоп на сегодня, завтра, месяц, год ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://horoscopes.rambler.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://astro7.ru/online-journal/horoscope/today/today-common.html&sa=U&ved=0ahUKEwiH9Ofero_XAhWFAJoKHciGCesQFgg2MAU&usg=AOvVaw1a0h-_HV0uhgDZdm4-zJB7",
-            "title": "Общий гороскоп на сегодня | Astro7",
+            "py/object": "parser_result.Component",
             "snippet": "1 день назад ... Гороскопы на сегодня для всех знаков Зодиака. Узнайте, что Вас ждёт!",
+            "title": "Общий гороскоп на сегодня | Astro7",
+            "type": "SEARCH_RESULT",
             "view_url": "https://astro7.ru/online.../today/today-common.html"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://astroscope.ru/horoskop/ejednevniy_goroskop/&sa=U&ved=0ahUKEwiH9Ofero_XAhWFAJoKHciGCesQFgg-MAY&usg=AOvVaw05k8sd-2tz2godSDd0kMmY",
-            "title": "Гороскоп на сегодня, гороскоп на завтра, ежедневные гороскопы ...",
+            "py/object": "parser_result.Component",
             "snippet": "Гороскопы на сегодня и гороскоп на завтра для каждого знака зодиака, \nежедневный прогноз на сегодняшний и на завтрашний день.",
+            "title": "Гороскоп на сегодня, гороскоп на завтра, ежедневные гороскопы ...",
+            "type": "SEARCH_RESULT",
             "view_url": "astroscope.ru/horoskop/ejednevniy_goroskop/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://www.oculus.ru/goroskop_na_segodnya/&sa=U&ved=0ahUKEwiH9Ofero_XAhWFAJoKHciGCesQFghEMAc&usg=AOvVaw15MMoNPzs3S8IK7bPROKZn",
-            "title": "Гороскоп на сегодня от Окулус",
+            "py/object": "parser_result.Component",
             "snippet": "Гороскоп на сегодня - это прогноз для типичных представителей Знаков \nЗодиака. Гороскоп на сегодня учитывает наиболее яркие астрологические ...",
+            "title": "Гороскоп на сегодня от Окулус",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.oculus.ru/goroskop_na_segodnya/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://www.dvorec.ru/zodiak/today.php%3FAIM%3D93&sa=U&ved=0ahUKEwiH9Ofero_XAhWFAJoKHciGCesQFghJMAg&usg=AOvVaw3nwZTjUicWroOl3eYbLXzt",
-            "title": "Гороскоп на сегодня - Dvorec.ru",
+            "py/object": "parser_result.Component",
             "snippet": "Зодиакальный гороскоп для всех знаков на сегодня и для каждого знака \nпоотдельности. Гороскопы на завтра, неделю, месяц.",
+            "title": "Гороскоп на сегодня - Dvorec.ru",
+            "type": "SEARCH_RESULT",
             "view_url": "www.dvorec.ru/zodiak/today.php?AIM=93"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://www.elle.ru/astro/&sa=U&ved=0ahUKEwiH9Ofero_XAhWFAJoKHciGCesQFghPMAk&usg=AOvVaw3Vpz1uh-DO5LWgW9wLnNuV",
-            "title": "Гороскоп на сегодня. Точный гороскоп на день, на неделю - Elle",
+            "py/object": "parser_result.Component",
             "snippet": "Гороскоп на сегодня, точный гороскоп для всех знаков зодиака. Фирменный \nгороскоп ELLE на месяц от астролога Бернарда Фитцуолтерса.",
+            "title": "Гороскоп на сегодня. Точный гороскоп на день, на неделю - Elle",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.elle.ru/astro/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://www.astromeridian.ru/horoscope_na_segodnja.php&sa=U&ved=0ahUKEwiH9Ofero_XAhWFAJoKHciGCesQFghUMAo&usg=AOvVaw1VxVsyeUWTYS-u5pIYBRGY",
-            "title": "Гороскоп на сегодня | АстроМеридиан - AstroMeridian.Ru",
+            "py/object": "parser_result.Component",
             "snippet": "Бесплатный и точный гороскоп на сегодня - работа, бизнес, здоровье, \nлюбовь. Рекомендации астролога на сегодня для мужчин и женщин..",
+            "title": "Гороскоп на сегодня | АстроМеридиан - AstroMeridian.Ru",
+            "type": "SEARCH_RESULT",
             "view_url": "www.astromeridian.ru/horoscope_na_segodnja.php"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

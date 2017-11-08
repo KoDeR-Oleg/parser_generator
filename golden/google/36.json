@@ -1,83 +1,94 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://avtomaty-besplatno.ru/&sa=U&ved=0ahUKEwjCgp-_po_XAhVJD5oKHSfuCPkQFggUMAA&usg=AOvVaw329sj1nDRWi56TISOurs0A",
-            "title": "Игровые автоматы Вулкан бесплатно и без регистрации онлайн",
+            "py/object": "parser_result.Component",
             "snippet": "Самые популярные игровые автоматы Вулкан в любое время суток. Хотите \nпоиграть без регистрации? Заходите и играйте бесплатно на игровых ...",
+            "title": "Игровые автоматы Вулкан бесплатно и без регистрации онлайн",
+            "type": "SEARCH_RESULT",
             "view_url": "avtomaty-besplatno.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://belatragames.ru/online-casino&sa=U&ved=0ahUKEwjCgp-_po_XAhVJD5oKHSfuCPkQFggdMAE&usg=AOvVaw048cJnudheQTATNOX_acU9",
-            "title": "Игровые автоматы БЕЛАТРА онлайн играть бесплатно и без ...",
+            "py/object": "parser_result.Component",
             "snippet": "Бесплатные игровые автоматы БЕЛАТРА онлайн - популярные слоты, \nигровые аппараты без регистрации. Никаких ограничений – только азарт и ...",
+            "title": "Игровые автоматы БЕЛАТРА онлайн играть бесплатно и без ...",
+            "type": "SEARCH_RESULT",
             "view_url": "belatragames.ru/online-casino"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://ionline.slot-ok-one.com/&sa=U&ved=0ahUKEwjCgp-_po_XAhVJD5oKHSfuCPkQFggiMAI&usg=AOvVaw2KRpOpDdiHpfoynr3bUfea",
-            "title": "Игровые автоматы онлайн, играть бесплатно и без регистрации ...",
+            "py/object": "parser_result.Component",
             "snippet": "Мы собрали огромную коллекцию игровых автоматов онлайн для всех \nпоклонников азартных развлечений. Играйте бесплатно и без регистрации \nили ...",
+            "title": "Игровые автоматы онлайн, играть бесплатно и без регистрации ...",
+            "type": "SEARCH_RESULT",
             "view_url": "ionline.slot-ok-one.com/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://new-admiral-casino.com/&sa=U&ved=0ahUKEwjCgp-_po_XAhVJD5oKHSfuCPkQFggtMAM&usg=AOvVaw1oYublmJZF7PUhJwJQivch",
-            "title": "Казино Admiral 777: в игровые автоматы играйте бесплатно",
+            "py/object": "parser_result.Component",
             "snippet": "Новое интернет казино Адмирал презентует игровые автоматы, в которые \nможно играть бесплатно и без регистрации, или на реальные деньги.",
+            "title": "Казино Admiral 777: в игровые автоматы играйте бесплатно",
+            "type": "SEARCH_RESULT",
             "view_url": "https://new-admiral-casino.com/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://win-vulkan.com/play/resident&sa=U&ved=0ahUKEwjCgp-_po_XAhVJD5oKHSfuCPkQFggyMAQ&usg=AOvVaw0p4uPoKpO6Dq8hwm6kbCXe",
-            "title": "Игровые автоматы Резидент (Resident) играть бесплатно без ...",
+            "py/object": "parser_result.Component",
             "snippet": "Резидент один из самых популярных игровых слотов в онлайн казино \nВулкан. Азартные игроки не однократно срывали накопительные джекпоты \nиграя ...",
+            "title": "Игровые автоматы Резидент (Resident) играть бесплатно без ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://win-vulkan.com/play/resident"
         },
         {
-            "type": "WIZARD",
             "alignment": "LEFT",
             "page_url": "/search?q=%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D1%8B%D0%B5+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D1%8B&newwindow=1&dcr=0&ie=UTF-8&prmd=ivns&source=univ&tbm=nws&tbo=u&sa=X&ved=0ahUKEwjCgp-_po_XAhVJD5oKHSfuCPkQqAIINw",
+            "py/object": "parser_result.Component",
             "title": "Новости по запросу игровые автоматы",
+            "type": "WIZARD",
             "wizard_type": "WIZARD_NEWS"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://slotclubcasino.co/playfree.html&sa=U&ved=0ahUKEwjCgp-_po_XAhVJD5oKHSfuCPkQFgg-MAc&usg=AOvVaw2yG1OnoeAxIEmTO0CxTCmB",
-            "title": "Игровые автоматы видеослоты играть онлайн бесплатно без ...",
+            "py/object": "parser_result.Component",
             "snippet": "Казино Слот Клуб предлагает бесплатно играть в игровые автоматы лучших \nмировых производителей без регистрации и без смс.",
+            "title": "Игровые автоматы видеослоты играть онлайн бесплатно без ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://slotclubcasino.co/playfree.html"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://igrovoiklub.com/&sa=U&ved=0ahUKEwjCgp-_po_XAhVJD5oKHSfuCPkQFghEMAg&usg=AOvVaw3QS0soDVfavH5YMaJPwUxW",
-            "title": "Игровые автоматы играть бесплатно без регистрации и смс",
+            "py/object": "parser_result.Component",
             "snippet": "Бесплатные игровые аппараты на сайте Игровой клуб. Играть в игровые \nавтоматы без регистрации и в хорошем качестве.",
+            "title": "Игровые автоматы играть бесплатно без регистрации и смс",
+            "type": "SEARCH_RESULT",
             "view_url": "https://igrovoiklub.com/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://play.google.com/store/apps/details%3Fid%3Dcom.murka.scatterslots%26hl%3Dru&sa=U&ved=0ahUKEwjCgp-_po_XAhVJD5oKHSfuCPkQFghKMAk&usg=AOvVaw21RCUegCI6pz2VmcbiIl0m",
-            "title": "Приложения в Google Play – Игровые Автоматы Scatter Slots",
+            "py/object": "parser_result.Component",
             "snippet": "Познай секреты таинственного слот-путешествия Scatter Slots. Вперед за \nприключениями с волшебниками и воинами, вампирами и огненными ...",
+            "title": "Приложения в Google Play – Игровые Автоматы Scatter Slots",
+            "type": "SEARCH_RESULT",
             "view_url": "https://play.google.com/store/apps/details?id=com..."
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://play.google.com/store/apps/details%3Fid%3Dcom.huuuge.casino.slots%26hl%3Dru&sa=U&ved=0ahUKEwjCgp-_po_XAhVJD5oKHSfuCPkQFghRMAo&usg=AOvVaw1p3ek_gGcKY2Xj6d4_FVcm",
-            "title": "Приложения в Google Play – Huuuge Casino игровые автоматы",
+            "py/object": "parser_result.Component",
             "snippet": "Huuuge Casino — казино № 1 в мире мобильных приложений! Не пропустите \nвсе веселье — скачайте полноценный Лас-Вегас на свое устройство и ...",
+            "title": "Приложения в Google Play – Huuuge Casino игровые автоматы",
+            "type": "SEARCH_RESULT",
             "view_url": "https://play.google.com/store/apps/details?id=com..."
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

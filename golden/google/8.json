@@ -1,27 +1,25 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://metro.yandex.ru/&sa=U&ved=0ahUKEwiO3e7Vro_XAhUIJJoKHajAALIQFggUMAA&usg=AOvVaw10_kFrfZ6u5cNhBaMexQPi",
-            "title": "Схема метро Москвы — Яндекс.Метро",
+            "py/object": "parser_result.Component",
             "snippet": "Яндекс.Метро — интерактивная карта метро Москвы с расчётом времени и \nпрокладкой маршрутов с учётом данных о закрытии станций и вестибюлей.",
+            "title": "Схема метро Москвы — Яндекс.Метро",
+            "type": "SEARCH_RESULT",
             "view_url": "https://metro.yandex.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://www.metro.spb.ru/map1/route.html&sa=U&ved=0ahUKEwiO3e7Vro_XAhUIJJoKHajAALIQFggfMAE&usg=AOvVaw2oWuqhmEr9-EomRKK_Mbb2",
-            "title": "Интерактивная схема метрополитена",
+            "py/object": "parser_result.Component",
             "snippet": "Не запоминать. Сбросить выбор станций. Карта метро Санкт-Петербурга, \nна которой линии и станции расположены в соответствии с картой.",
+            "title": "Интерактивная схема метрополитена",
+            "type": "SEARCH_RESULT",
             "view_url": "www.metro.spb.ru/map1/route.html"
         },
         {
-            "type": "WIZARD",
             "alignment": "LEFT",
-            "page_url": "/search?q=%D0%BA%D0%B0%D1%80%D1%82%D0%B0+%D0%BC%D0%B5%D1%82%D1%80%D0%BE&newwindow=1&dcr=0&ie=UTF-8&prmd=ivnsm&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwiO3e7Vro_XAhUIJJoKHajAALIQsAQIJQ",
-            "title": "Картинки по запросу карта метро",
-            "wizard_type": "WIZARD_IMAGE",
             "media_links": [
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShIEtzY46Vvu4DL0uP0ttcNVBUmnr-MQeBSvmi5ZKnLTODGWLiMgVy8NE",
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnZHTmkgpBzVkaTLn8V4smyCK1TKqX6hF6YLtN90wGuV3CqOSRAjePyuo",
@@ -30,63 +28,76 @@
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTCproQ-LZ0NIyJG2L46Jc_tjEIT1TITrMuxlj1zU_7U7C6xT3Gr0rYQ",
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbQ5QyndVUKtXtt0qVeEN3Ljaw24_qGxzsa51GjmlCHrTydOyjkslzNsE",
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWScuJm0xiu4uH1VdChOo6U8sdXao3wmz-vWd6W6v8IyorbadK7Of2gXc"
-            ]
+            ],
+            "page_url": "/search?q=%D0%BA%D0%B0%D1%80%D1%82%D0%B0+%D0%BC%D0%B5%D1%82%D1%80%D0%BE&newwindow=1&dcr=0&ie=UTF-8&prmd=ivnsm&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwiO3e7Vro_XAhUIJJoKHajAALIQsAQIJQ",
+            "py/object": "parser_result.Component",
+            "title": "Картинки по запросу карта метро",
+            "type": "WIZARD",
+            "wizard_type": "WIZARD_IMAGE"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://www.metromap.ru/&sa=U&ved=0ahUKEwiO3e7Vro_XAhUIJJoKHajAALIQFgg1MAk&usg=AOvVaw31G_ZVDeJdU2vGpvkQn6VX",
-            "title": "Карта метро Москвы / интерактивная схема московского ... - Москва",
+            "py/object": "parser_result.Component",
             "snippet": "Интерактивная карта московского метро поможет выбрать оптимальный \nмаршрут и рассчитать время в пути. Удобный поиск станций по первым \nбуквам ...",
+            "title": "Карта метро Москвы / интерактивная схема московского ... - Москва",
+            "type": "SEARCH_RESULT",
             "view_url": "www.metromap.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://metrobook.ru/ru_spb/&sa=U&ved=0ahUKEwiO3e7Vro_XAhUIJJoKHajAALIQFgg7MAo&usg=AOvVaw01mbjA_zbc3P9StOuKW88p",
-            "title": "Карта метро Санкт-Петербурга - интерактивная схема ...",
+            "py/object": "parser_result.Component",
             "snippet": "Интерактивная карта Петербургского метрополитена - привычный дизайн, \nпростота и вся необходимая функциональность.",
+            "title": "Карта метро Санкт-Петербурга - интерактивная схема ...",
+            "type": "SEARCH_RESULT",
             "view_url": "metrobook.ru/ru_spb/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://russianmetro.ru/&sa=U&ved=0ahUKEwiO3e7Vro_XAhUIJJoKHajAALIQFghBMAs&usg=AOvVaw2dB220AVc53jfMI1Qwdgep",
-            "title": "Схема метро Москвы - Москва",
+            "py/object": "parser_result.Component",
             "snippet": "Актуальная схема метро Москвы. ... в кольце новая схема метро Москвы . \nЦвет указывает ..... Привет! Вопрос. Хочу использовать карту метро на сайте\n.",
+            "title": "Схема метро Москвы - Москва",
+            "type": "SEARCH_RESULT",
             "view_url": "russianmetro.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://www.moscowmap.ru/metro.html&sa=U&ved=0ahUKEwiO3e7Vro_XAhUIJJoKHajAALIQFghHMAw&usg=AOvVaw2zCJFRopVYPs7SxpayQ0ZL",
-            "title": "Карта метро Москвы со станциями МЦК 2017 - MoscowMap",
+            "py/object": "parser_result.Component",
             "snippet": "Интерактивная схема Московского метрополитена за 2017 год со станциями \nМЦК: расчет оптимального маршрута, связь с картой Москвы и ...",
+            "title": "Карта метро Москвы со станциями МЦК 2017 - MoscowMap",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.moscowmap.ru/metro.html"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://www.tutu.ru/metro/show/view_96/48145381/&sa=U&ved=0ahUKEwiO3e7Vro_XAhUIJJoKHajAALIQFghMMA0&usg=AOvVaw2exgj8vdoxEM0sVJdEwT1Y",
-            "title": "Карта метро г.Москва. Схема метрополитена: Москва. - Туту.ру",
+            "py/object": "parser_result.Component",
             "snippet": "Карта метро г.Москва. Схема метрополитена: Москва.",
+            "title": "Карта метро г.Москва. Схема метрополитена: Москва. - Туту.ру",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.tutu.ru/metro/show/view_96/48145381/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://www.tutu.ru/metro/spb/&sa=U&ved=0ahUKEwiO3e7Vro_XAhUIJJoKHajAALIQFghRMA4&usg=AOvVaw3gy1Rb9al2xVRX8eIZGity",
-            "title": "Карта метро г.Санкт-Петербург. Схема метрополитена: Санкт ...",
+            "py/object": "parser_result.Component",
             "snippet": "Карта метро г.Санкт-Петербург. Схема метрополитена: Санкт-Петербург.",
+            "title": "Карта метро г.Санкт-Петербург. Схема метрополитена: Санкт ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.tutu.ru/metro/spb/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://metro.mwmoskva.ru/&sa=U&ved=0ahUKEwiO3e7Vro_XAhUIJJoKHajAALIQFghWMA8&usg=AOvVaw0FLmrfMXhsqANfsgilDWCm",
-            "title": "Карта / схема метро Москвы с расчетом времени 2017 ...",
+            "py/object": "parser_result.Component",
             "snippet": "Карта (схема) метро Москвы с расчетом времени и возможностью \nпроложить и посмотреть оптимальный маршрут на карте метро. \nИнтерактивная ...",
+            "title": "Карта / схема метро Москвы с расчетом времени 2017 ...",
+            "type": "SEARCH_RESULT",
             "view_url": "metro.mwmoskva.ru/"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

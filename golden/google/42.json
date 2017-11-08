@@ -1,84 +1,95 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://sp39.ru/index.php&sa=U&ved=0ahUKEwi0tNvBpo_XAhXnPZoKHfVPBHkQFggUMAA&usg=AOvVaw3Sw3zk2acYCNxasRyRgF2s",
-            "title": "Совместные покупки в Калининграде • Главная ... - Калининград",
+            "py/object": "parser_result.Component",
             "snippet": "5 дн. назад ... Совместные покупки в Калининграде. ... [ Тема закрыта ], Форум закрыт. . \nСовместные покупки в Калининграде © 2011 - 2017 | sp39.ru.",
+            "title": "Совместные покупки в Калининграде • Главная ... - Калининград",
+            "type": "SEARCH_RESULT",
             "view_url": "https://sp39.ru/index.php"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://pokupki21.ru/&sa=U&ved=0ahUKEwi0tNvBpo_XAhXnPZoKHfVPBHkQFggbMAE&usg=AOvVaw3e3mckVfxfSBSwhCCudz1u",
-            "title": "Совместные покупки Чебоксары",
+            "py/object": "parser_result.Component",
             "snippet": "Совместные покупки 21 в городах Чебоксары и Новочебоксарск.",
+            "title": "Совместные покупки Чебоксары",
+            "type": "SEARCH_RESULT",
             "view_url": "pokupki21.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://www.100sp.ru/saint-petersburg&sa=U&ved=0ahUKEwi0tNvBpo_XAhXnPZoKHfVPBHkQFgghMAI&usg=AOvVaw0r0BMcgXrr0FhwpYu0F8Jo",
-            "title": "Совместные покупки в Санкт-Петербурге",
+            "py/object": "parser_result.Component",
             "snippet": "Сайт совместных покупок в Санкт-Петербурге. Купить женскую и детскую \nодежду, обувь, продукты питания, товары для дома. 100sp - лучшее за ...",
+            "title": "Совместные покупки в Санкт-Петербурге",
+            "type": "SEARCH_RESULT",
             "view_url": "www.100sp.ru/saint-petersburg"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://superpuper.ru/viewforum.php%3Ff%3D179&sa=U&ved=0ahUKEwi0tNvBpo_XAhXnPZoKHfVPBHkQFggnMAM&usg=AOvVaw0E6FPc0XIiwvoY8tvKUZUp",
-            "title": "совместные покупки: Совместные Покупки - superpuper.ru",
+            "py/object": "parser_result.Component",
             "snippet": "Интернет магазин совместных покупок superpuper.ru – покупка товаров у \nпроизводителей по оптовой цене. Совместные Покупки.",
+            "title": "совместные покупки: Совместные Покупки - superpuper.ru",
+            "type": "SEARCH_RESULT",
             "view_url": "https://superpuper.ru/viewforum.php?f=179"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://spclub42.ru/&sa=U&ved=0ahUKEwi0tNvBpo_XAhXnPZoKHfVPBHkQFggtMAQ&usg=AOvVaw33NK3cZ3T8OkrIayJhBC5d",
-            "title": "Клуб совместных покупок в Кемерово!",
+            "py/object": "parser_result.Component",
             "snippet": "Cовместные покупки. ... если вам требуется консультация или помощь, если \nвам непонятно, что такое Совместные Покупки (нажмите для просмотра) ...",
+            "title": "Клуб совместных покупок в Кемерово!",
+            "type": "SEARCH_RESULT",
             "view_url": "spclub42.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://63pokupki.ru/&sa=U&ved=0ahUKEwi0tNvBpo_XAhXnPZoKHfVPBHkQFggzMAU&usg=AOvVaw0OhWGgSDMRLpvtCFFYk7cs",
-            "title": "Главная - Совместные покупки | Cовместные закупки на ... - Самара",
+            "py/object": "parser_result.Component",
             "snippet": "Главная - купить на сайте совместных покупок 63pokupki.ru. Совместные \nпокупки – это оптовые цены на все категории товаров. Сайт доступен в ...",
+            "title": "Главная - Совместные покупки | Cовместные закупки на ... - Самара",
+            "type": "SEARCH_RESULT",
             "view_url": "https://63pokupki.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://sp.bvf.ru/&sa=U&ved=0ahUKEwi0tNvBpo_XAhXnPZoKHfVPBHkQFgg5MAY&usg=AOvVaw3ZyFvDH2q_RgunuMV00CAe",
-            "title": "Главная - Совместные покупки и закупки в Воронеже и Черноземье",
+            "py/object": "parser_result.Component",
             "snippet": "Удобный сервис совместных покупок и совместных закупок в городе \nВоронеже и Черноземье - Белгород, Липецк, Курск, Тамбов, Орел.",
+            "title": "Главная - Совместные покупки и закупки в Воронеже и Черноземье",
+            "type": "SEARCH_RESULT",
             "view_url": "https://sp.bvf.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://nn-sp.ru/&sa=U&ved=0ahUKEwi0tNvBpo_XAhXnPZoKHfVPBHkQFgg_MAc&usg=AOvVaw2NhCWid8dyprl2eDv8YY8A",
-            "title": "Совместные покупки - Нижний Новгород - Главная",
+            "py/object": "parser_result.Component",
             "snippet": "Сайт совместных покупок «Союз покупателей - Нижний Новгород» \nпредназначен для покупки товаров у производителей по оптовой цене.",
+            "title": "Совместные покупки - Нижний Новгород - Главная",
+            "type": "SEARCH_RESULT",
             "view_url": "https://nn-sp.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://spvpitere.ru/&sa=U&ved=0ahUKEwi0tNvBpo_XAhXnPZoKHfVPBHkQFghFMAg&usg=AOvVaw324WiMgKJuQbEb4wDsLCp2",
-            "title": "Совместные покупки - Санкт-Петербург - Главная",
+            "py/object": "parser_result.Component",
             "snippet": "Самый удобный сайт совместных покупок в СПб. Оптовые цены на товары в \n2-3 раза дешевле, чем в магазинах. Покупаем вместе - экономит каждый!",
+            "title": "Совместные покупки - Санкт-Петербург - Главная",
+            "type": "SEARCH_RESULT",
             "view_url": "spvpitere.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://sitepokupok.ru/&sa=U&ved=0ahUKEwi0tNvBpo_XAhXnPZoKHfVPBHkQFghLMAk&usg=AOvVaw3horF6K5DOT_e-VN15Mfjc",
-            "title": "Совместные покупки у оптовиков по низким ценам ... - Йошкар-Ола",
+            "py/object": "parser_result.Component",
             "snippet": "Совместные покупки (СП) товаров у оптовиков напрямую, по оптовым ценам, \nдешево. Сайт покупок.",
+            "title": "Совместные покупки у оптовиков по низким ценам ... - Йошкар-Ола",
+            "type": "SEARCH_RESULT",
             "view_url": "sitepokupok.ru/"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

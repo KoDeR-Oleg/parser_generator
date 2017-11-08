@@ -1,89 +1,100 @@
 {
     "components": [
         {
-            "type": "WIZARD",
             "alignment": "LEFT",
-            "page_url": "/search?q=%D0%BE%D0%B1%D0%BE%D0%B8+%D0%B4%D0%BB%D1%8F+%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B5%D0%B3%D0%BE+%D1%81%D1%82%D0%BE%D0%BB%D0%B0&newwindow=1&dcr=0&ie=UTF-8&prmd=ivns&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwjsnP6_po_XAhWBCpoKHQuCCAIQsAQIFA",
-            "title": "Картинки по запросу обои для рабочего стола",
-            "wizard_type": "WIZARD_IMAGE",
             "media_links": [
                 "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTg7z6PM-1PeW9YiP_NUfMe6MqMnstDwvCt_Ph4l9szkQ9tME6dyDpFj8If",
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe6M7GqGk6qsDWQrdqPB2gZoL_SiU1oopf6v9TJM1jWyuIZlcYkyR49LUM",
                 "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRsDhnbvdQE7jz6e5BusmoBtlNzVmK7vEF0di387jFmR-XrQ4NSwY0lywE",
                 "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRyVhCYQYGSlG_FZjKn86ZdTar4MarqzqRUYIzaQFZ4UotW8zGXAeff-Juz"
-            ]
+            ],
+            "page_url": "/search?q=%D0%BE%D0%B1%D0%BE%D0%B8+%D0%B4%D0%BB%D1%8F+%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B5%D0%B3%D0%BE+%D1%81%D1%82%D0%BE%D0%BB%D0%B0&newwindow=1&dcr=0&ie=UTF-8&prmd=ivns&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwjsnP6_po_XAhWBCpoKHQuCCAIQsAQIFA",
+            "py/object": "parser_result.Component",
+            "title": "Картинки по запросу обои для рабочего стола",
+            "type": "WIZARD",
+            "wizard_type": "WIZARD_IMAGE"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://www.goodfon.ru/&sa=U&ved=0ahUKEwjsnP6_po_XAhWBCpoKHQuCCAIQFggeMAQ&usg=AOvVaw1ZI5r6KVOuVoEzNZjgUadj",
-            "title": "Обои для рабочего стола",
+            "py/object": "parser_result.Component",
             "snippet": "Обои на рабочий стол. Самые лучшие обои для рабочего стола попадают к \nнам. Скачать бесплатные обои и заставки на мобильный.",
+            "title": "Обои для рабочего стола",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.goodfon.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://www.goodfon.ru/catalog/nature/&sa=U&ved=0ahUKEwjsnP6_po_XAhWBCpoKHQuCCAIQFggoMAU&usg=AOvVaw2rKCYE8nY0TTvsDDfwWPdq",
-            "title": "Обои природа на рабочий стол",
+            "py/object": "parser_result.Component",
             "snippet": "Фотографии и обои по теме природа. Новые бесплатные широкоформатные \nобои и картинки каждый день.",
+            "title": "Обои природа на рабочий стол",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.goodfon.ru/catalog/nature/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://wallpaperscraft.ru/all/1920x1080&sa=U&ved=0ahUKEwjsnP6_po_XAhWBCpoKHQuCCAIQFggtMAY&usg=AOvVaw1gpXJgIyXs-QlrQy_NSMTH",
-            "title": "Обои Full HD 1080p для рабочего стола 1920x1080, скачать ...",
+            "py/object": "parser_result.Component",
             "snippet": "Обои Full HD 1080p для рабочего стола 1920x1080, картинки на рабочий \nстол. ... Просмотреть обои арт, коты, стена, ребенок 1920x1080 0 1920x1080\n ...",
+            "title": "Обои Full HD 1080p для рабочего стола 1920x1080, скачать ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://wallpaperscraft.ru/all/1920x1080"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://7themes.su/photo/hd_wallpapers/22&sa=U&ved=0ahUKEwjsnP6_po_XAhWBCpoKHQuCCAIQFgg3MAc&usg=AOvVaw0Ps8xaRGbm3bkaovcQAL_c",
-            "title": "Обои рабочего стола - 7themes.su",
+            "py/object": "parser_result.Component",
             "snippet": "Коллекция широкоформатных (Full HD и более) бесплатных отборочных \nобоев для рабочего стола Windows на любую тематику.",
+            "title": "Обои рабочего стола - 7themes.su",
+            "type": "SEARCH_RESULT",
             "view_url": "https://7themes.su/photo/hd_wallpapers/22"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://zastavok.net/&sa=U&ved=0ahUKEwjsnP6_po_XAhWBCpoKHQuCCAIQFgg9MAg&usg=AOvVaw3lGQAcKsd3Ly8uLt4kj9JO",
-            "title": "Качественные, большие обои и картинки для рабочего стола на ...",
+            "py/object": "parser_result.Component",
             "snippet": "Обои на рабочий стол, большие и качественные заставки и картинки для \nрабочего стола на любой экран скачать бесплатно.",
+            "title": "Качественные, большие обои и картинки для рабочего стола на ...",
+            "type": "SEARCH_RESULT",
             "view_url": "zastavok.net/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://ikartinka.com/3D-%25D0%25BE%25D0%25B1%25D0%25BE%25D0%25B8&sa=U&ved=0ahUKEwjsnP6_po_XAhWBCpoKHQuCCAIQFghDMAk&usg=AOvVaw2Sg_ttb0476dOdcyT1M5Ux",
-            "title": "3D - обои фоны для рабочего стола бесплатно - iKartinka the best ...",
+            "py/object": "parser_result.Component",
             "snippet": "3D - обои. фоны для рабочего стола скачать. Если Вы ищете трехмерные \nизображения – Вам сюда. Фотографии в технике фризлайт, нон-фигуратив,\n ...",
+            "title": "3D - обои фоны для рабочего стола бесплатно - iKartinka the best ...",
+            "type": "SEARCH_RESULT",
             "view_url": "ikartinka.com/3D-обои"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://desktopmania.ru/&sa=U&ved=0ahUKEwjsnP6_po_XAhWBCpoKHQuCCAIQFghJMAo&usg=AOvVaw07_CFioWfEyf0dDn5s1IHX",
-            "title": "Обои для рабочего стола. Скачать бесплатно картинки и ...",
+            "py/object": "parser_result.Component",
             "snippet": "Шикарные обои для рабочего стола: 3D, Природа, Животные, Анимэ, \nАквариумы, Авто и др. Все разрешения экрана! Выбирай и устанавливай ...",
+            "title": "Обои для рабочего стола. Скачать бесплатно картинки и ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://desktopmania.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://support.microsoft.com/ru-ru/help/17780/featured-wallpapers&sa=U&ved=0ahUKEwjsnP6_po_XAhWBCpoKHQuCCAIQFghPMAs&usg=AOvVaw0DNtrGBVvtRqZ_HNIjyGMA",
-            "title": "Подборка обоев - Windows Help - Microsoft Support",
+            "py/object": "parser_result.Component",
             "snippet": "Чтобы скачать фон рабочего стола (обои), нажмите ссылку Скачать, \nщелкните изображение правой кнопкой мыши и выберите команду Сделать\n ...",
+            "title": "Подборка обоев - Windows Help - Microsoft Support",
+            "type": "SEARCH_RESULT",
             "view_url": "https://support.microsoft.com/ru.../featured-wallpapers"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://wallpapers.99px.ru/wallpapers/tags/&sa=U&ved=0ahUKEwjsnP6_po_XAhWBCpoKHQuCCAIQFghUMAw&usg=AOvVaw1uNQIQbYWLhtEtO86nldE7",
-            "title": "Категории обоев на рабочий стол (177 312 обоев)",
+            "py/object": "parser_result.Component",
             "snippet": "Все категории обоев для рабочий стол бесплатно. Загружено уже 177 312 \nобоев.",
+            "title": "Категории обоев на рабочий стол (177 312 обоев)",
+            "type": "SEARCH_RESULT",
             "view_url": "wallpapers.99px.ru/wallpapers/tags/"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

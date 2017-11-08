@@ -1,84 +1,95 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://filmitorrent.org/&sa=U&ved=0ahUKEwiBvZXfro_XAhWmBZoKHfxxA1gQFggUMAA&usg=AOvVaw3NH1G8K9qHa7AyV-WGwUhM",
-            "title": "Скачать фильмы через торрент в хорошем качестве бесплатно!",
+            "py/object": "parser_result.Component",
             "snippet": "Скачать фильмы с торрента бесплатно без регистрации можно на нашем \nсайте! Быстро и в хорошем качестве.",
+            "title": "Скачать фильмы через торрент в хорошем качестве бесплатно!",
+            "type": "SEARCH_RESULT",
             "view_url": "filmitorrent.org/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://anwap.org/films/p-3&sa=U&ved=0ahUKEwiBvZXfro_XAhWmBZoKHfxxA1gQFggfMAE&usg=AOvVaw3EfWEIpS86VhhoCw3opplW",
-            "title": "Скачать фильмы на телефон планшет или android в mp4 и 3gp ...",
+            "py/object": "parser_result.Component",
             "snippet": "В 2014 году сержант Первого класса Стивен Харрис отредактировал и \nзагрузил этот фильм. Это было его послание миру. Группа под... \nТанцевальный ...",
+            "title": "Скачать фильмы на телефон планшет или android в mp4 и 3gp ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://anwap.org/films/p-3"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://kinosimka.net/2017e/&sa=U&ved=0ahUKEwiBvZXfro_XAhWmBZoKHfxxA1gQFgglMAI&usg=AOvVaw3JurGslpmc00rZjLiME8jT",
-            "title": "Скачать фильмы 2017 на телефон mp4 бесплатно - Киносимка",
+            "py/object": "parser_result.Component",
             "snippet": "Лучшие фильмы 2017 скачать на телефон или планшет в хорошем качестве \nбез регистрации.",
+            "title": "Скачать фильмы 2017 на телефон mp4 бесплатно - Киносимка",
+            "type": "SEARCH_RESULT",
             "view_url": "https://kinosimka.net/2017e/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://www.kinopoisk.ru/user/1417279/&sa=U&ved=0ahUKEwiBvZXfro_XAhWmBZoKHfxxA1gQFggqMAM&usg=AOvVaw0donwMGku08kPvjIKWvguC",
-            "title": "Профиль: Скачать фильмы бесплатно - КиноПоиск",
+            "py/object": "parser_result.Component",
             "snippet": "«Скачать фильмы бесплатно на http://video-sbornik.com/ без регистрации и \nсмс одним файлом. Новинки в хорошем качестве скачать быстро.",
+            "title": "Профиль: Скачать фильмы бесплатно - КиноПоиск",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.kinopoisk.ru/user/1417279/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://zona-film.com/&sa=U&ved=0ahUKEwiBvZXfro_XAhWmBZoKHfxxA1gQFggvMAQ&usg=AOvVaw2Na157h3VoUVeRE0NMsqSA",
-            "title": "Скачать фильмы бесплатно без регистрации через торрент на ...",
+            "py/object": "parser_result.Component",
             "snippet": "Наш сайт предлагает Вам насладиться отличным качеством фильмов, \nскачать фильмы бесплатно и без регистрации через торрент.",
+            "title": "Скачать фильмы бесплатно без регистрации через торрент на ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://zona-film.com/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://www.fast-torrent.ru/russian/&sa=U&ved=0ahUKEwiBvZXfro_XAhWmBZoKHfxxA1gQFgg0MAU&usg=AOvVaw2jkXe0mPKPZ1yfgLY3SVIU",
-            "title": "Русский фильм: фильмы смотреть онлайн или скачать ...",
+            "py/object": "parser_result.Component",
             "snippet": "Русские фильмы это прежде всего кино о российских реалиях, как \nсовременных, так и исторических. Представители это категории отличаются \nособым ...",
+            "title": "Русский фильм: фильмы смотреть онлайн или скачать ...",
+            "type": "SEARCH_RESULT",
             "view_url": "www.fast-torrent.ru/russian/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://bodrkino.com/2017-god/&sa=U&ved=0ahUKEwiBvZXfro_XAhWmBZoKHfxxA1gQFgg6MAY&usg=AOvVaw1TqM2iQ05YKUWc1THQTrW2",
-            "title": "Скачать фильмы 2017 года бесплатно",
+            "py/object": "parser_result.Component",
             "snippet": "Скачать фильмы 2017 года через торрент бесплатно в хорошем качестве.",
+            "title": "Скачать фильмы 2017 года бесплатно",
+            "type": "SEARCH_RESULT",
             "view_url": "bodrkino.com/2017-god/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://torrent-filmi.net/&sa=U&ved=0ahUKEwiBvZXfro_XAhWmBZoKHfxxA1gQFgg_MAc&usg=AOvVaw12uJzTin-G27j8rAHZxPEt",
-            "title": "Скачать фильмы через торрент бесплатно в хорошем качестве",
+            "py/object": "parser_result.Component",
             "snippet": "Скачать фильмы с торрента бесплатно, быстро и в хорошем качестве без \nрегистрации на нашем сайте.",
+            "title": "Скачать фильмы через торрент бесплатно в хорошем качестве",
+            "type": "SEARCH_RESULT",
             "view_url": "torrent-filmi.net/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://kino-bezsms.com/&sa=U&ved=0ahUKEwiBvZXfro_XAhWmBZoKHfxxA1gQFghEMAg&usg=AOvVaw1rj1zAwYZTlWB4VCglm63D",
-            "title": "Скачать фильмы бесплатно в хорошем качестве без регистрации.",
+            "py/object": "parser_result.Component",
             "snippet": "На нашем сайте Вы можете бесплатно скачать любой фильм в хорошем \nкачестве, причем без регистрации, без смс и по прямой ссылке.",
+            "title": "Скачать фильмы бесплатно в хорошем качестве без регистрации.",
+            "type": "SEARCH_RESULT",
             "view_url": "kino-bezsms.com/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://torrentom.com/film/&sa=U&ved=0ahUKEwiBvZXfro_XAhWmBZoKHfxxA1gQFghJMAk&usg=AOvVaw12w0WKPFBNhV-apW7P79nI",
-            "title": "Фильмы скачать торрент в хорошем качестве - Torrentom.com",
+            "py/object": "parser_result.Component",
             "snippet": "Этот фильм рассказывает нам историю жизни одного из самых .... Так как \nфильмы скачать торрентом в хорошем качестве? Есть два выхода из данной\n ...",
+            "title": "Фильмы скачать торрент в хорошем качестве - Torrentom.com",
+            "type": "SEARCH_RESULT",
             "view_url": "torrentom.com/film/"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

@@ -1,84 +1,95 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://petersburgedu.ru/dnevnik/&sa=U&ved=0ahUKEwjGg8rbro_XAhVBSZoKHT2sCJEQFggUMAA&usg=AOvVaw1CI7LE-gK3HabhiMjtMObh",
-            "title": "Электронный дневник - Санкт-Петербург - Портал ...",
+            "py/object": "parser_result.Component",
             "snippet": "Ведение Электронного дневника и электронного журнала является \nгосударственной услугой Санкт-Петербурга, обеспечивающей оперативное,\n ...",
+            "title": "Электронный дневник - Санкт-Петербург - Портал ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://petersburgedu.ru/dnevnik/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://sgo.centerstart.ru/&sa=U&ved=0ahUKEwjGg8rbro_XAhVBSZoKHT2sCJEQFggaMAE&usg=AOvVaw30YlAuR2f6hJJ8_UOQTzVm",
-            "title": "Сетевой Город. Образование - Краснодар",
+            "py/object": "parser_result.Component",
             "snippet": "Образовательная организация; Управление образования. Страна. \nВыберите страну... Россия. Регион. Выберите регион... Краснодарский край.",
+            "title": "Сетевой Город. Образование - Краснодар",
+            "type": "SEARCH_RESULT",
             "view_url": "sgo.centerstart.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://cabinet.ruobr.ru/&sa=U&ved=0ahUKEwjGg8rbro_XAhVBSZoKHT2sCJEQFgggMAI&usg=AOvVaw1tQ1uaczMbsERAAseeOO8c",
-            "title": "Личный кабинет граждан Кемеровской области",
+            "py/object": "parser_result.Component",
             "snippet": "Регистрация. В целях упрощения процедур идентификации и \nаутентификации граждан для получения государственных услуг в \nэлектронном виде ...",
+            "title": "Личный кабинет граждан Кемеровской области",
+            "type": "SEARCH_RESULT",
             "view_url": "https://cabinet.ruobr.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://web2edu.ru/&sa=U&ved=0ahUKEwjGg8rbro_XAhVBSZoKHT2sCJEQFggmMAM&usg=AOvVaw3-S6Yx84wChhzKlbb0y6bM",
-            "title": "Образование (веб 2.0) - Пермь",
+            "py/object": "parser_result.Component",
             "snippet": "Дневники и журналы ... в электронных правительствах регионов РФ .... \nпредоставления услуги \"Электронный дневник\" за 1-4 октября 2017 года!",
+            "title": "Образование (веб 2.0) - Пермь",
+            "type": "SEARCH_RESULT",
             "view_url": "https://web2edu.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://school.mosreg.ru/&sa=U&ved=0ahUKEwjGg8rbro_XAhVBSZoKHT2sCJEQFggsMAQ&usg=AOvVaw3ClD0IiqUtmxMHhNyyfgzk",
-            "title": "«Школьный портал»",
+            "py/object": "parser_result.Component",
             "snippet": "Вход в электронный дневник. Войти Восстановить ... Школьный портал \nпредоставляет доступ к ряду государственных услуг в электронном виде. \nПортал ...",
+            "title": "«Школьный портал»",
+            "type": "SEARCH_RESULT",
             "view_url": "https://school.mosreg.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://www.mos.ru/pgu/ru/services/link/2103&sa=U&ved=0ahUKEwjGg8rbro_XAhVBSZoKHT2sCJEQFggyMAU&usg=AOvVaw1JlYsidQOMN2ls1En2wakn",
-            "title": "Электронный дневник - Москва - Официальный сайт Мэра Москвы",
+            "py/object": "parser_result.Component",
             "snippet": "Госуслуги Москвы. Электронный дневник школьника позволяет \nконтролировать успеваемость в школе, отслеживать выполнение учебной \nнагрузки.",
+            "title": "Электронный дневник - Москва - Официальный сайт Мэра Москвы",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.mos.ru/pgu/ru/services/link/2103"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://edu.brsc.ru/&sa=U&ved=0ahUKEwjGg8rbro_XAhVBSZoKHT2sCJEQFgg3MAY&usg=AOvVaw2GipbG8xmDZksyPj8m5Qif",
-            "title": "АИС «Образование",
+            "py/object": "parser_result.Component",
             "snippet": "ведение электронного журнала успеваемости;; ведение электронного \nдневника учащегося;; обеспечение автоматизированного учета питания ...",
+            "title": "АИС «Образование",
+            "type": "SEARCH_RESULT",
             "view_url": "https://edu.brsc.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://one.pskovedu.ru/&sa=U&ved=0ahUKEwjGg8rbro_XAhVBSZoKHT2sCJEQFgg9MAc&usg=AOvVaw2kCUDtq1Xh2l7htJ_9Dcqb",
-            "title": "Электронный журнал - Псков - Pskovedu.ru",
+            "py/object": "parser_result.Component",
             "snippet": "Электронные журналы и дневники Псковской области.",
+            "title": "Электронный журнал - Псков - Pskovedu.ru",
+            "type": "SEARCH_RESULT",
             "view_url": "one.pskovedu.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://school17-kt.eljur.ru/&sa=U&ved=0ahUKEwjGg8rbro_XAhVBSZoKHT2sCJEQFghDMAg&usg=AOvVaw37OPtK5FtgX0QcEA0NUG_7",
-            "title": "Электронный журнал — МАОУ «СОШ № 17» — Краснотурьинск",
+            "py/object": "parser_result.Component",
             "snippet": "Электронный журнал. Объявления. 26 октября, Четверг. МАОУ «СОШ № 17» \n... Вход в журнал. Логин: Пароль: Ввести пригласительный код Забыли ...",
+            "title": "Электронный журнал — МАОУ «СОШ № 17» — Краснотурьинск",
+            "type": "SEARCH_RESULT",
             "view_url": "https://school17-kt.eljur.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://es.ciur.ru/&sa=U&ved=0ahUKEwjGg8rbro_XAhVBSZoKHT2sCJEQFghJMAk&usg=AOvVaw2Eg4OL5KVtIg7gegYAq6pK",
-            "title": "БАРС.Web-Образование",
+            "py/object": "parser_result.Component",
             "snippet": "Электронная школа.",
+            "title": "БАРС.Web-Образование",
+            "type": "SEARCH_RESULT",
             "view_url": "https://es.ciur.ru/"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

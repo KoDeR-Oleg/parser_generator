@@ -1,6 +1,4 @@
-from lxml import html
-from parser_result import Component, ParserResult, Encoder
-import json
+import jsonpickle
 
 
 class FullPath(object):
@@ -23,7 +21,8 @@ class MarkupComponent(object):
         self.title = None
 
     def __str__(self):
-        return json.dumps(self, cls=Encoder, ensure_ascii=False)
+        jsonpickle.set_encoder_options('simplejson', sort_keys=True, indent=4)
+        return jsonpickle.encode(self)
 
     def __eq__(self, other):
         return self.__dict__ == other.__dict__
@@ -67,7 +66,8 @@ class Markup(object):
         self.components = list()
 
     def __str__(self):
-        return json.dumps(self, cls=Encoder, ensure_ascii=False, indent=4)
+        jsonpickle.set_encoder_options('simplejson', sort_keys=True, indent=4)
+        return jsonpickle.encode(self)
 
     def add(self, component):
         self.components.append(component)

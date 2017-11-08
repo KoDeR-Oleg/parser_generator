@@ -1,84 +1,95 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://ru.wikipedia.org/wiki/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%87%D0%B8%D0%BA",
-            "title": "Яндекс.Переводчик — Википедия",
+            "py/object": "parser_result.Component",
             "snippet": "Яндекс.Переводчик (ранее — Яндекс.Перевод) — веб-служба компании Яндекс, предназначенная для перевода части текста или веб-страницы на другой язык. В службе используется самообучаемый алгоритм статистического машинного...",
+            "title": "Яндекс.Переводчик — Википедия",
+            "type": "SEARCH_RESULT",
             "view_url": "https://ru.wikipedia.org/wiki/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%87%D0%B8%D0%BA"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://www.facebook.com/YandexTranslateRu",
-            "title": "Яндекс.Переводчик - Etusivu | Facebook",
+            "py/object": "parser_result.Component",
             "snippet": "Яндекс.Переводчик. 3 526 tykkäystä · 66 puhuu tästä. Официальная страница сервиса Яндекс.Переводчик.",
+            "title": "Яндекс.Переводчик - Etusivu | Facebook",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.facebook.com/YandexTranslateRu"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://vk.com/yandex_translate",
-            "title": "Яндекс.Переводчик — ВКонтакте",
+            "py/object": "parser_result.Component",
             "snippet": "Перейдите на страницу пользователя, чтобы посмотреть публикации или отправить сообщение.",
+            "title": "Яндекс.Переводчик — ВКонтакте",
+            "type": "SEARCH_RESULT",
             "view_url": "https://vk.com/yandex_translate"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://translate.google.com/?hl=ru",
-            "title": "Google Переводчик",
+            "py/object": "parser_result.Component",
             "snippet": "Переводчик Google для бизнеса –Инструменты переводчика Переводчик сайтов. ... О Переводчике Google Сообщества Мобильная версия.",
+            "title": "Google Переводчик",
+            "type": "SEARCH_RESULT",
             "view_url": "https://translate.google.com/?hl=ru"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://programmy-dlya-android.ru/ofis/perevodchiki/232-yandeks-perevodchik.html",
-            "title": "Скачать Яндекс Переводчик на Андроид бесплатно, без...",
+            "py/object": "parser_result.Component",
             "snippet": "Яндекс.Переводчик – превосходное решение для переводов. Внешнее оформление программы выдержано в стилистике Яндекса...",
+            "title": "Скачать Яндекс Переводчик на Андроид бесплатно, без...",
+            "type": "SEARCH_RESULT",
             "view_url": "http://programmy-dlya-android.ru/ofis/perevodchiki/232-yandeks-perevodchik.html"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://onandroid.org/ofis/prevodchiki/139-yandeks-perevodchik.html",
-            "title": "Скачать Яндекс.Переводчик для Андроид бесплатно...",
+            "py/object": "parser_result.Component",
             "snippet": "Чтобы скачать Яндекс.Переводчик бесплатно для Андроид устройств, перейдите по прямой ссылке в этом описании.",
+            "title": "Скачать Яндекс.Переводчик для Андроид бесплатно...",
+            "type": "SEARCH_RESULT",
             "view_url": "http://onandroid.org/ofis/prevodchiki/139-yandeks-perevodchik.html"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://twitter.com/translateyandex",
-            "title": "translateyandex – Twitter",
+            "py/object": "parser_result.Component",
             "snippet": "Официальный аккаунт сервиса Яндекс.ПереводчикПодписчиков: 951",
+            "title": "translateyandex – Twitter",
+            "type": "SEARCH_RESULT",
             "view_url": "https://twitter.com/translateyandex"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://trashbox.ru/link/yandex-translate-android",
-            "title": "Скачать Яндекс.Переводчик 3.21 для Android",
+            "py/object": "parser_result.Component",
             "snippet": "Бесплатно. Android. Yandex.Translate – приложение для Android, позволяющее переводить слова, фразы и целые предложения с одного языка на другой.",
+            "title": "Скачать Яндекс.Переводчик 3.21 для Android",
+            "type": "SEARCH_RESULT",
             "view_url": "https://trashbox.ru/link/yandex-translate-android"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://pc4me.ru/yandeks-perevodchik-s-angliyskogo-na-russkiy.html",
-            "title": "Яндекс переводчик (с английского на русский)",
+            "py/object": "parser_result.Component",
             "snippet": "Время от времени каждому требуется перевести иностранное слово, но переводчиков слишком много.",
+            "title": "Яндекс переводчик (с английского на русский)",
+            "type": "SEARCH_RESULT",
             "view_url": "http://pc4me.ru/yandeks-perevodchik-s-angliyskogo-na-russkiy.html"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://www.rdfo.ru/?menu=TranslatorOnlineYandex",
-            "title": "Русско — Английский переводчик. Яндекс (Yandex).",
+            "py/object": "parser_result.Component",
             "snippet": "Онлайн переводчик текстов с русского на английский и др. языки. ... Результат перевода. Переведено сервисом «Яндекс.Перевод».",
+            "title": "Русско — Английский переводчик. Яндекс (Yandex).",
+            "type": "SEARCH_RESULT",
             "view_url": "http://www.rdfo.ru/?menu=TranslatorOnlineYandex"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

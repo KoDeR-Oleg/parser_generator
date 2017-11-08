@@ -1,104 +1,117 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3",
-            "title": "Санкт-Петербург — Википедия",
+            "py/object": "parser_result.Component",
             "snippet": "Санкт-Петербу́рг (с 18 [31] августа 1914 года до 26 января 1924 года — Петрогра́д, с 26 января 1924 года до 6 сентября 1991 года — Ленингра́д)...",
+            "title": "Санкт-Петербург — Википедия",
+            "type": "SEARCH_RESULT",
             "view_url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://vk.com/o_st.petersburg",
-            "title": "Санкт-Петербург - это мой... — ВКонтакте",
+            "py/object": "parser_result.Component",
             "snippet": "Перейдите на страницу пользователя, чтобы посмотреть публикации или отправить сообщение.",
+            "title": "Санкт-Петербург - это мой... — ВКонтакте",
+            "type": "SEARCH_RESULT",
             "view_url": "https://vk.com/o_st.petersburg"
         },
         {
-            "type": "WIZARD",
             "alignment": "LEFT",
-            "page_url": "//yandex.ru/images/search?text=%D1%81%D0%B0%D0%BD%D0%BA%D1%82%20%D0%BF%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3&stype=image&lr=2&noreask=1&parent-reqid=1509664064874510-1490881569267860899224114-man1-3588&source=wiz",
-            "title": "санкт петербург — смотрите картинки",
-            "wizard_type": "WIZARD_IMAGE",
             "media_links": [
                 "im0-tub-ru.yandex.net/i?id=5d56faa62b48d2210564e483d9060316&n=22",
                 "im0-tub-ru.yandex.net/i?id=fe00666b4465cac69a840e67a9d15ab9&n=22",
                 "im0-tub-ru.yandex.net/i?id=738f550540b274eb852bb218aa7410c7&n=22",
                 "im0-tub-ru.yandex.net/i?id=30e073668973172cd677589eb8be1897&n=22"
-            ]
+            ],
+            "page_url": "//yandex.ru/images/search?text=%D1%81%D0%B0%D0%BD%D0%BA%D1%82%20%D0%BF%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3&stype=image&lr=2&noreask=1&parent-reqid=1509664064874510-1490881569267860899224114-man1-3588&source=wiz",
+            "py/object": "parser_result.Component",
+            "title": "санкт петербург — смотрите картинки",
+            "type": "WIZARD",
+            "wizard_type": "WIZARD_IMAGE"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://www.spb-guide.ru/",
-            "title": "Достопримечательности Санкт-Петербурга: фото...",
+            "py/object": "parser_result.Component",
             "snippet": "Сегодня на сайте 24618 фото достопримечательностей Санкт-Петербурга: соборы и музеи, Петергоф и Эрмитаж, белые ночи и многое другое.",
+            "title": "Достопримечательности Санкт-Петербурга: фото...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.spb-guide.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://www.SmilePlanet.ru/russia/sankt-peterburg/",
-            "title": "Санкт-Петербург — интересно и полезно с фото и видео",
+            "py/object": "parser_result.Component",
             "snippet": "Санкт-Петербург – один из красивейших мегаполисов мира, посмотреть на который приезжают путешественники из разных уголков планеты.",
+            "title": "Санкт-Петербург — интересно и полезно с фото и видео",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.SmilePlanet.ru/russia/sankt-peterburg/"
         },
         {
-            "type": "WIZARD",
             "alignment": "LEFT",
             "page_url": "https://news.yandex.ru/yandsearch?text=санкт петербург&lr=225&rpt=nnews2&rel=rel&grhow=clutop&from=serp",
+            "py/object": "parser_result.Component",
             "title": "Санкт петербург — новости",
+            "type": "WIZARD",
             "wizard_type": "WIZARD_NEWS"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://www.restbee.ru/world/azija/rossia/sankt-peterburg",
-            "title": "Санкт-Петербург, Россия - отдых, погода, отзывы...",
+            "py/object": "parser_result.Component",
             "snippet": "В 1965 Петербургу было присвоено звание «Город-герой». Санкт-Петербург считается самым северным городом-миллионщиком в мире.",
+            "title": "Санкт-Петербург, Россия - отдых, погода, отзывы...",
+            "type": "SEARCH_RESULT",
             "view_url": "http://www.restbee.ru/world/azija/rossia/sankt-peterburg"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://nesiditsa.ru/city/sankt-peterburg",
-            "title": "Санкт-Петербург",
+            "py/object": "parser_result.Component",
             "snippet": "Как только не именуют Санкт-Петербург! Это и северная столица, и Северная Пальмира, и «Окно в Европу», и «культурная столица», и «Северная Венеция»...",
+            "title": "Санкт-Петербург",
+            "type": "SEARCH_RESULT",
             "view_url": "http://nesiditsa.ru/city/sankt-peterburg"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://tonkosti.ru/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3",
-            "title": "Санкт-Петербург — отдых, экскурсии, музеи, кухня...",
+            "py/object": "parser_result.Component",
             "snippet": "Культурная столица России, северная Венеция, детище Петра — так часто называют Санкт-Петербург, второй по величине город нашей необъятной с населением...",
+            "title": "Санкт-Петербург — отдых, экскурсии, музеи, кухня...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://tonkosti.ru/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://www.gov.spb.ru/",
-            "title": "Официальный сайт администрации Санкт-Петербурга",
+            "py/object": "parser_result.Component",
             "snippet": "Структура и состав, новости администрации. Биография губернатора. Список правительства. Электронная приёмная...",
+            "title": "Официальный сайт администрации Санкт-Петербурга",
+            "type": "SEARCH_RESULT",
             "view_url": "http://www.gov.spb.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://www.visit-petersburg.ru/",
-            "title": "«Городской туристический портал Санкт-Петербурга»",
+            "py/object": "parser_result.Component",
             "snippet": "Обзор событий культурной, спортивной и конгрессной жизни Санкт-Петербурга. Каталог отелей, достопримечательностей. Путеводитель по городу, виртуальные туры и аудиомаршруты. Анонс мероприятий.",
+            "title": "«Городской туристический портал Санкт-Петербурга»",
+            "type": "SEARCH_RESULT",
             "view_url": "http://www.visit-petersburg.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://www.101hotels.ru/recreation/russia/sankt-peterburg/about",
-            "title": "О городе Санкт-Петербурге",
+            "py/object": "parser_result.Component",
             "snippet": "О городе Санкт-Петербурге, год основания города, достопримечательности, гостиницы, развлечения, отзывы гостей города.",
+            "title": "О городе Санкт-Петербурге",
+            "type": "SEARCH_RESULT",
             "view_url": "http://www.101hotels.ru/recreation/russia/sankt-peterburg/about"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

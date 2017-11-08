@@ -1,92 +1,104 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://www.xxxlib.ru/",
-            "title": "Библиотека эротических рассказов",
+            "py/object": "parser_result.Component",
             "snippet": "xxxlib.ru",
+            "title": "Библиотека эротических рассказов",
+            "type": "SEARCH_RESULT",
             "view_url": ""
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://www.mytext.ru/",
-            "title": "Лучшие эротические рассказы и порно рассказы на...",
+            "py/object": "parser_result.Component",
             "snippet": "mytext.ru",
+            "title": "Лучшие эротические рассказы и порно рассказы на...",
+            "type": "SEARCH_RESULT",
             "view_url": ""
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://sexlib.org/",
-            "title": "SexLib - лучшие эротические и порно рассказы...",
+            "py/object": "parser_result.Component",
             "snippet": "sexlib.org",
+            "title": "SexLib - лучшие эротические и порно рассказы...",
+            "type": "SEARCH_RESULT",
             "view_url": ""
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://stulchik.net/main.shtml?ras",
-            "title": "Стульчик.Net | эротические рассказы и интимные истории",
+            "py/object": "parser_result.Component",
             "snippet": "Ежедневное обновление. Ежедневные эротические новости. ... На нашем сайте представлены эротические рассказы и даже порно рассказы.",
+            "title": "Стульчик.Net | эротические рассказы и интимные истории",
+            "type": "SEARCH_RESULT",
             "view_url": "http://stulchik.net/main.shtml?ras"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://erorasskaz.ru/",
-            "title": "Бесплатные порно рассказы и эротические истории",
+            "py/object": "parser_result.Component",
             "snippet": "Теперь перейдем к основной теме, а именно к эротическим рассказам, которые в огромном количестве размещены на нашем сайте.",
+            "title": "Бесплатные порно рассказы и эротические истории",
+            "type": "SEARCH_RESULT",
             "view_url": "http://erorasskaz.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "//yandex.ru/video/search?text=%D1%8D%D1%80%D0%BE%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D1%8B&path=wizard&parent-reqid=1509664055024115-1268544987415483517922072-vla1-2533&noreask=1",
-            "title": "эротические рассказы — 1 млн видео (18+)",
+            "py/object": "parser_result.Component",
             "snippet": "",
+            "title": "эротические рассказы — 1 млн видео (18+)",
+            "type": "SEARCH_RESULT",
             "view_url": "//yandex.ru/video/search?text=%D1%8D%D1%80%D0%BE%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5%20%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D1%8B&path=wizard&parent-reqid=1509664055024115-1268544987415483517922072-vla1-2533&noreask=1"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://kabachok.online/rubrik/incest",
-            "title": "kabachok :: порно эротические рассказы :: кабачок",
+            "py/object": "parser_result.Component",
             "snippet": "эротические рассказы и порно пособия. ... Случайный рассказ. Избалованное дитя. Эгоистичное и привыкшее делать удобно себе.",
+            "title": "kabachok :: порно эротические рассказы :: кабачок",
+            "type": "SEARCH_RESULT",
             "view_url": "http://kabachok.online/rubrik/incest"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://bestweapon.ru/",
-            "title": "Эротические рассказы",
+            "py/object": "parser_result.Component",
             "snippet": "Наши эротические рассказы рассортированы по категориям, а улучшенная система поиска легко поможет вам найти желаемое.",
+            "title": "Эротические рассказы",
+            "type": "SEARCH_RESULT",
             "view_url": "https://bestweapon.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://funpost.biz/",
-            "title": "Эротические истории и рассказы",
+            "py/object": "parser_result.Component",
             "snippet": "...Эротическая сказка › Классика › Случай › Бисексуалы › Лесбиянки › Измена ... Нравиться мне почитать рассказы про первый опыт, т.к. мне самому есть что...",
+            "title": "Эротические истории и рассказы",
+            "type": "SEARCH_RESULT",
             "view_url": "http://funpost.biz/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://xuk.ru/erotic-stories",
-            "title": "Эротические рассказы, порно и секс рассказы... - Xuk.ru",
+            "py/object": "parser_result.Component",
             "snippet": "Главная. / Эротические рассказы. Рассказ дня 30 за неделю 100 за месяц.",
+            "title": "Эротические рассказы, порно и секс рассказы... - Xuk.ru",
+            "type": "SEARCH_RESULT",
             "view_url": "https://xuk.ru/erotic-stories"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://vk.com/sextext",
-            "title": "Про Это ツ - Эротические рассказы 18+ | ВКонтакте",
+            "py/object": "parser_result.Component",
             "snippet": "15 Показать список оценивших Показать список поделившихся. 12K. Про Это ツ - Эротические рассказы 18+.",
+            "title": "Про Это ツ - Эротические рассказы 18+ | ВКонтакте",
+            "type": "SEARCH_RESULT",
             "view_url": "https://vk.com/sextext"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

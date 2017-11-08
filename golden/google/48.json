@@ -1,84 +1,95 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://spb.superjob.ru/vakansii/na-domu.html&sa=U&ved=0ahUKEwjy3rLEpo_XAhVBtBoKHVvVDWgQFggyMAA&usg=AOvVaw3szuS66eZlojLVF7IRKTvW",
-            "title": "Работа на дому, вакансии удаленной работы в Санкт ...",
+            "py/object": "parser_result.Component",
             "snippet": "850 свежих вакансий в Санкт-Петербурге, подходящих по критериям поиска \nработы: на дому.",
+            "title": "Работа на дому, вакансии удаленной работы в Санкт ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://spb.superjob.ru/vakansii/na-domu.html"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://www.superjob.ru/vakansii/na-domu.html&sa=U&ved=0ahUKEwjy3rLEpo_XAhVBtBoKHVvVDWgQFgg3MAE&usg=AOvVaw1fEWZUYbyBEMFqHXbpRShl",
-            "title": "Работа на дому, вакансии удаленной работы в Москве - Superjob",
+            "py/object": "parser_result.Component",
             "snippet": "210 свежих вакансий в Москве, подходящих по критериям поиска работы: на \nдому.",
+            "title": "Работа на дому, вакансии удаленной работы в Москве - Superjob",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.superjob.ru/vakansii/na-domu.html"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://sankt-peterburg.trud.com/jobs/rabota_na_domu/&sa=U&ved=0ahUKEwjy3rLEpo_XAhVBtBoKHVvVDWgQFgg8MAI&usg=AOvVaw2jspWTYaSMD04N5gwL_BlD",
-            "title": "Работа на дому - работа в Санкт-Петербурге - Trud.com",
+            "py/object": "parser_result.Component",
             "snippet": "Актуальная работа на дому в Санкт-Петербурге. Поиск ваканий работы на \nдому в Санкт-Петербурге. Вакансии только от проверенных работодателей\n ...",
+            "title": "Работа на дому - работа в Санкт-Петербурге - Trud.com",
+            "type": "SEARCH_RESULT",
             "view_url": "sankt-peterburg.trud.com/jobs/rabota_na_domu/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://ru.indeed.com/jobs%3Fq%3D%25D0%25A0%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2582%25D0%25B0%2B%25D0%259D%25D0%25B0%2B%25D0%2594%25D0%25BE%25D0%25BC%25D1%2583%26l%3D%25D0%25A1%25D0%25B0%25D0%25BD%25D0%25BA%25D1%2582-%25D0%259F%25D0%25B5%25D1%2582%25D0%25B5%25D1%2580%25D0%25B1%25D1%2583%25D1%2580%25D0%25B3&sa=U&ved=0ahUKEwjy3rLEpo_XAhVBtBoKHVvVDWgQFghCMAM&usg=AOvVaw0g0eKZvVJEdxIZC9iVbM3u",
-            "title": "Вакансии — Работа На Дому, Санкт-Петербург | Indeed.com",
+            "py/object": "parser_result.Component",
             "snippet": "768 Работа На Дому Jobs available in Санкт-Петербург on Indeed.com. one \nsearch. all jobs.",
+            "title": "Вакансии — Работа На Дому, Санкт-Петербург | Indeed.com",
+            "type": "SEARCH_RESULT",
             "view_url": "https://ru.indeed.com/jobs?q=Работа+На+Дому&l..."
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://spb.rabotavgorode.ru/Rabota-na-Domu&sa=U&ved=0ahUKEwjy3rLEpo_XAhVBtBoKHVvVDWgQFghHMAQ&usg=AOvVaw2tkjSbQ-lq1LLbkw9Lw_UE",
-            "title": "Работа на дому в Санкт-Петербурге",
+            "py/object": "parser_result.Component",
             "snippet": "Работа на дому в Санкт-Петербурге и других городах РФ.",
+            "title": "Работа на дому в Санкт-Петербурге",
+            "type": "SEARCH_RESULT",
             "view_url": "https://spb.rabotavgorode.ru/Rabota-na-Domu"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://www.rabota.ru/vacancy/%25D1%2580%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2582%25D0%25B0%2520%25D0%25BD%25D0%25B0%2520%25D0%25B4%25D0%25BE%25D0%25BC%25D1%2583/%25D1%2583%25D0%25B4%25D0%25B0%25D0%25BB%25D0%25B5%25D0%25BD%25D0%25BD%25D0%25B0%25D1%258F%2520%25D1%2580%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2582%25D0%25B0/&sa=U&ved=0ahUKEwjy3rLEpo_XAhVBtBoKHVvVDWgQFghNMAU&usg=AOvVaw3mvbL4gsN-J6v5dp-QH1ni",
-            "title": "Работа на дому в Москве удаленно (фриланс) - 203 вакансии на ...",
+            "py/object": "parser_result.Component",
             "snippet": "Свежие вакансии и работа на дому в Москве удаленно (фриланс). Зарплата \nдо 500000 руб. Удобный и быстрый поиск работы на сайте Rabota.ru.",
+            "title": "Работа на дому в Москве удаленно (фриланс) - 203 вакансии на ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.rabota.ru/.../работа%20на%20дому/удаленная%20работа/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://www.careerjet.ru/rabota-jobs-%25D0%25BD%25D0%25B0-%25D0%25B4%25D0%25BE%25D0%25BC%25D1%2583/%25D0%25A1%25D0%25B0%25D0%25BD%25D0%25BA%25D1%2582-%25D0%259F%25D0%25B5%25D1%2582%25D0%25B5%25D1%2580%25D0%25B1%25D1%2583%25D1%2580%25D0%25B3-213901.html&sa=U&ved=0ahUKEwjy3rLEpo_XAhVBtBoKHVvVDWgQFghSMAY&usg=AOvVaw3WC-SoeRYyLm8u9QKhNcIR",
-            "title": "Работа : Вакансии - на Дому - Санкт-Петербург | Careerjet.ru",
+            "py/object": "parser_result.Component",
             "snippet": "Работа на Дому в Санкт-Петербурге. Поиск открытых вакансий на Дому на \nCareerjet.ru.",
+            "title": "Работа : Вакансии - на Дому - Санкт-Петербург | Careerjet.ru",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.careerjet.ru/rabota...дому/Санкт-Петербург-213901.html"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://www.domkadrov.ru/candsearch.php%3Fcompfunction%3D12f%26city%3D2&sa=U&ved=0ahUKEwjy3rLEpo_XAhVBtBoKHVvVDWgQFghXMAc&usg=AOvVaw1C6LFfAyRwqhexo8phAAnx",
-            "title": "Работа на дому, удаленная работа в Санкт-Петербурге",
+            "py/object": "parser_result.Component",
             "snippet": "Поиск работы: найдены 748 вакансий по специальности Работа на дому, \nудаленная работа в городе Санкт-Петербург - найти хорошую работу.",
+            "title": "Работа на дому, удаленная работа в Санкт-Петербурге",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.domkadrov.ru/candsearch.php?...12f...2"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://ru.trovit.com/rabota/%25D0%25B4%25D0%25BE%25D0%25BC%25D1%2583-%25D0%25BF%25D0%25BE%25D0%25B4%25D1%2580%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2582%25D0%25BA%25D0%25B0-%25D1%2580%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2582%25D0%25B0-%25D0%25B2-%25D1%2581%25D0%25B0%25D0%25BD%25D0%25BA%25D1%2582_%25D0%25BF%25D0%25B5%25D1%2582%25D0%25B5%25D1%2580%25D0%25B1%25D1%2583%25D1%2580%25D0%25B3,-%25D1%2581%25D0%25B0%25D0%25BD%25D0%25BA%25D1%2582_%25D0%25BF%25D0%25B5%25D1%2582%25D0%25B5%25D1%2580%25D0%25B1%25D1%2583%25D1%2580%25D0%25B3&sa=U&ved=0ahUKEwjy3rLEpo_XAhVBtBoKHVvVDWgQFghcMAg&usg=AOvVaw11oO6-L2buKw1J12sryB01",
-            "title": "Вакансии (дому подработка) в регионе: санкт-петербург - Trovit",
+            "py/object": "parser_result.Component",
             "snippet": "Для удалённой работы в интернете на дому требуется ПК. Работа на дому \nот 2 часов в день. Наилучший вариант для домохозяек и женщин в декрете.",
+            "title": "Вакансии (дому подработка) в регионе: санкт-петербург - Trovit",
+            "type": "SEARCH_RESULT",
             "view_url": "https://ru.trovit.com/rabota/дому-подработка-работа-в-санкт_петербург,- санкт_петербург"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://www.workle.ru/content/rabota-na-domu/&sa=U&ved=0ahUKEwjy3rLEpo_XAhVBtBoKHVvVDWgQFghiMAk&usg=AOvVaw0a2gj3kkO4oyqbnjXNvpNe",
-            "title": "Работа на дому онлайн. Работай удаленно в интернете. / Workle",
+            "py/object": "parser_result.Component",
             "snippet": "Какой должна быть идеальная работа на дому? Это работа удаленно со \nсвободным графиком и достойным вознаграждением. Компания Workle ...",
+            "title": "Работа на дому онлайн. Работай удаленно в интернете. / Workle",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.workle.ru/content/rabota-na-domu/"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

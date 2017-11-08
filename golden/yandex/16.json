@@ -1,84 +1,95 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://www.pochta.ru/TRACKING",
-            "title": "Отслеживание",
+            "py/object": "parser_result.Component",
             "snippet": "Услуги для вас. Отслеживание. Письма. Посылки.",
+            "title": "Отслеживание",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.pochta.ru/TRACKING"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://GdePosylka.ru/",
-            "title": "Отслеживание почтовых отправлений на ГдеПосылка",
+            "py/object": "parser_result.Component",
             "snippet": "GdePosylka.ru",
+            "title": "Отслеживание почтовых отправлений на ГдеПосылка",
+            "type": "SEARCH_RESULT",
             "view_url": ""
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://track24.ru/service/rupost/tracking/",
-            "title": "Отслеживание Почта России",
+            "py/object": "parser_result.Component",
             "snippet": "track24.ru›Почта России",
+            "title": "Отслеживание Почта России",
+            "type": "SEARCH_RESULT",
             "view_url": ""
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://print-post.com/trekking_posylok.htm",
-            "title": "Отслеживание почтовых отправлений почты России",
+            "py/object": "parser_result.Component",
             "snippet": "Отслеживание почтовых отправлений почты России Что-бы узнать, где находится ваша посылка - введите номер почтового отправления...",
+            "title": "Отслеживание почтовых отправлений почты России",
+            "type": "SEARCH_RESULT",
             "view_url": "https://print-post.com/trekking_posylok.htm"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://1track.ru/postservice/russian-post",
-            "title": "Отследить посылку Почты России - отслеживание по...",
+            "py/object": "parser_result.Component",
             "snippet": "Онлайн-сервис отслеживания почтовых отправлений 1Track.ru поможет Вам отследить статус и местонахождение вашей посылки доставляемой Почтой России.",
+            "title": "Отследить посылку Почты России - отслеживание по...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://1track.ru/postservice/russian-post"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://www.russianpost.ru/Tracking20/%5C",
-            "title": "Почта России. Отслеживание почтовых отправлений",
+            "py/object": "parser_result.Component",
             "snippet": "В случае отслеживания международного почтового отправления и EMS-отправления необходимо вводить 4 буквы и 9 цифр.",
+            "title": "Почта России. Отслеживание почтовых отправлений",
+            "type": "SEARCH_RESULT",
             "view_url": "http://www.russianpost.ru/Tracking20/%5C"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://Post2Go.ru/courier/russian-post",
-            "title": "Почта России: отслеживание отправлений",
+            "py/object": "parser_result.Component",
             "snippet": "Федеральное государственное унитарное предприятие «Почта России» – федеральный почтовый оператор.",
+            "title": "Почта России: отслеживание отправлений",
+            "type": "SEARCH_RESULT",
             "view_url": "https://Post2Go.ru/courier/russian-post"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://postal.ninja/",
-            "title": "Отслеживание почтовых отправлений, международных...",
+            "py/object": "parser_result.Component",
             "snippet": "Отслеживание почтовых отправлений. Более 160 международных почтовых и курьерских служб. Неизвестный формат трек-номера.",
+            "title": "Отслеживание почтовых отправлений, международных...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://postal.ninja/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://gdetoedet.ru/",
-            "title": "сервис для отслеживания почтовых отправлений...",
+            "py/object": "parser_result.Component",
             "snippet": "Сервис почтовых отслеживаний GdetoEdet.RU создан для того, чтобы получатель мог в любой момент узнать: «А где же едет моя долгожданная посылка?».",
+            "title": "сервис для отслеживания почтовых отправлений...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://gdetoedet.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://www.TrackItOnline.ru/",
-            "title": "Track It - Отслеживание почтовых отправлений",
+            "py/object": "parser_result.Component",
             "snippet": "Отслеживание отправлений по трекинг номерам более 500 почтово-транспортных компаний всего мира",
+            "title": "Track It - Отслеживание почтовых отправлений",
+            "type": "SEARCH_RESULT",
             "view_url": "http://www.TrackItOnline.ru/"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

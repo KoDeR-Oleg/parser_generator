@@ -1,84 +1,95 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://online.sberbank.ru/",
-            "title": "Сбербанк Онлайн",
+            "py/object": "parser_result.Component",
             "snippet": "Если вас просят ввести пароль входа в Сбербанк Онлайн для отмены или аннулирования операции, не делайте этого.",
+            "title": "Сбербанк Онлайн",
+            "type": "SEARCH_RESULT",
             "view_url": "https://online.sberbank.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://to-bank.com/sberbank-online/",
-            "title": "Сбербанк Онлайн - вход в личный кабинет, вход...",
+            "py/object": "parser_result.Component",
             "snippet": "Как войти в Систему Сбербанк Онлайн. Зайдите на сайт Сбербанка (www.sberbank.ru) и нажмите кнопку Вход в правой верхней части страницы.",
+            "title": "Сбербанк Онлайн - вход в личный кабинет, вход...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://to-bank.com/sberbank-online/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://www.markint.ru/sberbank-onlajn/",
-            "title": "Сбербанк Онлайн: личный кабинет, вход, регистрация...",
+            "py/object": "parser_result.Component",
             "snippet": "Войти в личный кабинет Сбербанк Онлайн вы можете как с помощью веб интерфейса через браузер на компьютере...",
+            "title": "Сбербанк Онлайн: личный кабинет, вход, регистрация...",
+            "type": "SEARCH_RESULT",
             "view_url": "http://www.markint.ru/sberbank-onlajn/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://www.Sravni.ru/banki/info/sberbank-onlajn/",
-            "title": "Сбербанк Онлайн",
+            "py/object": "parser_result.Component",
             "snippet": "Сбербанк Онлайн (Сбербанк ОнЛ@йн) – это система дистанционного обслуживания клиентов, позволяющая получать многие банковские услуги с помощью компьютера...",
+            "title": "Сбербанк Онлайн",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.Sravni.ru/banki/info/sberbank-onlajn/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://irecommend.ru/content/sberbank-onlin-1",
-            "title": "Сбербанк ОнЛ@йн - online.sberbank.ru - отзывы",
+            "py/object": "parser_result.Component",
             "snippet": "В Сбербанк Онлайн теперь появилась новая услуга, которая позволяет спланировать и проанализировать свои расходы.",
+            "title": "Сбербанк ОнЛ@йн - online.sberbank.ru - отзывы",
+            "type": "SEARCH_RESULT",
             "view_url": "http://irecommend.ru/content/sberbank-onlin-1"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://sberbank-v-sberbanke.ru/page/sberbank-onlajn-lichnyj-kabinet",
-            "title": "Сбербанк Онлайн Личный Кабинет – вход в систему",
+            "py/object": "parser_result.Component",
             "snippet": "Как войти в Личный Кабинет Сбербанк Онлайн на online.sberbank.ru. Откройте один из Интернет-браузеров (Chrome, Yandex, Firefox).",
+            "title": "Сбербанк Онлайн Личный Кабинет – вход в систему",
+            "type": "SEARCH_RESULT",
             "view_url": "http://sberbank-v-sberbanke.ru/page/sberbank-onlajn-lichnyj-kabinet"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://www.compgramotnost.ru/elektronnye-dengi/sberbank-onlajn-vhod-otkrytie-vklada-kak-vyjti",
-            "title": "Сбербанк Онлайн: вход, регистрация, открытие вклада...",
+            "py/object": "parser_result.Component",
             "snippet": "Сбербанк Онлайн: вход, регистрация, открытие вклада, оплата ЖКХ, перевод с карты на карту и как выйти Сегодня многие банки предлагают электронные сервисы...",
+            "title": "Сбербанк Онлайн: вход, регистрация, открытие вклада...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.compgramotnost.ru/elektronnye-dengi/sberbank-onlajn-vhod-otkrytie-vklada-kak-vyjti"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://www.bank24online.com/",
-            "title": "Сбербанк Онлайн - личный кабинет Сбербанка",
+            "py/object": "parser_result.Component",
             "snippet": "Сбербанк Онлайн создан с целью совершения расчетных операций, оплаты счетов, открытия и закрытия вкладов, погашения кредитов.",
+            "title": "Сбербанк Онлайн - личный кабинет Сбербанка",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.bank24online.com/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://www.sberbank-gid.ru/sberbank-online",
-            "title": "Сбербанк онлайн и личный кабинет сбербанка...",
+            "py/object": "parser_result.Component",
             "snippet": "Ранее вы могли подключить «Сбербанк онлайн» только при оформлении банковской карты, либо по заявке у сотрудника Сбербанка.",
+            "title": "Сбербанк онлайн и личный кабинет сбербанка...",
+            "type": "SEARCH_RESULT",
             "view_url": "http://www.sberbank-gid.ru/sberbank-online"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://pc4me.ru/sberbank-onlayn-lichnyiy-kabinet-vhod.html",
-            "title": "Сбербанк Онлайн личный кабинет – вход",
+            "py/object": "parser_result.Component",
             "snippet": "Личный кабинет Сбербанк России Онлайн - это современная и очень удобная услуга онлайн доступа через интернет-клиент к своему счёту...",
+            "title": "Сбербанк Онлайн личный кабинет – вход",
+            "type": "SEARCH_RESULT",
             "view_url": "http://pc4me.ru/sberbank-onlayn-lichnyiy-kabinet-vhod.html"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

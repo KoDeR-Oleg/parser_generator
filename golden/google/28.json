@@ -1,84 +1,95 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://www.tutu.ru/poezda/station_d.php%3Fnnst%3D2004001&sa=U&ved=0ahUKEwitvNDdro_XAhVDAZoKHUtnDjQQFggyMAI&usg=AOvVaw1ZuqyZ1iaOcf8Eq2y36AaX",
-            "title": "Расписание поездов Санкт-Петербург-Главн. - Туту.ру",
+            "py/object": "parser_result.Component",
             "snippet": "Жд билеты в Московский вокзал и из Московского вокзала. Расписание \nпоездов через Московский вокзал, возможность покупки билета на поезд до ...",
+            "title": "Расписание поездов Санкт-Петербург-Главн. - Туту.ру",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.tutu.ru/poezda/station_d.php?nnst..."
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://www.tutu.ru/poezda/&sa=U&ved=0ahUKEwitvNDdro_XAhVDAZoKHUtnDjQQFgg3MAM&usg=AOvVaw1LionKdwKNg87CXLvKg_Zv",
-            "title": "Расписание поездов по России, купить билеты на поезд онлайн ...",
+            "py/object": "parser_result.Component",
             "snippet": "Расписание поездов всех вокзалов Москвы, России, СНГ. Расписание \nпоездов дальнего следования 2017 гг.",
+            "title": "Расписание поездов по России, купить билеты на поезд онлайн ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.tutu.ru/poezda/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://www.tutu.ru/poezda/station_d.php%3Fnnst%3D2004000&sa=U&ved=0ahUKEwitvNDdro_XAhVDAZoKHUtnDjQQFghBMAQ&usg=AOvVaw0PyaEo6rurTNPkMH4vVZUG",
-            "title": "Расписание поездов Санкт-Петербург - Туту.ру",
+            "py/object": "parser_result.Component",
             "snippet": "Жд билеты в Санкт-Петербург и из Санкт-Петербурга. Расписание поездов \nчерез Санкт-Петербург, возможность покупки билета на поезд до города ...",
+            "title": "Расписание поездов Санкт-Петербург - Туту.ру",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.tutu.ru/poezda/station_d.php?nnst..."
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://pass.rzd.ru/timetable/public/ru%3FSTRUCTURE_ID%3D735&sa=U&ved=0ahUKEwitvNDdro_XAhVDAZoKHUtnDjQQFghGMAU&usg=AOvVaw3xFqkS_7xnJ9s5tDkknevn",
-            "title": "Расписание, стоимость билетов - Пассажирам - РЖД",
+            "py/object": "parser_result.Component",
             "snippet": "14-16 ноября изменяется расписание поездов в направлении курортов \nКраснодарского края. Приносим извинения за доставленные неудобства. \nМеню.",
+            "title": "Расписание, стоимость билетов - Пассажирам - РЖД",
+            "type": "SEARCH_RESULT",
             "view_url": "https://pass.rzd.ru/timetable/public/ru?STRUCTURE..."
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://rasp.yandex.ru/station/9602494%3Ftype%3Dtrain&sa=U&ved=0ahUKEwitvNDdro_XAhVDAZoKHUtnDjQQFghRMAY&usg=AOvVaw1rzAxGq4ffnsYz-yMMg7z2",
-            "title": "Расписание поездов: Санкт-Петербург (Московский вокзал ...",
+            "py/object": "parser_result.Component",
             "snippet": "Московский вокзал (Санкт-Петербург). Расписание поездов и электричек на \n2017 год с учетом оперативных изменений. На сервисе Яндекс.Расписания ...",
+            "title": "Расписание поездов: Санкт-Петербург (Московский вокзал ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://rasp.yandex.ru/station/9602494?type=train"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://rasp.yandex.ru/station/9607404%3Ftype%3Dtrain&sa=U&ved=0ahUKEwitvNDdro_XAhVDAZoKHUtnDjQQFghXMAc&usg=AOvVaw331z-LImG-izj1AAfhgbnT",
-            "title": "Расписание поездов по вокзалу Екатеринбург-Пасс.. Отправление",
+            "py/object": "parser_result.Component",
             "snippet": "Расписание поездов и электричек на 2017 год с учетом оперативных \nизменений. На сервисе Яндекс.Расписания можно построить маршруты по \nвсему ...",
+            "title": "Расписание поездов по вокзалу Екатеринбург-Пасс.. Отправление",
+            "type": "SEARCH_RESULT",
             "view_url": "https://rasp.yandex.ru/station/9607404?type=train"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://rasp.yandex.ru/station/9610384%3Ftype%3Dtrain&sa=U&ved=0ahUKEwitvNDdro_XAhVDAZoKHUtnDjQQFghdMAg&usg=AOvVaw1MMjtwZZ6QpVFj9333fAUZ",
-            "title": "Расписание поездов по станции Омск-Пасс.. Отправление ...",
+            "py/object": "parser_result.Component",
             "snippet": "Вокзал Омск-Пасс. (Омск). Расписание поездов и электричек на 2017 год с \nучетом оперативных изменений. На сервисе Яндекс.Расписания можно ...",
+            "title": "Расписание поездов по станции Омск-Пасс.. Отправление ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://rasp.yandex.ru/station/9610384?type=train"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://rasp.yandex.ru/station/9610189%3Ftype%3Dtrain&sa=U&ved=0ahUKEwitvNDdro_XAhVDAZoKHUtnDjQQFghjMAk&usg=AOvVaw1wuRM5RSRrjCrAc-1X06Ty",
-            "title": "Расписание поездов по станции Новосибирск-главный ...",
+            "py/object": "parser_result.Component",
             "snippet": "Вокзал Новосибирск-главный (Новосибирск). Расписание поездов и \nэлектричек на 2017 год с учетом оперативных изменений. На сервисе ...",
+            "title": "Расписание поездов по станции Новосибирск-главный ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://rasp.yandex.ru/station/9610189?type=train"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://www.transportspb.com/trains/route&sa=U&ved=0ahUKEwitvNDdro_XAhVDAZoKHUtnDjQQFghpMAo&usg=AOvVaw2MPY7iQhvV8aWZYrQ7yG5L",
-            "title": "Расписание поездов Санкт-Петербурга 2017, расписание ...",
+            "py/object": "parser_result.Component",
             "snippet": "В данном разделе нашего сайта вы можете узнать расписание поездов \nдальнего следования со всех вокзалов Санкт-Петербурга.",
+            "title": "Расписание поездов Санкт-Петербурга 2017, расписание ...",
+            "type": "SEARCH_RESULT",
             "view_url": "www.transportspb.com/trains/route"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://www.ufs-online.ru/raspisanie-poezdov&sa=U&ved=0ahUKEwitvNDdro_XAhVDAZoKHUtnDjQQFghuMAs&usg=AOvVaw0XgkSClFEKcseuC_3JD1X1",
-            "title": "Расписание поездов дальнего следования на УФС - UFS.Travel",
+            "py/object": "parser_result.Component",
             "snippet": "Расписание поездов дальнего следования, купить жд билет по расписанию \nмаршрута поезда дальнего следования.",
+            "title": "Расписание поездов дальнего следования на УФС - UFS.Travel",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.ufs-online.ru/raspisanie-poezdov"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

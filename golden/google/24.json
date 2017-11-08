@@ -1,84 +1,95 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://www.androeed.ru/files/cat/30.html&sa=U&ved=0ahUKEwjZw_zbro_XAhVEP5oKHSc4B74QFggaMAA&usg=AOvVaw3R0Zu4wSwCOVKyo_O0hz2l",
-            "title": "Скачать бесплатные игры на Андроид (Android)",
+            "py/object": "parser_result.Component",
             "snippet": "androeed.ru предлагает Вам скачать Скачать бесплатные игры на Андроид (\nAndroid) на любой вкус для Андроид (Android) телефонов и планшетов ...",
+            "title": "Скачать бесплатные игры на Андроид (Android)",
+            "type": "SEARCH_RESULT",
             "view_url": "www.androeed.ru/files/cat/30.html"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://onandroid.org/igry/&sa=U&ved=0ahUKEwjZw_zbro_XAhVEP5oKHSc4B74QFggjMAE&usg=AOvVaw14mJT0y9DT-KEjfpfKI0HK",
-            "title": "Скачать игры на Андроид бесплатно без регистрации игры для ...",
+            "py/object": "parser_result.Component",
             "snippet": "На нашем сайте вы можете скачать игры на Андроид. Бесплатные android \nигры на любой возраст, на телефон или планшет скачать бесплатно.",
+            "title": "Скачать игры на Андроид бесплатно без регистрации игры для ...",
+            "type": "SEARCH_RESULT",
             "view_url": "onandroid.org/igry/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://trashbox.ru/public/games/&sa=U&ved=0ahUKEwjZw_zbro_XAhVEP5oKHSc4B74QFggtMAI&usg=AOvVaw1HJ5PrtS905S4gDOFrYBK8",
-            "title": "Скачать игры на телефон и планшет - Trashbox",
+            "py/object": "parser_result.Component",
             "snippet": "Скачать бесплатно без регистрации игры для телефона и планшета. Все \nфайлы проверяются антивирусами. Удобно и безопасно на Trashbox.ru.",
+            "title": "Скачать игры на телефон и планшет - Trashbox",
+            "type": "SEARCH_RESULT",
             "view_url": "https://trashbox.ru/public/games/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://play.mob.org.ru/page-2/&sa=U&ved=0ahUKEwjZw_zbro_XAhVEP5oKHSc4B74QFggzMAM&usg=AOvVaw1uDuzgX0WTGsf-k4r7tRxv",
-            "title": "Игры на Андроид, скачать игры для Android бесплатно. Страница 2",
+            "py/object": "parser_result.Component",
             "snippet": "Игры на Андроид планшеты и телефоны, скачайте бесплатно лучшее для \nАндроид! Ежедневно сотни бесплатных новых Android игр и многое другое.",
+            "title": "Игры на Андроид, скачать игры для Android бесплатно. Страница 2",
+            "type": "SEARCH_RESULT",
             "view_url": "https://play.mob.org.ru/page-2/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://pdalife.ru/android/igry/&sa=U&ved=0ahUKEwjZw_zbro_XAhVEP5oKHSc4B74QFgg5MAQ&usg=AOvVaw3ZMihu2VWQlCjrP48gs56U",
-            "title": "Игры на Андроид, скачать игры на Android бесплатно - PDALIFE.ru",
+            "py/object": "parser_result.Component",
             "snippet": "Игры на Андроид, скачать множество игр на Андроид бесплатно и без \nрегистрации можно на сайте PDALIFE.ru. Мы помогаем Вам экономить своё ...",
+            "title": "Игры на Андроид, скачать игры на Android бесплатно - PDALIFE.ru",
+            "type": "SEARCH_RESULT",
             "view_url": "https://pdalife.ru/android/igry/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://androidapplications.ru/games/&sa=U&ved=0ahUKEwjZw_zbro_XAhVEP5oKHSc4B74QFgg_MAU&usg=AOvVaw0LMXISh_Txd8HAHCbOdl6x",
-            "title": "Игры на Андроид | Cкачать бесплатно новые игры без ...",
+            "py/object": "parser_result.Component",
             "snippet": "Скачать игру Pony Sisters Pop Music Band - Play, Sing & Design. Pony Sisters ... \nСкачать игру Ninja Heroes - Storm Battle: best anime RPG · Ninja Heroes - ...",
+            "title": "Игры на Андроид | Cкачать бесплатно новые игры без ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://androidapplications.ru/games/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://igry-android.net/&sa=U&ved=0ahUKEwjZw_zbro_XAhVEP5oKHSc4B74QFghFMAY&usg=AOvVaw0nVnfLpxo7nTRwyN3Ryr9E",
-            "title": "Бесплатные игры для Андроид скачать бесплатно без ...",
+            "py/object": "parser_result.Component",
             "snippet": "Igry-Android.net - это каталог бесплатных игр для Андроид. Здесь вы найдете \nигры практически любого жанра. Перед публикацией они все проверяются ...",
+            "title": "Бесплатные игры для Андроид скачать бесплатно без ...",
+            "type": "SEARCH_RESULT",
             "view_url": "igry-android.net/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://www.procontent.ru/casual-games/&sa=U&ved=0ahUKEwjZw_zbro_XAhVEP5oKHSc4B74QFghLMAc&usg=AOvVaw0xrAHOz7ISYoQiVJfhNUFy",
-            "title": "Игры бесплатно - возможность скачать любую игру бесплатно",
+            "py/object": "parser_result.Component",
             "snippet": "Бесплатные игры, любую игру вы можете скачать на компьютер и играть \nбесплатно.",
+            "title": "Игры бесплатно - возможность скачать любую игру бесплатно",
+            "type": "SEARCH_RESULT",
             "view_url": "www.procontent.ru/casual-games/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://top-android.org/games/&sa=U&ved=0ahUKEwjZw_zbro_XAhVEP5oKHSc4B74QFghRMAg&usg=AOvVaw1I3wtrbSq9fkYQ-6FobnhQ",
-            "title": "Скачать игры на андроид бесплатно | Игры для android с ...",
+            "py/object": "parser_result.Component",
             "snippet": "4 дн. назад ... Игры для android без смс можно скачать прямо сейчас. Вы действительно \nзашли по адресу, если попали на наш сайт. Здесь Вы ...",
+            "title": "Скачать игры на андроид бесплатно | Игры для android с ...",
+            "type": "SEARCH_RESULT",
             "view_url": "top-android.org/games/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://worldoftanks.ru/ru/game/download/&sa=U&ved=0ahUKEwjZw_zbro_XAhVEP5oKHSc4B74QFghYMAk&usg=AOvVaw0wmXonXd3wE860W88qL72q",
-            "title": "Скачать игру World of Tanks с официального сайта",
+            "py/object": "parser_result.Component",
             "snippet": "Скачать онлайн-игру World of Tanks (WoT) с официального сайта \nworldoftanks.ru бесплатно и установить на компьютер.",
+            "title": "Скачать игру World of Tanks с официального сайта",
+            "type": "SEARCH_RESULT",
             "view_url": "https://worldoftanks.ru/ru/game/download/"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

@@ -1,89 +1,100 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://gov.spb.ru/&sa=U&ved=0ahUKEwidnujfro_XAhVCb5oKHWt_A1sQFggUMAA&usg=AOvVaw1PZAT2CWsevWxAPAO8142G",
-            "title": "Официальный сайт Администрации Санкт-Петербурга",
+            "py/object": "parser_result.Component",
             "snippet": "Структура и состав Администрации. Информация о Губернаторе и \nПравительстве. Новости и анонсы, фото и видео. Вакансии в \nАдминистрации.",
+            "title": "Официальный сайт Администрации Санкт-Петербурга",
+            "type": "SEARCH_RESULT",
             "view_url": "https://gov.spb.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://ru.wikipedia.org/wiki/%25D0%25A1%25D0%25B0%25D0%25BD%25D0%25BA%25D1%2582-%25D0%259F%25D0%25B5%25D1%2582%25D0%25B5%25D1%2580%25D0%25B1%25D1%2583%25D1%2580%25D0%25B3&sa=U&ved=0ahUKEwidnujfro_XAhVCb5oKHWt_A1sQFggaMAE&usg=AOvVaw2BlChX0GF6Jw0ltAda2oby",
-            "title": "Санкт-Петербург — Википедия",
+            "py/object": "parser_result.Component",
             "snippet": "Санкт-Петербу́рг (с 18 [31] августа 1914 года до 26 января 1924 года — \nПетрогра́д, с 26 января 1924 года до 6 сентября 1991 года — Ленингра́д) ...",
+            "title": "Санкт-Петербург — Википедия",
+            "type": "SEARCH_RESULT",
             "view_url": "https://ru.wikipedia.org/wiki/Санкт-Петербург"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://www.tripadvisor.ru/Tourism-g298507-St_Petersburg_Northwestern_District-Vacations.html&sa=U&ved=0ahUKEwidnujfro_XAhVCb5oKHWt_A1sQFggkMAI&usg=AOvVaw1B5KAFp7SnrI5J_a6HoQ1D",
-            "title": "Санкт-Петербург 2017: все самое лучшее для туристов ...",
+            "py/object": "parser_result.Component",
             "snippet": "Второй по величине город в России, Санкт-Петербург является культурным \nцентром страны. Совершите экскурсию к таким архитектурным ...",
+            "title": "Санкт-Петербург 2017: все самое лучшее для туристов ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.tripadvisor.ru/Tourism-g298507-St_Petersburg_Northwestern_ District-Vacations.html"
         },
         {
-            "type": "WIZARD",
             "alignment": "LEFT",
             "page_url": "/search?q=%D1%81%D0%B0%D0%BD%D0%BA%D1%82+%D0%BF%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3&newwindow=1&dcr=0&ie=UTF-8&prmd=ivnsm&source=univ&tbm=nws&tbo=u&sa=X&ved=0ahUKEwidnujfro_XAhVCb5oKHWt_A1sQqAIIKg",
+            "py/object": "parser_result.Component",
             "title": "Новости по запросу санкт петербург",
+            "type": "WIZARD",
             "wizard_type": "WIZARD_NEWS"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://vk.com/o_st.petersburg&sa=U&ved=0ahUKEwidnujfro_XAhVCb5oKHWt_A1sQFggzMAY&usg=AOvVaw3vYZrV2SS4VNJLgxWvEfRG",
-            "title": "Санкт-Петербург - это мой город! | Питер | СПБ | ВКонтакте",
+            "py/object": "parser_result.Component",
             "snippet": "Санкт-Петербург – один из красивейших городов мира с большим \nколичеством исторических памятников и достопримечательностей.",
+            "title": "Санкт-Петербург - это мой город! | Питер | СПБ | ВКонтакте",
+            "type": "SEARCH_RESULT",
             "view_url": "https://vk.com/o_st.petersburg"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://tonkosti.ru/%25D0%25A1%25D0%25B0%25D0%25BD%25D0%25BA%25D1%2582-%25D0%259F%25D0%25B5%25D1%2582%25D0%25B5%25D1%2580%25D0%25B1%25D1%2583%25D1%2580%25D0%25B3&sa=U&ved=0ahUKEwidnujfro_XAhVCb5oKHWt_A1sQFgg5MAc&usg=AOvVaw2MmH9e9f4YPm68waOgY0tl",
-            "title": "Санкт-Петербург — отдых, экскурсии, музеи, кухня и шоппинг ...",
+            "py/object": "parser_result.Component",
             "snippet": "Культурная столица России, северная Венеция, детище Петра — так часто \nназывают Санкт-Петербург, второй по величине город нашей необъятной с\n ...",
+            "title": "Санкт-Петербург — отдых, экскурсии, музеи, кухня и шоппинг ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://tonkosti.ru/Санкт-Петербург"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://www.bspb.ru/&sa=U&ved=0ahUKEwidnujfro_XAhVCb5oKHWt_A1sQFgg_MAg&usg=AOvVaw0mrB9ixRyARQheb6n_Olc4",
-            "title": "Банк Санкт-Петербург: Частным клиентам",
+            "py/object": "parser_result.Component",
             "snippet": "Банкоматы и офисы. Свяжитесь с нами. Вход в банк Войти Об интернет-\nбанке. Круглосуточно. 8 /812/ 329 5050. Санкт-Петербург. в Санкт-\nПетербурге 8 ...",
+            "title": "Банк Санкт-Петербург: Частным клиентам",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.bspb.ru/"
         },
         {
-            "type": "WIZARD",
             "alignment": "LEFT",
-            "page_url": "/search?q=%D1%81%D0%B0%D0%BD%D0%BA%D1%82+%D0%BF%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3&newwindow=1&dcr=0&ie=UTF-8&prmd=ivnsm&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwidnujfro_XAhVCb5oKHWt_A1sQsAQIRQ",
-            "title": "Картинки по запросу санкт петербург",
-            "wizard_type": "WIZARD_IMAGE",
             "media_links": [
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-14FF_Bg0Avhht8CIiEVLVakWRB4HR0s0Vc8AWOpL1v10yegCQwm71Q",
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9FB1QsVW4B64GChq_ejgkfWAJNo3yCeKjkTEsp5ULfea2EA6Vc8exrQ",
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2nKwDBCloRW8opFv6urFjmWxIP8-J9U5GkX7jlgmxHZzaTwTPNMOqa8A",
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtjJrhzltFU_H_dvQncbfbyHkbxWT9drwfY0xtpCGl7yaFyRFhCJwib0o",
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR26mEHLhmDCq0vPynWyd7tHLz39yQfLExLjEeHKI6_WF-L5L4Hjky0Fg"
-            ]
+            ],
+            "page_url": "/search?q=%D1%81%D0%B0%D0%BD%D0%BA%D1%82+%D0%BF%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3&newwindow=1&dcr=0&ie=UTF-8&prmd=ivnsm&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwidnujfro_XAhVCb5oKHWt_A1sQsAQIRQ",
+            "py/object": "parser_result.Component",
+            "title": "Картинки по запросу санкт петербург",
+            "type": "WIZARD",
+            "wizard_type": "WIZARD_IMAGE"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://i.bspb.ru/&sa=U&ved=0ahUKEwidnujfro_XAhVCb5oKHWt_A1sQFghRMA4&usg=AOvVaw0hoPjjRb6uCoNb1OyZk0fM",
-            "title": "Банк Санкт-Петербург",
+            "py/object": "parser_result.Component",
             "snippet": "Всегда используйте зашифрованное соединение. Убедитесь в том, что \nсертификат в адресной строке с названием Bank Saint Petersburg зеленого ...",
+            "title": "Банк Санкт-Петербург",
+            "type": "SEARCH_RESULT",
             "view_url": "https://i.bspb.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://saint-petersburg.ru/&sa=U&ved=0ahUKEwidnujfro_XAhVCb5oKHWt_A1sQFghXMA8&usg=AOvVaw3QUx2ZyS9Z42GghWr7v7Yy",
-            "title": "Санкт-Петербург.ру",
+            "py/object": "parser_result.Component",
             "snippet": "Новости Петербурга, Афиша, Каталог компаний, Погода.",
+            "title": "Санкт-Петербург.ру",
+            "type": "SEARCH_RESULT",
             "view_url": "https://saint-petersburg.ru/"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

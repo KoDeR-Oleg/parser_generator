@@ -1,84 +1,95 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://www.tutu.ru/spb/&sa=U&ved=0ahUKEwiX6KLWro_XAhWjYJoKHWdzCf8QFggUMAA&usg=AOvVaw26hnOnlEbzFgop5kcVYjnR",
-            "title": "Расписание электричек Санкт-Петербург 2017. Расписание ...",
+            "py/object": "parser_result.Component",
             "snippet": "Расписание электричек всех вокзалов Санкт-Петербурга и Ленинградской \nобласти, расписание электропоездов Санкт-Петербург 2017.",
+            "title": "Расписание электричек Санкт-Петербург 2017. Расписание ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.tutu.ru/spb/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://www.tutu.ru/prigorod/&sa=U&ved=0ahUKEwiX6KLWro_XAhWjYJoKHWdzCf8QFggZMAE&usg=AOvVaw0jA0T9WyOC0dTocVcwA03E",
-            "title": "Расписание электричек 2017, расписание движения ... - Туту.ру",
+            "py/object": "parser_result.Component",
             "snippet": "Расписание электричек на 2017 год. Расписание дизель-поездов, \nэлектропоездов.",
+            "title": "Расписание электричек 2017, расписание движения ... - Туту.ру",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.tutu.ru/prigorod/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://www.tutu.ru/spb/station.php%3Fnnst%3D40105&sa=U&ved=0ahUKEwiX6KLWro_XAhWjYJoKHWdzCf8QFggiMAI&usg=AOvVaw1qQrIYe-kQBgFo79P29TuA",
-            "title": "Расписание электричек Санкт-Петербург-Финл.. Маршруты ...",
+            "py/object": "parser_result.Component",
             "snippet": "Получите расписание ближайших электричек на телефон! SMS на номер \n2320 — СПБ СПб-Финл. Стоимость — 10 руб. Как это работает. Ласточки.",
+            "title": "Расписание электричек Санкт-Петербург-Финл.. Маршруты ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.tutu.ru/spb/station.php?nnst=40105"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://www.tutu.ru/spb/station.php%3Fnnst%3D4081&sa=U&ved=0ahUKEwiX6KLWro_XAhWjYJoKHWdzCf8QFggnMAM&usg=AOvVaw3ZCgqeUh0ruO3frlw2EvBM",
-            "title": "Расписание электричек Гатчина Варшавская. Маршруты ...",
+            "py/object": "parser_result.Component",
             "snippet": "Получите расписание ближайших электричек на телефон! SMS на номер \n2320 — СПБ Гатчина Варшавская. Стоимость — 10 руб. Как это работает.",
+            "title": "Расписание электричек Гатчина Варшавская. Маршруты ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.tutu.ru/spb/station.php?nnst=4081"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://www.tutu.ru/spb/station.php%3Fnnst%3D13302&sa=U&ved=0ahUKEwiX6KLWro_XAhWjYJoKHWdzCf8QFggsMAQ&usg=AOvVaw1jrst6ONGRUpLkkJWCwpeB",
-            "title": "Расписание электричек Санкт-Петербург-Витеб.. Маршруты ...",
+            "py/object": "parser_result.Component",
             "snippet": "Получите расписание ближайших электричек на телефон! SMS на номер \n2320 — СПБ СПб-Вит. Стоимость — 10 руб. Как это работает. на Павловск ...",
+            "title": "Расписание электричек Санкт-Петербург-Витеб.. Маршруты ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.tutu.ru/spb/station.php?nnst=13302"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://www.tutu.ru/spb/rasp.php%3Fst1%3D42905%26st2%3D20600&sa=U&ved=0ahUKEwiX6KLWro_XAhWjYJoKHWdzCf8QFggxMAU&usg=AOvVaw3J7cVZwxLBopqzZBpVZXyu",
-            "title": "Расписание электричек Выборг - Санкт-Петербург. Стоимость ...",
+            "py/object": "parser_result.Component",
             "snippet": "Расписание электричек между станциями Выборг и Санкт-Петербург. \nСтоимость проезда на электропоезда.",
+            "title": "Расписание электричек Выборг - Санкт-Петербург. Стоимость ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.tutu.ru/spb/rasp.php?st1=42905&st2..."
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://www.tutu.ru/spb/station.php%3Fnnst%3D35004&sa=U&ved=0ahUKEwiX6KLWro_XAhWjYJoKHWdzCf8QFgg2MAY&usg=AOvVaw22J7duXVHc4ohp8j_26ZuN",
-            "title": "Расписание электричек Санкт-Петербург-Главн.. Маршруты ...",
+            "py/object": "parser_result.Component",
             "snippet": "Получите расписание ближайших электричек на телефон! SMS на номер \n2320 — СПБ СПб-Моск. Стоимость — 10 руб. Как это работает. Ласточки и ...",
+            "title": "Расписание электричек Санкт-Петербург-Главн.. Маршруты ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.tutu.ru/spb/station.php?nnst=35004"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://www.tutu.ru/spb/rasp.php%3Fst1%3D181%26st2%3D6481&sa=U&ved=0ahUKEwiX6KLWro_XAhWjYJoKHWdzCf8QFgg7MAc&usg=AOvVaw32lfzT7jDXOl8SoMijTKAp",
-            "title": "Расписание электричек Санкт-Петербург - Луга-1. Стоимость ...",
+            "py/object": "parser_result.Component",
             "snippet": "Расписание электричек между станциями Санкт-Петербург и Луга-1. \nСтоимость проезда на электропоезда.",
+            "title": "Расписание электричек Санкт-Петербург - Луга-1. Стоимость ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.tutu.ru/spb/rasp.php?st1=181&st2..."
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://www.transportspb.com/trains/&sa=U&ved=0ahUKEwiX6KLWro_XAhWjYJoKHWdzCf8QFghAMAg&usg=AOvVaw1Llra_s6SMndMj7XHUC2N3",
-            "title": "Расписание электричек Санкт-Петербурга 2017, маршруты ...",
+            "py/object": "parser_result.Component",
             "snippet": "В данном разделе представлено универсальное расписание пригородных \nэлектричек на 2017 год. Воспользуйтесь поисковой формой для выбора ...",
+            "title": "Расписание электричек Санкт-Петербурга 2017, маршруты ...",
+            "type": "SEARCH_RESULT",
             "view_url": "www.transportspb.com/trains/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://rasp.yandex.ru/station/9602497%3Ftype%3Dsuburban&sa=U&ved=0ahUKEwiX6KLWro_XAhWjYJoKHWdzCf8QFghGMAk&usg=AOvVaw3KCim3TmPcwFTHSrEgFM6z",
-            "title": "Расписание электричек: Санкт-Петербург (Финляндский вокзал ...",
+            "py/object": "parser_result.Component",
             "snippet": "Финляндский вокзал (Санкт-Петербург). Расписание поездов и электричек \nна 2017 год с учетом оперативных изменений. На сервисе ...",
+            "title": "Расписание электричек: Санкт-Петербург (Финляндский вокзал ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://rasp.yandex.ru/station/9602497?type=suburban"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

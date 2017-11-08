@@ -1,84 +1,95 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://wkino.net/filmy-hd/",
-            "title": "Фильмы онлайн смотреть бесплатно в хорошем качестве",
+            "py/object": "parser_result.Component",
             "snippet": "В последние годы, популярным стало смотреть фильмы онлайн бесплатно дома, которые можно смотреть в любой удобный момент в режиме онлайн.",
+            "title": "Фильмы онлайн смотреть бесплатно в хорошем качестве",
+            "type": "SEARCH_RESULT",
             "view_url": "http://wkino.net/filmy-hd/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://HDrezka.ag/films/best/",
-            "title": "Лучшие фильмы - смотреть онлайн бесплатно...",
+            "py/object": "parser_result.Component",
             "snippet": "Фильм (9.09) Смотреть трейлер. Концерт Милен Фармер в Берси. ... Timeless 2013 - Le film. 2013, Франция, Зарубежные. Фильм (8.94) Смотреть трейлер.",
+            "title": "Лучшие фильмы - смотреть онлайн бесплатно...",
+            "type": "SEARCH_RESULT",
             "view_url": "http://HDrezka.ag/films/best/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://www.ivi.ru/",
-            "title": "Смотреть фильмы онлайн бесплатно в хорошем...",
+            "py/object": "parser_result.Component",
             "snippet": "ivi.ru",
+            "title": "Смотреть фильмы онлайн бесплатно в хорошем...",
+            "type": "SEARCH_RESULT",
             "view_url": ""
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://megogo.net/ru/films",
-            "title": "Фильмы - смотреть онлайн бесплатно в хорошем...",
+            "py/object": "parser_result.Component",
             "snippet": "Смотреть фильмы, сериалы, мультфильмы онлайн бесплатно и легально. ... MEGOGO. Films.",
+            "title": "Фильмы - смотреть онлайн бесплатно в хорошем...",
+            "type": "SEARCH_RESULT",
             "view_url": "http://megogo.net/ru/films"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://kinosha.net/",
-            "title": "Смотреть фильмы онлайн бесплатно в хорошем...",
+            "py/object": "parser_result.Component",
             "snippet": "Где сейчас можно смотреть фильмы без ограничений? Желаете посмотреть хороший фильм, красочный мультфильм или увлекательный сериал?",
+            "title": "Смотреть фильмы онлайн бесплатно в хорошем...",
+            "type": "SEARCH_RESULT",
             "view_url": "http://kinosha.net/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://kinokrad.co/",
-            "title": "Фильмы онлайн, смотреть бесплатно Кино онлайн...",
+            "py/object": "parser_result.Component",
             "snippet": "Начинайте смотреть фильмы онлайн бесплатно на нашем портале! Интересное кино всегда помогает расслабиться...",
+            "title": "Фильмы онлайн, смотреть бесплатно Кино онлайн...",
+            "type": "SEARCH_RESULT",
             "view_url": "http://kinokrad.co/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://onfillm.club/",
-            "title": "Смотреть фильмы онлайн бесплатно в хорошем в 720...",
+            "py/object": "parser_result.Component",
             "snippet": "Фильмы и сериалы смотреть онлайн. Ежедневные обновления, новинки кино и лучшие фильмы смотреть онлайн бесплатно.",
+            "title": "Смотреть фильмы онлайн бесплатно в хорошем в 720...",
+            "type": "SEARCH_RESULT",
             "view_url": "http://onfillm.club/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://kinozz.club/",
-            "title": "Смотреть фильмы онлайн, Кино онлайн бесплатно на...",
+            "py/object": "parser_result.Component",
             "snippet": "На нашем портале можно смотреть фильмы онлайн в хорошем качестве в любое время дня и ночи.",
+            "title": "Смотреть фильмы онлайн, Кино онлайн бесплатно на...",
+            "type": "SEARCH_RESULT",
             "view_url": "http://kinozz.club/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://onlainfilm.me/",
-            "title": "Cмотреть фильмы онлайн бесплатно в хорошем качестве",
+            "py/object": "parser_result.Component",
             "snippet": "Тут вы можете смотреть фильмы онлайн бесплатно без регистрации, не нужно посылать никаких смс, просто включите и наслаждайтесь любимым фильмом.",
+            "title": "Cмотреть фильмы онлайн бесплатно в хорошем качестве",
+            "type": "SEARCH_RESULT",
             "view_url": "http://onlainfilm.me/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://zona.mobi/movies",
-            "title": "Zona.mobi - cмотреть фильмы 2017 онлайн, смотреть...",
+            "py/object": "parser_result.Component",
             "snippet": "...спорт документальный аниме короткометражка фильм-нуар детский реальное ТВ новости концерт ток-шоу. ... ЛЕГО Ниндзяго Фильм. 6.3 2017. Драка в блоке 99.",
+            "title": "Zona.mobi - cмотреть фильмы 2017 онлайн, смотреть...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://zona.mobi/movies"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

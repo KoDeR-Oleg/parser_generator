@@ -1,60 +1,68 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://translate.yandex.ru/&sa=U&ved=0ahUKEwjv0abBpo_XAhViQZoKHRmwA7AQFggVMAA&usg=AOvVaw1-gTRALzNQy2zEYzUobGBo",
-            "title": "Яндекс.Переводчик – словарь и онлайн перевод на английский ...",
+            "py/object": "parser_result.Component",
             "snippet": "Перевод с английского, немецкого, французского, испанского, польского, \nтурецкого и других языков на русский и обратно. Возможность переводить ...",
+            "title": "Яндекс.Переводчик – словарь и онлайн перевод на английский ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://translate.yandex.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://www.rdfo.ru/%3Fmenu%3DTranslatorOnlineYandex&sa=U&ved=0ahUKEwjv0abBpo_XAhViQZoKHRmwA7AQFggpMAc&usg=AOvVaw3m3Ah0qg7TvNvUIoveS9iz",
-            "title": "Русско — Английский переводчик. Яндекс (Yandex). - rdfo.ru",
+            "py/object": "parser_result.Component",
             "snippet": "Бесплатный онлайн перевод текстов с Русского на Английский. Слова и \nтексты, языковые пары:англо-русский, русско-английский и др. направления.",
+            "title": "Русско — Английский переводчик. Яндекс (Yandex). - rdfo.ru",
+            "type": "SEARCH_RESULT",
             "view_url": "www.rdfo.ru/?menu=TranslatorOnlineYandex"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://www.translate.ru/dictionary/ru-en/%25D1%258F%25D0%25BD%25D0%25B4%25D0%25B5%25D0%25BA%25D1%2581&sa=U&ved=0ahUKEwjv0abBpo_XAhViQZoKHRmwA7AQFggvMAg&usg=AOvVaw2zVBWen-QVj0bgWWVA469l",
-            "title": "яндекс - перевод с русского на английский на Translate.Ru",
+            "py/object": "parser_result.Component",
             "snippet": "Качественный тематический перевод: бизнес, образование, путешествия, \nтехнический перевод. ... Перевод с русского на английский выполнен PROMT\n.",
+            "title": "яндекс - перевод с русского на английский на Translate.Ru",
+            "type": "SEARCH_RESULT",
             "view_url": "www.translate.ru/dictionary/ru-en/яндекс"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://itunes.apple.com/ru/app/%25D1%258F%25D0%25BD%25D0%25B4%25D0%25B5%25D0%25BA%25D1%2581-%25D0%25BF%25D0%25B5%25D1%2580%25D0%25B5%25D0%25B2%25D0%25BE%25D0%25B4%25D1%2587%25D0%25B8%25D0%25BA-94-%25D1%258F%25D0%25B7%25D1%258B%25D0%25BA%25D0%25B0/id584291439%3Fmt%3D8&sa=U&ved=0ahUKEwjv0abBpo_XAhViQZoKHRmwA7AQFgg0MAk&usg=AOvVaw2KSokJVjo7kklR43xAlXOu",
-            "title": "Яндекс.Переводчик — 94 языка в App Store - iTunes - Apple",
+            "py/object": "parser_result.Component",
             "snippet": "22 сен 2017 ... Более 90 языков доступны в режиме онлайн • С английского, немецкого, \nфранцузского, турецкого, испанского, итальянского и других ...",
+            "title": "Яндекс.Переводчик — 94 языка в App Store - iTunes - Apple",
+            "type": "SEARCH_RESULT",
             "view_url": "https://itunes.apple.com/.../яндекс-переводчик.../id584291439?..."
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://play.google.com/store/apps/details%3Fid%3Dru.yandex.translate%26hl%3Dru&sa=U&ved=0ahUKEwjv0abBpo_XAhViQZoKHRmwA7AQFgg7MAo&usg=AOvVaw2zUgwqotlavDyTPvvGO3Fo",
-            "title": "Приложения в Google Play – Яндекс.Переводчик — перевод и ...",
+            "py/object": "parser_result.Component",
             "snippet": "Более 90 языков доступны в режиме онлайн • С английского, немецкого, \nфранцузского, турецкого, испанского или итальянского на русский и обратно\n ...",
+            "title": "Приложения в Google Play – Яндекс.Переводчик — перевод и ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://play.google.com/store/apps/details?id=ru..."
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://ru.wikipedia.org/wiki/%25D0%25AF%25D0%25BD%25D0%25B4%25D0%25B5%25D0%25BA%25D1%2581.%25D0%259F%25D0%25B5%25D1%2580%25D0%25B5%25D0%25B2%25D0%25BE%25D0%25B4%25D1%2587%25D0%25B8%25D0%25BA&sa=U&ved=0ahUKEwjv0abBpo_XAhViQZoKHRmwA7AQFghCMAs&usg=AOvVaw0PlUQCs4wJ2lvBb2v5DCWd",
-            "title": "Яндекс.Переводчик — Википедия",
+            "py/object": "parser_result.Component",
             "snippet": "Яндекс.Переводчик (ранее — Яндекс.Перевод) — веб-служба компании \nЯндекс, предназначенная для перевода части текста или веб-страницы на ...",
+            "title": "Яндекс.Переводчик — Википедия",
+            "type": "SEARCH_RESULT",
             "view_url": "https://ru.wikipedia.org/wiki/Яндекс.Переводчик"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://rns.online/internet/V-servis-YandeksPerevodchik-vstroili-tehnologiyu-neiroperevoda--2017-09-14/&sa=U&ved=0ahUKEwjv0abBpo_XAhViQZoKHRmwA7AQFghIMAw&usg=AOvVaw2lmyctHwXxPUrV18qR1kYA",
-            "title": "В сервис «Яндекс.Переводчик» встроили технологию ...",
+            "py/object": "parser_result.Component",
             "snippet": "14 сен 2017 ... Интернет-компания «Яндекс» встроила в свой сервис «Яндекс.Переводчик» \nнейроперевод, говорится в пресс-релизе компании.",
+            "title": "В сервис «Яндекс.Переводчик» встроили технологию ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://rns.online/.../V-servis-YandeksPerevodchik-vstroili-tehnologiyu- neiroperevoda--2017-09-14/"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

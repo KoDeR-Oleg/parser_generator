@@ -1,205 +1,256 @@
 {
-    "file": "9.html",
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": {
-                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[1]/div[1]/h2/a",
-                "attr": "href"
+                "attr": "href",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[1]/div[1]/h2/a"
+            },
+            "py/object": "markup.MarkupSearchResult",
+            "snippet": {
+                "attr": "string",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[1]/div[1]/div[2]/div[1]"
             },
             "title": {
-                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[1]/div[1]/h2/a",
-                "attr": "string"
+                "attr": "string",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[1]/div[1]/h2/a"
             },
-            "snippet": {
-                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[1]/div[1]/div[2]/div[1]",
-                "attr": "string"
-            },
+            "type": "SEARCH_RESULT",
             "view_url": {
-                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[1]/div[1]/div[1]/div[1]/a[last()]",
-                "attr": "href"
+                "attr": "href",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[1]/div[1]/div[1]/div[1]/a[last()]"
             }
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": {
-                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[2]/div[1]/h2/a",
-                "attr": "href"
+                "attr": "href",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[2]/div[1]/h2/a"
+            },
+            "py/object": "markup.MarkupSearchResult",
+            "snippet": {
+                "attr": "string",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[2]/div[1]/div[2]/div[1]"
             },
             "title": {
-                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[2]/div[1]/h2/a",
-                "attr": "string"
+                "attr": "string",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[2]/div[1]/h2/a"
             },
-            "snippet": {
-                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[2]/div[1]/div[2]/div[1]",
-                "attr": "string"
-            },
+            "type": "SEARCH_RESULT",
             "view_url": {
-                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[2]/div[1]/div[1]/div[1]/a[last()]",
-                "attr": "href"
+                "attr": "href",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[2]/div[1]/div[1]/div[1]/a[last()]"
             }
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": {
-                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[3]/div[1]/h2/a",
-                "attr": "href"
+                "attr": "href",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[3]/div[1]/h2/a"
+            },
+            "py/object": "markup.MarkupSearchResult",
+            "snippet": {
+                "attr": "string",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[3]/div[1]/div[2]/div[1]"
             },
             "title": {
-                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[3]/div[1]/h2/a",
-                "attr": "string"
+                "attr": "string",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[3]/div[1]/h2/a"
             },
-            "snippet": {
-                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[3]/div[1]/div[2]/div[1]",
-                "attr": "string"
-            },
+            "type": "SEARCH_RESULT",
             "view_url": {
-                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[3]/div[1]/div[1]/div[1]/a[last()]",
-                "attr": "href"
+                "attr": "href",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[3]/div[1]/div[1]/div[1]/a[last()]"
             }
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": {
-                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2/a",
-                "attr": "href"
+                "attr": "href",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2/a"
+            },
+            "py/object": "markup.MarkupSearchResult",
+            "snippet": {
+                "attr": "string",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[4]/div[1]/div[2]/div[1]"
             },
             "title": {
-                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2/a",
-                "attr": "string"
+                "attr": "string",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2/a"
             },
-            "snippet": {
-                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[4]/div[1]/div[2]/div[1]",
-                "attr": "string"
-            },
+            "type": "SEARCH_RESULT",
             "view_url": {
-                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[4]/div[1]/div[1]/div[1]/a[last()]",
-                "attr": "href"
+                "attr": "href",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[4]/div[1]/div[1]/div[1]/a[last()]"
             }
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": {
-                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[5]/div[1]/h2/a",
-                "attr": "href"
+                "attr": "href",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[5]/div[1]/h2/a"
+            },
+            "py/object": "markup.MarkupSearchResult",
+            "snippet": {
+                "attr": "string",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[5]/div[1]/div[2]/div[1]"
             },
             "title": {
-                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[5]/div[1]/h2/a",
-                "attr": "string"
+                "attr": "string",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[5]/div[1]/h2/a"
             },
-            "snippet": {
-                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[5]/div[1]/div[2]/div[1]",
-                "attr": "string"
-            },
+            "type": "SEARCH_RESULT",
             "view_url": {
-                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[5]/div[1]/div[1]/div[1]/a[last()]",
-                "attr": "href"
+                "attr": "href",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[5]/div[1]/div[1]/div[1]/a[last()]"
             }
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": {
-                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[6]/div[1]/h2/a",
-                "attr": "href"
+                "attr": "href",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[6]/div[1]/h2/a"
+            },
+            "py/object": "markup.MarkupSearchResult",
+            "snippet": {
+                "attr": "string",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[6]/div[1]/div[2]/div[1]"
             },
             "title": {
-                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[6]/div[1]/h2/a",
-                "attr": "string"
+                "attr": "string",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[6]/div[1]/h2/a"
             },
-            "snippet": {
-                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[6]/div[1]/div[2]/div[1]",
-                "attr": "string"
-            },
+            "type": "SEARCH_RESULT",
             "view_url": {
-                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[6]/div[1]/div[1]/div[1]/a[last()]",
-                "attr": "href"
+                "attr": "href",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[6]/div[1]/div[1]/div[1]/a[last()]"
             }
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": {
-                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[7]/div[1]/h2/a",
-                "attr": "href"
+                "attr": "href",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[7]/div[1]/h2/a"
+            },
+            "py/object": "markup.MarkupSearchResult",
+            "snippet": {
+                "attr": "string",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[7]/div[1]/div[2]/div[1]"
             },
             "title": {
-                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[7]/div[1]/h2/a",
-                "attr": "string"
+                "attr": "string",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[7]/div[1]/h2/a"
             },
-            "snippet": {
-                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[7]/div[1]/div[2]/div[1]",
-                "attr": "string"
-            },
+            "type": "SEARCH_RESULT",
             "view_url": {
-                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[7]/div[1]/div[1]/div[1]/a[last()]",
-                "attr": "href"
+                "attr": "href",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[7]/div[1]/div[1]/div[1]/a[last()]"
             }
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": {
-                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[8]/div[1]/h2/a",
-                "attr": "href"
+                "attr": "href",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[8]/div[1]/h2/a"
+            },
+            "py/object": "markup.MarkupSearchResult",
+            "snippet": {
+                "attr": "string",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[8]/div[1]/div[2]/div[1]"
             },
             "title": {
-                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[8]/div[1]/h2/a",
-                "attr": "string"
+                "attr": "string",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[8]/div[1]/h2/a"
             },
-            "snippet": {
-                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[8]/div[1]/div[2]/div[1]",
-                "attr": "string"
-            },
+            "type": "SEARCH_RESULT",
             "view_url": {
-                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[8]/div[1]/div[1]/div[1]/a[last()]",
-                "attr": "href"
+                "attr": "href",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[8]/div[1]/div[1]/div[1]/a[last()]"
             }
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": {
-                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[9]/div[1]/h2/a",
-                "attr": "href"
+                "attr": "href",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[9]/div[1]/h2/a"
+            },
+            "py/object": "markup.MarkupSearchResult",
+            "snippet": {
+                "attr": "string",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[9]/div[1]/div[2]/div[1]"
             },
             "title": {
-                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[9]/div[1]/h2/a",
-                "attr": "string"
+                "attr": "string",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[9]/div[1]/h2/a"
             },
-            "snippet": {
-                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[9]/div[1]/div[2]/div[1]",
-                "attr": "string"
-            },
+            "type": "SEARCH_RESULT",
             "view_url": {
-                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[9]/div[1]/div[1]/div[1]/a[last()]",
-                "attr": "href"
+                "attr": "href",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[9]/div[1]/div[1]/div[1]/a[last()]"
             }
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": {
-                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[10]/div[1]/h2/a",
-                "attr": "href"
+                "attr": "href",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[10]/div[1]/h2/a"
+            },
+            "py/object": "markup.MarkupSearchResult",
+            "snippet": {
+                "attr": "string",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[10]/div[1]/div[2]/div[1]"
             },
             "title": {
-                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[10]/div[1]/h2/a",
-                "attr": "string"
+                "attr": "string",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[10]/div[1]/h2/a"
             },
-            "snippet": {
-                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[10]/div[1]/div[2]/div[1]",
-                "attr": "string"
-            },
+            "type": "SEARCH_RESULT",
             "view_url": {
-                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[10]/div[1]/div[1]/div[1]/a[last()]",
-                "attr": "href"
+                "attr": "href",
+                "py/object": "markup.FullPath",
+                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[10]/div[1]/div[1]/div[1]/a[last()]"
             }
         }
-    ]
+    ],
+    "file": "9.html",
+    "py/object": "markup.Markup"
 }

@@ -1,84 +1,95 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://www.banki.ru/services/calculators/credits/&sa=U&ved=0ahUKEwiF3cvApo_XAhXHvBoKHUsmCI4QFgg6MAA&usg=AOvVaw1A7oYdxPWhiDu3iB5KoImz",
-            "title": "Кредитный калькулятор в банках России — рассчитать сумму ...",
+            "py/object": "parser_result.Component",
             "snippet": "Удобный кредитный калькулятор. Быстро и легко рассчитать ставку и \nпроцент по потребительскому кредиту и оставить заявку онлайн.",
+            "title": "Кредитный калькулятор в банках России — рассчитать сумму ...",
+            "type": "SEARCH_RESULT",
             "view_url": "www.banki.ru/services/calculators/credits/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://calculator-credit.ru/&sa=U&ved=0ahUKEwiF3cvApo_XAhXHvBoKHUsmCI4QFghAMAE&usg=AOvVaw3XK_pgBhzssgpDe0UgZt94",
-            "title": "КРЕДИТНЫЙ КАЛЬКУЛЯТОР",
+            "py/object": "parser_result.Component",
             "snippet": "Кредитный калькулятор или калькулятор кредита банков для онлайн расчета \nсуммы платежа, реальной процентной ставки, переплаты. Возможность ...",
+            "title": "КРЕДИТНЫЙ КАЛЬКУЛЯТОР",
+            "type": "SEARCH_RESULT",
             "view_url": "calculator-credit.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://calculator-credit.ru/calculator.php&sa=U&ved=0ahUKEwiF3cvApo_XAhXHvBoKHUsmCI4QFghKMAI&usg=AOvVaw2YMfZSTZPQg0g0LUOd6bvK",
-            "title": "Параметры кредита - Кредитный калькулятор",
+            "py/object": "parser_result.Component",
             "snippet": "Кредитный калькулятор или калькулятор кредита банков для онлайн расчета \nсуммы платежа, переплаты, эффективной процентной ставки. Расчет по ...",
+            "title": "Параметры кредита - Кредитный калькулятор",
+            "type": "SEARCH_RESULT",
             "view_url": "calculator-credit.ru/calculator.php"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://fincalculator.ru/kreditnyj-kalkulyator&sa=U&ved=0ahUKEwiF3cvApo_XAhXHvBoKHUsmCI4QFghQMAM&usg=AOvVaw1Ty4N8pi6BJEegOC6N0MGh",
-            "title": "Кредитный калькулятор - fincalculator.ru",
+            "py/object": "parser_result.Component",
             "snippet": "Онлайн-кредитный калькулятор рассчитывает полную стоимость кредита с \nучетом комиссий, досрочных погашений, переменной ставки по кредиту.",
+            "title": "Кредитный калькулятор - fincalculator.ru",
+            "type": "SEARCH_RESULT",
             "view_url": "fincalculator.ru/kreditnyj-kalkulyator"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://www.pochtabank.ru/cash-calculator&sa=U&ved=0ahUKEwiF3cvApo_XAhXHvBoKHUsmCI4QFghWMAQ&usg=AOvVaw3iYyzjUKQBcurVt0-7Eefj",
-            "title": "Кредитный калькулятор онлайн - расчет потребительского ...",
+            "py/object": "parser_result.Component",
             "snippet": "Кредитный калькулятор онлайн на сайте «Почта Банк» - расчет процентов \nпо кредиту, расчет потребительского кредита, калькулятор кредита ...",
+            "title": "Кредитный калькулятор онлайн - расчет потребительского ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.pochtabank.ru/cash-calculator"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://www.homecredit.ru/kredit-nalichnimi/kalkulyator/&sa=U&ved=0ahUKEwiF3cvApo_XAhXHvBoKHUsmCI4QFghbMAU&usg=AOvVaw3WtzBDThrzYcXYhg_VTzCf",
-            "title": "Кредитный калькулятор | Рассчитать кредит онлайн в Банке ...",
+            "py/object": "parser_result.Component",
             "snippet": "Как рассчитать кредит? Кредитный калькулятор позволяет в онлайн-режиме \nрассчитать размер ежемесячного платежа и суммарную переплату.",
+            "title": "Кредитный калькулятор | Рассчитать кредит онлайн в Банке ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.homecredit.ru/kredit.../kalkulyator/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://www.kreditnyi-calculator.ru/credit/sberbank/&sa=U&ved=0ahUKEwiF3cvApo_XAhXHvBoKHUsmCI4QFghhMAY&usg=AOvVaw2ANG3xhw30awhuqefCO2HM",
-            "title": "Сбербанк - официальный кредитный калькулятор 2017",
+            "py/object": "parser_result.Component",
             "snippet": "Калькулятор кредита Сбербанк 2017 выполнит расчет платежей, переплаты \nи срока погашения кредитной задолженности. Подбор потребительских ...",
+            "title": "Сбербанк - официальный кредитный калькулятор 2017",
+            "type": "SEARCH_RESULT",
             "view_url": "www.kreditnyi-calculator.ru/credit/sberbank/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://www.kreditnyi-calculator.ru/&sa=U&ved=0ahUKEwiF3cvApo_XAhXHvBoKHUsmCI4QFghnMAc&usg=AOvVaw0lzlHa-5gQFKqpZe9xETSR",
-            "title": "Кредитный калькулятор 2017. Онлайн калькулятор кредита.",
+            "py/object": "parser_result.Component",
             "snippet": "Калькулятор кредита выполнит расчет платежей, переплаты и срока \nпогашения задолженности. Подбор потребительских кредитов для \nфизических ...",
+            "title": "Кредитный калькулятор 2017. Онлайн калькулятор кредита.",
+            "type": "SEARCH_RESULT",
             "view_url": "www.kreditnyi-calculator.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://www.raiffeisen.ru/retail/consumerloans/calculator/&sa=U&ved=0ahUKEwiF3cvApo_XAhXHvBoKHUsmCI4QFghtMAg&usg=AOvVaw2mN8TJU2uUJvv8aJDj0yKN",
-            "title": "Кредитный калькулятор: рассчитать потребительский кредит в ...",
+            "py/object": "parser_result.Component",
             "snippet": "Онлайн калькулятор потребительского кредита на сайте Райффайзенбанка. \nЛегкий расчет кредита: ежемесячный платеж, сумма выплат по процентам, ...",
+            "title": "Кредитный калькулятор: рассчитать потребительский кредит в ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.raiffeisen.ru/retail/.../calculator/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://alfabank.ru/get-money/credit/calculator/&sa=U&ved=0ahUKEwiF3cvApo_XAhXHvBoKHUsmCI4QFghyMAk&usg=AOvVaw1SxLB1HKnxL4jKZge-2JwZ",
-            "title": "Кредитный калькулятор онлайн, расчет потребительского ...",
+            "py/object": "parser_result.Component",
             "snippet": "Кредитный калькулятор предназначен специально для расчета \nежемесячных платежей и размера переплаты по кредиту.",
+            "title": "Кредитный калькулятор онлайн, расчет потребительского ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://alfabank.ru/get-money/credit/calculator/"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

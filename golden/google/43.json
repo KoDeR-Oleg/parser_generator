@@ -1,84 +1,95 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://www.milanovera.ru/svadebnye-platya/&sa=U&ved=0ahUKEwjMuI3Cpo_XAhXECpoKHRLWC4sQFghgMAM&usg=AOvVaw1dBHUaXWD6TSLuVMCXzNl2",
-            "title": "Свадебные платья в Санкт-Петербурге - каталог, цены, фото в ...",
+            "py/object": "parser_result.Component",
             "snippet": "Купить красивые свадебные платья в Санкт-Петербурге. Множество \nсилуэтов свадебных платьев: рыбки, А-силуэт, греческие и для беременных,\n ...",
+            "title": "Свадебные платья в Санкт-Петербурге - каталог, цены, фото в ...",
+            "type": "SEARCH_RESULT",
             "view_url": "www.milanovera.ru/svadebnye-platya/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://www.vesta-bride.ru/svadebnye-platya/&sa=U&ved=0ahUKEwjMuI3Cpo_XAhXECpoKHRLWC4sQFghmMAQ&usg=AOvVaw1LRE5-dV5TNePyo8xT7X_1",
-            "title": "Купить красивые свадебные платья в Санкт-Петербурге ...",
+            "py/object": "parser_result.Component",
             "snippet": "Купить красивые свадебные платья от 4 000 рублей в Санкт-Петербурге. \nМножество роскошных силуэтов с идеальной посадкой, особенностями кроя\n ...",
+            "title": "Купить красивые свадебные платья в Санкт-Петербурге ...",
+            "type": "SEARCH_RESULT",
             "view_url": "www.vesta-bride.ru/svadebnye-platya/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://domvesta.ru/catalog/svadebnye-platya/&sa=U&ved=0ahUKEwjMuI3Cpo_XAhXECpoKHRLWC4sQFghsMAU&usg=AOvVaw1qeH-OZj2-cQnUzL4g2mZG",
-            "title": "Свадебные платья в Москве - каталог с фото и ценам, платьев ...",
+            "py/object": "parser_result.Component",
             "snippet": "Каталог свадебных платьев: фото, большой выбор моделей. Заказать \nшикарное свадебное платье в Москве в салоне Дом Весты.",
+            "title": "Свадебные платья в Москве - каталог с фото и ценам, платьев ...",
+            "type": "SEARCH_RESULT",
             "view_url": "domvesta.ru/catalog/svadebnye-platya/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://www.vesnawedding.ru/katalog-svadebnyh-platev&sa=U&ved=0ahUKEwjMuI3Cpo_XAhXECpoKHRLWC4sQFghyMAY&usg=AOvVaw0ZOfsWhf9jcC7L1gO2Rb0V",
-            "title": "Каталог свадебных платьев спб - Санкт-Петербург",
+            "py/object": "parser_result.Component",
             "snippet": "Каталог свадебных платьев с фотографиями и ценами от свадебного салона \nВесна. Все цены на платья указаны под фотографиями.",
+            "title": "Каталог свадебных платьев спб - Санкт-Петербург",
+            "type": "SEARCH_RESULT",
             "view_url": "www.vesnawedding.ru/katalog-svadebnyh-platev"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://www.vesnawedding.ru/&sa=U&ved=0ahUKEwjMuI3Cpo_XAhXECpoKHRLWC4sQFgh4MAc&usg=AOvVaw2J0geKWIo8aG80sVmOHod0",
-            "title": "свадебный салон Весна: Свадебные платья в Спб",
+            "py/object": "parser_result.Component",
             "snippet": "Купить свадебное платье в Спб очень просто — обращайтесь в свадебный \nсалон Весна, здесь вы найдете свадебное платье вашей мечты!",
+            "title": "свадебный салон Весна: Свадебные платья в Спб",
+            "type": "SEARCH_RESULT",
             "view_url": "www.vesnawedding.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://www.salon-dvoryanka.ru/products/5/&sa=U&ved=0ahUKEwjMuI3Cpo_XAhXECpoKHRLWC4sQFgh-MAg&usg=AOvVaw22wow943oE2SSWmQUwy8nW",
-            "title": "Купить свадебные платья в СПб - салон ... - Санкт-Петербург",
+            "py/object": "parser_result.Component",
             "snippet": "Купить свадебное платье в Санкт-Петербурге легко - в нашем каталоге \nсвадебных платьев представлены модели из новых модных коллекций с ...",
+            "title": "Купить свадебные платья в СПб - салон ... - Санкт-Петербург",
+            "type": "SEARCH_RESULT",
             "view_url": "www.salon-dvoryanka.ru/products/5/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://svadbavpitere.ru/cat/dress/&sa=U&ved=0ahUKEwjMuI3Cpo_XAhXECpoKHRLWC4sQFgiDATAJ&usg=AOvVaw1MkxqTQ_Nf9EeZRytiAJ-E",
-            "title": "Свадебные платья 2017 в СПб: 59947 фото ... - Санкт-Петербург",
+            "py/object": "parser_result.Component",
             "snippet": "Каталог свадебных платьев в Санкт-Петербурге коллекция 2017. Большой \nвыбор свадебных платьев для невест с фото.",
+            "title": "Свадебные платья 2017 в СПб: 59947 фото ... - Санкт-Петербург",
+            "type": "SEARCH_RESULT",
             "view_url": "https://svadbavpitere.ru/cat/dress/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://vbelom.ru/product-category/weddingdresses/&sa=U&ved=0ahUKEwjMuI3Cpo_XAhXECpoKHRLWC4sQFgiJATAK&usg=AOvVaw2i6Sn71N2xaUONUDS-tJX5",
-            "title": "Купить свадебные платья в СПб в салоне – «В ... - Санкт-Петербург",
+            "py/object": "parser_result.Component",
             "snippet": "Большой ассортимент свадебных платьев в наличии, новая коллекция: \nгреческие, пышные, короткие, длинные, кружевные и другие свадебные \nплатья в ...",
+            "title": "Купить свадебные платья в СПб в салоне – «В ... - Санкт-Петербург",
+            "type": "SEARCH_RESULT",
             "view_url": "vbelom.ru/product-category/weddingdresses/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://spb.gorko.ru/%25D1%2581%25D0%25B2%25D0%25B0%25D0%25B4%25D0%25B5%25D0%25B1%25D0%25BD%25D1%258B%25D0%25B5%2B%25D0%25BF%25D0%25BB%25D0%25B0%25D1%2582%25D1%258C%25D1%258F/&sa=U&ved=0ahUKEwjMuI3Cpo_XAhXECpoKHRLWC4sQFgiPATAL&usg=AOvVaw1T0QnB9mXXQGsCY0UQ8KBX",
-            "title": "Свадебные платья 2017 в Санкт-Петербурге: 128 свадебных ...",
+            "py/object": "parser_result.Component",
             "snippet": "Свадебные платья в свадебных салонах Санкт-Петербурга. Каталог платьев \nс фото, адреса салонов и магазинов, отзывы невест.",
+            "title": "Свадебные платья 2017 в Санкт-Петербурге: 128 свадебных ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://spb.gorko.ru/свадебные+платья/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://svadba-msk.ru/cat/dress/&sa=U&ved=0ahUKEwjMuI3Cpo_XAhXECpoKHRLWC4sQFgiVATAM&usg=AOvVaw1-RrTnEU4P70oSMZR-AngZ",
-            "title": "Свадебные платья 2017 в Москве. Большой каталог свадебных ...",
+            "py/object": "parser_result.Component",
             "snippet": "Свадебные платья из коллекций 2017 года: каталог фотографий свадебных \nплатьев с ценами в Москве.",
+            "title": "Свадебные платья 2017 в Москве. Большой каталог свадебных ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://svadba-msk.ru/cat/dress/"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

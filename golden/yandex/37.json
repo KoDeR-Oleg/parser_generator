@@ -1,84 +1,95 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://loveplanet.ru/",
-            "title": "«Love planet» — сайт знакомств",
+            "py/object": "parser_result.Component",
             "snippet": "Знакомства в России и за рубежом для переписки, поиска друзей, серьезных отношений и создания семьи.",
+            "title": "«Love planet» — сайт знакомств",
+            "type": "SEARCH_RESULT",
             "view_url": "https://loveplanet.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://www.mamba.ru/",
-            "title": "«Мамба» — бесплатный сайт знакомств",
+            "py/object": "parser_result.Component",
             "snippet": "mamba.ru",
+            "title": "«Мамба» — бесплатный сайт знакомств",
+            "type": "SEARCH_RESULT",
             "view_url": ""
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://MyLove.ru/",
-            "title": "«MyLove.ru» — сайт знакомств",
+            "py/object": "parser_result.Component",
             "snippet": "MyLove.ru",
+            "title": "«MyLove.ru» — сайт знакомств",
+            "type": "SEARCH_RESULT",
             "view_url": ""
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://www.24open.ru/",
-            "title": "«24open.ru» — сайт знакомств",
+            "py/object": "parser_result.Component",
             "snippet": "Знакомства без обязательной регистрации для дружбы, флирта, серьёзных отношений. Поиск анкет, рейтинг фотографий девушек и юношей, блоги, игры и др. сервисы.",
+            "title": "«24open.ru» — сайт знакомств",
+            "type": "SEARCH_RESULT",
             "view_url": "http://www.24open.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://dating.ru/",
-            "title": "Датинг ру — сайт знакомств, объединяющий сквозь...",
+            "py/object": "parser_result.Component",
             "snippet": "Бесплатный сайт знакомств позволяет общаться с любым количеством людей и в любое время без ограничений!",
+            "title": "Датинг ру — сайт знакомств, объединяющий сквозь...",
+            "type": "SEARCH_RESULT",
             "view_url": "http://dating.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://tabor.ru/",
-            "title": "Знакомства на Tabor.ru - сайт знакомств c бесплатной...",
+            "py/object": "parser_result.Component",
             "snippet": "Регистрация на сайте знакомств полностью бесплатна и займет не более двух минут. Познакомиться сможет каждый!",
+            "title": "Знакомства на Tabor.ru - сайт знакомств c бесплатной...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://tabor.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://beboo.ru/znakomstva/sanktpeterburg?",
-            "title": "Знакомства Санкт-Петербург, бесплатный сайт...",
+            "py/object": "parser_result.Component",
             "snippet": "Альтернативный вариант знакомства в Санкт-Петербурге – сайт ... Beboo - сайт знакомств, бесплатная регистрация на котором даст новые возможности.",
+            "title": "Знакомства Санкт-Петербург, бесплатный сайт...",
+            "type": "SEARCH_RESULT",
             "view_url": "http://beboo.ru/znakomstva/sanktpeterburg?"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://lovepeterburg.ru/",
-            "title": "Знакомства в Санкт—Петербурге и Ленинградской...",
+            "py/object": "parser_result.Component",
             "snippet": "Популярный бесплатный сайт знакомств Санкт-Петербурга и Ленинградской области.",
+            "title": "Знакомства в Санкт—Петербурге и Ленинградской...",
+            "type": "SEARCH_RESULT",
             "view_url": "http://lovepeterburg.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://fotostrana.ru/search/",
-            "title": "Сайт знакомств Фотострана. Бесплатные знакомства...",
+            "py/object": "parser_result.Component",
             "snippet": "Сайт знакомств Фотострана представляет вам возможность бесплатно познакомиться с людьми в твоем городе.",
+            "title": "Сайт знакомств Фотострана. Бесплатные знакомства...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://fotostrana.ru/search/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://badoo.com/ru/",
-            "title": "Знакомься с новыми людьми на Badoo, заводи друзей...",
+            "py/object": "parser_result.Component",
             "snippet": "Знакомства в городе Ростов-на-Дону. ... Знакомства в городе Санкт-Петербург.",
+            "title": "Знакомься с новыми людьми на Badoo, заводи друзей...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://badoo.com/ru/"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

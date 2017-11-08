@@ -1,84 +1,95 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://www.skyscanner.ru/",
-            "title": "Дешевые авиабилеты онлайн: поиск... - Skyscanner",
+            "py/object": "parser_result.Component",
             "snippet": "skyscanner.ru",
+            "title": "Дешевые авиабилеты онлайн: поиск... - Skyscanner",
+            "type": "SEARCH_RESULT",
             "view_url": ""
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://www.aviasales.ru/",
-            "title": "Дешевые авиабилеты онлайн, цены. — Aviasales.ru",
+            "py/object": "parser_result.Component",
             "snippet": "aviasales.ru",
+            "title": "Дешевые авиабилеты онлайн, цены. — Aviasales.ru",
+            "type": "SEARCH_RESULT",
             "view_url": ""
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://AviaSovet.ru/aviabileti/sanktpeterburg",
-            "title": "Самые дешёвые авиабилеты в Санкт-Петербург от...",
+            "py/object": "parser_result.Component",
             "snippet": "Самый дешевый авиабилет в Санкт-Петербург, найденный нашими пользователями с помощью поисковика авиабилетов Авиа...",
+            "title": "Самые дешёвые авиабилеты в Санкт-Петербург от...",
+            "type": "SEARCH_RESULT",
             "view_url": "http://AviaSovet.ru/aviabileti/sanktpeterburg"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://www.momondo.ru/",
-            "title": "Дешевые авиабилеты: поиск и сравнение цен | momondo",
+            "py/object": "parser_result.Component",
             "snippet": "Дешевые авиабилеты в популярные города. Перелеты в города с наибольшим количеством запросов.",
+            "title": "Дешевые авиабилеты: поиск и сравнение цен | momondo",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.momondo.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://biletyplus.ru/",
-            "title": "Билеты на самолет: поиск дешевых авиабилетов онлайн...",
+            "py/object": "parser_result.Component",
             "snippet": "Поиск дешевых авиабилетов. В одну сторону Туда и обратно. ... Авиабилеты из Санкт-Петербурга. Цена на сегодня 31.10.2017.",
+            "title": "Билеты на самолет: поиск дешевых авиабилетов онлайн...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://biletyplus.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://www.OZON.travel/flight/",
-            "title": "Дешевые авиабилеты онлайн на OZON.travel",
+            "py/object": "parser_result.Component",
             "snippet": "Поиск дешевых авиабилетов без наценки. Почему авиабилеты в OZON.travel не дороже, чем на сайтах авиакомпаний, а иногда и дешевле?",
+            "title": "Дешевые авиабилеты онлайн на OZON.travel",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.OZON.travel/flight/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://peterburg-avia.ru/",
-            "title": "Авиабилеты из Санкт-Петербурга купить дешево без...",
+            "py/object": "parser_result.Component",
             "snippet": "Исходя из этих соображений, огромное количество гостей города и коренных петербуржцев предпочитают приобретать дешевые авиабилеты из...",
+            "title": "Авиабилеты из Санкт-Петербурга купить дешево без...",
+            "type": "SEARCH_RESULT",
             "view_url": "http://peterburg-avia.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://welcometravel.ru/flytickets/",
-            "title": "Подбор дешевых авиабилетов с официальных сайтов...",
+            "py/object": "parser_result.Component",
             "snippet": "И когда мы начинали искать самые дешевые авиабилеты, находилось сотни сайтов ненужных сайтов.",
+            "title": "Подбор дешевых авиабилетов с официальных сайтов...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://welcometravel.ru/flytickets/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://www.tripadvisor.ru/Flights-g298507-St_Petersburg_Northwestern_District-Cheap_Discount_Airfares.html",
-            "title": "Дешевые авиабилеты в Санкт-Петербург из 68 ₽ на...",
+            "py/object": "parser_result.Component",
             "snippet": "Дешевые авиабилеты в Санкт-Петербург доступны на рейсах из ключевых городов России.",
+            "title": "Дешевые авиабилеты в Санкт-Петербург из 68 ₽ на...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.tripadvisor.ru/Flights-g298507-St_Petersburg_Northwestern_District-Cheap_Discount_Airfares.html"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://avia.tutu.ru/",
-            "title": "Авиабилеты и расписание самолетов. Стоимость...",
+            "py/object": "parser_result.Component",
             "snippet": "Купить и заказать авиабилеты онлайн на самолет быстро и удобно. ... Помните, что дешевые авиабилеты раскупают быстрее всего.",
+            "title": "Авиабилеты и расписание самолетов. Стоимость...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://avia.tutu.ru/"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

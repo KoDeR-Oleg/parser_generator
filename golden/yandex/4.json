@@ -1,91 +1,103 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://www.sport-express.ru/",
-            "title": "«Спорт-экспресс» — спортивный портал",
+            "py/object": "parser_result.Component",
             "snippet": "Освещение спортивных событий: новости, интервью, статьи, аналитика. Конкурсы прогнозов. Онлайн-трансляции и результаты спортивных событий. Фоторепортажи и видео.",
+            "title": "«Спорт-экспресс» — спортивный портал",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.sport-express.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://www.sport-express.ru/?text=%D0%B1%D0%B0%D1%80%D1%81%D0%B5%D0%BB%D0%BE%D0%BD%D0%B0&page=2",
-            "title": "СПОРТ-ЭКСПРЕСС – спортивный интернет-сайт...",
+            "py/object": "parser_result.Component",
             "snippet": "Ведущий спортивный интернет-портал СПОРТ-ЭКСПРЕСС. ... «Спорт-Экспресс» представляет Россию в ассоциации Европейских спортивных изданий.",
+            "title": "СПОРТ-ЭКСПРЕСС – спортивный интернет-сайт...",
+            "type": "SEARCH_RESULT",
             "view_url": "http://www.sport-express.ru/?text=%D0%B1%D0%B0%D1%80%D1%81%D0%B5%D0%BB%D0%BE%D0%BD%D0%B0&page=2"
         },
         {
-            "type": "WIZARD",
             "alignment": "LEFT",
             "page_url": "https://news.yandex.ru/yandsearch?text=спорт экспресс&lr=225&rpt=nnews2&rel=rel&grhow=clutop&from=serp",
+            "py/object": "parser_result.Component",
             "title": "Спорт экспресс — новости",
+            "type": "WIZARD",
             "wizard_type": "WIZARD_NEWS"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://vk.com/sportexpress",
-            "title": "Спорт-Экспресс | ВКонтакте",
+            "py/object": "parser_result.Component",
             "snippet": "СПОРТ-ЭКСПРЕСС, ул.Красина, дом 27, строение 2, Москва, Россия.",
+            "title": "Спорт-Экспресс | ВКонтакте",
+            "type": "SEARCH_RESULT",
             "view_url": "https://vk.com/sportexpress"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://www.youtube.com/user/sportexpress",
-            "title": "Спорт-Экспресс - YouTube",
+            "py/object": "parser_result.Component",
             "snippet": "Euro 2012 - ГИД - Фавориты Евро-2012 - Duration: 7 minutes, 5 seconds. Спорт-Экспресс.",
+            "title": "Спорт-Экспресс - YouTube",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.youtube.com/user/sportexpress"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://ok.ru/sportexpress",
-            "title": "Спорт-Экспресс | OK.RU",
+            "py/object": "parser_result.Component",
             "snippet": "Спорт-Экспресс. Эксклюзив \"СЭ\"! Станислав Черчесов - о составе сборной на Аргентину и Испанию.",
+            "title": "Спорт-Экспресс | OK.RU",
+            "type": "SEARCH_RESULT",
             "view_url": "https://ok.ru/sportexpress"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://plus.google.com/+SportexpressRu2014",
-            "title": "Спорт-Экспресс - Google+",
+            "py/object": "parser_result.Component",
             "snippet": "Ежедневная спортивная газета СПОРТ-ЭКСПРЕСС (интернет-версия). sport-express.ru.",
+            "title": "Спорт-Экспресс - Google+",
+            "type": "SEARCH_RESULT",
             "view_url": "https://plus.google.com/+SportexpressRu2014"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://twitter.com/sportexpress",
-            "title": "sportexpress – Twitter",
+            "py/object": "parser_result.Component",
             "snippet": "Официальный твиттер-аккаунт \"Спорт-Экспресс\". Мы есть и на Faceb...Подписчиков: 279 тыс. Читать ещёОфициальный твиттер-аккаунт \"Спорт-Экспресс\". Мы есть и на Facebook:Подписчиков: 279 тыс. Скрыть",
+            "title": "sportexpress – Twitter",
+            "type": "SEARCH_RESULT",
             "view_url": "https://twitter.com/sportexpress"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://www.facebook.com/SportExpressNews/?fref=ts",
-            "title": "Sport-Express / Спорт-Экспресс - Главная | Facebook",
+            "py/object": "parser_result.Component",
             "snippet": "Обычно отвечает в течение нескольких минут. Contact Sport-Express / Спорт-Экспресс on Messenger.",
+            "title": "Sport-Express / Спорт-Экспресс - Главная | Facebook",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.facebook.com/SportExpressNews/?fref=ts"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://www.instagram.com/sport_express/",
-            "title": "Sport-Еxpress/Спорт-Экспресс (@sport_express)...",
+            "py/object": "parser_result.Component",
             "snippet": "5766 публикаций47,1 тыс. подписчиков88 подписок",
+            "title": "Sport-Еxpress/Спорт-Экспресс (@sport_express)...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.instagram.com/sport_express/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://www.sovsport.ru/",
-            "title": "Советский спорт - новости футбол, хоккей, биатлон...",
+            "py/object": "parser_result.Component",
             "snippet": "Новости спорта, интервью с тренерами и спортсменами, репортажи, статистика и пр. Результаты футбольных, хоккейных, теннисных и др. матчей. Видеосюжеты.",
+            "title": "Советский спорт - новости футбол, хоккей, биатлон...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.sovsport.ru/"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

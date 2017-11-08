@@ -1,49 +1,55 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://pozdravok.ru/pozdravleniya/den-rozhdeniya/&sa=U&ved=0ahUKEwiWpOHaro_XAhVlJpoKHakDAGMQFggVMAA&usg=AOvVaw38hC8BIKlPRasX9X_M-ULg",
-            "title": "Поздравления с днем рождения - Поздравок",
+            "py/object": "parser_result.Component",
             "snippet": "На вебсайте PozdravOK.RU собраны современные поздравления с днем \nрождения, в стихах и прозе, удивительно оригинальные и легко ...",
+            "title": "Поздравления с днем рождения - Поздравок",
+            "type": "SEARCH_RESULT",
             "view_url": "pozdravok.ru/pozdravleniya/den-rozhdeniya/"
         },
         {
-            "type": "WIZARD",
             "alignment": "LEFT",
-            "page_url": "/search?q=%D1%81+%D0%B4%D0%BD%D0%B5%D0%BC+%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F&newwindow=1&dcr=0&ie=UTF-8&prmd=ivns&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwiWpOHaro_XAhVlJpoKHakDAGMQsAQIKQ",
-            "title": "Картинки по запросу с днем рождения",
-            "wizard_type": "WIZARD_IMAGE",
             "media_links": [
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT74-IpTRW5Dvh9x9GUUK6Vssdkhv163nA8fYt-YsaaDw--8EqUZDoFVJw",
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRTM9T4Yf7YVWKwTru0GcVcPMeq22sNrAo5KUGJfmOm6Fg3zV0uqNqOHE",
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhM6UtkCnKwb2TtB70V4xvEpom4-kHFQ-Xdl1fyXXYoYHCAuFB2H0jcw",
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa87g5ireEUn9zpc-PLMq1rLWNCW6TYlTWfXBJcpZUyGdU6HN3eJ0Zbw",
                 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1GIlzVvGhSvy273CYe3OlerBre1ch0rSTx_r5HWJAH_VEUqayTIFYoA"
-            ]
+            ],
+            "page_url": "/search?q=%D1%81+%D0%B4%D0%BD%D0%B5%D0%BC+%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F&newwindow=1&dcr=0&ie=UTF-8&prmd=ivns&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwiWpOHaro_XAhVlJpoKHakDAGMQsAQIKQ",
+            "py/object": "parser_result.Component",
+            "title": "Картинки по запросу с днем рождения",
+            "type": "WIZARD",
+            "wizard_type": "WIZARD_IMAGE"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://www.romanticflyers.ru/krasivye-pozdravleniya-s-dnem-rozhdeniya.html&sa=U&ved=0ahUKEwiWpOHaro_XAhVlJpoKHakDAGMQFgg1MAw&usg=AOvVaw1lOvNwu7RGlAmZUKl3cNRL",
-            "title": "Красивые поздравления с Днем Рождения",
+            "py/object": "parser_result.Component",
             "snippet": "Стоит отметить, что существует множество самых разных вариантов, в \nкоторые можно оформить красивые поздравления с днем рождения. Это \nможет ...",
+            "title": "Красивые поздравления с Днем Рождения",
+            "type": "SEARCH_RESULT",
             "view_url": "www.romanticflyers.ru/krasivye-pozdravleniya-s-dnem-rozhdeniya.html"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://tostun.ru/pozdrav/den-rozhdeniya/&sa=U&ved=0ahUKEwiWpOHaro_XAhVlJpoKHakDAGMQFgg7MA0&usg=AOvVaw2gMa347Z0zJYZsGLh3ilcN",
-            "title": "Поздравления с днем рождения — Tostun.Ru",
+            "py/object": "parser_result.Component",
             "snippet": "На сайте Tostun.Ru собраны современные поздравления с днем рождения, в \nстихах и прозе, удивительно оригинальные и легко запоминающиеся.",
+            "title": "Поздравления с днем рождения — Tostun.Ru",
+            "type": "SEARCH_RESULT",
             "view_url": "tostun.ru/pozdrav/den-rozhdeniya/"
         },
         {
-            "type": "WIZARD",
             "alignment": "LEFT",
             "page_url": "/search?q=%D1%81+%D0%B4%D0%BD%D0%B5%D0%BC+%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F&newwindow=1&dcr=0&ie=UTF-8&prmd=ivns&source=univ&tbm=nws&tbo=u&sa=X&ved=0ahUKEwiWpOHaro_XAhVlJpoKHakDAGMQqAIIQQ",
+            "py/object": "parser_result.Component",
             "title": "Новости по запросу с днем рождения",
+            "type": "WIZARD",
             "wizard_type": "WIZARD_NEWS"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

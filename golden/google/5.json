@@ -1,84 +1,95 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://zf.fm/new&sa=U&ved=0ahUKEwig6fDUro_XAhXFbZoKHWuUB88QFggUMAA&usg=AOvVaw2sq4Y98jdRXu6A-hs76M9s",
-            "title": "Скачать популярные новинки музыки 2017 бесплатно без ... - zf.fm",
+            "py/object": "parser_result.Component",
             "snippet": "На нашем сайте zf.fm вы можете бесплатно без регистрации скачать самые \nсвежие новинки mp3 музыки или прослушать онлайн.",
+            "title": "Скачать популярные новинки музыки 2017 бесплатно без ... - zf.fm",
+            "type": "SEARCH_RESULT",
             "view_url": "https://zf.fm/new"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://best-muzon.cc/&sa=U&ved=0ahUKEwig6fDUro_XAhXFbZoKHWuUB88QFggZMAE&usg=AOvVaw13darGfe8n6F5ctq1vYB2P",
-            "title": "Скачать музыку бесплатно и без регистрации - скачать песни в ...",
+            "py/object": "parser_result.Component",
             "snippet": "На музыкальном сервисе Бест-Музон можно легко скачать новую музыку \nразных жанров бесплатно в формате mp3 и без регистрации.",
+            "title": "Скачать музыку бесплатно и без регистрации - скачать песни в ...",
+            "type": "SEARCH_RESULT",
             "view_url": "best-muzon.cc/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://music.xn--41a.ws/&sa=U&ved=0ahUKEwig6fDUro_XAhXFbZoKHWuUB88QFggkMAI&usg=AOvVaw1YcCVXx4l1SjwnIS25mspu",
-            "title": "Новинки музыки 2017 - слушать песни онлайн и скачивать mp3 ...",
+            "py/object": "parser_result.Component",
             "snippet": "Новые песни. Слушать мп3 песни онлайн, скачать mp3 бесплатно, free music \ndownload music.я.ws.",
+            "title": "Новинки музыки 2017 - слушать песни онлайн и скачивать mp3 ...",
+            "type": "SEARCH_RESULT",
             "view_url": "music.я.ws/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://mp3crazy.me/&sa=U&ved=0ahUKEwig6fDUro_XAhXFbZoKHWuUB88QFggpMAM&usg=AOvVaw1AJxi01T1f-YXHDuxJ9H3w",
-            "title": "Скачать музыку бесплатно - скачать mp3 песни без регистрации",
+            "py/object": "parser_result.Component",
             "snippet": "Mp3crazy.me - у нас можно скачать любую музыку бесплатно и без \nрегистрации в формате mp3. Все самые популярные песни в хорошем \nкачестве ждут ...",
+            "title": "Скачать музыку бесплатно - скачать mp3 песни без регистрации",
+            "type": "SEARCH_RESULT",
             "view_url": "mp3crazy.me/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://zvonko.me/&sa=U&ved=0ahUKEwig6fDUro_XAhXFbZoKHWuUB88QFggvMAQ&usg=AOvVaw3b0xMExdXYC8nCiVBOUq9a",
-            "title": "Музыка онлайн на Zvonko.me - скачать музыку бесплатно в MP3 ...",
+            "py/object": "parser_result.Component",
             "snippet": "Слушай любимые песни в хорошем качестве, качай горячие mp3 - Музыка \nонлайн на Zvonko.me!",
+            "title": "Музыка онлайн на Zvonko.me - скачать музыку бесплатно в MP3 ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://zvonko.me/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://myzuka.me/&sa=U&ved=0ahUKEwig6fDUro_XAhXFbZoKHWuUB88QFgg1MAU&usg=AOvVaw2CMbxU8Qnck91yXiP0yJtQ",
-            "title": "Скачать бесплатно музыку и песни в mp3 и слушать онлайн на ...",
+            "py/object": "parser_result.Component",
             "snippet": "Музыка.me - самая полная онлайн-база mp3 песен и музыки для скачивания \nв Рунете. На нашем сайте можно бесплатно слушать и скачать музыку и ...",
+            "title": "Скачать бесплатно музыку и песни в mp3 и слушать онлайн на ...",
+            "type": "SEARCH_RESULT",
             "view_url": "myzuka.me/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://kissvk.com/&sa=U&ved=0ahUKEwig6fDUro_XAhXFbZoKHWuUB88QFgg6MAY&usg=AOvVaw03IkEBuRmXCddtLAtYzAZ0",
-            "title": "KissVK: Скачать музыку с Вконтакте",
+            "py/object": "parser_result.Component",
             "snippet": "KissVK - бесплатный сервис для скачивания музыки с vk без установки \nпрограмм. Качайте любимую музыку из вконтакте на компьютер, телефон \nили ...",
+            "title": "KissVK: Скачать музыку с Вконтакте",
+            "type": "SEARCH_RESULT",
             "view_url": "kissvk.com/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://poiskm.co/show/%25D0%25BC%25D1%2583%25D0%25B7%25D1%258B%25D0%25BA%25D0%25B0-%25D0%25B4%25D0%25BB%25D1%258F-%25D1%2582%25D0%25B5%25D0%25BB%25D0%25B5%25D1%2584%25D0%25BE%25D0%25BD%25D0%25B0&sa=U&ved=0ahUKEwig6fDUro_XAhXFbZoKHWuUB88QFghAMAc&usg=AOvVaw0kw7Fbl48oQu0c0jkuwq8k",
-            "title": "Музыка Для Телефона скачать музыку бесплатно и слушать ...",
+            "py/object": "parser_result.Component",
             "snippet": "Скачать и слушать онлайн «Музыка Для Телефона»",
+            "title": "Музыка Для Телефона скачать музыку бесплатно и слушать ...",
+            "type": "SEARCH_RESULT",
             "view_url": "poiskm.co/show/музыка-для-телефона"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://mp3party.net/nova5/&sa=U&ved=0ahUKEwig6fDUro_XAhXFbZoKHWuUB88QFghFMAg&usg=AOvVaw2es6TXu3O3c6OJxqhCZFZH",
-            "title": "Музыка 2017. Скачать новинки музыки 2017 в mp3 - Mp3Party",
+            "py/object": "parser_result.Component",
             "snippet": "Здесь вы можете послушать и скачать новинки музыки 2017 года в mp3. \nРаздел каждый день пополняется новыми песнями 2017 года за Ноябрь от ...",
+            "title": "Музыка 2017. Скачать новинки музыки 2017 в mp3 - Mp3Party",
+            "type": "SEARCH_RESULT",
             "view_url": "mp3party.net/nova5/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://mp3cc.com/&sa=U&ved=0ahUKEwig6fDUro_XAhXFbZoKHWuUB88QFghLMAk&usg=AOvVaw0gw0fsawf8UsFBNSgvwS8L",
-            "title": "mp3CC.com [aka MP3.cc] - Скачать Музыку и Песни Бесплатно в ...",
+            "py/object": "parser_result.Component",
             "snippet": "Музыкальный mp3-портал mp3CC.com с быстрым поиском композиций. \nЗдесь Вы можете бесплатно скачать любимые песни и музыку в mp3 \nкачестве, ...",
+            "title": "mp3CC.com [aka MP3.cc] - Скачать Музыку и Песни Бесплатно в ...",
+            "type": "SEARCH_RESULT",
             "view_url": "mp3cc.com/"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

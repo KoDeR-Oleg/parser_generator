@@ -1,84 +1,95 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://zaycev.net/",
-            "title": "Зайцев.нет! Скачать музыку бесплатно в формате...",
+            "py/object": "parser_result.Component",
             "snippet": "zaycev.net",
+            "title": "Зайцев.нет! Скачать музыку бесплатно в формате...",
+            "type": "SEARCH_RESULT",
             "view_url": ""
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://my-hit.fm/",
-            "title": "Скачать музыку MP3 бесплатно, песни и музыка без...",
+            "py/object": "parser_result.Component",
             "snippet": "my-hit.fm",
+            "title": "Скачать музыку MP3 бесплатно, песни и музыка без...",
+            "type": "SEARCH_RESULT",
             "view_url": ""
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://mp3-you.me/pop_chart.html",
-            "title": "Лучшая музыка - скачать бесплатно или слушать онлайн...",
+            "py/object": "parser_result.Component",
             "snippet": "Лучшая музыка. Скачать и послушать музыку бесплатно и без регистрации на mp3-you.net.",
+            "title": "Лучшая музыка - скачать бесплатно или слушать онлайн...",
+            "type": "SEARCH_RESULT",
             "view_url": "http://mp3-you.me/pop_chart.html"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://ipleer.fm/",
-            "title": "iPleer.fm - Скачать Музыку и Песни Бесплатно...",
+            "py/object": "parser_result.Component",
             "snippet": "iPleer.fm - Скачать музыку бесплатно и слушать онлайн. (бесконечная прокрутка).",
+            "title": "iPleer.fm - Скачать Музыку и Песни Бесплатно...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://ipleer.fm/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://myzuka.me/",
-            "title": "Скачать бесплатно музыку и песни в mp3 и слушать...",
+            "py/object": "parser_result.Component",
             "snippet": "Скачать mp3 музыку бесплатно на Myzuka.me. Музыка.fm — музыкальный портал, на котором вы можете бесплатно слушать песни и скачать музыку в...",
+            "title": "Скачать бесплатно музыку и песни в mp3 и слушать...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://myzuka.me/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://best-muzon.net/",
-            "title": "Музыка на Best-muzon.net - скачать MP3 бесплатно...",
+            "py/object": "parser_result.Component",
             "snippet": "Скачай бесплатную музыку без регистрации онлайн, слушай песни в mp3 и музыкальные новинки 2016 - 2017 в хорошем качестве на телефон или пк, android...",
+            "title": "Музыка на Best-muzon.net - скачать MP3 бесплатно...",
+            "type": "SEARCH_RESULT",
             "view_url": "http://best-muzon.net/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://mp3poisk.info/",
-            "title": "MP3poisk.me - Скачать музыку бесплатно в MP3",
+            "py/object": "parser_result.Component",
             "snippet": "MP3poisk.me - Скачать музыку бесплатно в формате MP3 и слушать онлайн песни бесплатно, скачивать музыку через торрент без регистрации.",
+            "title": "MP3poisk.me - Скачать музыку бесплатно в MP3",
+            "type": "SEARCH_RESULT",
             "view_url": "https://mp3poisk.info/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://top-music.top/",
-            "title": "Скачать бесплатно песни на top-music.top – лучшая...",
+            "py/object": "parser_result.Component",
             "snippet": "Скачивай лучшие музыкальные mp3 новинки, слушай отборные хиты, саундтреки, музыку для спорта и самые горячие песни из хит-парадов на top-music.top!",
+            "title": "Скачать бесплатно песни на top-music.top – лучшая...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://top-music.top/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://zvooq.online/",
-            "title": "Звук онлайн - тут найдешь как скачать музыку и песни...",
+            "py/object": "parser_result.Component",
             "snippet": "На музыкальном портале Звук.онлайн вся музыка бесплатна и в отличном качестве, в Топ 100 собраны самые горячие новинки и хиты, которые можно скачать...",
+            "title": "Звук онлайн - тут найдешь как скачать музыку и песни...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://zvooq.online/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://patefon.net/",
-            "title": "Музыка на Patefon.fm - скачать MP3 бесплатно, слушать...",
+            "py/object": "parser_result.Component",
             "snippet": "А самое лучшее, что можно всю МП3 музыку скачать бесплатно на свой пк, планшет или мобильный телефон на IOS и андройде.",
+            "title": "Музыка на Patefon.fm - скачать MP3 бесплатно, слушать...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://patefon.net/"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

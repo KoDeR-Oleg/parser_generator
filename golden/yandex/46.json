@@ -1,91 +1,103 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://korrespondent.net/ukraine/",
-            "title": "Новости Украины сегодня - лента... - Korrespondent.net",
+            "py/object": "parser_result.Component",
             "snippet": "korrespondent.net›Украина",
+            "title": "Новости Украины сегодня - лента... - Korrespondent.net",
+            "type": "SEARCH_RESULT",
             "view_url": ""
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://rian.com.ua/?/",
-            "title": "РИА Новости Украина Репортажи. Интервью. Аналитика",
+            "py/object": "parser_result.Component",
             "snippet": "Как зарабатывают на контрабанде - в обзоре РИА Новости Украина. ... \"Петлюризация Украины\": евреи массово покидают страну.",
+            "title": "РИА Новости Украина Репортажи. Интервью. Аналитика",
+            "type": "SEARCH_RESULT",
             "view_url": "http://rian.com.ua/?/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://riafan.ru/category/ukraina",
-            "title": "Последние новости Украины сегодня и за последний час",
+            "py/object": "parser_result.Component",
             "snippet": "riafan.ru›Украина",
+            "title": "Последние новости Украины сегодня и за последний час",
+            "type": "SEARCH_RESULT",
             "view_url": ""
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://xn----8sbeyckrgcbzinq9j.ru-an.info/",
-            "title": "Новости Украины - последние украинские новости - РуАН",
+            "py/object": "parser_result.Component",
             "snippet": "Новости Украины: Фармакологическая мафия ежегодно убивает сотни миллионов людей, Лондонские паразиты призывают Украину продать 10 млн. гектаров земли...",
+            "title": "Новости Украины - последние украинские новости - РуАН",
+            "type": "SEARCH_RESULT",
             "view_url": "http://xn----8sbeyckrgcbzinq9j.ru-an.info/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://zelv.ru/ukraina/",
-            "title": "Новости Украины сегодня 2017 - последние новости...",
+            "py/object": "parser_result.Component",
             "snippet": "Новости Украины сегодня онлайн. Последние новости в Украине 2017 - свежие актуальные события, происходящие в данной стране.",
+            "title": "Новости Украины сегодня 2017 - последние новости...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://zelv.ru/ukraina/"
         },
         {
-            "type": "WIZARD",
             "alignment": "LEFT",
             "page_url": "https://news.yandex.ru/yandsearch?text=новости украины&lr=225&rpt=nnews2&rel=rel&grhow=clutop&from=serp",
+            "py/object": "parser_result.Component",
             "title": "Новости украины — новости",
+            "type": "WIZARD",
             "wizard_type": "WIZARD_NEWS"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://news-front.info/category/news/ukraine/",
-            "title": "Новости Украины",
+            "py/object": "parser_result.Component",
             "snippet": "Новости Украины 2015. Новости последнего часа. Смотрите и читайте онлайн. Боевые действия на Украине — онлайн сводка.",
+            "title": "Новости Украины",
+            "type": "SEARCH_RESULT",
             "view_url": "https://news-front.info/category/news/ukraine/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://telegraf.com.ua/ukraina/",
-            "title": "Новости Украины. Последние свежие новости в Украине...",
+            "py/object": "parser_result.Component",
             "snippet": "Новости Украины и мира. Телеграф на Google+. ... Последние новости Украины. Убийство Окуевой: полиция ввела план \"перехват\".",
+            "title": "Новости Украины. Последние свежие новости в Украине...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://telegraf.com.ua/ukraina/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://www.segodnya.ua/ukraine.html",
-            "title": "Новости Украины. Последние новости... | СЕГОДНЯ",
+            "py/object": "parser_result.Component",
             "snippet": "Горячая новость. Новости Cегодня. прямой эфир. ... Амина Окуева – участница Революции достоинства и войны на востоке Украины.",
+            "title": "Новости Украины. Последние новости... | СЕГОДНЯ",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.segodnya.ua/ukraine.html"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://vesti-ukr.com/strana",
-            "title": "Новости Украины. Последние новости Украины сегодня.",
+            "py/object": "parser_result.Component",
             "snippet": "События Украины в последних новостях. Только актуальные новости в Украине за 2017 год.",
+            "title": "Новости Украины. Последние новости Украины сегодня.",
+            "type": "SEARCH_RESULT",
             "view_url": "https://vesti-ukr.com/strana"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://24tv.ua/ru/ukraina_tag1119/",
-            "title": "Новости Украины сегодня: последние новости...",
+            "py/object": "parser_result.Component",
             "snippet": "Читатели сайта \"24\" знают последние новости Украины первыми, ведь больше всего наши журналисты ценят оперативность.",
+            "title": "Новости Украины сегодня: последние новости...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://24tv.ua/ru/ukraina_tag1119/"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

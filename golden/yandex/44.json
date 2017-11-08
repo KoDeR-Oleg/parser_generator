@@ -1,84 +1,95 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://vseigru.net/",
-            "title": "Все Игры - Онлайн",
+            "py/object": "parser_result.Component",
             "snippet": "vseigru.net",
+            "title": "Все Игры - Онлайн",
+            "type": "SEARCH_RESULT",
             "view_url": ""
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://www.game01.ru/",
-            "title": "Играть онлайн в игры на 146% бесплатно",
+            "py/object": "parser_result.Component",
             "snippet": "game01.ru",
+            "title": "Играть онлайн в игры на 146% бесплатно",
+            "type": "SEARCH_RESULT",
             "view_url": ""
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://www.flashgames.ru/",
-            "title": "Бесплатные онлайн игры, флеш игры, играй бесплатно...",
+            "py/object": "parser_result.Component",
             "snippet": "flashgames.ru",
+            "title": "Бесплатные онлайн игры, флеш игры, играй бесплатно...",
+            "type": "SEARCH_RESULT",
             "view_url": ""
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://caniplay.ru/",
-            "title": "Игры онлайн бесплатно - Играй на CANIPLAY.RU",
+            "py/object": "parser_result.Component",
             "snippet": "Игры онлайн бесплатно. Однажды мы узнали, что от работы даже кони дохнут, поэтому сразу же решили создать сайт с самыми интересными развлечениями и...",
+            "title": "Игры онлайн бесплатно - Играй на CANIPLAY.RU",
+            "type": "SEARCH_RESULT",
             "view_url": "http://caniplay.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://ru.sgames.org/",
-            "title": "Игры онлайн. Играть бесплатно",
+            "py/object": "parser_result.Component",
             "snippet": "Когда наступает время отдыха, а для прогулки на улице поздно или плохая погода, приятно открыть игры онлайн бесплатно, и погрузиться в виртуальную реальность.",
+            "title": "Игры онлайн. Играть бесплатно",
+            "type": "SEARCH_RESULT",
             "view_url": "http://ru.sgames.org/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://www.igrixl.ru/",
-            "title": "Бесплатные онлайн-игры на IgriXL.ru",
+            "py/object": "parser_result.Component",
             "snippet": "Бесплатные онлайн-игры на IgriXL.ru. На сайте IgriXL.ru Вы можете играть в игры бесплатно.",
+            "title": "Бесплатные онлайн-игры на IgriXL.ru",
+            "type": "SEARCH_RESULT",
             "view_url": "http://www.igrixl.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://www.pacogames.com/ru",
-            "title": "Играть только лучшие бесплатные онлайн игры.",
+            "py/object": "parser_result.Component",
             "snippet": "PacoGames.com - веб-сайт, где вы можете бесплатно играть в онлайн-игры. Несколько лет назад предоставлять все игры бесплатно было почти...",
+            "title": "Играть только лучшие бесплатные онлайн игры.",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.pacogames.com/ru"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://skachat-besplatno.ru/008flash_index.html",
-            "title": "ИГРАТЬ В БЕСПЛАТНЫЕ ИГРЫ прямо сейчас! Коллекция...",
+            "py/object": "parser_result.Component",
             "snippet": "Бесплатные игры. Здесь собраны игрушки на Flash. Не надо никуда ходить - просто садись и играй в бесплатные игры!",
+            "title": "ИГРАТЬ В БЕСПЛАТНЫЕ ИГРЫ прямо сейчас! Коллекция...",
+            "type": "SEARCH_RESULT",
             "view_url": "http://skachat-besplatno.ru/008flash_index.html"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://gamelayer.ru/",
-            "title": "Игры онлайн бесплатно",
+            "py/object": "parser_result.Component",
             "snippet": "Но не вредно ли играть в игры? Как говорится, это палка о двух концах. ... А что самое главное, развивающие игры бесплатные!",
+            "title": "Игры онлайн бесплатно",
+            "type": "SEARCH_RESULT",
             "view_url": "http://gamelayer.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://PlayMap.ru/flash/",
-            "title": "Игры онлайн бесплатно",
+            "py/object": "parser_result.Component",
             "snippet": "Бесплатные игры онлайн. Все представленные онлайн игры полностью бесплатны, их можно пройти без скачивания на компьютер через браузер.",
+            "title": "Игры онлайн бесплатно",
+            "type": "SEARCH_RESULT",
             "view_url": "http://PlayMap.ru/flash/"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

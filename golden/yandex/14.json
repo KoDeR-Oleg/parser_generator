@@ -1,84 +1,95 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://tv.yandex.ru/2",
-            "title": "Программа передач на сегодня в Санкт-Петербурге...",
+            "py/object": "parser_result.Component",
             "snippet": "Актуальная программа передач в Санкт-Петербурге на сегодня. Полная ТВ-программа на неделю. Анонсы передач с фото, видео.",
+            "title": "Программа передач на сегодня в Санкт-Петербурге...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://tv.yandex.ru/2"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://tv.mail.ru/sankt_peterburg/",
-            "title": "Телепрограмма на сегодня и на завтра, программа...",
+            "py/object": "parser_result.Component",
             "snippet": "tv.mail.ru›Все каналы",
+            "title": "Телепрограмма на сегодня и на завтра, программа...",
+            "type": "SEARCH_RESULT",
             "view_url": ""
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://www.ontvtime.ru/tv",
-            "title": "Сейчас в эфире: телепрограмма на сегодня и на неделю",
+            "py/object": "parser_result.Component",
             "snippet": "ontvtime.ru›tv",
+            "title": "Сейчас в эфире: телепрограмма на сегодня и на неделю",
+            "type": "SEARCH_RESULT",
             "view_url": ""
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://www.s-tv.ru/tv/",
-            "title": "Телепрограмма на сегодня",
+            "py/object": "parser_result.Component",
             "snippet": "05.00 Телеканал \"Доброе утро\". Инфо 09.00 Новости. 09.15 Контрольная закупка.∗ 09.50 Жить здорово! [12+]∗ 10.55 Модный приговор.∗ Инфо 12.00 Новости...",
+            "title": "Телепрограмма на сегодня",
+            "type": "SEARCH_RESULT",
             "view_url": "http://www.s-tv.ru/tv/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://www.Tele.ru/programma/sankt-peterburg/",
-            "title": "ТВ программа в г. Санкт-Петербург. Программа передач...",
+            "py/object": "parser_result.Component",
             "snippet": "Смотрите телепрограмму на сегодня и на неделю каналов Первый, Россия, НТВ, ТВ центр, ТНТ, СТС и других каналов. Самая полная ТВ программа.",
+            "title": "ТВ программа в г. Санкт-Петербург. Программа передач...",
+            "type": "SEARCH_RESULT",
             "view_url": "http://www.Tele.ru/programma/sankt-peterburg/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://tv.rambler.ru/",
-            "title": "Видео-картина дня онлайн — ТВ-программа на...",
+            "py/object": "parser_result.Component",
             "snippet": "ТВ-программа на неделю. Анонсы и описания передач.",
+            "title": "Видео-картина дня онлайн — ТВ-программа на...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://tv.rambler.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://tv.akado.ru/program/time/",
-            "title": "Телепрограмма на сегодня: ТВ программа по времени",
+            "py/object": "parser_result.Component",
             "snippet": "Все Антенна АКАДО Антенна АКАДО (FTA) ТВ-Звёзды ТВ-Звёзды HD ТВ-Звёзды Premium БОКС ТВ Футбол СУПЕР СПОРТ VIASAT ... Магазин на диване Top Shop TV.",
+            "title": "Телепрограмма на сегодня: ТВ программа по времени",
+            "type": "SEARCH_RESULT",
             "view_url": "http://tv.akado.ru/program/time/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://www.vsetv.com/schedule.html",
-            "title": "ВсёТВ | российский базовый | Телепрограмма",
+            "py/object": "parser_result.Component",
             "snippet": "ZIK (на укр.) Zoom Zoom (на укр.) ZooПарк Авто Плюс Авто24 Алекс ТВ Анекдот ТВ Астрахань 24 ББЧ ... \"ОТРажение\". ТВ Центр. программа на неделю: вся. 10.",
+            "title": "ВсёТВ | российский базовый | Телепрограмма",
+            "type": "SEARCH_RESULT",
             "view_url": "http://www.vsetv.com/schedule.html"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://www.programma.tv/",
-            "title": "Программа тв передач на все каналы телевидения...",
+            "py/object": "parser_result.Component",
             "snippet": "Программа тв передач на все каналы телевидения: Россия, Украина, Беларусь. Телепрограмма на неделю.",
+            "title": "Программа тв передач на все каналы телевидения...",
+            "type": "SEARCH_RESULT",
             "view_url": "http://www.programma.tv/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://interzet.domru.ru/domru-tv/program",
-            "title": "Телепрограмма в Санкт-Петербурге Дом.ru InterZet",
+            "py/object": "parser_result.Component",
             "snippet": "ТВ на вашем смартфоне. Смотрите передачи где удобно. ... Телепрограмма. Смотрите полную программу передач.",
+            "title": "Телепрограмма в Санкт-Петербурге Дом.ru InterZet",
+            "type": "SEARCH_RESULT",
             "view_url": "https://interzet.domru.ru/domru-tv/program"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

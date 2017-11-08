@@ -1,91 +1,103 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://www.banki.ru/products/currency/cash/usd/sankt-peterburg/",
-            "title": "Курс доллара США в Санкт-Петербурге на... | Банки.ру",
+            "py/object": "parser_result.Component",
             "snippet": "banki.ru›Курсы обмена›Продажа",
+            "title": "Курс доллара США в Санкт-Петербурге на... | Банки.ру",
+            "type": "SEARCH_RESULT",
             "view_url": ""
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://sankt-peterburg.bankiros.ru/currency/usd",
-            "title": "Курс доллара в банках Санкт-Петербурга на сегодня",
+            "py/object": "parser_result.Component",
             "snippet": "Каждый желающий может в любое время суток зайти на сайт, чтобы быстро узнать текущий курс доллара в Санкт-Петербурге.",
+            "title": "Курс доллара в банках Санкт-Петербурга на сегодня",
+            "type": "SEARCH_RESULT",
             "view_url": "https://sankt-peterburg.bankiros.ru/currency/usd"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://www.cbr.ru/",
-            "title": "Центральный банк Российской Федерации",
+            "py/object": "parser_result.Component",
             "snippet": "Основные индикаторы финансового рынка. Курсы валют. ... Доллар США $. руб. 58,0833.",
+            "title": "Центральный банк Российской Федерации",
+            "type": "SEARCH_RESULT",
             "view_url": "http://www.cbr.ru/"
         },
         {
-            "type": "WIZARD",
             "alignment": "LEFT",
             "page_url": "https://news.yandex.ru/yandsearch?text=курс доллара&lr=225&rpt=nnews2&rel=rel&grhow=clutop&from=serp",
+            "py/object": "parser_result.Component",
             "title": "Курс доллара — новости",
+            "type": "WIZARD",
             "wizard_type": "WIZARD_NEWS"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://www.capitaloff.ru/kurs-obmena-dollara/?city=spb",
-            "title": "Курс Доллара на сегодня в Санкт-Петербурге",
+            "py/object": "parser_result.Component",
             "snippet": "На сегодня в Санкт-Петербурге работает около 82 банков, самый выгодный курс продажи доллара - 58.00 рублей, а покупки - 58.30 рублей.",
+            "title": "Курс Доллара на сегодня в Санкт-Петербурге",
+            "type": "SEARCH_RESULT",
             "view_url": "http://www.capitaloff.ru/kurs-obmena-dollara/?city=spb"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://finance.rambler.ru/currencies/exchange-spb/",
-            "title": "Выгодный курс обмена валюты (доллар, евро) в банках...",
+            "py/object": "parser_result.Component",
             "snippet": "Выгодный курс обмена доллара и евро в Санкт-Петербурге. Курс обмена валюты в банках и обменных пунктах...",
+            "title": "Выгодный курс обмена валюты (доллар, евро) в банках...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://finance.rambler.ru/currencies/exchange-spb/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://spb.incred.ru/kurs-dollara/",
-            "title": "Курс Доллара в Санкт-Петербурге - курс доллара на...",
+            "py/object": "parser_result.Component",
             "snippet": "Самый последний курс доллара в Санкт-Петербурге, что позволяет избежать лишних временных затрат.",
+            "title": "Курс Доллара в Санкт-Петербурге - курс доллара на...",
+            "type": "SEARCH_RESULT",
             "view_url": "http://spb.incred.ru/kurs-dollara/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://www.calc.ru/obmen-dollara+Sankt-peterburg.html",
-            "title": "Курс доллар к рублю на сегодня в банках...",
+            "py/object": "parser_result.Component",
             "snippet": "Онлайн курсы обмена доллара в банках г. Санкт-Петербург на 30.10.2017. Выгодный курс перевода наличной валюты доллар в российский рубль.",
+            "title": "Курс доллар к рублю на сегодня в банках...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.calc.ru/obmen-dollara+Sankt-peterburg.html"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://www.ForexPF.ru/currency_usd/asp",
-            "title": "Курс доллара онлайн | Курс доллара к рублю Forex",
+            "py/object": "parser_result.Component",
             "snippet": "Курс доллара на сегодня / на завтра. Курс доллара к рублю ЦБ РФ. ... Курс доллара к евро Forex.",
+            "title": "Курс доллара онлайн | Курс доллара к рублю Forex",
+            "type": "SEARCH_RESULT",
             "view_url": "http://www.ForexPF.ru/currency_usd/asp"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://spb.1000bankov.ru/kurs/",
-            "title": "Курс доллара и Евро в банках Санкт-Петербурга на...",
+            "py/object": "parser_result.Component",
             "snippet": "На сегодня в Санкт-Петербурге самый выгодный курс покупки долларов в банке БКС Банк, самый выгодный курс продажи долларов в банке ИШБАНК...",
+            "title": "Курс доллара и Евро в банках Санкт-Петербурга на...",
+            "type": "SEARCH_RESULT",
             "view_url": "http://spb.1000bankov.ru/kurs/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://www.bspb.ru/cash-rates",
-            "title": "Курс валют - Банк Санкт-Петербург",
+            "py/object": "parser_result.Component",
             "snippet": "Название валюты. Количество единиц. Курс покупки. ... USD. Доллар США.",
+            "title": "Курс валют - Банк Санкт-Петербург",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.bspb.ru/cash-rates"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

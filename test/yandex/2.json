@@ -1,84 +1,95 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D0%BD%D0%B4%D0%B0%D1%88",
-            "title": "Карандаш — Википедия",
+            "py/object": "parser_result.Component",
             "snippet": "Каранда́ш — инструмент в виде стержня, изготавливаемого из пишущего материала (угля, графита, сухих красок и тому подобного), применяемый для письма...",
+            "title": "Карандаш — Википедия",
+            "type": "SEARCH_RESULT",
             "view_url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D0%BD%D0%B4%D0%B0%D1%88"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://zaycev.net/artist/120079",
-            "title": "Скачать песни Карандаш в MP3 бесплатно – музыкальная...",
+            "py/object": "parser_result.Component",
             "snippet": "На музыкальном портале Зайцев.нет Вы можете бесплатно скачать и слушать онлайн песни Карандаш в формате mp3.",
+            "title": "Скачать песни Карандаш в MP3 бесплатно – музыкальная...",
+            "type": "SEARCH_RESULT",
             "view_url": "http://zaycev.net/artist/120079"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://vk.com/club95989",
-            "title": "Карандаш official | ВКонтакте",
+            "py/object": "parser_result.Component",
             "snippet": "4. Спам и реклама в любом виде. 5. Выкладывать на стену контент, не связанный с Карандашом.",
+            "title": "Карандаш official | ВКонтакте",
+            "type": "SEARCH_RESULT",
             "view_url": "https://vk.com/club95989"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://dic.academic.ru/dic.nsf/ruwiki/22636",
-            "title": "Карандаш - это... Что такое Карандаш?",
+            "py/object": "parser_result.Component",
             "snippet": "Новый одноразовый карандаш с деревянной оправой грифеля перед первым применением часто требуется заточить (очинить).",
+            "title": "Карандаш - это... Что такое Карандаш?",
+            "type": "SEARCH_RESULT",
             "view_url": "http://dic.academic.ru/dic.nsf/ruwiki/22636"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://myzuka.me/Artist/68336/Karandash",
-            "title": "Скачать песни Карандаш (Карандаша) бесплатно...",
+            "py/object": "parser_result.Component",
             "snippet": "Другие названия: Kарандаш;Karandash. Страна: Нет данных. ... Все песни Карандаш - всего 238 треков.",
+            "title": "Скачать песни Карандаш (Карандаша) бесплатно...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://myzuka.me/Artist/68336/Karandash"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://markerplus.ru/category/karandashi/",
-            "title": "Купить карандаши по лучшим ценам в СПБ",
+            "py/object": "parser_result.Component",
             "snippet": "Карандаши можно купить со скидкой, доставка по СПБ и Ленинградской области бесплатно. Интернет магазин канцелярских товаров Marker.",
+            "title": "Купить карандаши по лучшим ценам в СПБ",
+            "type": "SEARCH_RESULT",
             "view_url": "https://markerplus.ru/category/karandashi/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://www.rap.ru/artist/652",
-            "title": "Карандаш | RAP.RU",
+            "py/object": "parser_result.Component",
             "snippet": "Карандаш. Продюсер и рэпер из Чебоксар, участник группы \"Район моей мечты\". ... Cosmostars, Карандаш, ST, L'One – Я никогда не брошу пить (DMNDZ RMX).",
+            "title": "Карандаш | RAP.RU",
+            "type": "SEARCH_RESULT",
             "view_url": "http://www.rap.ru/artist/652"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://twitter.com/karandash_pro",
-            "title": "karandash_pro – Twitter",
+            "py/object": "parser_result.Component",
             "snippet": "По вопросам сотрудничества: karandash.karandash@gmail.comПодписчиков: 100 тыс.",
+            "title": "karandash_pro – Twitter",
+            "type": "SEARCH_RESULT",
             "view_url": "https://twitter.com/karandash_pro"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://3259404.ru/catalog/karandashi-mehanicheskie_c146",
-            "title": "Карандаши механические, купить механический...",
+            "py/object": "parser_result.Component",
             "snippet": "Карандаши простые. Наборы простых карандашей. ... Главная страница- Каталог - Ручки, маркеры, линейки - Карандаши и фломастеры - Карандаши механические.",
+            "title": "Карандаши механические, купить механический...",
+            "type": "SEARCH_RESULT",
             "view_url": "http://3259404.ru/catalog/karandashi-mehanicheskie_c146"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://www.mekka-spb.ru/catalog/karandashi-chernografitnyje/",
-            "title": "Карандаши чернографитные - купить в интернет-магазине...",
+            "py/object": "parser_result.Component",
             "snippet": "Купить карандаши чернографитные предлагаем на сайте Канцелярская мекка. ... 7Карандаши чернографитные в наборах.",
+            "title": "Карандаши чернографитные - купить в интернет-магазине...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.mekka-spb.ru/catalog/karandashi-chernografitnyje/"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

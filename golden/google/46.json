@@ -1,83 +1,94 @@
 {
     "components": [
         {
-            "type": "WIZARD",
             "alignment": "LEFT",
             "page_url": "/search?q=%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8+%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%8B&newwindow=1&dcr=0&ie=UTF-8&prmd=ivns&source=univ&tbm=nws&tbo=u&sa=X&ved=0ahUKEwjW0qHDpo_XAhVHQZoKHWTIBMEQqAIIHg",
+            "py/object": "parser_result.Component",
             "title": "Новости по запросу новости украины",
+            "type": "WIZARD",
             "wizard_type": "WIZARD_NEWS"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://korrespondent.net/ukraine/&sa=U&ved=0ahUKEwjW0qHDpo_XAhVHQZoKHWTIBMEQFggnMAM&usg=AOvVaw1Y4HfOsllFI6nbijYJ7Vfq",
-            "title": "Новости Украины сегодня - лента новостей Украины онлайн ...",
+            "py/object": "parser_result.Component",
             "snippet": "Новости Украины - последние новости Украины онлайн - оперативно о \nглавных событиях дня. Новости в Украине сегодня на Корреспондент. \nСобытия ...",
+            "title": "Новости Украины сегодня - лента новостей Украины онлайн ...",
+            "type": "SEARCH_RESULT",
             "view_url": "korrespondent.net/ukraine/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://gordonua.com/news.html&sa=U&ved=0ahUKEwjW0qHDpo_XAhVHQZoKHWTIBMEQFggtMAQ&usg=AOvVaw0rkLeTstFUjmkKp8QySGPJ",
-            "title": "Свежие новости Украины. Последние новости дня / ГОРДОН",
+            "py/object": "parser_result.Component",
             "snippet": "Свежие и горячие новости Украины. Новости дня за последний час в \nУкраине.",
+            "title": "Свежие новости Украины. Последние новости дня / ГОРДОН",
+            "type": "SEARCH_RESULT",
             "view_url": "gordonua.com/news.html"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://www.ukr.net/&sa=U&ved=0ahUKEwjW0qHDpo_XAhVHQZoKHWTIBMEQFggzMAU&usg=AOvVaw2yTXLey3IrH7bby_cQ3Pwb",
-            "title": "UKR.NET: Все новости Украины, последние новости дня в ...",
+            "py/object": "parser_result.Component",
             "snippet": "Свежие новости Украины, последние новости из-за рубежа, новости \nполитики, экономики, спорта, культуры, технологий, шоу-бизнеса...",
+            "title": "UKR.NET: Все новости Украины, последние новости дня в ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.ukr.net/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://news.bigmir.net/ukraine&sa=U&ved=0ahUKEwjW0qHDpo_XAhVHQZoKHWTIBMEQFgg5MAY&usg=AOvVaw0BNMDgoOTA9yQ5zr6DUMNI",
-            "title": "Новости Украины сегодня, последние новости Украины - bigmir)net",
+            "py/object": "parser_result.Component",
             "snippet": "Новости Украины сегодня, лента последних новостей Украины в 2017 году. \nЧитать все свежие новости Украины и узнавать о последних событиях ...",
+            "title": "Новости Украины сегодня, последние новости Украины - bigmir)net",
+            "type": "SEARCH_RESULT",
             "view_url": "news.bigmir.net/ukraine"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://www.rbc.ua/rus/news&sa=U&ved=0ahUKEwjW0qHDpo_XAhVHQZoKHWTIBMEQFgg_MAc&usg=AOvVaw393V63GDQTnXUoRtGm087h",
-            "title": "Новости Украины - Последние новости в Украине сегодня | РБК ...",
+            "py/object": "parser_result.Component",
             "snippet": "Последние новости Украины онлайн и актуальные события дня в столице и \nобластях Украины. Самые свежие новости политики, экономики, спорта, ...",
+            "title": "Новости Украины - Последние новости в Украине сегодня | РБК ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.rbc.ua/rus/news"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://news.liga.net/all/page2/&sa=U&ved=0ahUKEwjW0qHDpo_XAhVHQZoKHWTIBMEQFghEMAg&usg=AOvVaw1JDivSqAssuATEcWyWnhgk",
-            "title": "Последние новости в Украине за день. Самые свежие новости ...",
+            "py/object": "parser_result.Component",
             "snippet": "Все актуальные события дня и недели в Украине и мире. Обзор важных \nсобытий на портале ЛІГА.net. Страница 2.",
+            "title": "Последние новости в Украине за день. Самые свежие новости ...",
+            "type": "SEARCH_RESULT",
             "view_url": "news.liga.net/all/page2/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://telegraf.com.ua/ukraina/&sa=U&ved=0ahUKEwjW0qHDpo_XAhVHQZoKHWTIBMEQFghKMAk&usg=AOvVaw3ymRLf3SMkKHfqkR4vjahL",
-            "title": "Новости Украины - Телеграф",
+            "py/object": "parser_result.Component",
             "snippet": "Последние новости Украины. Свежие новости в Украине за последний час. \nУкраина сегодня. Телеграф Украина.",
+            "title": "Новости Украины - Телеграф",
+            "type": "SEARCH_RESULT",
             "view_url": "https://telegraf.com.ua/ukraina/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://rian.com.ua/&sa=U&ved=0ahUKEwjW0qHDpo_XAhVHQZoKHWTIBMEQFghQMAo&usg=AOvVaw3_aVx4eIk4FuNIkglVI5Ib",
-            "title": "РИА Новости Украина",
+            "py/object": "parser_result.Component",
             "snippet": "РИА Новости Украина Репортажи. Интервью. Аналитика.",
+            "title": "РИА Новости Украина",
+            "type": "SEARCH_RESULT",
             "view_url": "rian.com.ua/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://ria-m.tv/ukraine&sa=U&ved=0ahUKEwjW0qHDpo_XAhVHQZoKHWTIBMEQFghWMAs&usg=AOvVaw31ZLPmQ8B_kJjdkvuabui6",
-            "title": "Новости Украины - (РИА) - Мелитополь",
+            "py/object": "parser_result.Component",
             "snippet": "Предлагаем узнать последние новости Украины. Экономические новости, \nполитика, культура, образование.",
+            "title": "Новости Украины - (РИА) - Мелитополь",
+            "type": "SEARCH_RESULT",
             "view_url": "ria-m.tv/ukraine"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

@@ -1,84 +1,95 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://www.Pdd24.com/pdd-onlain",
-            "title": "Билеты ПДД 2017 онлайн Экзамен категории ABM/CD(СД)...",
+            "py/object": "parser_result.Component",
             "snippet": "Билеты ПДД 2017 Официальные 100% от ГИБДД изменения 8 ноября 2017. Новый Экзамен ПДД онлайн 2017 года.",
+            "title": "Билеты ПДД 2017 онлайн Экзамен категории ABM/CD(СД)...",
+            "type": "SEARCH_RESULT",
             "view_url": "http://www.Pdd24.com/pdd-onlain"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://pdd.drom.ru/",
-            "title": "«ПДД Дром» — онлайн-подготовка к экзаменам в ГИБДД",
+            "py/object": "parser_result.Component",
             "snippet": "pdd.drom.ru",
+            "title": "«ПДД Дром» — онлайн-подготовка к экзаменам в ГИБДД",
+            "type": "SEARCH_RESULT",
             "view_url": ""
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://www.pddrussia.com/",
-            "title": "ПДД 2017 онлайн экзамен. Экзаменационные билеты...",
+            "py/object": "parser_result.Component",
             "snippet": "ПДД 2017 онлайн России. Новые правила ПДД экзамена 2017 5 вопросов за ошибку Официальные экзаменационные билеты ПДД 2017 новые с 25 июля 2017...",
+            "title": "ПДД 2017 онлайн экзамен. Экзаменационные билеты...",
+            "type": "SEARCH_RESULT",
             "view_url": "http://www.pddrussia.com/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://examenpdd.com/",
-            "title": "Билеты ПДД 2017 и онлайн экзамен",
+            "py/object": "parser_result.Component",
             "snippet": "40 официальных экзаменационных билетов ПДД с последними изменениями от 25 июля 2017 года. Онлайн экзамен как в ГАИ.",
+            "title": "Билеты ПДД 2017 и онлайн экзамен",
+            "type": "SEARCH_RESULT",
             "view_url": "https://examenpdd.com/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://www.xn----8sbka1akndeg.com/",
-            "title": "«ПДД-онлайн.com» — правила дорожного движения",
+            "py/object": "parser_result.Component",
             "snippet": "Онлайн-тесты для подготовки к теоретическому экзамену в ГИБДД водителей категорий «A» и «B». Обсуждение вопросов и ответов по билетам ПДД. Возможность пройти тестирование на время.",
+            "title": "«ПДД-онлайн.com» — правила дорожного движения",
+            "type": "SEARCH_RESULT",
             "view_url": "http://www.xn----8sbka1akndeg.com/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://xn----7sbnackuskv0m.xn--p1ai/",
-            "title": "«Экзамен ПДД онлайн»",
+            "py/object": "parser_result.Component",
             "snippet": "Тестер сдачи экзамена по официальным билетам ГИБДД. Выбор билетов из списка или прохождение теста из 20-ти вопросов, подобранных случайно. Текст Правил дорожного движения. Таблица штрафов ПДД.",
+            "title": "«Экзамен ПДД онлайн»",
+            "type": "SEARCH_RESULT",
             "view_url": "http://xn----7sbnackuskv0m.xn--p1ai/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://avto-russia.ru/pdd_abma1b1/",
-            "title": "Билеты ПДД 2017, экзамен ПДД онлайн - Avto-Russia.ru",
+            "py/object": "parser_result.Component",
             "snippet": "Билеты ПДД в редакции от 25 июля 2017 года. 40 новых билетов категорий ABM и подкатегорий A1 B1. ... Сдать экзамен ПДД 2017 онлайн.",
+            "title": "Билеты ПДД 2017, экзамен ПДД онлайн - Avto-Russia.ru",
+            "type": "SEARCH_RESULT",
             "view_url": "https://avto-russia.ru/pdd_abma1b1/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://pdd-russia.com/pdd-online/ekzamen.html",
-            "title": "ПДД Онлайн экзамен | Билеты ПДД онлайн тесты",
+            "py/object": "parser_result.Component",
             "snippet": "ПДД Онлайн - в этом разделе Вы можете пройти ПДД тесты, все экзаменационные билеты ПДД онлайн России с последними изменениями 2017 года.",
+            "title": "ПДД Онлайн экзамен | Билеты ПДД онлайн тесты",
+            "type": "SEARCH_RESULT",
             "view_url": "https://pdd-russia.com/pdd-online/ekzamen.html"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://pdd-rus.ru/",
-            "title": "Новые билеты ПДД 2017 экзамен онлайн Pdd-rus.ru",
+            "py/object": "parser_result.Component",
             "snippet": "ПДД билеты 2017 онлайн России. Совершенно новые билеты теоретического экзамена ПДД за 2017 год в проекте – «учи играючи»!",
+            "title": "Новые билеты ПДД 2017 экзамен онлайн Pdd-rus.ru",
+            "type": "SEARCH_RESULT",
             "view_url": "https://pdd-rus.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://pdde.ru/",
-            "title": "Билеты ПДД 2017",
+            "py/object": "parser_result.Component",
             "snippet": "Билеты ПДД 2017. На этом сайте вы сможете подготовиться к экзамену в ГИБДД по новым правилам 2017 года.",
+            "title": "Билеты ПДД 2017",
+            "type": "SEARCH_RESULT",
             "view_url": "https://pdde.ru/"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

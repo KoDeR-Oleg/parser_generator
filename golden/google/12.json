@@ -1,83 +1,94 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://www.ivi.ru/movies&sa=U&ved=0ahUKEwid1LrXro_XAhVBD5oKHbxuApgQFggUMAA&usg=AOvVaw1GFcidGT8B69eXt1yA3rsD",
-            "title": "Смотреть фильмы онлайн бесплатно в хорошем качестве и без ...",
+            "py/object": "parser_result.Component",
             "snippet": "Вы любите смотреть фильмы онлайн и проводите много времени, \nпрочесывая сайты в поисках чего-нибудь интересного? Стоит задержаться \nна ivi.ru ...",
+            "title": "Смотреть фильмы онлайн бесплатно в хорошем качестве и без ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.ivi.ru/movies"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://www.ivi.ru/movies/2017&sa=U&ved=0ahUKEwid1LrXro_XAhVBD5oKHbxuApgQFggeMAE&usg=AOvVaw3Osor2FN1k7N0q1hQWx16S",
-            "title": "Смотреть фильмы 2017 года онлайн. Список лучших ... - Ivi",
+            "py/object": "parser_result.Component",
             "snippet": "С нашим сайтом вы сможете оценить все новинки в самой удобной для вас \nобстановке, ведь все фильмы можно смотреть онлайн.",
+            "title": "Смотреть фильмы 2017 года онлайн. Список лучших ... - Ivi",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.ivi.ru/movies/2017"
         },
         {
-            "type": "WIZARD",
             "alignment": "LEFT",
             "page_url": "/search?q=%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B5%D1%82%D1%8C+%D1%84%D0%B8%D0%BB%D1%8C%D0%BC&newwindow=1&dcr=0&ie=UTF-8&prmd=ivns&source=univ&tbm=nws&tbo=u&sa=X&ved=0ahUKEwid1LrXro_XAhVBD5oKHbxuApgQqAIIIw",
+            "py/object": "parser_result.Component",
             "title": "Новости по запросу смотреть фильм",
+            "type": "WIZARD",
             "wizard_type": "WIZARD_NEWS"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://www.ivi.ru/new/movie-new&sa=U&ved=0ahUKEwid1LrXro_XAhVBD5oKHbxuApgQFggsMAU&usg=AOvVaw0r1OxPFblDzkHd-WMqErXW",
-            "title": "Фильмы-новинки 2016-2017 годов – смотреть онлайн бесплатно ...",
+            "py/object": "parser_result.Component",
             "snippet": "Фильмы-новинки 2016-2017 годов вы можете посмотреть онлайн \nсовершенно бесплатно в хорошем качестве. Самые свежие фильмы всех \nжанров в ...",
+            "title": "Фильмы-новинки 2016-2017 годов – смотреть онлайн бесплатно ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.ivi.ru/new/movie-new"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://megogo.net/ru/films&sa=U&ved=0ahUKEwid1LrXro_XAhVBD5oKHbxuApgQFggxMAY&usg=AOvVaw1OVrfVhB3DKN_ZtClhXcPh",
-            "title": "Фильмы - смотреть онлайн бесплатно в хорошем качестве и без ...",
+            "py/object": "parser_result.Component",
             "snippet": "Смотреть фильмы, сериалы, мультфильмы онлайн бесплатно и легально.",
+            "title": "Фильмы - смотреть онлайн бесплатно в хорошем качестве и без ...",
+            "type": "SEARCH_RESULT",
             "view_url": "megogo.net/ru/films"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://kinogo.club/filmy_2017/&sa=U&ved=0ahUKEwid1LrXro_XAhVBD5oKHbxuApgQFgg3MAc&usg=AOvVaw1kTdxdhp0t3qcPY1h_U5EL",
-            "title": "Фильмы 2017 смотреть онлайн, смотреть кино новинки 2017 в ...",
+            "py/object": "parser_result.Component",
             "snippet": "Все фильмы новинки 2017 года онлайн в хорошем качестве. У нас \nпосмотреть фильмы 2017 года онлайн можно бесплатно и без регистрации.",
+            "title": "Фильмы 2017 смотреть онлайн, смотреть кино новинки 2017 в ...",
+            "type": "SEARCH_RESULT",
             "view_url": "kinogo.club/filmy_2017/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://kinoprofi.org/&sa=U&ved=0ahUKEwid1LrXro_XAhVBD5oKHbxuApgQFgg8MAg&usg=AOvVaw1N6AC4aEaM8VrQg3TOLxWJ",
-            "title": "КиноПрофи: Фильмы онлайн, смотреть Кино бесплатно",
+            "py/object": "parser_result.Component",
             "snippet": "КиноПрофи.НЕТ переехал на Kinoprofi.org — инновационный портал, \nпозволяющий смотреть фильмы онлайн бесплатно в хорошем качестве как \nна ...",
+            "title": "КиноПрофи: Фильмы онлайн, смотреть Кино бесплатно",
+            "type": "SEARCH_RESULT",
             "view_url": "kinoprofi.org/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://ikinohd.club/filmy-2017/&sa=U&ved=0ahUKEwid1LrXro_XAhVBD5oKHbxuApgQFghBMAk&usg=AOvVaw0zBVNxTXl8FSxviEvXKPPr",
-            "title": "Фильмы 2017 смотреть онлайн бесплатно в хорошем ... - iKinoHD",
+            "py/object": "parser_result.Component",
             "snippet": "Фильмы 2017 смотреть онлайн бесплатно в качестве HD 720, новинки кино \nтолько у нас на iKinoHD.club.",
+            "title": "Фильмы 2017 смотреть онлайн бесплатно в хорошем ... - iKinoHD",
+            "type": "SEARCH_RESULT",
             "view_url": "ikinohd.club/filmy-2017/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://kinokrad.co/filmy-novinki-2017/&sa=U&ved=0ahUKEwid1LrXro_XAhVBD5oKHbxuApgQFghGMAo&usg=AOvVaw0xtlJE0HfsGRQnHED3jF4F",
-            "title": "Фильмы 2017 смотреть онлайн, лучшие Новинки кино 2017",
+            "py/object": "parser_result.Component",
             "snippet": "Не пропустите главные новинки фильмов 2017 года в хорошем качестве. \nНачинайте смотреть фильмы 2017 онлайн бесплатно. Весь контент \nдоступен ...",
+            "title": "Фильмы 2017 смотреть онлайн, лучшие Новинки кино 2017",
+            "type": "SEARCH_RESULT",
             "view_url": "kinokrad.co/filmy-novinki-2017/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://kinomoov.org/film2017/&sa=U&ved=0ahUKEwid1LrXro_XAhVBD5oKHbxuApgQFghLMAs&usg=AOvVaw1lhAKhS0cHBRw0zo80lGm-",
-            "title": "Смотреть фильмы 2017 онлайн бесплатно в хорошем качестве",
+            "py/object": "parser_result.Component",
             "snippet": "Смотрите онлайн все фильмы 2017 года в хорошем HD качестве \nсовершенно бесплатно и без регистрации.",
+            "title": "Смотреть фильмы 2017 онлайн бесплатно в хорошем качестве",
+            "type": "SEARCH_RESULT",
             "view_url": "kinomoov.org/film2017/"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

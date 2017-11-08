@@ -1,91 +1,103 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://www.online-probki.ru/probki-v-sankt-peterburge/joomla/yandeks-probki-v-sankt-peterburge-sejchas-v-rezhime-onlajn.html",
-            "title": "Яндекс пробки в Спб (Санкт-Петербурге) сейчас...",
+            "py/object": "parser_result.Component",
             "snippet": "Яндекс пробки позволяют посмотреть онлайн загруженность дорог Санкт - Петербурга. Чтобы включить отображение автомобильных пробок...",
+            "title": "Яндекс пробки в Спб (Санкт-Петербурге) сейчас...",
+            "type": "SEARCH_RESULT",
             "view_url": "http://www.online-probki.ru/probki-v-sankt-peterburge/joomla/yandeks-probki-v-sankt-peterburge-sejchas-v-rezhime-onlajn.html"
         },
         {
-            "type": "WIZARD",
             "alignment": "LEFT",
             "page_url": "https://news.yandex.ru/yandsearch?text=яндекс пробки&lr=225&rpt=nnews2&rel=rel&grhow=clutop&from=serp",
+            "py/object": "parser_result.Component",
             "title": "Яндекс пробки — новости",
+            "type": "WIZARD",
             "wizard_type": "WIZARD_NEWS"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://yandex-probki.ru/saint-petersburg.htm",
-            "title": "Яндекс пробки Санкт-Петербурга онлайн",
+            "py/object": "parser_result.Component",
             "snippet": "Главная Яндекс пробки городов России. Яндекс пробки Санкт-Петербурга.",
+            "title": "Яндекс пробки Санкт-Петербурга онлайн",
+            "type": "SEARCH_RESULT",
             "view_url": "http://yandex-probki.ru/saint-petersburg.htm"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://xn--90a1af.xn----8sbb2ahcjpdbegn.xn--p1ai/",
-            "title": "Пробки в Санкт-Петербурге онлайн – Яндекс пробки",
+            "py/object": "parser_result.Component",
             "snippet": "На Яндекс-карте ниже вы можете увидеть пробки в городе Санкт-Петербург в режиме онлайн.",
+            "title": "Пробки в Санкт-Петербурге онлайн – Яндекс пробки",
+            "type": "SEARCH_RESULT",
             "view_url": "http://xn--90a1af.xn----8sbb2ahcjpdbegn.xn--p1ai/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://xn----btbherjcsnjlj1p.xn--p1acf/online/sankt-peterburg-i-leningradskaja-oblast",
-            "title": "Яндекс пробки в Санкт-Петербурге и Ленинградской...",
+            "py/object": "parser_result.Component",
             "snippet": "Пробки в Санкт-Петербурге и Ленинградской области онлайн на интерактивной карте Яндекса. ... Яндекс пробки в городах России онлайн.",
+            "title": "Яндекс пробки в Санкт-Петербурге и Ленинградской...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://xn----btbherjcsnjlj1p.xn--p1acf/online/sankt-peterburg-i-leningradskaja-oblast"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://pddrussia.ru/probki_online.php?city=sankt-peterburg",
-            "title": "Пробки-Онлайн в Санкт-Петербурге",
+            "py/object": "parser_result.Component",
             "snippet": "Информация о пробках в Санкт-Петербурге предоставлена сервисом Яндекс.Пробки. Управление картой.",
+            "title": "Пробки-Онлайн в Санкт-Петербурге",
+            "type": "SEARCH_RESULT",
             "view_url": "http://pddrussia.ru/probki_online.php?city=sankt-peterburg"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://gorodina.ru/probki/Sanqt-Peterburg",
-            "title": "Пробки города - Санкт-Петербург онлайн. Пробки на...",
+            "py/object": "parser_result.Component",
             "snippet": "Передвинув выбор на \"Статистика\" вы можете увидеть, как по мнению Яндекс.Пробок будет меняться обстановка на догогах в текущей неделе.",
+            "title": "Пробки города - Санкт-Петербург онлайн. Пробки на...",
+            "type": "SEARCH_RESULT",
             "view_url": "http://gorodina.ru/probki/Sanqt-Peterburg"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://onregistrator.ru/probki/2-rossiya/726-sankt-peterburg/yandex.html",
-            "title": "Пробки Яндекс в Санкт-Петербурге сейчас онлайн",
+            "py/object": "parser_result.Component",
             "snippet": "Главная > Пробки сейчас онлайн > Россия > Пробки Яндекс в Санкт-Петербурге сейчас онлайн. ... ВНИМАНИЕ!!! Яндекс обманывает клиентов. 269 0 0.",
+            "title": "Пробки Яндекс в Санкт-Петербурге сейчас онлайн",
+            "type": "SEARCH_RESULT",
             "view_url": "http://onregistrator.ru/probki/2-rossiya/726-sankt-peterburg/yandex.html"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://ru.wikipedia.org/wiki/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%9F%D1%80%D0%BE%D0%B1%D0%BA%D0%B8",
-            "title": "Яндекс.Пробки — Википедия",
+            "py/object": "parser_result.Component",
             "snippet": "Яндекс.Пробки — веб-сервис компании «Яндекс», позволяющий узнать информацию о дорожных пробках.",
+            "title": "Яндекс.Пробки — Википедия",
+            "type": "SEARCH_RESULT",
             "view_url": "https://ru.wikipedia.org/wiki/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%9F%D1%80%D0%BE%D0%B1%D0%BA%D0%B8"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://mnogotransporta.ru/probki/dorozhnye-probki-sankt-peterburga.html",
-            "title": "Дорожные пробки Санкт-Петербурга в реальном...",
+            "py/object": "parser_result.Component",
             "snippet": "Пробки на дорогах CПб и Ленинградской области в реальном времени и с ... Киевском, Московском шоссе в реальном времени на Яндекс (Yandex) картах.",
+            "title": "Дорожные пробки Санкт-Петербурга в реальном...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://mnogotransporta.ru/probki/dorozhnye-probki-sankt-peterburga.html"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://www.Peterburg.ru/probki-na-karte-sankt-peterburga",
-            "title": "Пробки СПб - онлайн на Яндексе, Московское шоссе...",
+            "py/object": "parser_result.Component",
             "snippet": "Пробки в Санкт-Петербурге стали обычным явлением для жителей города. Но для тех, кто желает планировать свое время, доступна услуга сервиса яндекс-пробки...",
+            "title": "Пробки СПб - онлайн на Яндексе, Московское шоссе...",
+            "type": "SEARCH_RESULT",
             "view_url": "http://www.Peterburg.ru/probki-na-karte-sankt-peterburga"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

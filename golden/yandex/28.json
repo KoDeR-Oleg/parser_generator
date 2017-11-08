@@ -1,84 +1,95 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://rasp.yandex.ru/city/2",
-            "title": "Санкт-Петербург. Расписание самолётов, поездов...",
+            "py/object": "parser_result.Component",
             "snippet": "rasp.yandex.ru›Санкт-Петербург",
+            "title": "Санкт-Петербург. Расписание самолётов, поездов...",
+            "type": "SEARCH_RESULT",
             "view_url": ""
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://www.tutu.ru/poezda/station_d.php?nnst=2004000",
-            "title": "Расписание поездов Санкт-Петербург",
+            "py/object": "parser_result.Component",
             "snippet": "Вы можете посмотреть расписание поездов, с помощью которых можно добраться до Санкт-Петербурга.",
+            "title": "Расписание поездов Санкт-Петербург",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.tutu.ru/poezda/station_d.php?nnst=2004000"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://pass.rzd.ru/timetable/public/ru?STRUCTURE_ID=729",
-            "title": "Базовое расписание | Пассажирам",
+            "py/object": "parser_result.Component",
             "snippet": "Расписание носит справочный характер для получения информации о наличии сообщения между станциями. За актуальной информацией о назначенных поездах...",
+            "title": "Базовое расписание | Пассажирам",
+            "type": "SEARCH_RESULT",
             "view_url": "http://pass.rzd.ru/timetable/public/ru?STRUCTURE_ID=729"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://raspisanie24.com/poezda/sankt-peterburg/",
-            "title": "Расписание поездов Санкт-Петербург",
+            "py/object": "parser_result.Component",
             "snippet": "Расписание поездов по станции Санкт-Петербург, время прибытия и отправления поездов со станции.",
+            "title": "Расписание поездов Санкт-Петербург",
+            "type": "SEARCH_RESULT",
             "view_url": "http://raspisanie24.com/poezda/sankt-peterburg/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://train.votpusk.ru/station.asp?stcode=2004001",
-            "title": "Расписание поездов Санкт-Петербург-Московский...",
+            "py/object": "parser_result.Component",
             "snippet": "Расписание поездов по станции Санкт-Петербург-Московский. ... Вы можете узнать о наличии и стоимости билетов на поезда с отправлением от станции...",
+            "title": "Расписание поездов Санкт-Петербург-Московский...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://train.votpusk.ru/station.asp?stcode=2004001"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://sankt-peterburg.vsepoezda.com/raspisanie/",
-            "title": "Расписание поездов Санкт-Петербург",
+            "py/object": "parser_result.Component",
             "snippet": "На сегодняшний день расписание поездов по станции Санкт-Петербург включает 244 жд рейсов дальнего следования, из которых 72 совершаются ежедневно.",
+            "title": "Расписание поездов Санкт-Петербург",
+            "type": "SEARCH_RESULT",
             "view_url": "http://sankt-peterburg.vsepoezda.com/raspisanie/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://www.TransportSpb.com/trains/route",
-            "title": "Расписание поездов Санкт-Петербурга 2017...",
+            "py/object": "parser_result.Component",
             "snippet": "В данном разделе нашего сайта вы можете узнать расписание поездов дальнего следования со всех вокзалов Санкт-Петербурга.",
+            "title": "Расписание поездов Санкт-Петербурга 2017...",
+            "type": "SEARCH_RESULT",
             "view_url": "http://www.TransportSpb.com/trains/route"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://xn--80aapkb3algkc.xn--p1ai/%D0%BF%D0%BE%D0%B5%D0%B7%D0%B4/78/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3",
-            "title": "Расписание поездов из Санкт-Петербурга",
+            "py/object": "parser_result.Component",
             "snippet": "На этой странице вы можете узнать расписание поездов, следующих из Санкт-Петербурга и прибывающих в Санкт-Петербург...",
+            "title": "Расписание поездов из Санкт-Петербурга",
+            "type": "SEARCH_RESULT",
             "view_url": "http://xn--80aapkb3algkc.xn--p1ai/%D0%BF%D0%BE%D0%B5%D0%B7%D0%B4/78/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://www.007bilet.ru/raspisanie.html",
-            "title": "Расписание поездов - Санкт-Петербург | Расписание...",
+            "py/object": "parser_result.Component",
             "snippet": "Расписание движения поездов. Вокзалы Санкт-Петербурга. «Центр Услуг» предлагает Вам услугу приобретения авиа и железнодорожных билетов с доставкой...",
+            "title": "Расписание поездов - Санкт-Петербург | Расписание...",
+            "type": "SEARCH_RESULT",
             "view_url": "http://www.007bilet.ru/raspisanie.html"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://rzd.tickets.ru/railwaytracker/route_table",
-            "title": "Расписание поездов, жд расписание онлайн - наличие...",
+            "py/object": "parser_result.Component",
             "snippet": "Система поиска предложит вам все актуальные варианты проезда, точное расписание поездов и выгодную стоимость жд билетов.",
+            "title": "Расписание поездов, жд расписание онлайн - наличие...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://rzd.tickets.ru/railwaytracker/route_table"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

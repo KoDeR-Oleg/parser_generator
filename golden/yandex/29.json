@@ -1,92 +1,104 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://www.SuperJob.ru/",
-            "title": "Работа в Москве, свежие вакансии в Москве, поиск...",
+            "py/object": "parser_result.Component",
             "snippet": "SuperJob.ru",
+            "title": "Работа в Москве, свежие вакансии в Москве, поиск...",
+            "type": "SEARCH_RESULT",
             "view_url": ""
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://www.avito.ru/moskva/rabota",
-            "title": "«Avito» — работа в Москве | Объявления",
+            "py/object": "parser_result.Component",
             "snippet": "Вакансии работодателей и резюме соискателей. Бесплатное размещение информации, возможность поиска и фильтрации результатов; автоматический выбор рубрики при подаче объявлений.",
+            "title": "«Avito» — работа в Москве | Объявления",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.avito.ru/moskva/rabota"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://rabota.yandex.ru/search?&rid=213&from=wizard&currency=RUR",
-            "title": "Работа в Москве — 249 799 вакансий",
+            "py/object": "parser_result.Component",
             "snippet": "rabota.yandex.ru",
+            "title": "Работа в Москве — 249 799 вакансий",
+            "type": "SEARCH_RESULT",
             "view_url": ""
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://www.job-mo.ru/city/77/",
-            "title": "Работа в Москве - 118460 вакансий в Москве, поиск...",
+            "py/object": "parser_result.Component",
             "snippet": "Помощь по разделу «Работа в Москве». В этом разделе Вы можете найти работу в городе Москва Московской области...",
+            "title": "Работа в Москве - 118460 вакансий в Москве, поиск...",
+            "type": "SEARCH_RESULT",
             "view_url": "http://www.job-mo.ru/city/77/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://hh.ru/",
-            "title": "Работа, вакансии, база резюме, поиск работы на...",
+            "py/object": "parser_result.Component",
             "snippet": "И именно в эти моменты возникает вопрос: «Как теперь найти хорошую работу в Москве? А главное, какой должна быть эта работа?»",
+            "title": "Работа, вакансии, база резюме, поиск работы на...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://hh.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://www.Rabota.ru/",
-            "title": "Работа в Москве, вакансии и резюме, поиск работы на...",
+            "py/object": "parser_result.Component",
             "snippet": "Простой и удобный поиск работы, все вакансии в Москве, только проверенные работодатели. ... Вы ищете работу в Москве?",
+            "title": "Работа в Москве, вакансии и резюме, поиск работы на...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.Rabota.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://vk.com/rabotamoskva",
-            "title": "Работа в Москве — ВКонтакте",
+            "py/object": "parser_result.Component",
             "snippet": "Перейдите на страницу пользователя, чтобы посмотреть публикации или отправить сообщение.",
+            "title": "Работа в Москве — ВКонтакте",
+            "type": "SEARCH_RESULT",
             "view_url": "https://vk.com/rabotamoskva"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://msk.zarplata.ru/",
-            "title": "Работа в Москве – вакансии и резюме города Москвы",
+            "py/object": "parser_result.Component",
             "snippet": "Если вы постоянно ищете работу в Москве, вы можете подписаться на рассылку и получать самые свежие предложения мгновенно.",
+            "title": "Работа в Москве – вакансии и резюме города Москвы",
+            "type": "SEARCH_RESULT",
             "view_url": "https://msk.zarplata.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://careerist.ru/",
-            "title": "Работа в Москве, поиск вакансий на Карьерист.ру",
+            "py/object": "parser_result.Component",
             "snippet": "Вас приветствует Карьерист.ру - сервис поиска работы в Москве. Интернет сегодня - наиболее оптимальный способ трудоустроится, поэтому на...",
+            "title": "Работа в Москве, поиск вакансий на Карьерист.ру",
+            "type": "SEARCH_RESULT",
             "view_url": "https://careerist.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://msk.rosrabota.ru/",
-            "title": "«Росработа» — работа в Москве",
+            "py/object": "parser_result.Component",
             "snippet": "База резюме и вакансий Москвы. Подбор вакансии по району города, зарплате, типу занятости и др. Правила размещения объявлений.",
+            "title": "«Росработа» — работа в Москве",
+            "type": "SEARCH_RESULT",
             "view_url": "http://msk.rosrabota.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://ru.jobsora.com/moskva",
-            "title": "Работа в Москве, свежие вакансии. Найти работу...",
+            "py/object": "parser_result.Component",
             "snippet": "Найти работу в Москве сложно, но можно. Однако стоит сказать, что поиск работы в современных кризисных условиях будет несколько затруднен.",
+            "title": "Работа в Москве, свежие вакансии. Найти работу...",
+            "type": "SEARCH_RESULT",
             "view_url": "http://ru.jobsora.com/moskva"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

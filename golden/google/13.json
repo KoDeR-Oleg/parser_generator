@@ -1,84 +1,95 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://zf.fm/new&sa=U&ved=0ahUKEwj3teTXro_XAhUGLZoKHdeQD0QQFggUMAA&usg=AOvVaw1op90gyYBDMv3binUs0oaa",
-            "title": "Скачать популярные новинки музыки 2017 бесплатно без ... - zf.fm",
+            "py/object": "parser_result.Component",
             "snippet": "На нашем сайте zf.fm вы можете бесплатно без регистрации скачать самые \nсвежие новинки mp3 музыки или прослушать онлайн.",
+            "title": "Скачать популярные новинки музыки 2017 бесплатно без ... - zf.fm",
+            "type": "SEARCH_RESULT",
             "view_url": "https://zf.fm/new"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://best-muzon.cc/&sa=U&ved=0ahUKEwj3teTXro_XAhUGLZoKHdeQD0QQFggZMAE&usg=AOvVaw3-2XVrXHHugVeCTPS-x6pa",
-            "title": "Скачать музыку бесплатно и без регистрации - скачать песни в ...",
+            "py/object": "parser_result.Component",
             "snippet": "На музыкальном сервисе Бест-Музон можно легко скачать новую музыку \nразных жанров бесплатно в формате mp3 и без регистрации.",
+            "title": "Скачать музыку бесплатно и без регистрации - скачать песни в ...",
+            "type": "SEARCH_RESULT",
             "view_url": "best-muzon.cc/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://mp3crazy.me/&sa=U&ved=0ahUKEwj3teTXro_XAhUGLZoKHdeQD0QQFggkMAI&usg=AOvVaw2WyvK2wyCo-eSDzefPF_QD",
-            "title": "Скачать музыку бесплатно - скачать mp3 песни без регистрации",
+            "py/object": "parser_result.Component",
             "snippet": "Mp3crazy.me - у нас можно скачать любую музыку бесплатно и без \nрегистрации в формате mp3. Все самые популярные песни в хорошем \nкачестве ждут ...",
+            "title": "Скачать музыку бесплатно - скачать mp3 песни без регистрации",
+            "type": "SEARCH_RESULT",
             "view_url": "mp3crazy.me/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://music.xn--41a.ws/&sa=U&ved=0ahUKEwj3teTXro_XAhUGLZoKHdeQD0QQFggqMAM&usg=AOvVaw1sQ9ooiHNC9SgLtgFyzSBp",
-            "title": "Новинки музыки 2017 - слушать песни онлайн и скачивать mp3 ...",
+            "py/object": "parser_result.Component",
             "snippet": "Новые песни. Слушать мп3 песни онлайн, скачать mp3 бесплатно, free music \ndownload music.я.ws.",
+            "title": "Новинки музыки 2017 - слушать песни онлайн и скачивать mp3 ...",
+            "type": "SEARCH_RESULT",
             "view_url": "music.я.ws/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://zvonko.me/&sa=U&ved=0ahUKEwj3teTXro_XAhUGLZoKHdeQD0QQFggvMAQ&usg=AOvVaw03Gg-mnbA9OgNgIkzk-qaL",
-            "title": "Музыка онлайн на Zvonko.me - скачать музыку бесплатно в MP3 ...",
+            "py/object": "parser_result.Component",
             "snippet": "Слушай любимые песни в хорошем качестве, качай горячие mp3 - Музыка \nонлайн на Zvonko.me!",
+            "title": "Музыка онлайн на Zvonko.me - скачать музыку бесплатно в MP3 ...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://zvonko.me/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://zaycev-tut.me/&sa=U&ved=0ahUKEwj3teTXro_XAhUGLZoKHdeQD0QQFgg1MAU&usg=AOvVaw1YhQixKqXnrRYBb0NvScH6",
-            "title": "ТУТ ЗАЙЦЕВ НЕТ! Cкачать музыку бесплатно и без регистрации ...",
+            "py/object": "parser_result.Component",
             "snippet": "Cкачать музыку бесплатно и без регистрации в mp3, а также слушать песни \n... А чтобы было удобно искать и скачивать эти треки, создано большое ...",
+            "title": "ТУТ ЗАЙЦЕВ НЕТ! Cкачать музыку бесплатно и без регистрации ...",
+            "type": "SEARCH_RESULT",
             "view_url": "zaycev-tut.me/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://myzuka.me/&sa=U&ved=0ahUKEwj3teTXro_XAhUGLZoKHdeQD0QQFgg6MAY&usg=AOvVaw3INU7lTpgnK7JRPGHcC3iw",
-            "title": "Скачать бесплатно музыку и песни в mp3 и слушать онлайн на ...",
+            "py/object": "parser_result.Component",
             "snippet": "Музыка.me - самая полная онлайн-база mp3 песен и музыки для скачивания \nв Рунете. На нашем сайте можно бесплатно слушать и скачать музыку и ...",
+            "title": "Скачать бесплатно музыку и песни в mp3 и слушать онлайн на ...",
+            "type": "SEARCH_RESULT",
             "view_url": "myzuka.me/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://mp3cc.com/&sa=U&ved=0ahUKEwj3teTXro_XAhUGLZoKHdeQD0QQFgg_MAc&usg=AOvVaw0TI7FOWuP4U669eoLHQQUC",
-            "title": "mp3CC.com [aka MP3.cc] - Скачать Музыку и Песни Бесплатно в ...",
+            "py/object": "parser_result.Component",
             "snippet": "Музыкальный mp3-портал mp3CC.com с быстрым поиском композиций. \nЗдесь Вы можете бесплатно скачать любимые песни и музыку в mp3 \nкачестве, ...",
+            "title": "mp3CC.com [aka MP3.cc] - Скачать Музыку и Песни Бесплатно в ...",
+            "type": "SEARCH_RESULT",
             "view_url": "mp3cc.com/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://kissvk.com/&sa=U&ved=0ahUKEwj3teTXro_XAhUGLZoKHdeQD0QQFghFMAg&usg=AOvVaw3V0kGKR9bB-ukRSMkg-6Un",
-            "title": "KissVK: Скачать музыку с Вконтакте",
+            "py/object": "parser_result.Component",
             "snippet": "KissVK - бесплатный сервис для скачивания музыки с vk без установки \nпрограмм. Качайте любимую музыку из вконтакте на компьютер, телефон \nили ...",
+            "title": "KissVK: Скачать музыку с Вконтакте",
+            "type": "SEARCH_RESULT",
             "view_url": "kissvk.com/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://mixpromo.co/&sa=U&ved=0ahUKEwj3teTXro_XAhUGLZoKHdeQD0QQFghLMAk&usg=AOvVaw15EGsusfKlZ5xKF8P3_DDf",
-            "title": "Слушать и скачать музыку - онлайн музыка, mixpromo.ru ...",
+            "py/object": "parser_result.Component",
             "snippet": "Слушать и скачать музыку - онлайн музыка, mixpromo.ru, слушать музыку \nбесплатно, скачать mp3. У нас вы сможете скачать музыку, а также ...",
+            "title": "Слушать и скачать музыку - онлайн музыка, mixpromo.ru ...",
+            "type": "SEARCH_RESULT",
             "view_url": "mixpromo.co/"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

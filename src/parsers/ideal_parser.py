@@ -1,8 +1,5 @@
-import json
-
+import jsonpickle
 from lxml import html
-
-from markup import Markup, MarkupSearchResult, MarkupWizardImage, FullPath, MarkupWizardNews
 from parser_result import ParserResult, Component
 from parsers.parser import Parser
 
@@ -23,39 +20,11 @@ class IdealParser(Parser):
             text += i
         return text
 
-    def extract_search_result(self, document):
-        result = MarkupSearchResult()
-        result.type = document['type']
-        result.snippet = FullPath(**document['snippet'])
-        result.view_url = FullPath(**document['view_url'])
-        return result
-
     def get_substitution_search_result(self, tree, document, subst):
         subst.type = document.type
         subst.snippet = self.get_from_page(tree, document.snippet)
         subst.view_url = self.get_from_page(tree, document.view_url)
         return subst
-
-    def extract_wizard_image(self, wizard):
-        result = MarkupWizardImage()
-        result.media_links = list()
-        for img in wizard['media_links']:
-            result.media_links.append(FullPath(**img))
-        return result
-
-    def extract_wizard_news(self, wizard):
-        result = MarkupWizardNews()
-        return result
-
-    def extract_wizard(self, wizard):
-        result = None
-        if wizard['wizard_type'] == "WIZARD_IMAGE":
-            result = self.extract_wizard_image(wizard)
-        elif wizard['wizard_type'] == "WIZARD_NEWS":
-            result = self.extract_wizard_news(wizard)
-        result.type = wizard['type']
-        result.wizard_type = wizard['wizard_type']
-        return result
 
     def get_substitution_wizard_image(self, tree, wizard, subst):
         subst.type = wizard.type
@@ -69,23 +38,6 @@ class IdealParser(Parser):
         subst.type = wizard.type
         subst.wizard_type = wizard.wizard_type
         return subst
-
-    def extract_markup_component(self, component):
-        result = None
-        if component['type'] == "SEARCH_RESULT":
-            result = self.extract_search_result(component)
-        if component['type'] == "WIZARD":
-            result = self.extract_wizard(component)
-        result.type = component['type']
-        result.alignment = component['alignment']
-        result.page_url = FullPath(**component['page_url'])
-        result.title = FullPath(**component['title'])
-        return result
-
-    def parse_component(self, component):
-        result = Component()
-        result.__dict__ = component
-        return result
 
     def get_substitution_component(self, tree, component):
         subst = Component()
@@ -115,17 +67,10 @@ class IdealParser(Parser):
 
     def parse(self, file_name):
         with open(file_name, "r") as file:
-            js = json.load(file)
-        parser_result = ParserResult()
-        for component in js['components']:
-            parser_result.add(self.parse_component(component))
+            parser_result = jsonpickle.decode(file.read())
         return parser_result
 
     def extract_markup(self, file_name):
         with open(file_name, "r") as file:
-            js = json.load(file)
-        markup = Markup()
-        markup.file = js['file']
-        for component in js['components']:
-            markup.add(self.extract_markup_component(component))
+            markup = jsonpickle.decode(file.read())
         return markup

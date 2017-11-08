@@ -1,84 +1,95 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://kinosha.net/560-teoriya-bolshogo-vzryva-1-11-season.html",
-            "title": "Теория большого взрыва (1-11 сезон) смотреть онлайн...",
+            "py/object": "parser_result.Component",
             "snippet": "Теория большого взрыва – раритетный продукт американских синематографов, чьи основные приоритеты – любовь, уважение и забота.",
+            "title": "Теория большого взрыва (1-11 сезон) смотреть онлайн...",
+            "type": "SEARCH_RESULT",
             "view_url": "http://kinosha.net/560-teoriya-bolshogo-vzryva-1-11-season.html"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://online-freebee.ru/serials/4449-teoriya-bolshogo-vzryva.html",
-            "title": "Теория большого взрыва 1-11 сезон смотреть онлайн...",
+            "py/object": "parser_result.Component",
             "snippet": "СмотретьСмотреть онлайн Теория большого взрыва 1-11 сезон в хорошем качестве",
+            "title": "Теория большого взрыва 1-11 сезон смотреть онлайн...",
+            "type": "SEARCH_RESULT",
             "view_url": "http://online-freebee.ru/serials/4449-teoriya-bolshogo-vzryva.html"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B3%D0%BE_%D0%B2%D0%B7%D1%80%D1%8B%D0%B2%D0%B0_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)",
-            "title": "Теория большого взрыва (телесериал) — Википедия",
+            "py/object": "parser_result.Component",
             "snippet": "«Теория Большого взрыва» (англ. The Big Bang Theory) — американский ситком, созданный Чаком Лорри и Биллом Прэди.",
+            "title": "Теория большого взрыва (телесериал) — Википедия",
+            "type": "SEARCH_RESULT",
             "view_url": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B3%D0%BE_%D0%B2%D0%B7%D1%80%D1%8B%D0%B2%D0%B0_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://www.kinopoisk.ru/film/306084/ord/rnd/rnd/1356207081/",
-            "title": "Теория большого взрыва",
+            "py/object": "parser_result.Component",
             "snippet": "Комедия. Режиссер: Марк Сендроуски, Энтони Джозеф Рич, Питер Чакос и др. В ролях: Джим Парсонс, Джонни Галэки, Кейли Куоко-Суитинг и др. Два блестящих физика, Леонард и Шелдон, «великие умы», которые понимают...",
+            "title": "Теория большого взрыва",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.kinopoisk.ru/film/306084/ord/rnd/rnd/1356207081/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://720-hd.me/17592-teoriya-bolshogo-vzryva.html",
-            "title": "Теория большого взрыва 1,2~10,11 сезон онлайн...",
+            "py/object": "parser_result.Component",
             "snippet": "Режиссер: Марк Сендроуски, Энтони Джозеф Рич, Питер Чакос.",
+            "title": "Теория большого взрыва 1,2~10,11 сезон онлайн...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://720-hd.me/17592-teoriya-bolshogo-vzryva.html"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://seasonvar.ru/serial-464-Teoriya_bol_shogo_vzriva-03-sezon.html",
-            "title": "Сериал Теория большого взрыва 3 сезон The Big Bang...",
+            "py/object": "parser_result.Component",
             "snippet": "Смотреть20:14«Теория большого взрыва» рекомендуется к просмотру всем для поднятия настроения.",
+            "title": "Сериал Теория большого взрыва 3 сезон The Big Bang...",
+            "type": "SEARCH_RESULT",
             "view_url": "http://seasonvar.ru/serial-464-Teoriya_bol_shogo_vzriva-03-sezon.html"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://zfilm-hd.club/299-teoriya-bolshogo-vzryva.html",
-            "title": "Теория большого взрыва (все серии) онлайн бесплатно",
+            "py/object": "parser_result.Component",
             "snippet": "Комедия. Режиссер: Марк Сендроуски, Энтони Джозеф Рич, Питер Чакос. В ролях: Джонни Галэки, Джим Парсонс, Кейли Куоко и др.",
+            "title": "Теория большого взрыва (все серии) онлайн бесплатно",
+            "type": "SEARCH_RESULT",
             "view_url": "https://zfilm-hd.club/299-teoriya-bolshogo-vzryva.html"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://filmix.me/komedii/6697-smotret-onlajn-teoriya-bolshogo-vzryva-2009.html",
-            "title": "Теория большого взрыва смотреть онлайн, 2007",
+            "py/object": "parser_result.Component",
             "snippet": "Комедия, ситком, сериалы. Режиссер: Марк Сендроуски, Питер Чакос, Энтони Джозеф Рич. В ролях: Джим Парсонс, Джонни Галэки, Кейли Куоко-Суитинг и др. Персонажей сериала \"Теория большого взрыва\" онлайн связывает своеобразный...",
+            "title": "Теория большого взрыва смотреть онлайн, 2007",
+            "type": "SEARCH_RESULT",
             "view_url": "https://filmix.me/komedii/6697-smotret-onlajn-teoriya-bolshogo-vzryva-2009.html"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://FanSerials.tv/the-big-bang-theory-11-season/",
-            "title": "Теория большого взрыва 11 сезон смотреть онлайн!",
+            "py/object": "parser_result.Component",
             "snippet": "Комедия, мелодрамы, мелодрама. Как будет вести себя Эми, когда поймет, что Шелдон на полном серьезе сделал ей предложение?",
+            "title": "Теория большого взрыва 11 сезон смотреть онлайн!",
+            "type": "SEARCH_RESULT",
             "view_url": "http://FanSerials.tv/the-big-bang-theory-11-season/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://HDrezka.ag/series/comedy/1154-teoriya-bolshogo-vzryva-2007.html",
-            "title": "Смотреть сериал Теория большого взрыва 11 сезон...",
+            "py/object": "parser_result.Component",
             "snippet": "Комедии, мелодрамы, зарубежные. Режиссер: Марк Сендроуски, Энтони Джозеф Рич, Питер Чакос. В ролях: Джонни Галэки, Джим Парсонс, Кейли Куоко и др. Теория большого взрыва, пожалуй, один из самых лучших комедийных сериалов...",
+            "title": "Смотреть сериал Теория большого взрыва 11 сезон...",
+            "type": "SEARCH_RESULT",
             "view_url": "http://HDrezka.ag/series/comedy/1154-teoriya-bolshogo-vzryva-2007.html"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

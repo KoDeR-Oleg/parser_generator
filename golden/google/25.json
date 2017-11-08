@@ -1,84 +1,95 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://yandex.ru/maps/213/moscow/&sa=U&ved=0ahUKEwiL5Kbcro_XAhUoApoKHeP1DeoQFggXMAE&usg=AOvVaw1PPdzf-qwDSi_Kmc7h8LEk",
-            "title": "Карта Москвы: улицы, дома, организации — Яндекс.Карты",
+            "py/object": "parser_result.Component",
             "snippet": "Подробная карта Москвы (Россия) с улицами, домами и организациями. \nПробки и построение маршрутов на карте. Спутниковые карты, панорамы \nулиц ...",
+            "title": "Карта Москвы: улицы, дома, организации — Яндекс.Карты",
+            "type": "SEARCH_RESULT",
             "view_url": "https://yandex.ru/maps/213/moscow/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://www.moscowmap.ru/imap_moscow.shtml&sa=U&ved=0ahUKEwiL5Kbcro_XAhUoApoKHeP1DeoQFgghMAI&usg=AOvVaw01bcY0JJSqv19B2r1T7R3z",
-            "title": "Карта Москвы 2017 - MoscowMap",
+            "py/object": "parser_result.Component",
             "snippet": "Интерактивные карты и картографические сервисы стали сейчас очень \nвостребованными. На нашем сайте разработана подробная карта с ...",
+            "title": "Карта Москвы 2017 - MoscowMap",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.moscowmap.ru/imap_moscow.shtml"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://2gis.ru/moscow&sa=U&ved=0ahUKEwiL5Kbcro_XAhUoApoKHeP1DeoQFggmMAM&usg=AOvVaw3DBXWyXt9YrShLxNiDkOXF",
-            "title": "Карта Москвы: улицы, дома и организации города — 2ГИС - 2Gis",
+            "py/object": "parser_result.Component",
             "snippet": "Подробная карта Москвы с детализацией до дома: поиск по адресу + \nтелефоны, отзывы, фото, часы работы фирм + удобный поиск проезда на \nавто и ...",
+            "title": "Карта Москвы: улицы, дома и организации города — 2ГИС - 2Gis",
+            "type": "SEARCH_RESULT",
             "view_url": "https://2gis.ru/moscow"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://bestmaps.ru/goroda/moscow&sa=U&ved=0ahUKEwiL5Kbcro_XAhUoApoKHeP1DeoQFggoMAQ&usg=AOvVaw2Lrv240_btzEHD0PE4X9Yf",
-            "title": "Карта Москвы с улицами на спутниковой карте онлайн - BestMaps",
+            "py/object": "parser_result.Component",
             "snippet": "Москва – современная столица России. Основанная в 1147 году, сегодня \nМосква является самым крупным городом нашей страны и самым \nнаселенным ...",
+            "title": "Карта Москвы с улицами на спутниковой карте онлайн - BestMaps",
+            "type": "SEARCH_RESULT",
             "view_url": "https://bestmaps.ru/goroda/moscow"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://www.street-viewer.ru/moscow/&sa=U&ved=0ahUKEwiL5Kbcro_XAhUoApoKHeP1DeoQFgguMAU&usg=AOvVaw3vSYxwdBc_GWf49lHP99DV",
-            "title": "Карта Москвы, поиск улиц и домов по карте - street-viewer.ru",
+            "py/object": "parser_result.Component",
             "snippet": "Подробная, онлайн карта города Москвы 2017 года с улицами и номерами \nдомов, поиск по карте различных объектов.",
+            "title": "Карта Москвы, поиск улиц и домов по карте - street-viewer.ru",
+            "type": "SEARCH_RESULT",
             "view_url": "www.street-viewer.ru/moscow/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://kartami.ru/moskva&sa=U&ved=0ahUKEwiL5Kbcro_XAhUoApoKHeP1DeoQFggzMAY&usg=AOvVaw2uRRqdbNVQGf_HDZMjlXtQ",
-            "title": "Карта Москвы подробная: районы, названия улиц, номера домов",
+            "py/object": "parser_result.Component",
             "snippet": "Москва — столица России и самый крупный город бывшего СССР. Карта \nМосквы содержит подробную схему районов, названия улиц и номера домов.",
+            "title": "Карта Москвы подробная: районы, названия улиц, номера домов",
+            "type": "SEARCH_RESULT",
             "view_url": "kartami.ru/moskva"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://u-karty.ru/russia/moscow.html&sa=U&ved=0ahUKEwiL5Kbcro_XAhUoApoKHeP1DeoQFgg5MAc&usg=AOvVaw2kYy3TdYT-MKncvJXb-S7k",
-            "title": "Карта Москвы подробная - улицы, номера домов, районы ...",
+            "py/object": "parser_result.Component",
             "snippet": "карта Москвы с улицами. Центр Российской Федерации и Московской \nобласти России. Смотрим ➲ подробную карту Москвы с номерами домов и ...",
+            "title": "Карта Москвы подробная - улицы, номера домов, районы ...",
+            "type": "SEARCH_RESULT",
             "view_url": "u-karty.ru/russia/moscow.html"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://www.rdfo.ru/%3Fmenu%3DMoscowMapGoogle&sa=U&ved=0ahUKEwiL5Kbcro_XAhUoApoKHeP1DeoQFgg_MAg&usg=AOvVaw1eCU9BQMLDN_AFtlpftI87",
-            "title": "Карта Москвы — Google. - rdfo.ru",
+            "py/object": "parser_result.Component",
             "snippet": "Позволяет: изменять масштаб; выполнять поиск по адресу (станция метро, \nплощадь, улица и номер дома и др. - например: \"Банк Москвы\", \"Казанский ...",
+            "title": "Карта Москвы — Google. - rdfo.ru",
+            "type": "SEARCH_RESULT",
             "view_url": "www.rdfo.ru/?menu=MoscowMapGoogle"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://mosopen.ru/map&sa=U&ved=0ahUKEwiL5Kbcro_XAhUoApoKHeP1DeoQFghFMAk&usg=AOvVaw24QkLHM2i4u-skrtxN1Llm",
-            "title": "Карта Москвы - Электронная Москва - MosOpen.ru",
+            "py/object": "parser_result.Component",
             "snippet": "Интерактивная онлайн карта города Москвы и ближнего Подмосковья с \nподробной детализацией, возможностью поиска улиц и домов, а также ...",
+            "title": "Карта Москвы - Электронная Москва - MosOpen.ru",
+            "type": "SEARCH_RESULT",
             "view_url": "mosopen.ru/map"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://www.moskarta.ru/&sa=U&ved=0ahUKEwiL5Kbcro_XAhUoApoKHeP1DeoQFghLMAo&usg=AOvVaw1PmDiy5yyjzy3t8g6mW89Q",
-            "title": "Карта Москвы",
+            "py/object": "parser_result.Component",
             "snippet": "Подробная интерактивная карта Москвы, спутниковое изображение Москвы \nи Московской области. Адресный поиск на карте.",
+            "title": "Карта Москвы",
+            "type": "SEARCH_RESULT",
             "view_url": "www.moskarta.ru/"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

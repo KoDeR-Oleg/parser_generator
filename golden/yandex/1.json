@@ -1,92 +1,104 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://tankionline.com/",
-            "title": "«Танки онлайн» — многопользовательский 3D-боевик",
+            "py/object": "parser_result.Component",
             "snippet": "Круши вражеские танки, помогай команде, развивай свой танк, строй военную карьеру.",
+            "title": "«Танки онлайн» — многопользовательский 3D-боевик",
+            "type": "SEARCH_RESULT",
             "view_url": "http://tankionline.com/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://tankionline.com/ru/",
-            "title": "Танки Онлайн — бесплатная браузерная онлайн игра",
+            "py/object": "parser_result.Component",
             "snippet": "tankionline.com›Игра",
+            "title": "Танки Онлайн — бесплатная браузерная онлайн игра",
+            "type": "SEARCH_RESULT",
             "view_url": ""
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://www.youtube.com/user/tankionline",
-            "title": "tankionline - YouTube",
+            "py/object": "parser_result.Component",
             "snippet": "ТАНКИ ОНЛАЙН Видеоблог №241 - Duration: 7 minutes, 59 seconds. tankionline.",
+            "title": "tankionline - YouTube",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.youtube.com/user/tankionline"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://vseigru.net/igry-tanki/23951-tanki-onlajn.html",
-            "title": "Танки Онлайн",
+            "py/object": "parser_result.Component",
             "snippet": "Танки Онлайн. Игра \"Танки Онлайн\" обедняет реальных игроков по всему миру, которые могут играть в виртуальном мире, управляя боевыми танками разных типов.",
+            "title": "Танки Онлайн",
+            "type": "SEARCH_RESULT",
             "view_url": "http://vseigru.net/igry-tanki/23951-tanki-onlajn.html"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "//yandex.ru/video/search?text=%D1%82%D0%B0%D0%BD%D0%BA%D0%B8%20%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD&path=wizard&parent-reqid=1509664037451743-311982075614479886627294-man1-4473&noreask=1",
-            "title": "танки онлайн — 3 млн видео",
+            "py/object": "parser_result.Component",
             "snippet": "",
+            "title": "танки онлайн — 3 млн видео",
+            "type": "SEARCH_RESULT",
             "view_url": "//yandex.ru/video/search?text=%D1%82%D0%B0%D0%BD%D0%BA%D0%B8%20%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD&path=wizard&parent-reqid=1509664037451743-311982075614479886627294-man1-4473&noreask=1"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://multoigri.ru/igri-tanki",
-            "title": "Игры Танки – лучшие бесплатные онлайн игры про Танки!",
+            "py/object": "parser_result.Component",
             "snippet": "Танки – это одно из самых современных средств ведения боевых действий на суше. Применение их давало огромное преимущество во время разнообразных...",
+            "title": "Игры Танки – лучшие бесплатные онлайн игры про Танки!",
+            "type": "SEARCH_RESULT",
             "view_url": "http://multoigri.ru/igri-tanki"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://OnlajnIgry.net/flash/tanki/",
-            "title": "Игры танки онлайн – бесплатные 2D и 3D флеш игры про...",
+            "py/object": "parser_result.Component",
             "snippet": "Здесь вы найдёте игры про танки онлайн для мальчиков во флеш и сможете поиграть бесплатно и без регистрации в любую из них.",
+            "title": "Игры танки онлайн – бесплатные 2D и 3D флеш игры про...",
+            "type": "SEARCH_RESULT",
             "view_url": "http://OnlajnIgry.net/flash/tanki/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://onlinetanki.biz/",
-            "title": "Танки онлайн — играть в бесплатные игры",
+            "py/object": "parser_result.Component",
             "snippet": "Игры Танки Онлайн. Ведите танки в атаку, все боевые единицы готовы и ждут ваших распоряжений - пора брать командование в свои руки - вперед на...",
+            "title": "Танки онлайн — играть в бесплатные игры",
+            "type": "SEARCH_RESULT",
             "view_url": "http://onlinetanki.biz/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://ok.ru/tankionline",
-            "title": "Танки Онлайн (Tanki Online) | OK.RU",
+            "py/object": "parser_result.Component",
             "snippet": "Танки Онлайн (Tanki Online). Желаем всем прекрасного, плодотворного и активного вечера! Как боевой настрой?",
+            "title": "Танки Онлайн (Tanki Online) | OK.RU",
+            "type": "SEARCH_RESULT",
             "view_url": "https://ok.ru/tankionline"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://www.igames.com.ua/Tags.aspx?name=tanks-online",
-            "title": "Играть бесплатно в флеш игры Танки онлайн",
+            "py/object": "parser_result.Component",
             "snippet": "Сейчас в игры танки играть онлайн намного интереснее. Они очень реалистичны и часто имеют 3D-эффетты.",
+            "title": "Играть бесплатно в флеш игры Танки онлайн",
+            "type": "SEARCH_RESULT",
             "view_url": "http://www.igames.com.ua/Tags.aspx?name=tanks-online"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://www.Game-Game.com.ua/tags/525/",
-            "title": "Знакомство с танками в онлайн играх",
+            "py/object": "parser_result.Component",
             "snippet": "Онлайн игры Танки стали настолько популярны, что это главная тема среди их поклонников. ... Подробнее об этом вы узнаете, приступив tanki online играть.",
+            "title": "Знакомство с танками в онлайн играх",
+            "type": "SEARCH_RESULT",
             "view_url": "http://www.Game-Game.com.ua/tags/525/"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

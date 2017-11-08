@@ -1,96 +1,108 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://www.GoodFon.ru/",
-            "title": "«GoodFon.ru» — обои для рабочего стола",
+            "py/object": "parser_result.Component",
             "snippet": "GoodFon.ru",
+            "title": "«GoodFon.ru» — обои для рабочего стола",
+            "type": "SEARCH_RESULT",
             "view_url": ""
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://7fon.org/",
-            "title": "Обои на рабочий стол. Скачать обои для рабочего...",
+            "py/object": "parser_result.Component",
             "snippet": "Обои для рабочего стола. Если вы, предпочитаете только обои высокого качества, тогда милости просим на 7Fon. Здесь представлены самые качественные и красивые обои для рабочего стола.",
+            "title": "Обои на рабочий стол. Скачать обои для рабочего...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://7fon.org/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://zastavok.net/",
-            "title": "Новые картинки/обои для рабочего стола",
+            "py/object": "parser_result.Component",
             "snippet": "zastavok.net",
+            "title": "Новые картинки/обои для рабочего стола",
+            "type": "SEARCH_RESULT",
             "view_url": ""
         },
         {
-            "type": "WIZARD",
             "alignment": "LEFT",
-            "page_url": "//yandex.ru/images/search?text=%D0%BE%D0%B1%D0%BE%D0%B8%20%D0%B4%D0%BB%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B5%D0%B3%D0%BE%20%D1%81%D1%82%D0%BE%D0%BB%D0%B0&stype=image&lr=2&noreask=1&parent-reqid=1509664068351874-522237627840203832926363-man1-3589&source=wiz",
-            "title": "обои для рабочего стола — смотрите картинки",
-            "wizard_type": "WIZARD_IMAGE",
             "media_links": [
                 "im0-tub-ru.yandex.net/i?id=7428917724425794dc11456573960b55&n=22",
                 "im0-tub-ru.yandex.net/i?id=2ce3b34c4a711ab0b57e8fc97f90110e&n=22",
                 "im0-tub-ru.yandex.net/i?id=c763767893653c5c71ef2378d805b6b0&n=22"
-            ]
+            ],
+            "page_url": "//yandex.ru/images/search?text=%D0%BE%D0%B1%D0%BE%D0%B8%20%D0%B4%D0%BB%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B5%D0%B3%D0%BE%20%D1%81%D1%82%D0%BE%D0%BB%D0%B0&stype=image&lr=2&noreask=1&parent-reqid=1509664068351874-522237627840203832926363-man1-3589&source=wiz",
+            "py/object": "parser_result.Component",
+            "title": "обои для рабочего стола — смотрите картинки",
+            "type": "WIZARD",
+            "wizard_type": "WIZARD_IMAGE"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://oboi.tululu.org/",
-            "title": "Обои на рабочий стол. Скачать бесплатно.",
+            "py/object": "parser_result.Component",
             "snippet": "Бесплатные обои для рабочего стола, все обои можно скачать бесплатно.",
+            "title": "Обои на рабочий стол. Скачать бесплатно.",
+            "type": "SEARCH_RESULT",
             "view_url": "http://oboi.tululu.org/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://WallpapersCraft.ru/",
-            "title": "Обои для рабочего стола, скачать картинки на рабочий...",
+            "py/object": "parser_result.Component",
             "snippet": "Обои для рабочего стола, картинки на рабочий стол.",
+            "title": "Обои для рабочего стола, скачать картинки на рабочий...",
+            "type": "SEARCH_RESULT",
             "view_url": "http://WallpapersCraft.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://www.desktopwallpapers.ru/",
-            "title": "«Desktopwallpapers.ru» — обои для рабочего стола",
+            "py/object": "parser_result.Component",
             "snippet": "Наш сайт полностью посвящён лучшим обоям для рабочего стола, которые с особой тщательностью собираются в коллекцию с 1999 года.",
+            "title": "«Desktopwallpapers.ru» — обои для рабочего стола",
+            "type": "SEARCH_RESULT",
             "view_url": "http://www.desktopwallpapers.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://www.nastol.com.ua/beautiful",
-            "title": "Красивые обои на рабочий стол",
+            "py/object": "parser_result.Component",
             "snippet": "Ежедневно в этот раздел добавляються самые красивые обои для рабочего стола, вы можете бесплатно скачать красивые картинки. Выбирайте красивые обои для экранов своих мониторов.",
+            "title": "Красивые обои на рабочий стол",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.nastol.com.ua/beautiful"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://7themes.su/photo/hd_wallpapers/22",
-            "title": "Обои для рабочего стола",
+            "py/object": "parser_result.Component",
             "snippet": "Обои для рабочего стола. Обои на рабочий стол Windows являются одной из самых важных компонентов оформления. Представляем нашу коллекцию обоев которые вы можете скачать абсолютно бесплатно.",
+            "title": "Обои для рабочего стола",
+            "type": "SEARCH_RESULT",
             "view_url": "https://7themes.su/photo/hd_wallpapers/22"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://www.BadFon.ru/",
-            "title": "«BadFon» — обои для рабочего стола",
+            "py/object": "parser_result.Component",
             "snippet": "Коллекция обоев различной тематики с сортировкой по разрешению экрана, категории и популярности.",
+            "title": "«BadFon» — обои для рабочего стола",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.BadFon.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://WallBox.ru/",
-            "title": "Обои для рабочего стола, картинки на рабочий стол.",
+            "py/object": "parser_result.Component",
             "snippet": "Огромная коллекция отобранных вручную обоев для рабочего стола. вы можете бесплатно скачать фото на рабочий стол.",
+            "title": "Обои для рабочего стола, картинки на рабочий стол.",
+            "type": "SEARCH_RESULT",
             "view_url": "https://WallBox.ru/"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

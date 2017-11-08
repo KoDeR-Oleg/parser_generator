@@ -1,83 +1,94 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://www.myscore.ru/&sa=U&ved=0ahUKEwiZme_cro_XAhVDEJoKHRjuCyoQFggUMAA&usg=AOvVaw2e-Y0g0vVFcS6DRLrXnf1q",
-            "title": "MyScore.ru: футбол онлайн трансляции, спорт матчей ...",
+            "py/object": "parser_result.Component",
             "snippet": "Футбол онлайн результаты на MyScore показывают результаты более 1000 \nфутбольных турниров. Прямые трансляции, таблицы, составы и ...",
+            "title": "MyScore.ru: футбол онлайн трансляции, спорт матчей ...",
+            "type": "SEARCH_RESULT",
             "view_url": "www.myscore.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://www.soccerstand.com/ru/&sa=U&ved=0ahUKEwiZme_cro_XAhVDEJoKHRjuCyoQFggfMAE&usg=AOvVaw2ZAMjLecCZVMhUaKKRHzv4",
-            "title": "Футбол прямые трансляции - Результаты онлайн и счет матчей ...",
+            "py/object": "parser_result.Component",
             "snippet": "Футбол результаты онлайн на Soccerstand.com/ru: следи за более, чем 1000 \nфутбольных соревнований на Soccerstand.com/ru! Онлайн результаты ...",
+            "title": "Футбол прямые трансляции - Результаты онлайн и счет матчей ...",
+            "type": "SEARCH_RESULT",
             "view_url": "www.soccerstand.com/ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://livesport.ws/live-football&sa=U&ved=0ahUKEwiZme_cro_XAhVDEJoKHRjuCyoQFggqMAI&usg=AOvVaw1SglqdkbRUKBPFlXEWtcE0",
-            "title": "Футбол онлайн! Смотреть бесплатные прямые трансляции ...",
+            "py/object": "parser_result.Component",
             "snippet": "Прямые трансляции футбольных матчей и онлайн результаты на livesport.\nws. Смотреть футбол онлайн бесплатно и в хорошем качестве через ...",
+            "title": "Футбол онлайн! Смотреть бесплатные прямые трансляции ...",
+            "type": "SEARCH_RESULT",
             "view_url": "livesport.ws/live-football"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://gooool.org/&sa=U&ved=0ahUKEwiZme_cro_XAhVDEJoKHRjuCyoQFggwMAM&usg=AOvVaw01Sx4-4GFNIczKpQiIjY4j",
-            "title": "Футбольные онлайн трансляции - смотреть футбол онлайн",
+            "py/object": "parser_result.Component",
             "snippet": "GOOOOL.ORG :: Смотреть футбол онлайн. Прямые спортивные трансляции. \nOnline футбол, хоккей, баскетбол, теннис. Качество,проверенное ...",
+            "title": "Футбольные онлайн трансляции - смотреть футбол онлайн",
+            "type": "SEARCH_RESULT",
             "view_url": "gooool.org/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://soccer365.ru/online/&sa=U&ved=0ahUKEwiZme_cro_XAhVDEJoKHRjuCyoQFgg2MAQ&usg=AOvVaw0S2D3yw7OuRUALgdclicAM",
-            "title": "Футбол онлайн - смотреть прямые трансляции футбольных ...",
+            "py/object": "parser_result.Component",
             "snippet": "Прямые футбольные трансляции бесплатно. Смотреть футбол сегодня \nонлайн на ...",
+            "title": "Футбол онлайн - смотреть прямые трансляции футбольных ...",
+            "type": "SEARCH_RESULT",
             "view_url": "soccer365.ru/online/"
         },
         {
-            "type": "WIZARD",
             "alignment": "LEFT",
             "page_url": "/search?q=%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB+%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD&newwindow=1&dcr=0&ie=UTF-8&prmd=ivns&source=univ&tbm=nws&tbo=u&sa=X&ved=0ahUKEwiZme_cro_XAhVDEJoKHRjuCyoQqAIIQw",
+            "py/object": "parser_result.Component",
             "title": "Новости по запросу футбол онлайн",
+            "type": "WIZARD",
             "wizard_type": "WIZARD_NEWS"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://terrikon.com/football/online&sa=U&ved=0ahUKEwiZme_cro_XAhVDEJoKHRjuCyoQFghMMAg&usg=AOvVaw1Lu1tP3vwrJ_v1RFHRFNSp",
-            "title": "Футбол Онлайн - LiveScore. Результаты футбольных матчей ...",
+            "py/object": "parser_result.Component",
             "snippet": "Футбол онлайн, трансляции. Где смотреть видеотрансляции по ТВ ? \nLivescore - Онлайн счета: Лига Чемпионов, Лига Европы, Чемпионат Англии ...",
+            "title": "Футбол Онлайн - LiveScore. Результаты футбольных матчей ...",
+            "type": "SEARCH_RESULT",
             "view_url": "terrikon.com/football/online"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://sport.bigmir.net/football&sa=U&ved=0ahUKEwiZme_cro_XAhVDEJoKHRjuCyoQFghSMAk&usg=AOvVaw0F8TFe0L105dsY-weOMI6p",
-            "title": "Футбол онлайн: Прямые трансляции и новости футбола - Лига ...",
+            "py/object": "parser_result.Component",
             "snippet": "Смотреть футбол - фото и видео обзоры матчей в Украине, Лиге чемпионов, \nЛиге Европы, Англии, Испании, Италии, сборных. Результаты и ...",
+            "title": "Футбол онлайн: Прямые трансляции и новости футбола - Лига ...",
+            "type": "SEARCH_RESULT",
             "view_url": "sport.bigmir.net/football"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://goal-online.org/&sa=U&ved=0ahUKEwiZme_cro_XAhVDEJoKHRjuCyoQFghYMAo&usg=AOvVaw25QHcSX19hT7yvHDrclGA0",
-            "title": "Смотрите футбол онлайн - Прямые трансляции матчей",
+            "py/object": "parser_result.Component",
             "snippet": "Онлайн трансляции футбольных матчей в HD, SopCast, AceStream. Видео \nобзоры голов, таблицы, новости. Всегда актуальный ссылки на прямой эфир.",
+            "title": "Смотрите футбол онлайн - Прямые трансляции матчей",
+            "type": "SEARCH_RESULT",
             "view_url": "goal-online.org/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://vk.com/rb_army&sa=U&ved=0ahUKEwiZme_cro_XAhVDEJoKHRjuCyoQFgheMAs&usg=AOvVaw0ZR8W8sHtrXYu6raAVOLeG",
-            "title": "Большой футбол | Трансляции и обзоры матчей | ВКонтакте",
+            "py/object": "parser_result.Component",
             "snippet": "Трансляции матчей онлайн прямо во ВКонтакте.",
+            "title": "Большой футбол | Трансляции и обзоры матчей | ВКонтакте",
+            "type": "SEARCH_RESULT",
             "view_url": "https://vk.com/rb_army"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

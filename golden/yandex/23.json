@@ -1,91 +1,103 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://petersburgedu.ru/",
-            "title": "Портал \"Петербургское образование\" - Санкт-Петербург",
+            "py/object": "parser_result.Component",
             "snippet": "База образовательных организаций. Информация для родителей, руководителей учреждений и педагогов. Рейтинги школ. Новости образования. Планы мероприятий.",
+            "title": "Портал \"Петербургское образование\" - Санкт-Петербург",
+            "type": "SEARCH_RESULT",
             "view_url": "https://petersburgedu.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://petersburgedu.ru/diary",
-            "title": "Портал \"Петербургское образование\" - Электронный...",
+            "py/object": "parser_result.Component",
             "snippet": "Ведение Электронного дневника и электронного журнала является государственной услугой Санкт-Петербурга, обеспечивающей оперативное...",
+            "title": "Портал \"Петербургское образование\" - Электронный...",
+            "type": "SEARCH_RESULT",
             "view_url": "https://petersburgedu.ru/diary"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://schoolgran.eljur.ru/",
-            "title": "Электронный журнал — ЧАСТНОЕ... - Санкт-Петербург",
+            "py/object": "parser_result.Component",
             "snippet": "Электронный журнал. Объявления. 30 октября, Понедельник. ... © 2009–2017 АИС «Электронный журнал».",
+            "title": "Электронный журнал — ЧАСТНОЕ... - Санкт-Петербург",
+            "type": "SEARCH_RESULT",
             "view_url": "https://schoolgran.eljur.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://sc404.kolp.gov.spb.ru/index/ehlektronnyj_zhurnal/0-138",
-            "title": "Школьный сайт - Электронный журнал - Санкт-Петербург",
+            "py/object": "parser_result.Component",
             "snippet": "Электронный журнал. Уважаемые пользователи! В соответствии с письмом Министерства связи и массовых коммуникаций Российской Федерации от...",
+            "title": "Школьный сайт - Электронный журнал - Санкт-Петербург",
+            "type": "SEARCH_RESULT",
             "view_url": "http://sc404.kolp.gov.spb.ru/index/ehlektronnyj_zhurnal/0-138"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://school.vip.edu35.ru/",
-            "title": "school.vip.edu35.ru",
+            "py/object": "parser_result.Component",
             "snippet": "Владелец сайта предпочёл скрыть описание страницы.",
+            "title": "school.vip.edu35.ru",
+            "type": "SEARCH_RESULT",
             "view_url": "http://school.vip.edu35.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB",
-            "title": "Электронный журнал — Википедия",
+            "py/object": "parser_result.Component",
             "snippet": "Электро́нный журна́л — периодическое рецензируемое издание, электронный аналог печатного журнала, доступный для просмотра на мобильных устройствах...",
+            "title": "Электронный журнал — Википедия",
+            "type": "SEARCH_RESULT",
             "view_url": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB"
         },
         {
-            "type": "WIZARD",
             "alignment": "LEFT",
             "page_url": "https://news.yandex.ru/yandsearch?text=электронный журнал&lr=225&rpt=nnews2&rel=rel&grhow=clutop&from=serp",
+            "py/object": "parser_result.Component",
             "title": "Электронный журнал — новости",
+            "type": "WIZARD",
             "wizard_type": "WIZARD_NEWS"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://gym498.ru/elektronnyy-zhurnal",
-            "title": "Электронный журнал - Санкт-Петербург",
+            "py/object": "parser_result.Component",
             "snippet": "Электронный журнал. Сервис «Электронный дневник» является частью комплексной автоматизированной информационной системы каталогизации...",
+            "title": "Электронный журнал - Санкт-Петербург",
+            "type": "SEARCH_RESULT",
             "view_url": "http://gym498.ru/elektronnyy-zhurnal"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://ifspo.ifmo.ru/",
-            "title": "ifspo.ifmo.ru",
+            "py/object": "parser_result.Component",
             "snippet": "Владелец сайта предпочёл скрыть описание страницы.",
+            "title": "ifspo.ifmo.ru",
+            "type": "SEARCH_RESULT",
             "view_url": "https://ifspo.ifmo.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://net.citycheb.ru/",
-            "title": "net.citycheb.ru",
+            "py/object": "parser_result.Component",
             "snippet": "Владелец сайта предпочёл скрыть описание страницы.",
+            "title": "net.citycheb.ru",
+            "type": "SEARCH_RESULT",
             "view_url": "https://net.citycheb.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://dnevnik.ru/",
-            "title": "«Дневник» — школьная образовательная сеть",
+            "py/object": "parser_result.Component",
             "snippet": "Возможность составлять расписания уроков, вести электронный журнал или дневник, составлять отчеты о выполнении заданий и др. Общение учителей и учеников. Заявка на подключение.",
+            "title": "«Дневник» — школьная образовательная сеть",
+            "type": "SEARCH_RESULT",
             "view_url": "https://dnevnik.ru/"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

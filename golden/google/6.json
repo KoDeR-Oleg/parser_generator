@@ -1,68 +1,77 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://pozdravok.ru/pozdravleniya/den-rozhdeniya/&sa=U&ved=0ahUKEwiugJTVro_XAhVkYZoKHQkgCNgQFgggMAM&usg=AOvVaw37aQ4d5xhBqJHm1xtYBoDC",
-            "title": "Поздравления с днем рождения - Поздравок",
+            "py/object": "parser_result.Component",
             "snippet": "На вебсайте PozdravOK.RU собраны современные поздравления с днем \nрождения, в стихах и прозе, удивительно оригинальные и легко ...",
+            "title": "Поздравления с днем рождения - Поздравок",
+            "type": "SEARCH_RESULT",
             "view_url": "pozdravok.ru/pozdravleniya/den-rozhdeniya/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://pozdravok.ru/pozdravleniya/den-rozhdeniya/zhenshchine/&sa=U&ved=0ahUKEwiugJTVro_XAhVkYZoKHQkgCNgQFggrMAQ&usg=AOvVaw3iY2oJMPT01zDoLXtFh5HG",
-            "title": "Поздравления с днем рождения женщине - Поздравок",
+            "py/object": "parser_result.Component",
             "snippet": "На ресурсе Поздравь ОК собраны готовые поздравления с днем рождения \nженщине, очень бесподобные и без усилий запоминающиеся.",
+            "title": "Поздравления с днем рождения женщине - Поздравок",
+            "type": "SEARCH_RESULT",
             "view_url": "pozdravok.ru/pozdravleniya/den.../zhenshchine/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://pozdravok.ru/pozdravleniya/den-rozhdeniya/muzhchine/&sa=U&ved=0ahUKEwiugJTVro_XAhVkYZoKHQkgCNgQFggxMAU&usg=AOvVaw2ILLMO2NIC9uAY10xY3UOy",
-            "title": "Поздравления с днем рождения мужчине - Поздравок",
+            "py/object": "parser_result.Component",
             "snippet": "На портале PozdravOK живут самые добрые стихи с днем рождения \nмужчине, в стихах и прозе, феноменальные и свободно запоминающиеся.",
+            "title": "Поздравления с днем рождения мужчине - Поздравок",
+            "type": "SEARCH_RESULT",
             "view_url": "pozdravok.ru/pozdravleniya/den.../muzhchine/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://pozdravok.ru/pozdravleniya/den-rozhdeniya/lyubimoy/&sa=U&ved=0ahUKEwiugJTVro_XAhVkYZoKHQkgCNgQFgg3MAY&usg=AOvVaw1BLfwrlxeWhQ5efR055r3y",
-            "title": "Поздравления с днем рождения девушке - Поздравок",
+            "py/object": "parser_result.Component",
             "snippet": "С днем рождения поздравляю. И всего того желаю, Что тебе необходимо, \nЧтобы ты была любима. Чтоб была ты хороша, Чтоб была полна душа",
+            "title": "Поздравления с днем рождения девушке - Поздравок",
+            "type": "SEARCH_RESULT",
             "view_url": "pozdravok.ru/pozdravleniya/den.../lyubimoy/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://www.romanticflyers.ru/krasivye-pozdravleniya-s-dnem-rozhdeniya.html&sa=U&ved=0ahUKEwiugJTVro_XAhVkYZoKHQkgCNgQFgg9MAc&usg=AOvVaw2pbe-G7mcl5tQE1Sd7f2vU",
-            "title": "Красивые поздравления с Днем Рождения",
+            "py/object": "parser_result.Component",
             "snippet": "Это может быть, к примеру, поздравление в стихах. ... отправить именно \nкрасивые поздравления с днем рождения, всегда можно сделать это и в \nпрозе.",
+            "title": "Красивые поздравления с Днем Рождения",
+            "type": "SEARCH_RESULT",
             "view_url": "www.romanticflyers.ru/krasivye-pozdravleniya-s-dnem-rozhdeniya.html"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://www.stost.ru/f/15/tswnyzm.html&sa=U&ved=0ahUKEwiugJTVro_XAhVkYZoKHQkgCNgQFghDMAg&usg=AOvVaw3lf2mVyMCe9lDweYCnz_Em",
-            "title": "Поздравления с днем рождения — 1675 поздравлений — stost.ru",
+            "py/object": "parser_result.Component",
             "snippet": "Поздравляю тебя с Днем рождения! И желаю тебе всего того, Что есть на \nземле! Если есть счастье - пусть оно будет твоим, если есть радость - пусть ...",
+            "title": "Поздравления с днем рождения — 1675 поздравлений — stost.ru",
+            "type": "SEARCH_RESULT",
             "view_url": "www.stost.ru/f/15/tswnyzm.html"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://tostun.ru/pozdrav/den-rozhdeniya/&sa=U&ved=0ahUKEwiugJTVro_XAhVkYZoKHQkgCNgQFghJMAk&usg=AOvVaw2HwZLj4ZPkziIe2kopYfkd",
-            "title": "Поздравления с днем рождения — Tostun.Ru",
+            "py/object": "parser_result.Component",
             "snippet": "На сайте Tostun.Ru собраны современные поздравления с днем рождения, в \nстихах и прозе, удивительно оригинальные и легко запоминающиеся.",
+            "title": "Поздравления с днем рождения — Tostun.Ru",
+            "type": "SEARCH_RESULT",
             "view_url": "tostun.ru/pozdrav/den-rozhdeniya/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://ok.ru/group54073556664320&sa=U&ved=0ahUKEwiugJTVro_XAhVkYZoKHQkgCNgQFghXMAw&usg=AOvVaw2frZ5338GN-77XTSThpDA9",
-            "title": "Поздравления с днем рождения. Поздравь красиво! | OK.RU",
+            "py/object": "parser_result.Component",
             "snippet": "С днем рождения поздравляю! Счастья искренне желаю, Доброты, любви, \nтепла, Жизнь была чтоб хороша. Чтобы были в ней веселье, Громкий смех и\n ...",
+            "title": "Поздравления с днем рождения. Поздравь красиво! | OK.RU",
+            "type": "SEARCH_RESULT",
             "view_url": "https://ok.ru/group54073556664320"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

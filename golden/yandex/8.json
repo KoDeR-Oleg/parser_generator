@@ -1,98 +1,110 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://metrobook.ru/ru_spb",
-            "title": "Карта метро Санкт-Петербурга - интерактивная схема...",
+            "py/object": "parser_result.Component",
             "snippet": "Для того, чтобы вам легче было сориентироваться и рассчитать время в пути, создана наша интерактивная карта/схема метро Санкт-Петербурга.",
+            "title": "Карта метро Санкт-Петербурга - интерактивная схема...",
+            "type": "SEARCH_RESULT",
             "view_url": "http://metrobook.ru/ru_spb"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://www.metromap.ru/spb/",
-            "title": "Карта метро Санкт-Петербурга",
+            "py/object": "parser_result.Component",
             "snippet": "Карта метро Санкт-Петербурга. Metromap.ru — это интерактивная схема метро, которая поможет вам выбрать оптимальный маршрут и рассчитать время в пути.",
+            "title": "Карта метро Санкт-Петербурга",
+            "type": "SEARCH_RESULT",
             "view_url": "http://www.metromap.ru/spb/"
         },
         {
-            "type": "WIZARD",
             "alignment": "LEFT",
-            "page_url": "//yandex.ru/images/search?text=%D0%BA%D0%B0%D1%80%D1%82%D0%B0%20%D0%BC%D0%B5%D1%82%D1%80%D0%BE&stype=image&lr=2&noreask=1&parent-reqid=1509664043345532-688051857641577380919505-vla1-3680&source=wiz",
-            "title": "карта метро — смотрите картинки",
-            "wizard_type": "WIZARD_IMAGE",
             "media_links": [
                 "im0-tub-ru.yandex.net/i?id=fa410d095417110f501f141bdcacc0f9&n=22",
                 "im0-tub-ru.yandex.net/i?id=d319e54852872801f4808dd628785d1e&n=22",
                 "im0-tub-ru.yandex.net/i?id=2aecca2a5903dbff99207f462c8c9c0d&n=22",
                 "im0-tub-ru.yandex.net/i?id=21df03e497d9641c7f4c08547f19522b&n=22",
                 "im0-tub-ru.yandex.net/i?id=4df339c62f9cd3a3e58eac2465c8bd98&n=22"
-            ]
+            ],
+            "page_url": "//yandex.ru/images/search?text=%D0%BA%D0%B0%D1%80%D1%82%D0%B0%20%D0%BC%D0%B5%D1%82%D1%80%D0%BE&stype=image&lr=2&noreask=1&parent-reqid=1509664043345532-688051857641577380919505-vla1-3680&source=wiz",
+            "py/object": "parser_result.Component",
+            "title": "карта метро — смотрите картинки",
+            "type": "WIZARD",
+            "wizard_type": "WIZARD_IMAGE"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://www.metro.spb.ru/map.html",
-            "title": "Официальный сайт Петербургского Метрополитена",
+            "py/object": "parser_result.Component",
             "snippet": "Перспективная схема метрополитена. История метро в схемах. Схема метрополитена. © 2007—2017 «Петербургский Метрополитен».",
+            "title": "Официальный сайт Петербургского Метрополитена",
+            "type": "SEARCH_RESULT",
             "view_url": "http://www.metro.spb.ru/map.html"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://kakdobratsyado.ru/karta-metro-sankt-peterburga/",
-            "title": "Схема Карта Метро Санкт-Петербурга с расчетом...",
+            "py/object": "parser_result.Component",
             "snippet": "3 Схема Линий Метро Петербургского Метрополитена. Схема Метро Санкт-Петербурга Интерактивная карта метрополитена.",
+            "title": "Схема Карта Метро Санкт-Петербурга с расчетом...",
+            "type": "SEARCH_RESULT",
             "view_url": "http://kakdobratsyado.ru/karta-metro-sankt-peterburga/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://metromap.spb.ru/",
-            "title": "Карта петербургского метро - Санкт-Петербург",
+            "py/object": "parser_result.Component",
             "snippet": "Карта санкт-Петербургского метро, расписание работы станций. ... Карта Пскова и Псковской области.",
+            "title": "Карта петербургского метро - Санкт-Петербург",
+            "type": "SEARCH_RESULT",
             "view_url": "http://metromap.spb.ru/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://bestspb.ru/ru/metro.ru.php",
-            "title": "Карта метро Санкт-Петербурга, схема метрополитена...",
+            "py/object": "parser_result.Component",
             "snippet": "Схема метро санкт-петербурга. Подробности на сайте метрополитена ... ПОЛИГРАФИЯ St. Petersburg City MAP Детская карта Индивидуальные карты...",
+            "title": "Карта метро Санкт-Петербурга, схема метрополитена...",
+            "type": "SEARCH_RESULT",
             "view_url": "http://bestspb.ru/ru/metro.ru.php"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://rus-city.ru/spb/subway",
-            "title": "Схема метро Санкт-Петербурга 2017 | RC",
+            "py/object": "parser_result.Component",
             "snippet": "Схема метро Санкт-Петербурга 2017.",
+            "title": "Схема метро Санкт-Петербурга 2017 | RC",
+            "type": "SEARCH_RESULT",
             "view_url": "http://rus-city.ru/spb/subway"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://www.artlebedev.ru/spb/metro-map/",
-            "title": "Cхема линий Петербургского метрополитена",
+            "py/object": "parser_result.Component",
             "snippet": "Cхема линий Петербургского метрополитена. Задача. Разработать новую официальную схему метро для Санкт-Петербурга.",
+            "title": "Cхема линий Петербургского метрополитена",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.artlebedev.ru/spb/metro-map/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "https://www.spb-guide.ru/spb_metro_map.htm",
-            "title": "Карта (схема) метро Санкт-Петербурга 2017 г.",
+            "py/object": "parser_result.Component",
             "snippet": "На этой странице представлена новая карта метро Санкт-Петербурга, актуальная на 2017 г.",
+            "title": "Карта (схема) метро Санкт-Петербурга 2017 г.",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.spb-guide.ru/spb_metro_map.htm"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "http://ok-sovety.ru/karta-metro-spb/",
-            "title": "Карта Метро СПБ - Санкт-Петербург",
+            "py/object": "parser_result.Component",
             "snippet": "Метро – это самый недорогой, безопасный и быстрый общественный транспорт Санкт-Петербурга. Представляем вам актуальную схему метро СПБ: Схема Метро...",
+            "title": "Карта Метро СПБ - Санкт-Петербург",
+            "type": "SEARCH_RESULT",
             "view_url": "http://ok-sovety.ru/karta-metro-spb/"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }

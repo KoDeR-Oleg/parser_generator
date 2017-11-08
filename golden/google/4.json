@@ -1,59 +1,67 @@
 {
     "components": [
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://www.sport-express.ru/&sa=U&ved=0ahUKEwil6rzUro_XAhVDGZoKHYHIB7AQFggVMAA&usg=AOvVaw3sX9B6cYk-DdmFckI0fQJ7",
-            "title": "СПОРТ-ЭКСПРЕСС – спортивный интернет-сайт №1 в России.",
+            "py/object": "parser_result.Component",
             "snippet": "Ведущий спортивный интернет-портал СПОРТ-ЭКСПРЕСС. Самые свежие \nновости спорта, обзоры соревнований, интервью со спортсменами, фото- и\n ...",
+            "title": "СПОРТ-ЭКСПРЕСС – спортивный интернет-сайт №1 в России.",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.sport-express.ru/"
         },
         {
-            "type": "WIZARD",
             "alignment": "LEFT",
             "page_url": "/search?q=%D1%81%D0%BF%D0%BE%D1%80%D1%82+%D1%8D%D0%BA%D1%81%D0%BF%D1%80%D0%B5%D1%81%D1%81&newwindow=1&dcr=0&ie=UTF-8&prmd=ivns&source=univ&tbm=nws&tbo=u&sa=X&ved=0ahUKEwil6rzUro_XAhVDGZoKHYHIB7AQqAIIKA",
+            "py/object": "parser_result.Component",
             "title": "Новости по запросу спорт экспресс",
+            "type": "WIZARD",
             "wizard_type": "WIZARD_NEWS"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://vk.com/sportexpress&sa=U&ved=0ahUKEwil6rzUro_XAhVDGZoKHYHIB7AQFgguMAk&usg=AOvVaw2sXcgNGaT7uUX0yhKiDh1L",
-            "title": "Спорт-Экспресс | ВКонтакте",
+            "py/object": "parser_result.Component",
             "snippet": "Лучшая российская ежедневная спортивная газета. Все главные события \nмира, свежие новости, актуальные фото и видео.",
+            "title": "Спорт-Экспресс | ВКонтакте",
+            "type": "SEARCH_RESULT",
             "view_url": "https://vk.com/sportexpress"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://twitter.com/sportexpress&sa=U&ved=0ahUKEwil6rzUro_XAhVDGZoKHYHIB7AQFgg0MAo&usg=AOvVaw0wEbW0hs6qxFojtDciTJqE",
-            "title": "Спорт-Экспресс (@sportexpress) | Twitter",
+            "py/object": "parser_result.Component",
             "snippet": "240K tweets • 146K photos/videos • 297K followers. \"Свежий #\nРазговорПоПятницам. Страшная история Расула Мирзаева https://t.co/\nvVC89G30uE ...",
+            "title": "Спорт-Экспресс (@sportexpress) | Twitter",
+            "type": "SEARCH_RESULT",
             "view_url": "https://twitter.com/sportexpress"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://ok.ru/sportexpress&sa=U&ved=0ahUKEwil6rzUro_XAhVDGZoKHYHIB7AQFgg6MAs&usg=AOvVaw1OgeKwlBlvwZ1b-FFjZ7oy",
-            "title": "Спорт-Экспресс | OK.RU",
+            "py/object": "parser_result.Component",
             "snippet": "Группа Спорт-Экспресс в Одноклассниках. ... Кокорин троллит \"Спартак\" и \nПромеса. Довольно обидно http://www.sport-express.ru/football/rfpl/\nphotoreports/ ...",
+            "title": "Спорт-Экспресс | OK.RU",
+            "type": "SEARCH_RESULT",
             "view_url": "https://ok.ru/sportexpress"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=http://vesti365.ru/novosti-sport-express/&sa=U&ved=0ahUKEwil6rzUro_XAhVDGZoKHYHIB7AQFgg_MAw&usg=AOvVaw2RNDyc7da6FiHfp9xSZ4WR",
-            "title": "новости часа и дня Спорт Экспресс, лента новостей СЭ",
+            "py/object": "parser_result.Component",
             "snippet": "Главные новости последнего часа Спорт Экспресс, RSS лента новостей \nСпорт Экспресс, самые свежие новости дня в России и мире, вести СМИ, \nлента ...",
+            "title": "новости часа и дня Спорт Экспресс, лента новостей СЭ",
+            "type": "SEARCH_RESULT",
             "view_url": "vesti365.ru/novosti-sport-express/"
         },
         {
-            "type": "SEARCH_RESULT",
             "alignment": "LEFT",
             "page_url": "/url?q=https://www.youtube.com/user/sportexpress&sa=U&ved=0ahUKEwil6rzUro_XAhVDGZoKHYHIB7AQFghEMA0&usg=AOvVaw0TbB-vreJvDnDl0JhqcUNS",
-            "title": "Спорт-Экспресс - YouTube",
+            "py/object": "parser_result.Component",
             "snippet": "Съемочная группа \"СЭ\" побывала на репетиции и узнала - как готовится \nодно из самых ярких шоу нашей страны. Show less. Read more ...",
+            "title": "Спорт-Экспресс - YouTube",
+            "type": "SEARCH_RESULT",
             "view_url": "https://www.youtube.com/user/sportexpress"
         }
-    ]
+    ],
+    "py/object": "parser_result.ParserResult"
 }
