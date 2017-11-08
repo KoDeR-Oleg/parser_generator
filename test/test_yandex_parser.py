@@ -9,12 +9,12 @@ class TestYandexParser(unittest.TestCase):
     def test_filename_in_markup_page1(self):
         parser = YandexParser()
         markup = parser.extract_markup("test/yandex/1.html")
-        self.assertEqual(markup.file, "test/yandex/1.html")
+        self.assertEqual(markup.file, "1.html")
 
     def test_filename_in_markup_page2(self):
         parser = YandexParser()
         markup = parser.extract_markup("test/yandex/2.html")
-        self.assertEqual(markup.file, "test/yandex/2.html")
+        self.assertEqual(markup.file, "2.html")
 
     def test_count_of_blocks_on_page1(self):
         parser = YandexParser()
@@ -44,6 +44,7 @@ class TestYandexParser(unittest.TestCase):
         parser = YandexParser()
         ideal = IdealParser()
         markup = parser.extract_markup("test/yandex/1.html")
+        markup.file = "test/yandex/1.html"
         search_result = ideal.get_substitution(markup, 0)
         self.assertEqual(search_result.type, "SEARCH_RESULT")
         self.assertEqual(search_result.alignment, "LEFT")
@@ -56,6 +57,7 @@ class TestYandexParser(unittest.TestCase):
         parser = YandexParser()
         ideal = IdealParser()
         markup = parser.extract_markup("test/yandex/1.html")
+        markup.file = "test/yandex/1.html"
         search_result = ideal.get_substitution(markup, 10)
         self.assertEqual(search_result.type, "SEARCH_RESULT")
         self.assertEqual(search_result.alignment, "LEFT")
@@ -68,6 +70,7 @@ class TestYandexParser(unittest.TestCase):
         parser = YandexParser()
         ideal = IdealParser()
         markup = parser.extract_markup("test/yandex/2.html")
+        markup.file = "test/yandex/2.html"
         search_result = ideal.get_substitution(markup, 0)
         self.assertEqual(search_result.type, "SEARCH_RESULT")
         self.assertEqual(search_result.alignment, "LEFT")
@@ -80,6 +83,7 @@ class TestYandexParser(unittest.TestCase):
         parser = YandexParser()
         ideal = IdealParser()
         markup = parser.extract_markup("test/yandex/2.html")
+        markup.file = "test/yandex/2.html"
         search_result = ideal.get_substitution(markup, 9)
         self.assertEqual(search_result.type, "SEARCH_RESULT")
         self.assertEqual(search_result.alignment, "LEFT")
@@ -97,18 +101,21 @@ class TestYandexParser(unittest.TestCase):
         parser = YandexParser()
         ideal = IdealParser()
         markup = parser.extract_markup("test/yandex/1.html")
+        markup.file = "test/yandex/1.html"
         self.assertEqual(ideal.get_substitution(markup, 7).title, "яд — смотрите картинки")
 
     def test_page_url_of_wizard_image_on_page1(self):
         parser = YandexParser()
         ideal = IdealParser()
         markup = parser.extract_markup("test/yandex/1.html")
+        markup.file = "test/yandex/1.html"
         self.assertEqual(ideal.get_substitution(markup, 7).page_url, "https://yandex.ru/images/search?text=%D1%8F%D0%B4&stype=image&lr=2&noreask=1&parent-reqid=1507840705773924-1204282718026678870245913-vla1-2156&source=wiz")
 
     def test_media_links_on_page1(self):
         parser = YandexParser()
         ideal = IdealParser()
         markup = parser.extract_markup("test/yandex/1.html")
+        markup.file = "test/yandex/1.html"
         media_links = ideal.get_substitution(markup, 7).media_links
         self.assertEqual(media_links[0], "im0-tub-ru.yandex.net/i?id=353e0e40d1d5ddf2f7a6be4fc3834d53&n=22")
         self.assertEqual(media_links[1], "im0-tub-ru.yandex.net/i?id=a64b49cb5028dde1632048248050d956&n=22")
@@ -118,6 +125,7 @@ class TestYandexParser(unittest.TestCase):
         parser = YandexParser()
         ideal = IdealParser()
         markup = parser.extract_markup("test/yandex/1.html")
+        markup.file = "test/yandex/1.html"
         search_result = ideal.get_substitution(markup)
         with open("test/yandex/1.json", "r") as file:
             expected_string = file.read()
@@ -127,6 +135,7 @@ class TestYandexParser(unittest.TestCase):
         parser = YandexParser()
         ideal = IdealParser()
         markup = parser.extract_markup("test/yandex/2.html")
+        markup.file = "test/yandex/2.html"
         search_result = ideal.get_substitution(markup)
         with open("test/yandex/2.json", "r") as file:
             expected_string = file.read()

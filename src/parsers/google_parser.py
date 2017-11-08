@@ -48,7 +48,7 @@ class GoogleParser(Parser):
         with open(file_name, "r") as file:
             tree = html.document_fromstring(file.read())
         markup = Markup()
-        markup.file = file_name
+        markup.file = file_name.split('/')[-1]
         block_list = tree.xpath("//html/body/div[7]/div[3]/div[10]/div[1]/div[2]/div/div[2]/div[2]/div/div/div/div")
         for block in block_list:
             document_list = block.xpath("./div/div/div/div")

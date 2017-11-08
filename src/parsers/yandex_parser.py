@@ -55,7 +55,7 @@ class YandexParser(Parser):
         with open(file_name, "r") as file:
             tree = html.document_fromstring(file.read())
         markup = Markup()
-        markup.file = file_name
+        markup.file = file_name.split('/')[-1]
         block_list = tree.xpath("//html/body/div[3]/div/div[2]/div/div/ul/li/div")
         for block in block_list:
             if (len(block.xpath("./div[2]/div[2]")) > 0 and block.xpath("./div[2]/div[2]")[0].text == "реклама") or \
