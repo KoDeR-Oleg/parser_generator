@@ -5,5 +5,5 @@ class MetricAggregator:
     __metaclass__ = ABCMeta
 
     @abstractmethod
-    def aggregate(self, lst):
+    def aggregate(self, lst) -> float:
         """Агрегация результатов"""

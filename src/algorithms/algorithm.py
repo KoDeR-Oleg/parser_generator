@@ -1,4 +1,5 @@
 from abc import ABCMeta, abstractmethod
+from parser_result import ParserResult
 
 
 class Algorithm:
@@ -9,5 +10,5 @@ class Algorithm:
         """Обучение на списке разметок"""
 
     @abstractmethod
-    def parse(self, string):
+    def parse(self, string) -> ParserResult:
         """Парсинг строки"""
