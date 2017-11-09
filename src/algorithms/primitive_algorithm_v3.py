@@ -1,8 +1,8 @@
 from lxml import html
 
 from algorithms.algorithm import Algorithm
+from markups.markup import FullPath
 from parser_result import ParserResult, Component
-from markup import FullPath
 
 
 class PrimitiveAlgorithm_v3(Algorithm):
