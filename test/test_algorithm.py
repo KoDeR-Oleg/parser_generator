@@ -54,8 +54,27 @@ class TestAlgorithm(unittest.TestCase):
     def test_title_of_blocks_on_google_image_page25(self):
         actual = self.parse("google_image", 25)
         expected = self.get_expected("google_image", 25)
-        print(actual)
         self.assertEqual(actual.count(), expected.count())
         for i in range(actual.count()):
             with self.subTest(msg="Component "+str(i)):
                 self.assertIsNotNone(actual.components[i].title)
+
+    def test_view_url_of_blocks_on_yandex_page44(self):
+        actual = self.parse("yandex", 44)
+        expected = self.get_expected("yandex", 44)
+        self.assertEqual(actual.count(), expected.count())
+        for i in range(actual.count()):
+            with self.subTest(msg="Component "+str(i)):
+                self.assertIsNotNone(actual.components[i].view_url)
+                self.assertNotEqual(actual.components[i].view_url, "")
+
+    def test_count_of_blocks_on_yandex_page47(self):
+        actual = self.parse("yandex", 47)
+        expected = self.get_expected("yandex", 47)
+        print(actual)
+        self.assertEqual(actual.count(), expected.count())
+
+    def test_count_of_wizard_on_yandex_page47(self):
+        actual = self.parse("yandex", 47)
+        expected = self.get_expected("yandex", 47)
+        self.assertEqual(actual.count("WIZARD"), expected.count("WIZARD"))
