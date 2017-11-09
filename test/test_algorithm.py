@@ -1,13 +1,13 @@
 import unittest
 
-from algorithms.primitive_algorithm_v3 import PrimitiveAlgorithm_v3
+from algorithms.algorithm_v1 import Algorithm_v1
 from parsers.ideal_parser import IdealParser
 
 
 class TestAlgorithm(unittest.TestCase):
 
     def setUp(self):
-        self.algorithm = PrimitiveAlgorithm_v3()
+        self.algorithm = Algorithm_v1()
 
     def get_markup_list(self, path, part=0.5):
         N = 50
@@ -71,7 +71,6 @@ class TestAlgorithm(unittest.TestCase):
     def test_count_of_blocks_on_yandex_page47(self):
         actual = self.parse("yandex", 47)
         expected = self.get_expected("yandex", 47)
-        print(actual)
         self.assertEqual(actual.count(), expected.count())
 
     def test_count_of_wizard_on_yandex_page47(self):
