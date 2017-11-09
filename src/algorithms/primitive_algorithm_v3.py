@@ -64,26 +64,6 @@ class PrimitiveAlgorithm_v3(Algorithm):
                 common_list.append((xpath1[i][0], 0))
         return common_list
 
-    """
-    def get_attr(self, tags, attr):
-        if isinstance(tags, list):
-            if len(tags) == 0:
-                return ""
-            else:
-                tag = tags[0]
-        else:
-            tag = tags
-        attrs = ["href", "title", "style", "src"]
-        if attr in attrs:
-            if attr == "style":
-                return tag.get("style").split("//")[1][:-2]
-            return tag.get(attr)
-        text = ""
-        for i in tag.itertext():
-            text += i
-        return text
-    """
-
     def parse_component(self, element, index):
         sample = self.samples[index]
         xpath = self.xpaths[index]
@@ -110,6 +90,9 @@ class PrimitiveAlgorithm_v3(Algorithm):
         return component
 
     def learn(self, markup_list):
+        self.samples = list()
+        self.xpaths = list()
+        self.types = list()
         self.block_xpath = self.extract_xpath(markup_list[0].components[0].title.xpath)
         for markup in markup_list:
             for component in markup.components:
