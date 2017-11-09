@@ -1,5 +1,6 @@
 import jsonpickle
 from markups.markup import Markup
+from parser_result import Component
 
 
 class FullPath(Markup):
@@ -17,7 +18,7 @@ class FullPath(Markup):
     def get_attr(tags, attr):
         if isinstance(tags, list):
             if len(tags) == 0:
-                return ""
+                return None
             else:
                 tag = tags[0]
         else:
@@ -31,11 +32,12 @@ class FullPath(Markup):
         return text
 
 
-class ImageMarkupComponent(Markup):
+class ImageMarkupComponent(Component, Markup):
     def __init__(self):
-        self.page_url = None
-        self.title = None
+        Component.__init__(self)
         self.view_url = None
+        self.type = "IMAGE"
+        self.alignment = "LEFT"
 
     def __str__(self):
         jsonpickle.set_encoder_options('simplejson', sort_keys=True, indent=4)
