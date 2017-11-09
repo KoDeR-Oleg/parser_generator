@@ -46,7 +46,7 @@ class YandexParser(Parser):
         search_result.page_url = FullPath(YandexParser.get_path(element) + "/h2/a", "href")
         search_result.title = FullPath(YandexParser.get_path(element) + "/h2/a", "string")
         search_result.snippet = FullPath(YandexParser.get_path(element) + "/div[2]/div[1]", "string")
-        search_result.view_url = FullPath(YandexParser.get_path(element) + "/div[1]/div[1]/a[last()]", "href")
+        search_result.view_url = FullPath(YandexParser.get_path(element) + "/div/div[1]/a[last()]", "href")
         return search_result
 
     def parse_search_result(self, element):
@@ -56,7 +56,7 @@ class YandexParser(Parser):
         search_result.page_url = self.get_from_page(element, "./h2/a", "href")
         search_result.title = self.get_from_page(element, "./h2/a", "string")
         search_result.snippet = self.get_from_page(element, "./div[2]/div[1]", "string")
-        search_result.view_url = self.get_from_page(element, "./div[1]/div[1]/a[last()]", "href")
+        search_result.view_url = self.get_from_page(element, "./div/div[1]/a[last()]", "href")
         return search_result
 
     def extract_wizard_image(self, element):
