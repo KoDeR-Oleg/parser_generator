@@ -64,6 +64,7 @@ class PrimitiveAlgorithm_v3(Algorithm):
                 common_list.append((xpath1[i][0], 0))
         return common_list
 
+    """
     def get_attr(self, tags, attr):
         if isinstance(tags, list):
             if len(tags) == 0:
@@ -81,6 +82,7 @@ class PrimitiveAlgorithm_v3(Algorithm):
         for i in tag.itertext():
             text += i
         return text
+    """
 
     def parse_component(self, element, index):
         sample = self.samples[index]
@@ -94,8 +96,7 @@ class PrimitiveAlgorithm_v3(Algorithm):
                 component.__dict__[key] = sample.__dict__[key]
             elif isinstance(sample.__dict__[key], FullPath):
                 key_xpath = self.extract_xpath(sample.__dict__[key].xpath)[len(block_xpath):]
-                component.__dict__[key] = self.get_attr(element.xpath(self.combine_xpath(key_xpath, True)),
-                                                        sample.__dict__[key].attr)
+                component.__dict__[key] = t.get_attr(element.xpath(self.combine_xpath(key_xpath, True)), sample.__dict__[key].attr)
             elif isinstance(sample.__dict__[key], list):
                 inner_xpath = self.extract_xpath(sample.__dict__[key][0].xpath)
                 for elem in sample.__dict__[key]:
@@ -104,7 +105,7 @@ class PrimitiveAlgorithm_v3(Algorithm):
 
                 component.__dict__[key] = list()
                 for elem in element.xpath(inner_xpath):
-                    component.__dict__[key].append(self.get_attr(elem, sample.__dict__[key][0].attr))
+                    component.__dict__[key].append(t.get_attr(elem, sample.__dict__[key][0].attr))
 
         return component
 

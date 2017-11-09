@@ -1,9 +1,9 @@
-from abc import ABCMeta, abstractmethod
+from abc import ABCMeta, abstractstaticmethod
 
 
 class Markup:
     __metaclass__ = ABCMeta
 
-    @abstractmethod
-    def get_attr(self, tags, attr) -> str:
+    @abstractstaticmethod
+    def get_attr(tags, attr) -> str:
         """Получение значения атрибута"""
