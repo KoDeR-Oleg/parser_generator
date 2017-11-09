@@ -26,3 +26,12 @@ class ParserResult(object):
 
     def add(self, component):
         self.components.append(component)
+
+    def count(self, component_type=None):
+        if component_type is None:
+            return len(self.components)
+        count = 0
+        for component in self.components:
+            if component.type == component_type:
+                count += 1
+        return count
