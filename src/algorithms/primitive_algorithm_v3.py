@@ -74,9 +74,6 @@ class PrimitiveAlgorithm_v3(Algorithm):
         for key in sample.__dict__.keys():
             if isinstance(sample.__dict__[key], str):
                 component.__dict__[key] = sample.__dict__[key]
-            elif isinstance(sample.__dict__[key], FullPath):
-                key_xpath = self.extract_xpath(sample.__dict__[key].xpath)[len(block_xpath):]
-                component.__dict__[key] = t.get_attr(element.xpath(self.combine_xpath(key_xpath, True)), sample.__dict__[key].attr)
             elif isinstance(sample.__dict__[key], list):
                 inner_xpath = self.extract_xpath(sample.__dict__[key][0].xpath)
                 for elem in sample.__dict__[key]:
@@ -86,6 +83,12 @@ class PrimitiveAlgorithm_v3(Algorithm):
                 component.__dict__[key] = list()
                 for elem in element.xpath(inner_xpath):
                     component.__dict__[key].append(t.get_attr(elem, sample.__dict__[key][0].attr))
+            else:
+                key_xpath = self.extract_xpath(sample.__dict__[key].xpath)[len(block_xpath):]
+                component.__dict__[key] = t.get_attr(element.xpath(self.combine_xpath(key_xpath, True)),
+                                                     sample.__dict__[key].attr)
+            if component.__dict__[key] is None:
+                return None
 
         return component
 
@@ -132,6 +135,8 @@ class PrimitiveAlgorithm_v3(Algorithm):
             for i in range(len(self.types)):
                 if len(block.xpath("." + self.xpaths[i])) > 0:
                     result = self.parse_component(block, i)
-                    parser_result.add(result)
+                    if result is not None:
+                        parser_result.add(result)
+                        break
 
         return parser_result
