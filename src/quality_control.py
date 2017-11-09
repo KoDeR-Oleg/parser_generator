@@ -25,7 +25,7 @@ class QualityControl(object):
             with open(path + str(i) + ".html", "r") as file:
                 string = file.read()
             parser_result = algorithm.parse(string)
-            ideal_result = ideal_parser.parse(path + str(i) + ".json")
+            ideal_result = ideal_parser.parse(string)
             dist.append(self.metric.distance(parser_result, ideal_result))
 
         return self.aggregator.aggregate(dist)

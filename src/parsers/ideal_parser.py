@@ -2,6 +2,7 @@ import jsonpickle
 from lxml import html
 from parser_result import ParserResult, Component
 from parsers.parser import Parser
+import os
 
 
 class IdealParser(Parser):
@@ -65,10 +66,17 @@ class IdealParser(Parser):
         else:
             return self.get_substitution_component(tree, markup.components[element])
 
-    def parse(self, file_name):
-        with open(file_name, "r") as file:
-            parser_result = jsonpickle.decode(file.read())
-        return parser_result
+    def parse(self, string):
+        file_names = list()
+        for root, dirs, files in os.walk("../golden"):
+            file_names += [os.path.join(root, name) for name in files if name[-4:] == "html"]
+        for file_name in file_names:
+            with open(file_name, "r") as file:
+                if string == file.read():
+                    with open(file_name[:-4] + "json", "r") as file_json:
+                        parser_result = jsonpickle.decode(file_json.read())
+                        return parser_result
+        return None
 
     def extract_markup(self, file_name):
         with open(file_name, "r") as file:
