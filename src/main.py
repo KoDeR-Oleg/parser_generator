@@ -9,11 +9,5 @@ metric = ParserResultLevensteinMetric()
 aggregator = AvgAggregator()
 control = QualityControl(metric, aggregator)
 
-algorithm = PrimitiveAlgorithm()
-print("Quality =", control.get_quality(algorithm))
-
-algorithm2 = PrimitiveAlgorithm_v2()
-print("Quality =", control.get_quality(algorithm2))
-
 algorithm3 = PrimitiveAlgorithm_v3()
 print("Quality =", control.get_quality(algorithm3))
