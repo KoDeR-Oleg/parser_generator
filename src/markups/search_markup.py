@@ -28,10 +28,7 @@ class FullPath(Markup):
             if attr == "style":
                 return tag.get("style").split("//")[1][:-2]
             return tag.get(attr)
-        text = ""
-        for i in tag.itertext():
-            text += i
-        return text
+        return tag.text_content()
 
 
 class SearchMarkupComponent(Component, Markup):

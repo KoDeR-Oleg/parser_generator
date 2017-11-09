@@ -26,10 +26,7 @@ class FullPath(Markup):
         attrs = ["href", "title"]
         if attr in attrs:
             return tag.get(attr)
-        text = ""
-        for i in tag.itertext():
-            text += i
-        return text
+        return tag.text_content()
 
 
 class ImageMarkupComponent(Component, Markup):
