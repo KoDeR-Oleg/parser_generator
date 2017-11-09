@@ -16,7 +16,7 @@
             "snippet": "tv.mail.ru›Все каналы",
             "title": "Телепрограмма на сегодня и на завтра, программа...",
             "type": "SEARCH_RESULT",
-            "view_url": ""
+            "view_url": "https://tv.mail.ru/sankt_peterburg/"
         },
         {
             "alignment": "LEFT",
@@ -25,7 +25,7 @@
             "snippet": "ontvtime.ru›tv",
             "title": "Сейчас в эфире: телепрограмма на сегодня и на неделю",
             "type": "SEARCH_RESULT",
-            "view_url": ""
+            "view_url": "http://www.ontvtime.ru/tv"
         },
         {
             "alignment": "LEFT",

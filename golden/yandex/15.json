@@ -7,7 +7,7 @@
             "snippet": "gismeteo.ru›Сегодня",
             "title": "погода в Санкт-Петербурге сегодня ― прогноз погоды...",
             "type": "SEARCH_RESULT",
-            "view_url": ""
+            "view_url": "https://www.gismeteo.ru/weather-sankt-peterburg-4079/"
         },
         {
             "alignment": "LEFT",
@@ -16,7 +16,7 @@
             "snippet": "weather.rambler.ru›Санкт-Петербург",
             "title": "Погода в Санкт-Петербурге на сегодня – точный прогноз...",
             "type": "SEARCH_RESULT",
-            "view_url": ""
+            "view_url": "https://weather.rambler.ru/v-sankt-peterburge/"
         },
         {
             "alignment": "LEFT",
