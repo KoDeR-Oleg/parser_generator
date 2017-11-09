@@ -80,9 +80,11 @@ class PrimitiveAlgorithm_v3(Algorithm):
                     inner_xpath = self.great_common_prefix(inner_xpath, self.extract_xpath(elem.xpath))
                 inner_xpath = self.combine_xpath(inner_xpath[len(block_xpath):], True)
 
-                component.__dict__[key] = list()
-                for elem in element.xpath(inner_xpath):
-                    component.__dict__[key].append(t.get_attr(elem, sample.__dict__[key][0].attr))
+                component.__dict__[key] = None
+                if len(element.xpath(inner_xpath)) > 0:
+                    component.__dict__[key] = list()
+                    for elem in element.xpath(inner_xpath):
+                        component.__dict__[key].append(t.get_attr(elem, sample.__dict__[key][0].attr))
             else:
                 key_xpath = self.extract_xpath(sample.__dict__[key].xpath)[len(block_xpath):]
                 component.__dict__[key] = t.get_attr(element.xpath(self.combine_xpath(key_xpath, True)),
