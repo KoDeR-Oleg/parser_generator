@@ -1,0 +1,165 @@
+{
+    "components": [
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.metro.spb.ru/map1/route.html&sa=U&ved=0ahUKEwjZuIrDqbDXAhXPbZoKHXHSC2QQwW4IFjAA&usg=AOvVaw02CSGXxauEJbiBjgcXNDg1",
+            "py/object": "parser_result.Component",
+            "title": "metro.spb.rurus.jpg1000 Х 1162; 505 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "metro.spb.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://mskof.ru/&sa=U&ved=0ahUKEwjZuIrDqbDXAhXPbZoKHXHSC2QQwW4IGDAB&usg=AOvVaw38aEKVnKrBBvjsEriXYK67",
+            "py/object": "parser_result.Component",
+            "title": "mskof.ruКарта метро / Схема метро / Москвы c расчетом времени980 Х 1171; 194 КБ - png",
+            "type": "IMAGE",
+            "view_url": "mskof.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://www.msk-guide.ru/moscow_metro_map.htm&sa=U&ved=0ahUKEwjZuIrDqbDXAhXPbZoKHXHSC2QQwW4IGjAC&usg=AOvVaw0mVfFnCCtQj6Ga2DNwsy6p",
+            "py/object": "parser_result.Component",
+            "title": "msk-guide.ruКарта (схема) метро Москвы 2017 г. с вокзалами, аэропортами и МЦК1097 Х 1223; 532 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "msk-guide.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://www.tutu.ru/metro/show/view_96/201a58a5d6bd175860892b85584a38ff/&sa=U&ved=0ahUKEwjZuIrDqbDXAhXPbZoKHXHSC2QQwW4IHDAD&usg=AOvVaw3ag20NXnYY-cD2MF5HuLYq",
+            "py/object": "parser_result.Component",
+            "title": "tutu.ruметро г.Москва. Схема метрополитена: Москва.723 Х 765; 36 КБ",
+            "type": "IMAGE",
+            "view_url": "tutu.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://karta-metro.ru/&sa=U&ved=0ahUKEwjZuIrDqbDXAhXPbZoKHXHSC2QQwW4IHjAE&usg=AOvVaw3rUG3uzYavMwSs3dG2bOfo",
+            "py/object": "parser_result.Component",
+            "title": "karta-metro.ruКарта метро Москвы / схема метро Москвы612 Х 722; 51 КБ - gif",
+            "type": "IMAGE",
+            "view_url": "karta-metro.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://moskva-map.ru/metro.htm&sa=U&ved=0ahUKEwjZuIrDqbDXAhXPbZoKHXHSC2QQwW4IIDAF&usg=AOvVaw3ufmi94z2Alm80ptwKmyON",
+            "py/object": "parser_result.Component",
+            "title": "moskva-map.ruКарта Метро Москвы | Схема линий Московского метрополитена936 Х 1121; 370 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "moskva-map.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://100realty.ua/map/metro&sa=U&ved=0ahUKEwjZuIrDqbDXAhXPbZoKHXHSC2QQwW4IIjAG&usg=AOvVaw2X3l9O_ee6mv6NhNk-otmb",
+            "py/object": "parser_result.Component",
+            "title": "100realty.uaКарта метро - Киев | Схема киевского метрополитена онлайн1920 Х 2013; 1228 КБ - png",
+            "type": "IMAGE",
+            "view_url": "100realty.ua"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://zulombard.ru/na-karte-metro/&sa=U&ved=0ahUKEwjZuIrDqbDXAhXPbZoKHXHSC2QQwW4IJDAH&usg=AOvVaw1zH95PW47LbxRre_h-sKA5",
+            "py/object": "parser_result.Component",
+            "title": "zulombard.ruНа карте метро | Залог успеха900 Х 961; 69 КБ - gif",
+            "type": "IMAGE",
+            "view_url": "zulombard.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://mosopen.ru/metro&sa=U&ved=0ahUKEwjZuIrDqbDXAhXPbZoKHXHSC2QQwW4IJjAI&usg=AOvVaw2O4JfEbZ0MB1APVH4pdizM",
+            "py/object": "parser_result.Component",
+            "title": "mosopen.ruСхема метро (Карта метро Москвы) - Электронная Москва580 Х 638; 46 КБ - gif",
+            "type": "IMAGE",
+            "view_url": "mosopen.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://msk-posutochno.ru/metro.html&sa=U&ved=0ahUKEwjZuIrDqbDXAhXPbZoKHXHSC2QQwW4IKDAJ&usg=AOvVaw3NaoqvO46ewbtYM3BDDMZL",
+            "py/object": "parser_result.Component",
+            "title": "msk-posutochno.ruКарта метро (Схема метро) Москвы 20161152 Х 1420; 1162 КБ - png",
+            "type": "IMAGE",
+            "view_url": "msk-posutochno.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://www.spb-guide.ru/spb_metro_map.htm&sa=U&ved=0ahUKEwjZuIrDqbDXAhXPbZoKHXHSC2QQwW4IKjAK&usg=AOvVaw2cTXBg3se6DFhhDPwmXO8q",
+            "py/object": "parser_result.Component",
+            "title": "spb-guide.ruКарта (схема) метро Санкт-Петербурга 2017 г.800 Х 1060; 242 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "spb-guide.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.metromap.ru/&sa=U&ved=0ahUKEwjZuIrDqbDXAhXPbZoKHXHSC2QQwW4ILDAL&usg=AOvVaw1UFb2Aro-MdL4i8BCTe3sU",
+            "py/object": "parser_result.Component",
+            "title": "metromap.ruКарта метро Москвы / интерактивная схема московского метро1040 Х 1270; 266 КБ - png",
+            "type": "IMAGE",
+            "view_url": "metromap.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://scobro.ru/karta-metro-2020.html&sa=U&ved=0ahUKEwjZuIrDqbDXAhXPbZoKHXHSC2QQwW4ILjAM&usg=AOvVaw1Cj8gkqirUwk2MqY-rezNe",
+            "py/object": "parser_result.Component",
+            "title": "scobro.ruМетрополитен Москвы - скачать карту метро 2020 года3000 Х 2510; 960 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "scobro.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.sobaka.ru/city/city/58485&sa=U&ved=0ahUKEwjZuIrDqbDXAhXPbZoKHXHSC2QQwW4IMDAN&usg=AOvVaw17WwVA5NDa6ZvhxJQQxgVM",
+            "py/object": "parser_result.Component",
+            "title": "sobaka.ruВ Петербурге появилась пешеходная карта метро448 Х 700; 230 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "sobaka.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.metro.ru/map/2005/3/&sa=U&ved=0ahUKEwjZuIrDqbDXAhXPbZoKHXHSC2QQwW4IMjAO&usg=AOvVaw2vwBYiQfFlfZhA67RKrX7i",
+            "py/object": "parser_result.Component",
+            "title": "metro.ruСхемы линий / Картинки / Схемы и карты метро936 Х 1110; 265 КБ - gif",
+            "type": "IMAGE",
+            "view_url": "metro.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://shosse.net/karta-metro-moskvy/&sa=U&ved=0ahUKEwjZuIrDqbDXAhXPbZoKHXHSC2QQwW4INDAP&usg=AOvVaw0tMHm3KWCMdVJFuvLvQOGM",
+            "py/object": "parser_result.Component",
+            "title": "shosse.netКарта метро Москвы | Шоссе МКАД, пробки Москвы и СПБ2500 Х 2307; 1138 КБ - png",
+            "type": "IMAGE",
+            "view_url": "shosse.net"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://russianmetro.ru/&sa=U&ved=0ahUKEwjZuIrDqbDXAhXPbZoKHXHSC2QQwW4INjAQ&usg=AOvVaw3HlCJ8XvrQZGz39QIZCqzg",
+            "py/object": "parser_result.Component",
+            "title": "russianmetro.ruСхема метро Москвы1054 Х 1144; 146 КБ - png",
+            "type": "IMAGE",
+            "view_url": "russianmetro.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://smartmetro.ru/&sa=U&ved=0ahUKEwjZuIrDqbDXAhXPbZoKHXHSC2QQwW4IODAR&usg=AOvVaw28l43kkl-BBl0ayvWftJ21",
+            "py/object": "parser_result.Component",
+            "title": "smartmetro.ruметро Москвы754 Х 925; 121 КБ - png",
+            "type": "IMAGE",
+            "view_url": "smartmetro.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://jj-tours.ru/articles/UAE/uae-dubai_metro_map2.html&sa=U&ved=0ahUKEwjZuIrDqbDXAhXPbZoKHXHSC2QQwW4IOjAS&usg=AOvVaw1tP2nDa1-qOwl7SciWnxg8",
+            "py/object": "parser_result.Component",
+            "title": "jj-tours.ruКарта метро Дубая в с достопримечательностями.1400 Х 1056; 246 КБ - png",
+            "type": "IMAGE",
+            "view_url": "jj-tours.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.gumer.info/bibliotek_Buks/Culture/metro_msk/&sa=U&ved=0ahUKEwjZuIrDqbDXAhXPbZoKHXHSC2QQwW4IPDAT&usg=AOvVaw1b6kNBPufYhBzTD38t86oF",
+            "py/object": "parser_result.Component",
+            "title": "gumer.infoМосква карта метро вокзалы посольства скачать бесплатно ...992 Х 1200; 189 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "gumer.info"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

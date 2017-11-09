@@ -1,0 +1,165 @@
+{
+    "components": [
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.krym.aif.ru/society/v_krymu_izmenilos_raspisanie_elektrichek&sa=U&ved=0ahUKEwj8irfDqbDXAhUnMZoKHZfLCuQQwW4IFjAA&usg=AOvVaw0tlVPAyV3ELSzM-UEkhGI6",
+            "py/object": "parser_result.Component",
+            "title": "krym.aif.ruВ Крыму изменилось расписание электричек | ОБЩЕСТВО | АиФ Крым757 Х 566; 623 КБ - png",
+            "type": "IMAGE",
+            "view_url": "krym.aif.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.kazan.aif.ru/society/details/86559&sa=U&ved=0ahUKEwj8irfDqbDXAhUnMZoKHZfLCuQQwW4IGDAB&usg=AOvVaw0lc0glkQ278UCqsRAMxcFa",
+            "py/object": "parser_result.Component",
+            "title": "kazan.aif.ruРасписание электричек движения пригородных поездов на участке ...1200 Х 759; 1089 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "kazan.aif.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://opexobo-3yebo.ru/spravki/raspisanie-jelektrichek/&sa=U&ved=0ahUKEwj8irfDqbDXAhUnMZoKHZfLCuQQwW4IGjAC&usg=AOvVaw000j_b3HVYp5mIiQiYwi2I",
+            "py/object": "parser_result.Component",
+            "title": "opexobo-3yebo.ruРасписание электричек » http://opexobo-3yebo.ru (Орехово-Зуево)670 Х 755; 186 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "opexobo-3yebo.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.okavkaze.ru/forum/viewtopic.php%3Ff%3D67%26t%3D1178&sa=U&ved=0ahUKEwj8irfDqbDXAhUnMZoKHZfLCuQQwW4IHDAD&usg=AOvVaw3ezdN3ufCYcMdcGU-imWcC",
+            "py/object": "parser_result.Component",
+            "title": "okavkaze.ruРасписание электричек Минеральные Воды - Кисловодск. 2015 г ...838 Х 489; 277 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "okavkaze.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://myblogoirt.blogspot.com/2013/11/blog-post_9587.html&sa=U&ved=0ahUKEwj8irfDqbDXAhUnMZoKHZfLCuQQwW4IHjAE&usg=AOvVaw1RcTYqql5jUA5ROokkF2-6",
+            "py/object": "parser_result.Component",
+            "title": "myblogoirt.blogspot.comСкачать: Расписание Электричек Усолье Сибирское Иркутск482 Х 645; 136 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "myblogoirt.blogspot.com"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://forum.nedoma.ru/topic21252.html&sa=U&ved=0ahUKEwj8irfDqbDXAhUnMZoKHZfLCuQQwW4IIDAF&usg=AOvVaw3hu_93PjopzrQN-a8SNrWh",
+            "py/object": "parser_result.Component",
+            "title": "forum.nedoma.ruНовое расписание электричек на Ашу, Миньяр800 Х 564; 196 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "forum.nedoma.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.kazan.aif.ru/society/details/86559&sa=U&ved=0ahUKEwj8irfDqbDXAhUnMZoKHZfLCuQQwW4IIjAG&usg=AOvVaw3-RJS3OvGynEmixXwcmje3",
+            "py/object": "parser_result.Component",
+            "title": "kazan.aif.ruРасписание электричек движения пригородных поездов на участке ...1200 Х 855; 1131 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "kazan.aif.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://progorod43.ru/news/13897&sa=U&ved=0ahUKEwj8irfDqbDXAhUnMZoKHZfLCuQQwW4IJDAH&usg=AOvVaw0uSSvsJfbpOgVf06y1Ze2c",
+            "py/object": "parser_result.Component",
+            "title": "progorod43.ruС 1 февраля подорожают билеты на пригородные электрички (новое ...1056 Х 831; 242 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "progorod43.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://raspisanie-elektrichek-moscow.blogspot.com/p/blog-page_13.html&sa=U&ved=0ahUKEwj8irfDqbDXAhUnMZoKHZfLCuQQwW4IJjAI&usg=AOvVaw2Chqqswt97gVLnk1YTBLcp",
+            "py/object": "parser_result.Component",
+            "title": "raspisanie-elektrichek...Расписание электричек: Расписание электричек Рижского направления.677 Х 1024; 276 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "raspisanie-elektrichek-moscow.blogspot.com"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://web-meister.ru/page/%25D1%2580%25D0%25B0%25D1%2581%25D0%25BF%25D0%25B8%25D1%2581%25D0%25B0%25D0%25BD%25D0%25B8%25D0%25B5_%25D1%258D%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2582%25D1%2580%25D0%25B8%25D1%2587%25D0%25B5%25D0%25BA_%25D0%25BC%25D0%25B8%25D0%25BD%25D0%25B5%25D1%2580%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D1%258B%25D0%25B5_%25D0%25B2%25D0%25BE%25D0%25B4%25D1%258B/&sa=U&ved=0ahUKEwj8irfDqbDXAhUnMZoKHZfLCuQQwW4IKDAJ&usg=AOvVaw3VFJczsNZiYLjZUgLxF50C",
+            "py/object": "parser_result.Component",
+            "title": "web-meister.ruрасписание электричек минеральные воды807 Х 358; 135 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "web-meister.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://odessa-life.od.ua/article/2772-raspisanie-dvizheniya-elektropoezdov-prigorodnogo-soobsheniya-na-2012-god&sa=U&ved=0ahUKEwj8irfDqbDXAhUnMZoKHZfLCuQQwW4IKjAK&usg=AOvVaw31GEGvRelptP_Z9djIK8Q9",
+            "py/object": "parser_result.Component",
+            "title": "odessa-life.od.uaРасписание движения электропоездов пригородного сообщения на 2012 ...1436 Х 1022; 473 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "odessa-life.od.ua"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://raspisanie-elektrichek-moscow.blogspot.com/p/blog-page_5385.html&sa=U&ved=0ahUKEwj8irfDqbDXAhUnMZoKHZfLCuQQwW4ILDAL&usg=AOvVaw2_yW-Sy4Gvs7vuCcHVRAmr",
+            "py/object": "parser_result.Component",
+            "title": "raspisanie-elektrichek...Расписание электричек: Расписание электричек Павелецкого направления.681 Х 1024; 312 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "raspisanie-elektrichek-moscow.blogspot.com"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://poison-glen.livejournal.com/1071.html&sa=U&ved=0ahUKEwj8irfDqbDXAhUnMZoKHZfLCuQQwW4ILjAM&usg=AOvVaw3EtAK3iuNWkIjtxO8SFhg4",
+            "py/object": "parser_result.Component",
+            "title": "poison-glen.livejourna...Инфографика: расписание электричек - Живи по полной, продавай как ...487 Х 297; 96 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "poison-glen.livejournal.com"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.newsler.ru/society/2013/05/27/kirovskie-zheleznodorozhniki-opublikovali-letnee-raspisanie-elektrichek&sa=U&ved=0ahUKEwj8irfDqbDXAhUnMZoKHZfLCuQQwW4IMDAN&usg=AOvVaw0tRvzrauWK8Y2ExKlqFPhn",
+            "py/object": "parser_result.Component",
+            "title": "newsler.ruКировские железнодорожники опубликовали летнее расписание ...2048 Х 910; 416 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "newsler.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://cashbuzz.ru/spravka/1364-raspisanie-elektrichek-tver-moskva-na-2016-god-lastochka.html&sa=U&ved=0ahUKEwj8irfDqbDXAhUnMZoKHZfLCuQQwW4IMjAO&usg=AOvVaw1WGZs7pOQ4aILeV4pnNpG0",
+            "py/object": "parser_result.Component",
+            "title": "cashbuzz.ruРасписание электричек Тверь Москва 2016 (Ласточка)615 Х 1051; 366 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "cashbuzz.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://primechaniya.ru/home/news/5709/5925/&sa=U&ved=0ahUKEwj8irfDqbDXAhUnMZoKHZfLCuQQwW4INDAP&usg=AOvVaw0wqB8VHcCz6hxjb4SgU83P",
+            "py/object": "parser_result.Component",
+            "title": "primechaniya.ruВ Крыму меняется расписание электричек [график] | Примечания ...691 Х 704; 221 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "primechaniya.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://napoisk.ru/raspisanie2.htm&sa=U&ved=0ahUKEwj8irfDqbDXAhUnMZoKHZfLCuQQwW4INjAQ&usg=AOvVaw2WCYdywRwjqy6CXY1H1BIn",
+            "py/object": "parser_result.Component",
+            "title": "napoisk.ruРасписание электричек Чертаново666 Х 595; 124 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "napoisk.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://www.yar.kp.ru/daily/26535/3553225/&sa=U&ved=0ahUKEwj8irfDqbDXAhUnMZoKHZfLCuQQwW4IODAR&usg=AOvVaw0zFsbApy1azsgzicgSSME4",
+            "py/object": "parser_result.Component",
+            "title": "yar.kp.ruЕдем на дачу: летнее расписание электричек, пригородных автобусов ...1080 Х 1768; 332 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "yar.kp.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://krymea.ru/news/novoe-raspisanie-elektrichek-krima.html&sa=U&ved=0ahUKEwj8irfDqbDXAhUnMZoKHZfLCuQQwW4IOjAS&usg=AOvVaw2aOi02rHgUn6OAE2A0rvlZ",
+            "py/object": "parser_result.Component",
+            "title": "krymea.ruНовое расписание электричек с 26 февраля 2016 года в Крыму797 Х 562; 370 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "krymea.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.okavkaze.ru/%3Fp%3D1614&sa=U&ved=0ahUKEwj8irfDqbDXAhUnMZoKHZfLCuQQwW4IPDAT&usg=AOvVaw2r7PjjiR7lsi0ovMd6lpSD",
+            "py/object": "parser_result.Component",
+            "title": "okavkaze.ruРасписание электричек Минеральные Воды — Кисловодск (обновляется ...789 Х 515; 273 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "okavkaze.ru"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

@@ -1,0 +1,165 @@
+{
+    "components": [
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://astroscope.ru/horoskop/ejednevniy_goroskop/&sa=U&ved=0ahUKEwiUgenMqbDXAhVjOJoKHXWfAMcQwW4IFjAA&usg=AOvVaw3_u9c9LKmLXBuYVPVzWdwu",
+            "py/object": "parser_result.Component",
+            "title": "astroscope.ruГороскоп на сегодня, гороскоп на завтра, ежедневные гороскопы на ...250 Х 250; 10 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "astroscope.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://1001goroskop.ru/&sa=U&ved=0ahUKEwiUgenMqbDXAhVjOJoKHXWfAMcQwW4IGDAB&usg=AOvVaw1Di1uPgGqMcLyxKZtjqBAI",
+            "py/object": "parser_result.Component",
+            "title": "1001goroskop.ruГороскоп на сегодня | 1001 ГОРОСКОП300 Х 200; 32 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "1001goroskop.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://ostrnum.com/51564-2/&sa=U&ved=0ahUKEwiUgenMqbDXAhVjOJoKHXWfAMcQwW4IGjAC&usg=AOvVaw2HUnk0cKmnGJaHBJE6w_q8",
+            "py/object": "parser_result.Component",
+            "title": "ostrnum.comГороскоп на сегодня660 Х 480; 219 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "ostrnum.com"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://allfor-woman.ru/goroskop&sa=U&ved=0ahUKEwiUgenMqbDXAhVjOJoKHXWfAMcQwW4IHDAD&usg=AOvVaw1E8PC5mNQIFl4l_W2bAOI0",
+            "py/object": "parser_result.Component",
+            "title": "allfor-woman.ruГороскоп | allfor-woman.ru300 Х 400; 90 КБ - png",
+            "type": "IMAGE",
+            "view_url": "allfor-woman.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.goroskop.ru/publish/open_article/41/scorpio/&sa=U&ved=0ahUKEwiUgenMqbDXAhVjOJoKHXWfAMcQwW4IHjAE&usg=AOvVaw1W76EztG1_YK8UKBZBJyod",
+            "py/object": "parser_result.Component",
+            "title": "goroskop.ruЛюбовный гороскоп на сегодня Скорпион. Бесплатный гороскоп на 08 ...250 Х 230; 12 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "goroskop.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://astro7.ru/online-journal/horoscope/today/today-lev.html&sa=U&ved=0ahUKEwiUgenMqbDXAhVjOJoKHXWfAMcQwW4IIDAF&usg=AOvVaw0frQ8zd52vuJRGG7WpfRHg",
+            "py/object": "parser_result.Component",
+            "title": "astro7.ruГороскоп на сегодня Лев. Читать правдивый гороскоп на сегодня для ...738 Х 357; 66 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "astro7.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.goroskop.ru/publish/open_article/41/aries/&sa=U&ved=0ahUKEwiUgenMqbDXAhVjOJoKHXWfAMcQwW4IIjAG&usg=AOvVaw2ZBjRWmqzJpNTIY7HNWBUu",
+            "py/object": "parser_result.Component",
+            "title": "goroskop.ruЛюбовный гороскоп на сегодня Овен. Бесплатный гороскоп на 08 ...250 Х 230; 11 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "goroskop.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://goroskop-na-god.ru/segodnya/&sa=U&ved=0ahUKEwiUgenMqbDXAhVjOJoKHXWfAMcQwW4IJDAH&usg=AOvVaw2Cp_bk7MGe5Je1lBpk-1uu",
+            "py/object": "parser_result.Component",
+            "title": "goroskop-na-god.ruГороскоп на сегодня на завтра по знакам зодиака, познай себя с ...728 Х 260; 24 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "goroskop-na-god.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://1001goroskop.ru/%3Fznak%3Dleo%26tm%3Dlove&sa=U&ved=0ahUKEwiUgenMqbDXAhVjOJoKHXWfAMcQwW4IJjAI&usg=AOvVaw0O-KBnG_0Y2YKRfM2_ielT",
+            "py/object": "parser_result.Component",
+            "title": "1001goroskop.ruлюбовный гороскоп на сегодня | 1001 ГОРОСКОП300 Х 200; 15 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "1001goroskop.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://hochu.ua/cat-goroskopy/goroskop-na-segodnya/article-70229-goroskop-8-oktyabrya-2016-segodnya-pozvolte-sebe-otdohnut/&sa=U&ved=0ahUKEwiUgenMqbDXAhVjOJoKHXWfAMcQwW4IKDAJ&usg=AOvVaw34UlzVSX0hv641uAlKoxw8",
+            "py/object": "parser_result.Component",
+            "title": "hochu.uaГороскоп на сегодня 8 октября 2016 для Овна, Тельца, Близнецов ...640 Х 258; 87 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "hochu.ua"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://horomir.com/&sa=U&ved=0ahUKEwiUgenMqbDXAhVjOJoKHXWfAMcQwW4IKjAK&usg=AOvVaw2TcUhfcShpygXFo0w1ktHv",
+            "py/object": "parser_result.Component",
+            "title": "horomir.comГороскопы: Гороскоп на сегодня, гороскоп на завтра, на неделю ...200 Х 200; 17 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "horomir.com"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://astromystik.ru/goroscops/goroscop-na-segodnya/nestandartnyi-goroskop-na-segodnia.html&sa=U&ved=0ahUKEwiUgenMqbDXAhVjOJoKHXWfAMcQwW4ILDAL&usg=AOvVaw3QvJBKpY6WC6HSKgz14kWY",
+            "py/object": "parser_result.Component",
+            "title": "astromystik.ruНестандартный гороскоп на сегодня277 Х 254; 32 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "astromystik.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.goroskop.ru/publish/open_article/1443/libra/&sa=U&ved=0ahUKEwiUgenMqbDXAhVjOJoKHXWfAMcQwW4ILjAM&usg=AOvVaw38Tosn1VSAc2qMwWKWzkum",
+            "py/object": "parser_result.Component",
+            "title": "goroskop.ruДенежный гороскоп Весы - финансы, деньги и благополучие в ...250 Х 230; 12 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "goroskop.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://joinfo.ua/goroskop/1205835_Goroskop-segodnya-13-maya-2017-goda.html&sa=U&ved=0ahUKEwiUgenMqbDXAhVjOJoKHXWfAMcQwW4IMDAN&usg=AOvVaw1YRgVomedsvoxLOgnfTiP2",
+            "py/object": "parser_result.Component",
+            "title": "joinfo.uaГороскоп на сегодня: 13 мая 2017 года - Гороскоп на Joinfo.ua615 Х 301; 39 КБ - jpeg",
+            "type": "IMAGE",
+            "view_url": "joinfo.ua"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.goroskop.ru/publish/open_article/29/gemini/&sa=U&ved=0ahUKEwiUgenMqbDXAhVjOJoKHXWfAMcQwW4IMjAO&usg=AOvVaw18q822cjgu7BCwOnvjA0LI",
+            "py/object": "parser_result.Component",
+            "title": "goroskop.ruГороскоп на сегодня Близнецы. Бесплатный гороскоп на 08 ноября ...250 Х 230; 12 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "goroskop.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.dvorec.ru/zodiak/today.php%3FAIM%3D93&sa=U&ved=0ahUKEwiUgenMqbDXAhVjOJoKHXWfAMcQwW4INDAP&usg=AOvVaw3TXJRVGImLeUylF9OtZTgK",
+            "py/object": "parser_result.Component",
+            "title": "dvorec.ruна сегодня204 Х 203; 13 КБ - gif",
+            "type": "IMAGE",
+            "view_url": "dvorec.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://on-dom2.narod.ru/goroskop/ryby-besplatnyj-lyubovnyj-goroskop-na-segodnya-i-zavtra-onlajn.html&sa=U&ved=0ahUKEwiUgenMqbDXAhVjOJoKHXWfAMcQwW4INjAQ&usg=AOvVaw3e5SIMFIYhBxn882UKif1u",
+            "py/object": "parser_result.Component",
+            "title": "on-dom2.narod.ruРыбы - гороскоп на сегодня и завтра | любовный и обычный гороскопы ...291 Х 291; 166 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "on-dom2.narod.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.goroskop.ru/publish/open_article/29/pisces/&sa=U&ved=0ahUKEwiUgenMqbDXAhVjOJoKHXWfAMcQwW4IODAR&usg=AOvVaw1sZrrLvDoPqYDKF-gp9UGC",
+            "py/object": "parser_result.Component",
+            "title": "goroskop.ruГороскоп на сегодня Рыбы. Бесплатный гороскоп на 08 ноября Рыбы ...250 Х 230; 13 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "goroskop.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://telegraf.com.ua/goroskop/3653291-goroskop-na-segodnya-1-oktyabrya-2017-vse-znaki-zodiaka.html&sa=U&ved=0ahUKEwiUgenMqbDXAhVjOJoKHXWfAMcQwW4IOjAS&usg=AOvVaw0AzjRvDkkNMJ3MCSj0BCs8",
+            "py/object": "parser_result.Component",
+            "title": "telegraf.com.uaГороскоп на сегодня, 1 октября 2017: все знаки зодиака - Гороскоп ...800 Х 400; 45 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "telegraf.com.ua"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.prisnilos.su/horoscope/day/strelec.html&sa=U&ved=0ahUKEwiUgenMqbDXAhVjOJoKHXWfAMcQwW4IPDAT&usg=AOvVaw1KozElKsKxKHQL7ptZnGj4",
+            "py/object": "parser_result.Component",
+            "title": "prisnilos.suна сегодня для Стрельца400 Х 400; 15 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "prisnilos.su"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

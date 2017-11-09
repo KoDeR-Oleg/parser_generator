@@ -1,0 +1,165 @@
+{
+    "components": [
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://ru.wikipedia.org/wiki/%25D0%25A1%25D0%25B0%25D0%25BD%25D0%25BA%25D1%2582-%25D0%259F%25D0%25B5%25D1%2582%25D0%25B5%25D1%2580%25D0%25B1%25D1%2583%25D1%2580%25D0%25B3&sa=U&ved=0ahUKEwiJwYXOqbDXAhXHB5oKHQhGAKMQwW4IFjAA&usg=AOvVaw2F9N_E4eoh4Epc3A_Jz6qu",
+            "py/object": "parser_result.Component",
+            "title": "ru.wikipedia.orgСанкт-Петербург — Википедия290 Х 406; 245 КБ - png",
+            "type": "IMAGE",
+            "view_url": "ru.wikipedia.org"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://www.tourprom.ru/country/russia/saint-petersburg/&sa=U&ved=0ahUKEwiJwYXOqbDXAhXHB5oKHQhGAKMQwW4IGDAB&usg=AOvVaw0FzXjft0tHcjcugGDx-jyF",
+            "py/object": "parser_result.Component",
+            "title": "tourprom.ruСанкт-Петербург, Россия: отдых, отзывы, отели Санкт-Петербурга ...1100 Х 650; 533 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "tourprom.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://avia.tutu.ru/aviabilety/rossiya/sankt-peterburg_75/&sa=U&ved=0ahUKEwiJwYXOqbDXAhXHB5oKHQhGAKMQwW4IGjAC&usg=AOvVaw3BDWii4vzcaKxqKIjqLGzC",
+            "py/object": "parser_result.Component",
+            "title": "avia.tutu.ruАвиабилеты в Санкт-Петербург от 1130р. на рейсы 17 авиакомпаний1000 Х 560; 159 КБ",
+            "type": "IMAGE",
+            "view_url": "avia.tutu.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://www.votpusk.ru/country/kurort.asp%3FCN%3DRU2%26CT%3DRU201&sa=U&ved=0ahUKEwiJwYXOqbDXAhXHB5oKHQhGAKMQwW4IHDAD&usg=AOvVaw3UOjsDaA1BsE8QBdutbw_k",
+            "py/object": "parser_result.Component",
+            "title": "votpusk.ruСанкт-Петербург (Россия - Санкт-Петербург): Санкт-Петербург ...1200 Х 800; 416 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "votpusk.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://www.tripadvisor.ru/Tourism-g298507-St_Petersburg_Northwestern_District-Vacations.html&sa=U&ved=0ahUKEwiJwYXOqbDXAhXHB5oKHQhGAKMQwW4IHjAE&usg=AOvVaw2bWd6-vDum6e4O8DRUZVnv",
+            "py/object": "parser_result.Component",
+            "title": "tripadvisor.ruСанкт-Петербург 2017: все самое лучшее для туристов - TripAdvisor550 Х 365; 57 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "tripadvisor.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.peterburg.biz/&sa=U&ved=0ahUKEwiJwYXOqbDXAhXHB5oKHQhGAKMQwW4IIDAF&usg=AOvVaw3YK2O9039qsNCEb7vmoy3a",
+            "py/object": "parser_result.Component",
+            "title": "peterburg.bizВаш путеводитель по достопримечательностям Санкт-Петербурга ...1000 Х 667; 245 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "peterburg.biz"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.sadovaya53.ru/&sa=U&ved=0ahUKEwiJwYXOqbDXAhXHB5oKHQhGAKMQwW4IIjAG&usg=AOvVaw2qH3Bzgf20oSc_r8BH2VUe",
+            "py/object": "parser_result.Component",
+            "title": "sadovaya53.ruГостиница «На Садовой» в Санкт-Петербурге1600 Х 1067; 340 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "sadovaya53.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://www.gz-spb.ru/&sa=U&ved=0ahUKEwiJwYXOqbDXAhXHB5oKHQhGAKMQwW4IJDAH&usg=AOvVaw0B8Ggt-V3mAWBuVc9PzCCb",
+            "py/object": "parser_result.Component",
+            "title": "gz-spb.ruГосударственный заказ Санкт-Петербурга | Закупки Петербурга1980 Х 600; 2728 КБ - png",
+            "type": "IMAGE",
+            "view_url": "gz-spb.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://travel.rambler.ru/guide/europe/russia/saint_petersburg/&sa=U&ved=0ahUKEwiJwYXOqbDXAhXHB5oKHQhGAKMQwW4IJjAI&usg=AOvVaw1kuapscYAkZYSeOZw3hXfr",
+            "py/object": "parser_result.Component",
+            "title": "travel.rambler.ruОтдых в Санкт-Петербурге: путеводитель по Санкт-Петербургу ...900 Х 598; 223 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "travel.rambler.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://rossiya-hotel.ru/&sa=U&ved=0ahUKEwiJwYXOqbDXAhXHB5oKHQhGAKMQwW4IKDAJ&usg=AOvVaw1qqdSHfVnk9SUUzVyLeMQE",
+            "py/object": "parser_result.Component",
+            "title": "rossiya-hotel.ruГостиница «Россия» в Санкт-Петербурге. Официальный сайт отеля ...1024 Х 819; 242 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "rossiya-hotel.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.buddhism.ru/centers/sankt-pitersburg/&sa=U&ved=0ahUKEwiJwYXOqbDXAhXHB5oKHQhGAKMQwW4IKjAK&usg=AOvVaw26V1HeVLYLwx8TUsVWfvZ6",
+            "py/object": "parser_result.Component",
+            "title": "buddhism.ruСанкт-Петербург | Буддизм Алмазного пути4288 Х 2531; 747 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "buddhism.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://travel.rambler.ru/guide/europe/russia/saint_petersburg/media/&sa=U&ved=0ahUKEwiJwYXOqbDXAhXHB5oKHQhGAKMQwW4ILDAL&usg=AOvVaw0k3wkw00Nze-Vmah6ONI0W",
+            "py/object": "parser_result.Component",
+            "title": "travel.rambler.ruФото Санкт-Петербурга — красивые фотогалереи | Рамблер/путешествия1200 Х 800; 123 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "travel.rambler.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://sptaxi.ru/&sa=U&ved=0ahUKEwiJwYXOqbDXAhXHB5oKHQhGAKMQwW4ILjAM&usg=AOvVaw21oACb1y8MCwN_xwrLOEtj",
+            "py/object": "parser_result.Component",
+            "title": "sptaxi.ruЗаказать такси в Спб по телефону | Вызов такси в Санкт-Петербурге ...670 Х 430; 110 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "sptaxi.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.peterburg.biz/&sa=U&ved=0ahUKEwiJwYXOqbDXAhXHB5oKHQhGAKMQwW4IMDAN&usg=AOvVaw0zXlzc9gRtHarB4lMJ65Ii",
+            "py/object": "parser_result.Component",
+            "title": "peterburg.bizВаш путеводитель по достопримечательностям Санкт-Петербурга ...1000 Х 667; 175 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "peterburg.biz"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.nat-geo.ru/planet/843790-video-sankt-peterburg-s-vysoty-ptichego-poleta/&sa=U&ved=0ahUKEwiJwYXOqbDXAhXHB5oKHQhGAKMQwW4IMjAO&usg=AOvVaw1USimhmJst-MBZ9-_8ykfN",
+            "py/object": "parser_result.Component",
+            "title": "nat-geo.ruВидео: Санкт-Петербург с высоты птичьего полета — National ...900 Х 580; 1334 КБ - png",
+            "type": "IMAGE",
+            "view_url": "nat-geo.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.arkadiahotel.ru/&sa=U&ved=0ahUKEwiJwYXOqbDXAhXHB5oKHQhGAKMQwW4INDAP&usg=AOvVaw1jFvkK9MLvnEFjbLcKl7NZ",
+            "py/object": "parser_result.Component",
+            "title": "arkadiahotel.ruГостиница Аркадия - в самом центре Санкт-Петербурга1280 Х 850; 514 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "arkadiahotel.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://www.tripadvisor.ru/Tourism-g298507-St_Petersburg_Northwestern_District-Vacations.html&sa=U&ved=0ahUKEwiJwYXOqbDXAhXHB5oKHQhGAKMQwW4INjAQ&usg=AOvVaw03K7CBY1pMD6yEzV_fTkTr",
+            "py/object": "parser_result.Component",
+            "title": "tripadvisor.ruСанкт-Петербург 2017: все самое лучшее для туристов - TripAdvisor550 Х 412; 45 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "tripadvisor.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://ulyanovsk.tur-region.ru/%25D0%25B0%25D0%25B2%25D1%2582%25D0%25BE%25D0%25B1%25D1%2583%25D1%2581%25D0%25BD%25D1%258B%25D0%25B9-%25D1%2582%25D1%2583%25D1%2580-%25D0%25B2-%25D1%2581%25D0%25B0%25D0%25BD%25D0%25BA%25D1%2582-%25D0%25BF%25D0%25B5%25D1%2582%25D0%25B5%25D1%2580%25D0%25B1%25D1%2583%25D1%2580%25D0%25B3-%25D0%25B8%25D0%25B7-%25D1%2583%25D0%25BB/&sa=U&ved=0ahUKEwiJwYXOqbDXAhXHB5oKHQhGAKMQwW4IODAR&usg=AOvVaw20MZFLx01pmEIoBERtEQSC",
+            "py/object": "parser_result.Component",
+            "title": "ulyanovsk.tur-region.ruАвтобусные туры в Санкт-Петербург из Ульяновска 2017 ...630 Х 421; 116 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "ulyanovsk.tur-region.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.art-travel.ru/countries/spb_piu/reklamnik_spb&sa=U&ved=0ahUKEwiJwYXOqbDXAhXHB5oKHQhGAKMQwW4IOjAS&usg=AOvVaw2GJSr0VSF56fbqLFr4VkuC",
+            "py/object": "parser_result.Component",
+            "title": "art-travel.ruРекламный тур в Санкт-Петербург от туроператора \"Арт-Тревел\"800 Х 515; 144 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "art-travel.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://strana.ru/places/20649&sa=U&ved=0ahUKEwiJwYXOqbDXAhXHB5oKHQhGAKMQwW4IPDAT&usg=AOvVaw04sKmHNtO6JQXJmaQw3_kz",
+            "py/object": "parser_result.Component",
+            "title": "strana.ruСанкт-Петербург: достопримечательности, фото, видео, отзывы ...720 Х 400; 240 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "strana.ru"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

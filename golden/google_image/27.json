@@ -1,0 +1,165 @@
+{
+    "components": [
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.banki.ru/wikibank/sberbank_biznes_onlayn/&sa=U&ved=0ahUKEwilo_rKqbDXAhVKP5oKHek9BCMQwW4IFjAA&usg=AOvVaw1wANxGJ0LwT8cDcxs_qsCO",
+            "py/object": "parser_result.Component",
+            "title": "banki.ruСистема Сбербанка бизнес Онлайн | Банки.ру431 Х 241; 22 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "banki.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://mobilny-banking.ru/sberbank-biznes-onlajn/kak-otpravit-platezhnoe-poruchenie.html&sa=U&ved=0ahUKEwilo_rKqbDXAhVKP5oKHek9BCMQwW4IGDAB&usg=AOvVaw0JMFtRVSF_nEFmuIHn7Dos",
+            "py/object": "parser_result.Component",
+            "title": "mobilny-banking.ruКак отправить платежное поручение в Сбербанк Бизнес ОнЛайн ...640 Х 330; 181 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "mobilny-banking.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://creditvsberbanke.ru/sbbol/podpisat-platezhnoe-poruchenie-v-sberbank-biznes-online&sa=U&ved=0ahUKEwilo_rKqbDXAhVKP5oKHek9BCMQwW4IGjAC&usg=AOvVaw3bSSmzzEDE6oDsgiqp_IPO",
+            "py/object": "parser_result.Component",
+            "title": "creditvsberbanke.ruКак подписать платежное поручение в сбербанк бизнес онлайн и отправить995 Х 601; 150 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "creditvsberbanke.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://kudavlozitdengi.adne.info/sberbank-biznes-onlajn-kak-podklyuchitsya-vxod-preimushhestva-otzyvy/&sa=U&ved=0ahUKEwilo_rKqbDXAhVKP5oKHek9BCMQwW4IHDAD&usg=AOvVaw1wInQn8bL68bFKhDr34to6",
+            "py/object": "parser_result.Component",
+            "title": "kudavlozitdengi.adne.infoСбербанк Бизнес Онлайн: как войти, подключить и отзывы пользователей582 Х 182; 74 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "kudavlozitdengi.adne.info"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.b-sector.ru/11/202-sberbank-biznes-online.html&sa=U&ved=0ahUKEwilo_rKqbDXAhVKP5oKHek9BCMQwW4IHjAE&usg=AOvVaw08_n3ym-XfH7O-o0tfy0uK",
+            "py/object": "parser_result.Component",
+            "title": "b-sector.ruСбербанк Бизнес Онлайн615 Х 357; 45 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "b-sector.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://business-and-banks.ru/publ/biznes_i_sberbank/sberbank_biznes_onlajn/glav_stranic_sberbank_biznes_onlajn/2-1-0-152&sa=U&ved=0ahUKEwilo_rKqbDXAhVKP5oKHek9BCMQwW4IIDAF&usg=AOvVaw3QwBXMTTaWUz-q40LF2d-n",
+            "py/object": "parser_result.Component",
+            "title": "business-and-banks.ruРабота с главной страницей системы Сбербанк Бизнес ОнЛайн640 Х 291; 35 КБ - png",
+            "type": "IMAGE",
+            "view_url": "business-and-banks.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://www.sberbank.ru/ru/s_m_business/new_sbbol&sa=U&ved=0ahUKEwilo_rKqbDXAhVKP5oKHek9BCMQwW4IIjAG&usg=AOvVaw3XyVh26adWKS08krfbhrBu",
+            "py/object": "parser_result.Component",
+            "title": "sberbank.ruСбербанк» - Новый Сбербанк Бизнес Онлайн980 Х 361; 48 КБ - gif",
+            "type": "IMAGE",
+            "view_url": "sberbank.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://www.kakprosto.ru/kak-807097-kak-polzovatsya-bezopasno-sistemoy-sberbank-biznes-onlayn&sa=U&ved=0ahUKEwilo_rKqbDXAhVKP5oKHek9BCMQwW4IJDAH&usg=AOvVaw3ao4umqJ1oWBbWQ5wfkQrR",
+            "py/object": "parser_result.Component",
+            "title": "kakprosto.ruКак пользоваться безопасно системой Сбербанк бизнес Онлайн ...828 Х 410; 65 КБ - jpeg",
+            "type": "IMAGE",
+            "view_url": "kakprosto.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.sberloga.ru/articles/biznes/227-interface-sistemy-sberbank-biznes-online.html&sa=U&ved=0ahUKEwilo_rKqbDXAhVKP5oKHek9BCMQwW4IJjAI&usg=AOvVaw1bWeFw2MtqUNe3JVCkPmOz",
+            "py/object": "parser_result.Component",
+            "title": "sberloga.ruИнтерфейс системы Сбербанк Бизнес Онлайн542 Х 411; 58 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "sberloga.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.sberbank-gid.ru/articles/luchshij-finansovyj-servis-dlya-vashego-biznesa-sberbank-biznes-onlajn&sa=U&ved=0ahUKEwilo_rKqbDXAhVKP5oKHek9BCMQwW4IKDAJ&usg=AOvVaw2vVAtJGCXlyIsnux3Fe9ob",
+            "py/object": "parser_result.Component",
+            "title": "sberbank-gid.ruСбербанк Бизнес Онлайн: Тарифы, как подключиться, как войти ...640 Х 458; 22 КБ - png",
+            "type": "IMAGE",
+            "view_url": "sberbank-gid.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://investtalk.ru/sberbank-rossii/sberbank-biznes-onlajn-lichnyj-kabinet&sa=U&ved=0ahUKEwilo_rKqbDXAhVKP5oKHek9BCMQwW4IKjAK&usg=AOvVaw2zkEC-9ERuywIC_GkYDyjK",
+            "py/object": "parser_result.Component",
+            "title": "investtalk.ruСбербанк бизнес онлайн личный кабинет | Investtalk.ru800 Х 590; 68 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "investtalk.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://moscow-kredit.ru/sberbank-biznes-onlajn-pervyj-vxod-i-instrukciya/&sa=U&ved=0ahUKEwilo_rKqbDXAhVKP5oKHek9BCMQwW4ILDAL&usg=AOvVaw0rswiRviimRaUg18HYkiBd",
+            "py/object": "parser_result.Component",
+            "title": "moscow-kredit.ruСбербанк Бизнес Онлайн: первый вход и инструкция500 Х 281; 56 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "moscow-kredit.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://ve-graphics.ru/2017/04/%25D0%25BA%25D0%25B0%25D0%25BA-%25D1%2581%25D0%25BE%25D0%25B7%25D0%25B4%25D0%25B0%25D1%2582%25D1%258C-%25D0%25BD%25D0%25BE%25D0%25B2%25D0%25BE%25D0%25B3%25D0%25BE-%25D0%25BA%25D0%25BE%25D0%25BD%25D1%2582%25D1%2580%25D0%25B0%25D0%25B3%25D0%25B5%25D0%25BD%25D1%2582%25D0%25B0-%25D0%25B2-%25D1%2581%25D0%25B1%25D0%25B5%25D1%2580/&sa=U&ved=0ahUKEwilo_rKqbDXAhVKP5oKHek9BCMQwW4ILjAM&usg=AOvVaw1UzGOgejeSyOa2a3WenUFc",
+            "py/object": "parser_result.Component",
+            "title": "ve-graphics.ruКак создать нового контрагента в сбербанк бизнес онлайн — VE ...600 Х 464; 50 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "ve-graphics.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://sbankin.com/sberbank-biznes-onlajn&sa=U&ved=0ahUKEwilo_rKqbDXAhVKP5oKHek9BCMQwW4IMDAN&usg=AOvVaw3hevzQegRiFth368O_pWTK",
+            "py/object": "parser_result.Component",
+            "title": "sbankin.comСбербанк Бизнес ОнЛайн: вход в управление бизнесом через Интернет1057 Х 570; 463 КБ - png",
+            "type": "IMAGE",
+            "view_url": "sbankin.com"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://sber-office.ru/info/sistema-sberbank-biznes-onlain.php&sa=U&ved=0ahUKEwilo_rKqbDXAhVKP5oKHek9BCMQwW4IMjAO&usg=AOvVaw2RuCPGeqJ0G_BwQz-G0vDo",
+            "py/object": "parser_result.Component",
+            "title": "sber-office.ruСистема Сбербанк Бизнес Онлайн: интернет клиент 9443, вход в ...600 Х 318; 81 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "sber-office.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://profstroy-vl.ru/38/2017-02-14-2.php&sa=U&ved=0ahUKEwilo_rKqbDXAhVKP5oKHek9BCMQwW4INDAP&usg=AOvVaw3LqVRtukIOdYjp41egXgds",
+            "py/object": "parser_result.Component",
+            "title": "profstroy-vl.ruНастройка рабочих станций клиентов для работы с655 Х 594; 208 КБ - png",
+            "type": "IMAGE",
+            "view_url": "profstroy-vl.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://business-and-banks.ru/publ/biznes_i_sberbank/sberbank_biznes_onlajn/opisanie_platezhnykh_poruchenij/2-1-0-48&sa=U&ved=0ahUKEwilo_rKqbDXAhVKP5oKHek9BCMQwW4INjAQ&usg=AOvVaw1yNccr4O-Xe7gJVms9Xg4q",
+            "py/object": "parser_result.Component",
+            "title": "business-and-banks.ruОбщее описание платежных поручений в Сбербанк Бизнес ОнЛайн640 Х 675; 83 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "business-and-banks.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.sberloga.ru/sberbank-biznes-onlain.html&sa=U&ved=0ahUKEwilo_rKqbDXAhVKP5oKHek9BCMQwW4IODAR&usg=AOvVaw141jVAOQVAxiGS6w0oCWF8",
+            "py/object": "parser_result.Component",
+            "title": "sberloga.ruСбербанк Бизнес Онлайн: вход в систему через порт 9443 ic - личный ...789 Х 316; 34 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "sberloga.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://znatokdeneg.ru/uslugi-bankov/sberbank/sberbank-biznes-onlajn-instruktsiya-polzovatelya-dlya-yuridicheskih-lits.html&sa=U&ved=0ahUKEwilo_rKqbDXAhVKP5oKHek9BCMQwW4IOjAS&usg=AOvVaw0TfpkkBQfR-pfhBlfieEuy",
+            "py/object": "parser_result.Component",
+            "title": "znatokdeneg.ruСбербанк Бизнес Онлайн: инструкция и первый вход800 Х 777; 77 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "znatokdeneg.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://sbankami.ru/servisy/kak-raspechatat-vypisku-v-sberbank-biznes-onlajn.html&sa=U&ved=0ahUKEwilo_rKqbDXAhVKP5oKHek9BCMQwW4IPDAT&usg=AOvVaw2aPeZ3yp-610OXyLfF79cK",
+            "py/object": "parser_result.Component",
+            "title": "sbankami.ruКак распечатать выписку в Сбербанк Бизнес онлайн: порядок и настройки600 Х 387; 56 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "sbankami.ru"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

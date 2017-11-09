@@ -1,0 +1,165 @@
+{
+    "components": [
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://karelnovosti.ru/kurs-dollar-i-evro-teryayut-v-cene-rubl-rastet/&sa=U&ved=0ahUKEwjGq-3GqbDXAhUIYpoKHVOMCfoQwW4IFjAA&usg=AOvVaw0XRLxCKssRduaiyAVkgOZi",
+            "py/object": "parser_result.Component",
+            "title": "karelnovosti.ruКурс: доллар и евро теряют в цене, рубль растет900 Х 517; 202 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "karelnovosti.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.ntv.ru/novosti/1638241/&sa=U&ved=0ahUKEwjGq-3GqbDXAhUIYpoKHVOMCfoQwW4IGDAB&usg=AOvVaw22kBalTW9eRXENC3WrgW_S",
+            "py/object": "parser_result.Component",
+            "title": "ntv.ruКурс доллара подскочил почти на 4 рубля // НТВ.Ru1024 Х 539; 86 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "ntv.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://24smi.org/news/48013-prognoz-kursa-dollara-na-2017-god-chto-budet-s-rub.html&sa=U&ved=0ahUKEwjGq-3GqbDXAhUIYpoKHVOMCfoQwW4IGjAC&usg=AOvVaw1POLxgDR3c6W3cyPYC-398",
+            "py/object": "parser_result.Component",
+            "title": "24smi.orgПрогноз курса доллара на 2017 год: что будет с рублем, прогнозы ...800 Х 500; 41 КБ - jpeg",
+            "type": "IMAGE",
+            "view_url": "24smi.org"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.ntv.ru/novosti/1625399/&sa=U&ved=0ahUKEwjGq-3GqbDXAhUIYpoKHVOMCfoQwW4IHDAD&usg=AOvVaw09BasA6O_SPFbLsPYmEV6r",
+            "py/object": "parser_result.Component",
+            "title": "ntv.ruКурс доллара опустился ниже 64 рублей впервые с ноября // НТВ.Ru1024 Х 576; 115 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "ntv.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://rusjev.net/2016/02/11/rubl-budet-devalvirovan-v-blizhayshee-vremya/&sa=U&ved=0ahUKEwjGq-3GqbDXAhUIYpoKHVOMCfoQwW4IHjAE&usg=AOvVaw3fkRsysBbdq0A6H6zNSwDB",
+            "py/object": "parser_result.Component",
+            "title": "rusjev.netРубль будет девальвирован в ближайшее время — курс доллара может ...400 Х 281; 41 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "rusjev.net"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.topnews.ru/news_id_98506.html&sa=U&ved=0ahUKEwjGq-3GqbDXAhUIYpoKHVOMCfoQwW4IIDAF&usg=AOvVaw1yvXVOAjl4-zbm9a7bf2OR",
+            "py/object": "parser_result.Component",
+            "title": "topnews.ruКурс доллара на сегодня, 18 января 2017: курс доллара снижается ...340 Х 255; 32 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "topnews.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://rusjev.net/2017/01/14/kurs-dollara-rossiyskiy-valyutnyiy-puzyir-vot-vot-lopnet/&sa=U&ved=0ahUKEwjGq-3GqbDXAhUIYpoKHVOMCfoQwW4IIjAG&usg=AOvVaw1o0l_gMOjNtdS05SuS3rxQ",
+            "py/object": "parser_result.Component",
+            "title": "rusjev.netКурс доллара — российский валютный пузырь вот-вот лопнет « Русский ...400 Х 273; 35 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "rusjev.net"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://aisttv.ru/%25D0%25BA%25D1%2583%25D1%2580%25D1%2581-%25D0%25B4%25D0%25BE%25D0%25BB%25D0%25BB%25D0%25B0%25D1%2580%25D0%25B0-%25D1%2583%25D0%25BF%25D0%25B0%25D0%25BB-%25D0%25BD%25D0%25B8%25D0%25B6%25D0%25B5-50-%25D1%2580%25D1%2583%25D0%25B1%25D0%25BB%25D0%25B5%25D0%25B9/&sa=U&ved=0ahUKEwjGq-3GqbDXAhUIYpoKHVOMCfoQwW4IJDAH&usg=AOvVaw1-8-rHW47lI6bgWHoDj3jp",
+            "py/object": "parser_result.Component",
+            "title": "aisttv.ruКурс доллара упал ниже 50 рублей | АИСТ670 Х 400; 136 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "aisttv.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://binaro.ru/analytics/kurs-dollar-evro-analitik-prognoz-22-08-2017.html&sa=U&ved=0ahUKEwjGq-3GqbDXAhUIYpoKHVOMCfoQwW4IJjAI&usg=AOvVaw0nKimzZwVl49YGpY_RdaHt",
+            "py/object": "parser_result.Component",
+            "title": "binaro.ruКурс доллара и евро: обзор рынка и прогноз на завтра от аналитика980 Х 630; 121 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "binaro.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.ntv.ru/novosti/1451217/&sa=U&ved=0ahUKEwjGq-3GqbDXAhUIYpoKHVOMCfoQwW4IKDAJ&usg=AOvVaw0MOz5Wtu1HKlMfZ70LO0WH",
+            "py/object": "parser_result.Component",
+            "title": "ntv.ruКурс доллара впервые с 20 марта поднялся выше 60 рублей // НТВ.Ru1024 Х 576; 274 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "ntv.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.forexpf.ru/currency_usd.asp&sa=U&ved=0ahUKEwjGq-3GqbDXAhUIYpoKHVOMCfoQwW4IKjAK&usg=AOvVaw13fW797QzWvfxDybFH6nXL",
+            "py/object": "parser_result.Component",
+            "title": "forexpf.ruКурс доллара онлайн | Курс доллара к рублю Forex | Официальный курс ЦБ660 Х 340; 8 КБ",
+            "type": "IMAGE",
+            "view_url": "forexpf.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://mk-turkey.ru/economics/2013/03/19/v-turcii-vyros-kurs-dollara.html&sa=U&ved=0ahUKEwjGq-3GqbDXAhUIYpoKHVOMCfoQwW4ILDAL&usg=AOvVaw2DvdRhAbNdLGNeTfP4G3NQ",
+            "py/object": "parser_result.Component",
+            "title": "mk-turkey.ruВ Турции вырос курс доллара | МК-Турция630 Х 350; 128 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "mk-turkey.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.amn.com.ua/rizne/nazvan-kurs-dollara-k-kontsu-2017-goda/&sa=U&ved=0ahUKEwjGq-3GqbDXAhUIYpoKHVOMCfoQwW4ILjAM&usg=AOvVaw3Pm5p61g9YuLIeZI6fq-zK",
+            "py/object": "parser_result.Component",
+            "title": "amn.com.uaНазван курс доллара к концу 2017 года – AMН740 Х 415; 64 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "amn.com.ua"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://ktv-ray.ru/novost/v-sberbanke-sprognozirovali-sredniy-kurs-dollara-na-tri-goda-vpered/20317/&sa=U&ved=0ahUKEwjGq-3GqbDXAhUIYpoKHVOMCfoQwW4IMDAN&usg=AOvVaw2U14i-JAcaPkekaKC2XV_I",
+            "py/object": "parser_result.Component",
+            "title": "ktv-ray.ruВ Сбербанке спрогнозировали средний курс доллара на три года ...960 Х 640; 232 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "ktv-ray.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://xakac.info/news/37585&sa=U&ved=0ahUKEwjGq-3GqbDXAhUIYpoKHVOMCfoQwW4IMjAO&usg=AOvVaw3pOUAGElo-GGLIfbGksZLr",
+            "py/object": "parser_result.Component",
+            "title": "xakac.infoКурс доллара на Московской бирже упал ниже 50 рублей450 Х 300; 37 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "xakac.info"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://polit.ru/news/2016/02/01/dollar76/&sa=U&ved=0ahUKEwjGq-3GqbDXAhUIYpoKHVOMCfoQwW4INDAP&usg=AOvVaw1Zo0dEr95G4_pKlPpYIWu_",
+            "py/object": "parser_result.Component",
+            "title": "polit.ruКурс доллара превысил 76 рублей - ПОЛИТ.РУ600 Х 450; 96 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "polit.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.bombla.org/kurs-dollara-na-fevral-2016-prognoz/&sa=U&ved=0ahUKEwjGq-3GqbDXAhUIYpoKHVOMCfoQwW4INjAQ&usg=AOvVaw1kjXOUyL1s9hlF_wwiUDx9",
+            "py/object": "parser_result.Component",
+            "title": "bombla.orgКурс доллара на февраль 2016 (прогноз)670 Х 447; 239 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "bombla.org"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.livekuban.ru/news/ekonomika/kurs-dollara-povysilsya-do-68-rubley/&sa=U&ved=0ahUKEwjGq-3GqbDXAhUIYpoKHVOMCfoQwW4IODAR&usg=AOvVaw2LaWsPBKNimp4C6BSLPqH1",
+            "py/object": "parser_result.Component",
+            "title": "livekuban.ruКурс доллара повысился до 68 рублей396 Х 295; 131 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "livekuban.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://litcult.ru/news2.news3/10019&sa=U&ved=0ahUKEwjGq-3GqbDXAhUIYpoKHVOMCfoQwW4IOjAS&usg=AOvVaw0YTnePl1ZOMvL1ZHUNOh-N",
+            "py/object": "parser_result.Component",
+            "title": "litcult.ruЛитКульт — Курс доллара: важные внешние и внутренние факторы968 Х 544; 43 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "litcult.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://bw4u.ru/news/60/1365/&sa=U&ved=0ahUKEwjGq-3GqbDXAhUIYpoKHVOMCfoQwW4IPDAT&usg=AOvVaw16vn78HaVHbEro2_Ma1UDT",
+            "py/object": "parser_result.Component",
+            "title": "bw4u.ruКурс доллара на сегодня, 2 ноября 2014 года ЦБ РФ610 Х 272; 70 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "bw4u.ru"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

@@ -1,0 +1,165 @@
+{
+    "components": [
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://news.meloman.kz/tv/&sa=U&ved=0ahUKEwizncfFqbDXAhWqFZoKHRZ5AtYQwW4IFjAA&usg=AOvVaw13z6M8wHcEP3iAxP6EJ5dr",
+            "py/object": "parser_result.Component",
+            "title": "news.meloman.kzПрограмма ТВ - «Меломан»178 Х 220; 10 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "news.meloman.kz"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.nevyansk.org.ru/index/programma_tv/0-66&sa=U&ved=0ahUKEwizncfFqbDXAhWqFZoKHRZ5AtYQwW4IGDAB&usg=AOvVaw38ODfusrGqHPCej8CqtJZZ",
+            "py/object": "parser_result.Component",
+            "title": "nevyansk.org.ruПрограмма ТВ - Невьянск307 Х 230; 53 КБ - png",
+            "type": "IMAGE",
+            "view_url": "nevyansk.org.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://iskra-kungur.ru/all/2014/01/17/7490/&sa=U&ved=0ahUKEwizncfFqbDXAhWqFZoKHRZ5AtYQwW4IGjAC&usg=AOvVaw1y-QkcAUMTrXlHL59z6if4",
+            "py/object": "parser_result.Component",
+            "title": "iskra-kungur.ruНОВОСТИ - ТВ-программа кунгурской газеты \"Искра\" будет вдвое больше453 Х 300; 23 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "iskra-kungur.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://ponderosan.ru/tv-programma-onlayn-na-segodnya-nedelyu/&sa=U&ved=0ahUKEwizncfFqbDXAhWqFZoKHRZ5AtYQwW4IHDAD&usg=AOvVaw1yI7_RG0YWPeuYQ4tnT2m-",
+            "py/object": "parser_result.Component",
+            "title": "ponderosan.ruТВ ГИД ПРОГРАММА ТЕЛЕПЕРЕДАЧ, Программа передач на сегодня | Блог ...753 Х 842; 180 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "ponderosan.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://www.teleguide.info/article11.html&sa=U&ved=0ahUKEwizncfFqbDXAhWqFZoKHRZ5AtYQwW4IHjAE&usg=AOvVaw0nh8oi7MbJ3rxMeJ0hBInp",
+            "py/object": "parser_result.Component",
+            "title": "teleguide.infoНастройка ПО Behold TV для работы с телепрограммой / Телепрограмма ...631 Х 579; 27 КБ - gif",
+            "type": "IMAGE",
+            "view_url": "teleguide.info"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://botvet.ru/842-gde-posmotret-programmu-tv-na-segodnya.html&sa=U&ved=0ahUKEwizncfFqbDXAhWqFZoKHRZ5AtYQwW4IIDAF&usg=AOvVaw2SJ7JvpW0LCUTQdj02BOJo",
+            "py/object": "parser_result.Component",
+            "title": "botvet.ruпосмотреть программу ТВ на сегодня?1280 Х 1024; 267 КБ - png",
+            "type": "IMAGE",
+            "view_url": "botvet.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://website.yutrk.tv/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D468%26Itemid%3D134&sa=U&ved=0ahUKEwizncfFqbDXAhWqFZoKHRZ5AtYQwW4IIjAG&usg=AOvVaw1bmQUZjXE7lDVbJ-UkW9Kz",
+            "py/object": "parser_result.Component",
+            "title": "website.yutrk.tvПрограмма ТВ1143 Х 451; 216 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "website.yutrk.tv"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://gamer-android.ru/programs/multimedia/tv/2623-online-tv-onlayn-tv.html&sa=U&ved=0ahUKEwizncfFqbDXAhWqFZoKHRZ5AtYQwW4IJDAH&usg=AOvVaw0JkTmsMU4C6o6natgtx3Nx",
+            "py/object": "parser_result.Component",
+            "title": "gamer-android.ruПрограмма Online TV (Онлайн ТВ) v1.2.2 - Все для Android500 Х 250; 43 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "gamer-android.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://droidnews.ru/tv-programma-chto-posmotret-v-vyhodnye&sa=U&ved=0ahUKEwizncfFqbDXAhWqFZoKHRZ5AtYQwW4IJjAI&usg=AOvVaw1vvLDSZOVmrISupbWYWuBS",
+            "py/object": "parser_result.Component",
+            "title": "droidnews.ruТВ Программа - что посмотреть в выходные?644 Х 482; 60 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "droidnews.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.lab14.narod.ru/listtv.htm&sa=U&ved=0ahUKEwizncfFqbDXAhWqFZoKHRZ5AtYQwW4IKDAJ&usg=AOvVaw0k47tiLYAolo3MCywwngZV",
+            "py/object": "parser_result.Component",
+            "title": "lab14.narod.rulab14 / ListTV1047 Х 771; 158 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "lab14.narod.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://tv.sb.by/&sa=U&ved=0ahUKEwizncfFqbDXAhWqFZoKHRZ5AtYQwW4IKjAK&usg=AOvVaw3Sr9s28-HIkTmS23wpWOKp",
+            "py/object": "parser_result.Component",
+            "title": "tv.sb.byПрограмма ТВ-передач. Все каналы Беларуси. ТВ-программа на сегодня ...800 Х 203; 6 КБ - svg",
+            "type": "IMAGE",
+            "view_url": "tv.sb.by"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://ifolderlinks.ru/soft/programma-dlya-prosmotra-tv-i-videoplayer-paromtv-v11-final-rus-portable.html&sa=U&ved=0ahUKEwizncfFqbDXAhWqFZoKHRZ5AtYQwW4ILDAL&usg=AOvVaw1cMwb-9CgqwxyZNuqdmwBC",
+            "py/object": "parser_result.Component",
+            "title": "ifolderlinks.ruПрограмма для просмотра ТВ и видео.Player Parom.TV v1.1 Final (Рус ...500 Х 387; 48 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "ifolderlinks.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://botvet.ru/842-gde-posmotret-programmu-tv-na-segodnya.html&sa=U&ved=0ahUKEwizncfFqbDXAhWqFZoKHRZ5AtYQwW4ILjAM&usg=AOvVaw1j_7cCBi3scnF-E4yLEIp_",
+            "py/object": "parser_result.Component",
+            "title": "botvet.ruпосмотреть программу ТВ на сегодня?1280 Х 1024; 354 КБ - png",
+            "type": "IMAGE",
+            "view_url": "botvet.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://kuraryaba.de/poleznye-programmy/204-listtv-programma-peredach-russkogo-tv&sa=U&ved=0ahUKEwizncfFqbDXAhWqFZoKHRZ5AtYQwW4IMDAN&usg=AOvVaw3bUYYQavQa6XSNZYcEX4lU",
+            "py/object": "parser_result.Component",
+            "title": "kuraryaba.deListTV. Программа передач русского TV700 Х 560; 48 КБ - gif",
+            "type": "IMAGE",
+            "view_url": "kuraryaba.de"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.hwp.ru/articles/TV-tyuner_dlya_rossiyskih_dorog_-_programmniy_apgreyd_GoTView_PCI_do_statusa_PRO/&sa=U&ved=0ahUKEwizncfFqbDXAhWqFZoKHRZ5AtYQwW4IMjAO&usg=AOvVaw2b7X6plvZQ4RdP8IqyhJ_1",
+            "py/object": "parser_result.Component",
+            "title": "hwp.ruТВ-тюнер для российских дорог - программный апгрейд GoTView PCI до ...612 Х 529; 23 КБ - gif",
+            "type": "IMAGE",
+            "view_url": "hwp.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://programma.delfi.lv/&sa=U&ved=0ahUKEwizncfFqbDXAhWqFZoKHRZ5AtYQwW4INDAP&usg=AOvVaw1IW8bWlyM34EFmRm8vLmle",
+            "py/object": "parser_result.Component",
+            "title": "programma.delfi.lvDELFI ТВ-программа800 Х 316; 36 КБ - svg",
+            "type": "IMAGE",
+            "view_url": "programma.delfi.lv"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.vb.kg/doc/219558_v_tv_programme_gazety_vecherniy_bishkek_ydvoilos_kolichestvo_telekanalov.html&sa=U&ved=0ahUKEwizncfFqbDXAhWqFZoKHRZ5AtYQwW4INjAQ&usg=AOvVaw2MG1oPP7yR-XKUXZtS3x5T",
+            "py/object": "parser_result.Component",
+            "title": "vb.kgТВ-программе газеты \"Вечерний Бишкек\" удвоилось количество телеканалов1000 Х 617; 285 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "vb.kg"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://dolontv.kg/%3Fp%3D236&sa=U&ved=0ahUKEwizncfFqbDXAhWqFZoKHRZ5AtYQwW4IODAR&usg=AOvVaw36Y__em6k2IlZESemeCI3S",
+            "py/object": "parser_result.Component",
+            "title": "dolontv.kgПрограмма передач SRTV | Долон ТВ503 Х 312; 90 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "dolontv.kg"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://xn-----6kcjqaqde2bhb2buge.xn--p1ai/%25D1%2581%25D0%25BE%25D1%2584%25D1%2582/%25D0%25B8%25D0%25BD%25D1%2582%25D0%25B5%25D1%2580%25D0%25B5%25D1%2581%25D0%25BD%25D1%258B%25D0%25B9/%25D1%2582%25D0%25B5%25D0%25BB%25D0%25B5%25D0%25BF%25D1%2580%25D0%25BE%25D0%25B3%25D1%2580%25D0%25B0%25D0%25BC%25D0%25BC%25D0%25B0.html&sa=U&ved=0ahUKEwizncfFqbDXAhWqFZoKHRZ5AtYQwW4IOjAS&usg=AOvVaw1Q-ViYWNjYczSGu-v12U2L",
+            "py/object": "parser_result.Component",
+            "title": "xn-----6kcjqaqde2bhb2b...Скачать телепрограмму. Программа для скачивания телепрограммы из ...700 Х 340; 55 КБ - png",
+            "type": "IMAGE",
+            "view_url": "xn-----6kcjqaqde2bhb2buge.xn--p1ai"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://guaho-music.com/file-tv-programma-polnaya-versiya-apk&sa=U&ved=0ahUKEwizncfFqbDXAhWqFZoKHRZ5AtYQwW4IPDAT&usg=AOvVaw2PZpEw6foN_zFCbH77rmf1",
+            "py/object": "parser_result.Component",
+            "title": "guaho-music.comЗагрузить взломанную полную программу ТВ-программа (полная версия ...300 Х 300; 91 КБ",
+            "type": "IMAGE",
+            "view_url": "guaho-music.com"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

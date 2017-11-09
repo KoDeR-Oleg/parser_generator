@@ -1,0 +1,165 @@
+{
+    "components": [
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.autoracer.ru/map/&sa=U&ved=0ahUKEwjalo_KqbDXAhVIM5oKHTbVDpEQwW4IFjAA&usg=AOvVaw04R2Oe5Tqdaj6z3oqrSu2D",
+            "py/object": "parser_result.Component",
+            "title": "autoracer.ruAutoRacer.ru | карты Москвы, Московской области, карты Санкт ...2360 Х 2969; 1576 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "autoracer.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://nakartemira.com/karta/moskvy.html&sa=U&ved=0ahUKEwjalo_KqbDXAhVIM5oKHTbVDpEQwW4IGDAB&usg=AOvVaw34RLm-s0tUwE5q3Dd3axb3",
+            "py/object": "parser_result.Component",
+            "title": "nakartemira.comКАРТА МОСКВЫ И ОБЛАСТИ. Карта московского метро960 Х 721; 152 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "nakartemira.com"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://www.tourister.ru/world/europe/russia/city/moscow/map&sa=U&ved=0ahUKEwjalo_KqbDXAhVIM5oKHTbVDpEQwW4IGjAC&usg=AOvVaw3hOCa6GBjZj8Ns8q8E-cl4",
+            "py/object": "parser_result.Component",
+            "title": "tourister.ruКарта Москвы и Московской области. Гостиницы Москвы на карте ...1770 Х 1618; 2433 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "tourister.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://nemiga.info/moskva/karta/karta_moskvy.htm&sa=U&ved=0ahUKEwjalo_KqbDXAhVIM5oKHTbVDpEQwW4IHDAD&usg=AOvVaw3is9A62jAp-Xceo7O0Zk2W",
+            "py/object": "parser_result.Component",
+            "title": "nemiga.infoКарта вокзалов Москвы. Вокзалы Москвы на карте. Где находится Где ...2048 Х 1451; 648 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "nemiga.info"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.atlas-print.ru/shop/list/nastennye_karty_moskvy/&sa=U&ved=0ahUKEwjalo_KqbDXAhVIM5oKHTbVDpEQwW4IHjAE&usg=AOvVaw0dot60OTP0A7CH4FVws7oj",
+            "py/object": "parser_result.Component",
+            "title": "atlas-print.ruНастенные карты. Атласы. Москва - Настенные карты Москвы1181 Х 1580; 952 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "atlas-print.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.atlas-print.ru/shop/list/nastennye_karty_moskvy/&sa=U&ved=0ahUKEwjalo_KqbDXAhVIM5oKHTbVDpEQwW4IIDAF&usg=AOvVaw0r2Mz9VzjrvxLuUjYN9Oi3",
+            "py/object": "parser_result.Component",
+            "title": "atlas-print.ruНастенные карты. Атласы. Москва - Настенные карты Москвы1180 Х 1580; 918 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "atlas-print.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.zakonprost.ru/article/324&sa=U&ved=0ahUKEwjalo_KqbDXAhVIM5oKHTbVDpEQwW4IIjAG&usg=AOvVaw1tF4hHi0VOiQF-TI5xC3Qm",
+            "py/object": "parser_result.Component",
+            "title": "zakonprost.ruКарта Москвы в 2017 году: территория административных округов и ...428 Х 581; 144 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "zakonprost.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://retromap.ru/show_pid.php%3Fpid%3Dg1693&sa=U&ved=0ahUKEwjalo_KqbDXAhVIM5oKHTbVDpEQwW4IJDAH&usg=AOvVaw13Qk3obSFyxEoaIE_wdZnB",
+            "py/object": "parser_result.Component",
+            "title": "retromap.ruЯндекс карта | История Москвы в картинках540 Х 540; 95 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "retromap.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://www.tourister.ru/world/europe/russia/city/moscow/map&sa=U&ved=0ahUKEwjalo_KqbDXAhVIM5oKHTbVDpEQwW4IJjAI&usg=AOvVaw1IBkBnUkla9sBn9JU45c3n",
+            "py/object": "parser_result.Component",
+            "title": "tourister.ruКарта Москвы и Московской области. Гостиницы Москвы на карте ...2455 Х 1800; 1565 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "tourister.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://kreml-msk.ru/moscow.html&sa=U&ved=0ahUKEwjalo_KqbDXAhVIM5oKHTbVDpEQwW4IKDAJ&usg=AOvVaw2aTxg3ZVeArY2WnTcc1F-E",
+            "py/object": "parser_result.Component",
+            "title": "kreml-msk.ruКарта Москвы1446 Х 2048; 1555 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "kreml-msk.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.orangesmile.com/destinations/moscow/city-maps.htm&sa=U&ved=0ahUKEwjalo_KqbDXAhVIM5oKHTbVDpEQwW4IKjAK&usg=AOvVaw2rCo97470x3kRLTCva1vxN",
+            "py/object": "parser_result.Component",
+            "title": "orangesmile.comКарта Москвы - Интерактивная и подробная карты Москвы - Скачать ...1922 Х 2109; 802 КБ - gif",
+            "type": "IMAGE",
+            "view_url": "orangesmile.com"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://saletur.ru/%25D0%25A0%25D0%25BE%25D1%2581%25D1%2581%25D0%25B8%25D1%258F/%25D0%259C%25D0%25BE%25D1%2581%25D0%25BA%25D0%25B2%25D0%25B0/maps/&sa=U&ved=0ahUKEwjalo_KqbDXAhVIM5oKHTbVDpEQwW4ILDAL&usg=AOvVaw0xkgnhM16xsft2rFbWJ1SK",
+            "py/object": "parser_result.Component",
+            "title": "saletur.ruКарты Москвы (Россия). Подробная карта Москвы на русском языке с ...1600 Х 1200; 606 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "saletur.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://www.gid495.ru/index.php%3Fm%3D16%26sm%3D2&sa=U&ved=0ahUKEwjalo_KqbDXAhVIM5oKHTbVDpEQwW4ILjAM&usg=AOvVaw0t8r0EU8ckAlIG4oiz6yuR",
+            "py/object": "parser_result.Component",
+            "title": "gid495.ruКарта Москвы650 Х 840; 97 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "gid495.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://moscowchronology.ru/citymaps_80s.html&sa=U&ved=0ahUKEwjalo_KqbDXAhVIM5oKHTbVDpEQwW4IMDAN&usg=AOvVaw15cHsz-v4u6xvrjbZa5t7-",
+            "py/object": "parser_result.Component",
+            "title": "moscowchronology.ruКарта Москвы 80-х годов (1989г.)920 Х 1200; 348 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "moscowchronology.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=https://www.tourister.ru/world/europe/russia/city/moscow/map&sa=U&ved=0ahUKEwjalo_KqbDXAhVIM5oKHTbVDpEQwW4IMjAO&usg=AOvVaw1ZwmXrjSspp6sI9xt3hNvu",
+            "py/object": "parser_result.Component",
+            "title": "tourister.ruКарта Москвы и Московской области. Гостиницы Москвы на карте ...1500 Х 1995; 1231 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "tourister.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://euro-map.com/karty-rossii/moskva/&sa=U&ved=0ahUKEwjalo_KqbDXAhVIM5oKHTbVDpEQwW4INDAP&usg=AOvVaw0xcuaAKyhewG377r98XtSh",
+            "py/object": "parser_result.Component",
+            "title": "euro-map.comКарты Москвы | Подробная карта города Москва с улицами и домами ...2545 Х 1947; 2736 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "euro-map.com"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://nasamoletah.ru/doroga/aeroporty-moskvy-na-karte.html&sa=U&ved=0ahUKEwjalo_KqbDXAhVIM5oKHTbVDpEQwW4INjAQ&usg=AOvVaw2LBoGf7N6FnuHL1cswQSPI",
+            "py/object": "parser_result.Component",
+            "title": "nasamoletah.ruАэропорты на карте Москвы: Шереметьево, Домодедово, Внуково1024 Х 1024; 240 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "nasamoletah.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://mapsmarket.ru/&sa=U&ved=0ahUKEwjalo_KqbDXAhVIM5oKHTbVDpEQwW4IODAR&usg=AOvVaw0h_ytt5uw7oo2xj2xJJign",
+            "py/object": "parser_result.Component",
+            "title": "mapsmarket.ruКартографический Магазин | Весь мир у вас на стене! | Интернет ...1000 Х 1345; 596 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "mapsmarket.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://map-msk.ru/&sa=U&ved=0ahUKEwjalo_KqbDXAhVIM5oKHTbVDpEQwW4IOjAS&usg=AOvVaw0bULqYrU3nUWbthYHtMwRN",
+            "py/object": "parser_result.Component",
+            "title": "map-msk.ruКарта Новой Москвы1553 Х 2048; 724 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "map-msk.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/url?q=http://travelask.ru/russia/moscow/map&sa=U&ved=0ahUKEwjalo_KqbDXAhVIM5oKHTbVDpEQwW4IPDAT&usg=AOvVaw3206SA9cbm-sQnLo_TRX5l",
+            "py/object": "parser_result.Component",
+            "title": "travelask.ruПодробная карта Москвы с достопримечательностями на русском языке ...2000 Х 2051; 754 КБ - jpg",
+            "type": "IMAGE",
+            "view_url": "travelask.ru"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}
