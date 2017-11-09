@@ -1,4 +1,5 @@
 import jsonpickle
+from markups.markup import Markup
 
 
 class FullPath(object):
@@ -13,7 +14,7 @@ class FullPath(object):
         return self.xpath + "." + self.attr
 
 
-class MarkupComponent(object):
+class SearchMarkupComponent(object):
     def __init__(self):
         self.type = None
         self.alignment = None
@@ -28,9 +29,9 @@ class MarkupComponent(object):
         return self.__dict__ == other.__dict__
 
 
-class MarkupSearchResult(MarkupComponent):
+class SearchMarkupSearchResult(SearchMarkupComponent):
     def __init__(self):
-        MarkupComponent.__init__(self)
+        SearchMarkupComponent.__init__(self)
         self.type = "SEARCH_RESULT"
         self.snippet = None
         self.view_url = None
@@ -39,9 +40,9 @@ class MarkupSearchResult(MarkupComponent):
         return self.__dict__ == other.__dict__
 
 
-class MarkupWizardImage(MarkupComponent):
+class SearchMarkupWizardImage(SearchMarkupComponent):
     def __init__(self):
-        MarkupComponent.__init__(self)
+        SearchMarkupComponent.__init__(self)
         self.type = "WIZARD"
         self.wizard_type = "WIZARD_IMAGE"
         self.media_links = list()
@@ -50,9 +51,9 @@ class MarkupWizardImage(MarkupComponent):
         return self.__dict__ == other.__dict__
 
 
-class MarkupWizardNews(MarkupComponent):
+class SearchMarkupWizardNews(SearchMarkupComponent):
     def __init__(self):
-        MarkupComponent.__init__(self)
+        SearchMarkupComponent.__init__(self)
         self.type = "WIZARD"
         self.wizard_type = "WIZARD_NEWS"
 
@@ -60,7 +61,7 @@ class MarkupWizardNews(MarkupComponent):
         return self.__dict__ == other.__dict__
 
 
-class Markup(object):
+class SearchMarkup(Markup):
     def __init__(self):
         self.file = None
         self.components = list()

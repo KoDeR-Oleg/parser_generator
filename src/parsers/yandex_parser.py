@@ -1,6 +1,6 @@
 from lxml import html
 
-from markups.search_markup import MarkupSearchResult, FullPath, Markup, MarkupWizardImage, MarkupWizardNews
+from markups.search_markup import SearchMarkupSearchResult, FullPath, SearchMarkup, SearchMarkupWizardImage, SearchMarkupWizardNews
 from parser_result import ParserResult, Component
 from parsers.parser import Parser
 
@@ -41,7 +41,7 @@ class YandexParser(Parser):
         return text
 
     def extract_search_result(self, element):
-        search_result = MarkupSearchResult()
+        search_result = SearchMarkupSearchResult()
         search_result.alignment = "LEFT"
         search_result.page_url = FullPath(YandexParser.get_path(element) + "/h2/a", "href")
         search_result.title = FullPath(YandexParser.get_path(element) + "/h2/a", "string")
@@ -60,7 +60,7 @@ class YandexParser(Parser):
         return search_result
 
     def extract_wizard_image(self, element):
-        wizard = MarkupWizardImage()
+        wizard = SearchMarkupWizardImage()
         wizard.alignment = "LEFT"
         img_list = element.xpath("./div[2]/div/div/div/a")
         for img in img_list:
@@ -83,7 +83,7 @@ class YandexParser(Parser):
         return wizard
 
     def extract_wizard_news(self, element):
-        wizard = MarkupWizardNews()
+        wizard = SearchMarkupWizardNews()
         wizard.alignment = "LEFT"
         wizard.page_url = FullPath(YandexParser.get_path(element) + "/div[1]/h2/a[2]", "href")
         wizard.title = FullPath(YandexParser.get_path(element) + "/div[1]/h2/a[2]", "string")
@@ -101,7 +101,7 @@ class YandexParser(Parser):
     def extract_markup(self, file_name):
         with open(file_name, "r") as file:
             tree = html.document_fromstring(file.read())
-        markup = Markup()
+        markup = SearchMarkup()
         markup.file = file_name.split('/')[-1]
         block_list = tree.xpath("//html/body/div[3]/div/div[2]/div/div/ul/li/div")
         for block in block_list:

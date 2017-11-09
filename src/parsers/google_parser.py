@@ -1,6 +1,6 @@
 from lxml import html
 
-from markups.search_markup import MarkupSearchResult, FullPath, Markup, MarkupWizardImage
+from markups.search_markup import SearchMarkupSearchResult, FullPath, SearchMarkup, SearchMarkupWizardImage
 from parser_result import ParserResult, Component
 from parsers.parser import Parser
 
@@ -26,7 +26,7 @@ class GoogleParser(Parser):
         return path
 
     def extract_search_result(self, element):
-        search_result = MarkupSearchResult()
+        search_result = SearchMarkupSearchResult()
         search_result.alignment = "LEFT"
         search_result.page_url = FullPath(GoogleParser.get_path(element) + "/h3/a", "href")
         search_result.title = FullPath(GoogleParser.get_path(element) + "/h3/a", "string")
@@ -60,7 +60,7 @@ class GoogleParser(Parser):
         return search_result
 
     def extract_wizard_image(self, element):
-        wizard = MarkupWizardImage()
+        wizard = SearchMarkupWizardImage()
         wizard.alignment = "LEFT"
         img_list = element.xpath("./div[2]/div/div/div/div/div/div/div/div/div/a/g-img/img")
         for img in img_list:
@@ -85,7 +85,7 @@ class GoogleParser(Parser):
     def extract_markup(self, file_name):
         with open(file_name, "r") as file:
             tree = html.document_fromstring(file.read())
-        markup = Markup()
+        markup = SearchMarkup()
         markup.file = file_name.split('/')[-1]
         block_list = tree.xpath("//html/body/div[7]/div[3]/div[10]/div[1]/div[2]/div/div[2]/div[2]/div/div/div/div")
         for block in block_list:
