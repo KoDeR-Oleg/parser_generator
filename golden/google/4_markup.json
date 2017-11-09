@@ -7,7 +7,7 @@
                 "py/object": "markups.search_markup.FullPath",
                 "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[1]/h3/a"
             },
-            "py/object": "markups.search_markup.MarkupSearchResult",
+            "py/object": "markups.search_markup.SearchMarkupSearchResult",
             "snippet": {
                 "attr": "strings",
                 "py/object": "markups.search_markup.FullPath",
@@ -32,7 +32,7 @@
                 "py/object": "markups.search_markup.FullPath",
                 "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[2]/div[1]/h3[1]/a[1]"
             },
-            "py/object": "markups.search_markup.MarkupWizardNews",
+            "py/object": "markups.search_markup.SearchMarkupWizardNews",
             "title": {
                 "attr": "string",
                 "py/object": "markups.search_markup.FullPath",
@@ -48,7 +48,7 @@
                 "py/object": "markups.search_markup.FullPath",
                 "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[3]/h3/a"
             },
-            "py/object": "markups.search_markup.MarkupSearchResult",
+            "py/object": "markups.search_markup.SearchMarkupSearchResult",
             "snippet": {
                 "attr": "strings",
                 "py/object": "markups.search_markup.FullPath",
@@ -73,7 +73,7 @@
                 "py/object": "markups.search_markup.FullPath",
                 "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[4]/h3/a"
             },
-            "py/object": "markups.search_markup.MarkupSearchResult",
+            "py/object": "markups.search_markup.SearchMarkupSearchResult",
             "snippet": {
                 "attr": "strings",
                 "py/object": "markups.search_markup.FullPath",
@@ -98,7 +98,7 @@
                 "py/object": "markups.search_markup.FullPath",
                 "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[5]/h3/a"
             },
-            "py/object": "markups.search_markup.MarkupSearchResult",
+            "py/object": "markups.search_markup.SearchMarkupSearchResult",
             "snippet": {
                 "attr": "strings",
                 "py/object": "markups.search_markup.FullPath",
@@ -123,7 +123,7 @@
                 "py/object": "markups.search_markup.FullPath",
                 "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[6]/h3/a"
             },
-            "py/object": "markups.search_markup.MarkupSearchResult",
+            "py/object": "markups.search_markup.SearchMarkupSearchResult",
             "snippet": {
                 "attr": "strings",
                 "py/object": "markups.search_markup.FullPath",
@@ -148,7 +148,7 @@
                 "py/object": "markups.search_markup.FullPath",
                 "xpath": "//html/body[1]/table[1]/tbody[1]/tr[1]/td[2]/div[1]/div[2]/div[2]/div[1]/ol[1]/div[7]/h3/a"
             },
-            "py/object": "markups.search_markup.MarkupSearchResult",
+            "py/object": "markups.search_markup.SearchMarkupSearchResult",
             "snippet": {
                 "attr": "strings",
                 "py/object": "markups.search_markup.FullPath",
@@ -168,5 +168,5 @@
         }
     ],
     "file": "4.html",
-    "py/object": "markups.search_markup.Markup"
+    "py/object": "markups.search_markup.SearchMarkup"
 }
