@@ -1,11 +1,9 @@
 from lxml import html
-
 from algorithms.algorithm import Algorithm
-from markups.search_markup import FullPath
 from parser_result import ParserResult, Component
 
 
-class PrimitiveAlgorithm_v3(Algorithm):
+class Algorithm_v1(Algorithm):
     def __init__(self):
         self.samples = list()
         self.xpaths = list()
@@ -119,7 +117,11 @@ class PrimitiveAlgorithm_v3(Algorithm):
                     self.types.append(type(component))
 
                 for key in component.__dict__.keys():
-                    if isinstance(component.__dict__[key], FullPath):
+                    if isinstance(component.__dict__[key], list):
+                        for e in component.__dict__[key]:
+                            self.block_xpath = self.great_common_prefix(self.block_xpath,
+                                                                        self.extract_xpath(e.xpath))
+                    elif not isinstance(component.__dict__[key], str):
                         self.block_xpath = self.great_common_prefix(self.block_xpath,
                                                                     self.extract_xpath(component.__dict__[key].xpath))
 
