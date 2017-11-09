@@ -33,6 +33,7 @@ class QualityControl(object):
     def get_quality(self, algorithm):
         result = dict()
         result['google'] = self.cv(algorithm, "../golden/google/")
+        result['google_image'] = self.cv(algorithm, "../golden/google_image/")
         result['yandex'] = self.cv(algorithm, "../golden/yandex/")
         result['total'] = self.aggregator.aggregate(result.values())
         return result
