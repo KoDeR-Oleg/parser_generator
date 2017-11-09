@@ -66,9 +66,9 @@ class IdealParser(Parser):
         else:
             return self.get_substitution_component(tree, markup.components[element])
 
-    def parse(self, string):
+    def parse(self, string, directory="../golden"):
         file_names = list()
-        for root, dirs, files in os.walk("../golden"):
+        for root, dirs, files in os.walk(directory):
             file_names += [os.path.join(root, name) for name in files if name[-4:] == "html"]
         for file_name in file_names:
             with open(file_name, "r") as file:
