@@ -1,6 +1,6 @@
 from abc import ABCMeta, abstractmethod
 
-from markups.markup import Markup
+from markups.search_markup import Markup
 from parser_result import ParserResult
 
 

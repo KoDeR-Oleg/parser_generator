@@ -1,7 +1,7 @@
 from lxml import html
 
 from algorithms.algorithm import Algorithm
-from markups.markup import FullPath
+from markups.search_markup import FullPath
 from parser_result import ParserResult, Component
 
 

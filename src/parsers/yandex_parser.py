@@ -1,6 +1,6 @@
 from lxml import html
 
-from markups.markup import MarkupSearchResult, FullPath, Markup, MarkupWizardImage, MarkupWizardNews
+from markups.search_markup import MarkupSearchResult, FullPath, Markup, MarkupWizardImage, MarkupWizardNews
 from parser_result import ParserResult, Component
 from parsers.parser import Parser
 
