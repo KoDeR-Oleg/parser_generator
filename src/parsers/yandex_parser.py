@@ -108,7 +108,8 @@ class YandexParser(Parser):
             if (len(block.xpath("./div[2]/div[2]")) > 0 and block.xpath("./div[2]/div[2]")[0].text == "реклама") or \
                     (len(block.xpath("./div[1]/div[2]")) > 0 and block.xpath("./div[1]/div[2]")[0].text == "реклама"):
                 continue
-            if len(block.xpath("./h2/a")) > 0:
+            if len(block.xpath("./h2/a")) > 0 and \
+                    not (len(block.getparent().xpath("./div[2]")) > 0 and len(block.getparent().xpath("./div[2]")[0].cssselect("div.video2")) > 0):
                 result = self.extract_search_result(block)
                 markup.add(result)
             elif len(block.xpath("./div[1]/h2/a")) > 0 and len(block.xpath("./div[2]/div[@class='gallery']")) > 0:
@@ -127,7 +128,8 @@ class YandexParser(Parser):
             if (len(block.xpath("./div[2]/div[2]")) > 0 and block.xpath("./div[2]/div[2]")[0].text == "реклама") or \
                     (len(block.xpath("./div[1]/div[2]")) > 0 and block.xpath("./div[1]/div[2]")[0].text == "реклама"):
                 continue
-            if len(block.xpath("./h2/a")) > 0:
+            if len(block.xpath("./h2/a")) > 0 and \
+                    not (len(block.getparent().xpath("./div[2]")) > 0 and len(block.getparent().xpath("./div[2]")[0].cssselect("div.video2")) > 0):
                 result = self.parse_search_result(block)
                 parser_result.add(result)
             elif len(block.xpath("./div[1]/h2/a")) > 0 and len(block.xpath("./div[2]/div[@class='gallery']")) > 0:
