@@ -8,6 +8,7 @@ class Algorithm_v1(Algorithm):
         self.samples = list()
         self.xpaths = list()
         self.types = list()
+        self.blacks = list()
         self.block_xpath = None
 
     def get_index(self, parent, tag):
@@ -92,7 +93,81 @@ class Algorithm_v1(Algorithm):
 
         return component
 
-    def learn(self, markup_list):
+    def get_substitution(self, tree, markup):
+        parser_result = ParserResult()
+        for markup_component in markup.components:
+            parser_component = Component()
+            for key in markup_component.__dict__.keys():
+                if isinstance(markup_component.__dict__[key], str):
+                    parser_component.__dict__[key] = markup_component.__dict__[key]
+                elif isinstance(markup_component.__dict__[key], list):
+                    parser_component.__dict__[key] = list()
+                    for elem in markup_component.__dict__[key]:
+                        parser_component.__dict__[key].append(type(markup).get_attr(tree.xpath(elem.xpath),
+                                                              elem.attr))
+                else:
+                    parser_component.__dict__[key] = type(markup).get_attr(tree.xpath(markup_component.__dict__[key].xpath),
+                                                                           markup_component.__dict__[key].attr)
+            parser_result.add(parser_component)
+        return parser_result
+
+    def get_element_for_parser_component(self, parser_component, tree):
+        block_list = tree.xpath(self.block_xpath)
+        for block in block_list:
+            for i in range(len(self.types)):
+                if len(block.xpath("." + self.xpaths[i])) > 0:
+                    result = self.parse_component(block, i)
+                    if result is not None and result == parser_component:
+                        return block, i
+        return None, None
+
+    def add_black_for_element(self, element, element_type, markup_list, directory):
+        list_pair = list()
+        for tag in element.iter():
+            for cl in tag.classes:
+                list_pair.append((tag.tag, cl))
+        list_flag = [True] * len(list_pair)
+
+        list_block_xpath = self.extract_xpath(self.block_xpath)
+        len_block_xpath = len(list_block_xpath)
+
+        for markup in markup_list:
+            with open(directory + markup.file, "r") as file:
+                string = file.read()
+            tree = html.fromstring(string)
+
+            for component in markup.components:
+                if isinstance(component, self.types[element_type]):
+                    block = tree.xpath(self.combine_xpath(self.extract_xpath(component.title.xpath)[:len_block_xpath]))[0]
+                    for i in range(len(list_pair)):
+                        if list_flag[i] and len(block.cssselect(list_pair[i][0] + "." + list_pair[i][1])) > 0:
+                            list_flag[i] = False
+
+        for i in range(len(list_flag)):
+            if list_flag[i]:
+                if list_pair[i] not in self.blacks[element_type]:
+                    self.blacks[element_type].append(list_pair[i])
+                break
+
+    def generate_black_lists(self, markup_list, directory):
+        self.blacks = list()
+        for i in range(len(self.types)):
+            self.blacks.append(list())
+
+        for markup in markup_list:
+            with open(directory + markup.file, "r") as file:
+                string = file.read()
+            actual = self.parse(string)
+            tree = html.fromstring(string)
+            expected = self.get_substitution(tree, markup)
+            if actual.count() == expected.count():
+                continue
+            for component in actual.components:
+                if component not in expected.components:
+                    element, element_type = self.get_element_for_parser_component(component, tree)
+                    self.add_black_for_element(element, element_type, markup_list, directory)
+
+    def learn(self, markup_list, directory=None):
         self.samples = list()
         self.xpaths = list()
         self.types = list()
@@ -128,7 +203,16 @@ class Algorithm_v1(Algorithm):
         for i in range(len(self.xpaths)):
             self.xpaths[i] = self.combine_xpath(self.xpaths[i][len(self.block_xpath):])
         self.block_xpath = self.combine_xpath(self.block_xpath)
+
+        self.generate_black_lists(markup_list, directory)
+
         return self
+
+    def is_not_black(self, element, element_type):
+        for pair in self.blacks[element_type]:
+            if len(element.cssselect(pair[0] + "." + pair[1])) > 0:
+                return False
+        return True
 
     def parse(self, string):
         tree = html.document_fromstring(string)
@@ -137,7 +221,7 @@ class Algorithm_v1(Algorithm):
         block_list = tree.xpath(self.block_xpath)
         for block in block_list:
             for i in range(len(self.types)):
-                if len(block.xpath("." + self.xpaths[i])) > 0:
+                if len(block.xpath("." + self.xpaths[i])) > 0 and self.is_not_black(block, i):
                     result = self.parse_component(block, i)
                     if result is not None:
                         parser_result.add(result)
