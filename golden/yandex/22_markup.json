@@ -130,31 +130,6 @@
             "page_url": {
                 "attr": "href",
                 "py/object": "markups.search_markup.FullPath",
-                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[6]/div[1]/h2/a"
-            },
-            "py/object": "markups.search_markup.SearchMarkupSearchResult",
-            "snippet": {
-                "attr": "string",
-                "py/object": "markups.search_markup.FullPath",
-                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[6]/div[1]/div[2]/div[1]"
-            },
-            "title": {
-                "attr": "string",
-                "py/object": "markups.search_markup.FullPath",
-                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[6]/div[1]/h2/a"
-            },
-            "type": "SEARCH_RESULT",
-            "view_url": {
-                "attr": "href",
-                "py/object": "markups.search_markup.FullPath",
-                "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[6]/div[1]/div/div[1]/a[last()]"
-            }
-        },
-        {
-            "alignment": "LEFT",
-            "page_url": {
-                "attr": "href",
-                "py/object": "markups.search_markup.FullPath",
                 "xpath": "//html/body[1]/div[3]/div[2]/div[2]/div[1]/div[1]/ul[1]/li[7]/div[1]/h2/a"
             },
             "py/object": "markups.search_markup.SearchMarkupSearchResult",

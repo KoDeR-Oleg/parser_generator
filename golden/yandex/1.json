@@ -38,15 +38,6 @@
         },
         {
             "alignment": "LEFT",
-            "page_url": "//yandex.ru/video/search?text=%D1%82%D0%B0%D0%BD%D0%BA%D0%B8%20%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD&path=wizard&parent-reqid=1509664037451743-311982075614479886627294-man1-4473&noreask=1",
-            "py/object": "parser_result.Component",
-            "snippet": "",
-            "title": "танки онлайн — 3 млн видео",
-            "type": "SEARCH_RESULT",
-            "view_url": "//yandex.ru/video/search?text=%D1%82%D0%B0%D0%BD%D0%BA%D0%B8%20%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD&path=wizard&parent-reqid=1509664037451743-311982075614479886627294-man1-4473&noreask=1"
-        },
-        {
-            "alignment": "LEFT",
             "page_url": "http://multoigri.ru/igri-tanki",
             "py/object": "parser_result.Component",
             "snippet": "Танки – это одно из самых современных средств ведения боевых действий на суше. Применение их давало огромное преимущество во время разнообразных...",
