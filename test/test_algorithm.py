@@ -20,7 +20,7 @@ class TestAlgorithm(unittest.TestCase):
     def parse(self, golden_set, page):
         path = "./golden/" + golden_set + "/"
         markup_list = self.get_markup_list(path)
-        self.algorithm.learn(markup_list)
+        self.algorithm.learn(markup_list, directory=path)
         with open(path + str(page) + ".html", "r") as file:
             parser_result = self.algorithm.parse(file.read())
         return parser_result
@@ -77,3 +77,9 @@ class TestAlgorithm(unittest.TestCase):
         actual = self.parse("yandex", 47)
         expected = self.get_expected("yandex", 47)
         self.assertEqual(actual.count("WIZARD"), expected.count("WIZARD"))
+
+    def test_count_of_block_on_yandex_page30(self):
+        actual = self.parse("yandex", 30)
+        print(actual)
+        expected = self.get_expected("yandex", 30)
+        self.assertEqual(actual.count(), expected.count())
