@@ -1,4 +1,5 @@
 from algorithms.primitive_algorithm_v3 import PrimitiveAlgorithm_v3
+from algorithms.algorithm_v1 import Algorithm_v1
 from metrics.parser_result_levenstein_metric import ParserResultLevensteinMetric
 from parsers.ideal_parser import IdealParser
 
@@ -16,7 +17,7 @@ def get_max_distance(algorithm, golden_set):
     for i in learn_nums:
         markup_list.append(ideal_parser.extract_markup(path + str(i) + "_markup.json"))
 
-    algorithm.learn(markup_list)
+    algorithm.learn(markup_list, path)
     mx_dist = 0
     mx_ind = 0
     for i in test_nums:
@@ -33,6 +34,6 @@ def get_max_distance(algorithm, golden_set):
 
 metric = ParserResultLevensteinMetric()
 
-algorithm3 = PrimitiveAlgorithm_v3()
-dist, page = get_max_distance(algorithm3, "google_image")
+algorithm = Algorithm_v1()
+dist, page = get_max_distance(algorithm, "yandex")
 print("Max dist = ", dist, ", page = ", page, sep="")
