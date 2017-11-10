@@ -19,7 +19,7 @@ class QualityControl(object):
         for i in learn_nums:
             markup_list.append(ideal_parser.extract_markup(path + str(i) + "_markup.json"))
 
-        algorithm.learn(markup_list)
+        algorithm.learn(markup_list, directory=path)
         dist = list()
         for i in test_nums:
             with open(path + str(i) + ".html", "r") as file:
