@@ -22,47 +22,47 @@ class TestAlgorithm(unittest.TestCase):
         markup_list = self.get_markup_list(path)
         self.algorithm.directory = path
         self.algorithm.learn(markup_list)
-        with open(path + str(page) + ".html", "r") as file:
+        with open(path + page, "r") as file:
             parser_result = self.algorithm.parse(file.read())
         return parser_result
 
     def get_expected(self, golden_set, page):
         ideal_parser = IdealParser("./golden/" + golden_set)
-        with open("./golden/" + golden_set + "/" + str(page) + ".html", "r") as file:
+        with open("./golden/" + golden_set + "/" + page, "r") as file:
             parser_result = ideal_parser.parse(file.read())
         return parser_result
 
     def test_count_of_blocks_on_google_page25(self):
-        actual = self.parse("google", 25)
-        expected = self.get_expected("google", 25)
+        actual = self.parse("google", "25.html")
+        expected = self.get_expected("google", "25.html")
         self.assertEqual(actual.count(), expected.count())
 
     def test_count_of_blocks_with_type_on_google_page34(self):
-        actual = self.parse("google", 34)
-        expected = self.get_expected("google", 34)
+        actual = self.parse("google", "34.html")
+        expected = self.get_expected("google", "34.html")
         self.assertEqual(actual.count(), expected.count())
         self.assertEqual(actual.count("SEARCH_RESULT"), expected.count("SEARCH_RESULT"))
         self.assertEqual(actual.count("WIZARD"), expected.count("WIZARD"))
 
     def test_type_of_blocks_on_google_image_page25(self):
-        actual = self.parse("google_image", 25)
-        expected = self.get_expected("google_image", 25)
+        actual = self.parse("google_image", "25.html")
+        expected = self.get_expected("google_image", "25.html")
         self.assertEqual(actual.count(), expected.count())
         for i in range(actual.count()):
             with self.subTest(msg="Component "+str(i)):
                 self.assertIsNotNone(actual.components[i].type)
 
     def test_title_of_blocks_on_google_image_page25(self):
-        actual = self.parse("google_image", 25)
-        expected = self.get_expected("google_image", 25)
+        actual = self.parse("google_image", "25.html")
+        expected = self.get_expected("google_image", "25.html")
         self.assertEqual(actual.count(), expected.count())
         for i in range(actual.count()):
             with self.subTest(msg="Component "+str(i)):
                 self.assertIsNotNone(actual.components[i].title)
 
     def test_view_url_of_blocks_on_yandex_page44(self):
-        actual = self.parse("yandex", 44)
-        expected = self.get_expected("yandex", 44)
+        actual = self.parse("yandex", "44.html")
+        expected = self.get_expected("yandex", "44.html")
         self.assertEqual(actual.count(), expected.count())
         for i in range(actual.count()):
             with self.subTest(msg="Component "+str(i)):
@@ -70,16 +70,16 @@ class TestAlgorithm(unittest.TestCase):
                 self.assertNotEqual(actual.components[i].view_url, "")
 
     def test_count_of_blocks_on_yandex_page47(self):
-        actual = self.parse("yandex", 47)
-        expected = self.get_expected("yandex", 47)
+        actual = self.parse("yandex", "47.html")
+        expected = self.get_expected("yandex", "47.html")
         self.assertEqual(actual.count(), expected.count())
 
     def test_count_of_wizard_on_yandex_page47(self):
-        actual = self.parse("yandex", 47)
-        expected = self.get_expected("yandex", 47)
+        actual = self.parse("yandex", "47.html")
+        expected = self.get_expected("yandex", "47.html")
         self.assertEqual(actual.count("WIZARD"), expected.count("WIZARD"))
 
     def test_count_of_block_on_yandex_page30(self):
-        actual = self.parse("yandex", 30)
-        expected = self.get_expected("yandex", 30)
+        actual = self.parse("yandex", "30.html")
+        expected = self.get_expected("yandex", "30.html")
         self.assertEqual(actual.count(), expected.count())
