@@ -37,7 +37,7 @@ class TestYandexParser(unittest.TestCase):
         self.assertEqual(markup_component.title.attr, "string")
         self.assertEqual(markup_component.snippet.xpath, "//html/body[1]/div[3]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/div[1]/div[2]/div[1]")
         self.assertEqual(markup_component.snippet.attr, "string")
-        self.assertEqual(markup_component.view_url.xpath, "//html/body[1]/div[3]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/div[1]/div[1]/div[1]/a[last()]")
+        self.assertEqual(markup_component.view_url.xpath, "//html/body[1]/div[3]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/div[1]/div/div[1]/a[last()]")
         self.assertEqual(markup_component.view_url.attr, "href")
 
     def test_fields_of_first_result_search_on_page1(self):
