@@ -8,9 +8,9 @@ class Parser:
     __metaclass__ = ABCMeta
 
     @abstractmethod
-    def extract_markup(self, file_name) -> SearchMarkup:
+    def extract_markup(self, file_name: str) -> SearchMarkup:
         """Получение разметки файла"""
 
     @abstractmethod
-    def parse(self, raw_page) -> ParserResult:
+    def parse(self, raw_page: str) -> ParserResult:
         """Получение ParserResult из файла"""

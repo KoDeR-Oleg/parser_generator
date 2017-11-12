@@ -214,8 +214,8 @@ class Algorithm_v1(Algorithm):
                 return False
         return True
 
-    def parse(self, string):
-        tree = html.document_fromstring(string)
+    def parse(self, raw_page):
+        tree = html.document_fromstring(raw_page)
         parser_result = ParserResult()
 
         block_list = tree.xpath(self.block_xpath)

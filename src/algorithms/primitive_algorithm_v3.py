@@ -128,8 +128,8 @@ class PrimitiveAlgorithm_v3(Algorithm):
         self.block_xpath = self.combine_xpath(self.block_xpath)
         return self
 
-    def parse(self, string):
-        tree = html.document_fromstring(string)
+    def parse(self, raw_page):
+        tree = html.document_fromstring(raw_page)
         parser_result = ParserResult()
 
         block_list = tree.xpath(self.block_xpath)
