@@ -1,5 +1,3 @@
-import numpy as np
-
 from parsers.ideal_parser import IdealParser
 
 
