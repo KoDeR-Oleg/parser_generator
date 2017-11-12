@@ -4,12 +4,13 @@ from parser_result import ParserResult, Component
 
 
 class Algorithm_v1(Algorithm):
-    def __init__(self):
+    def __init__(self, directory):
         self.samples = list()
         self.xpaths = list()
         self.types = list()
         self.blacks = list()
         self.block_xpath = None
+        self.directory = directory
 
     def get_index(self, parent, tag):
         index = 1
@@ -121,7 +122,7 @@ class Algorithm_v1(Algorithm):
                         return block, i
         return None, None
 
-    def add_black_for_element(self, element, element_type, markup_list, directory):
+    def add_black_for_element(self, element, element_type, markup_list):
         list_pair = list()
         for tag in element.iter():
             for cl in tag.classes:
@@ -132,7 +133,7 @@ class Algorithm_v1(Algorithm):
         len_block_xpath = len(list_block_xpath)
 
         for markup in markup_list:
-            with open(directory + markup.file, "r") as file:
+            with open(self.directory + markup.file, "r") as file:
                 string = file.read()
             tree = html.fromstring(string)
 
@@ -149,13 +150,13 @@ class Algorithm_v1(Algorithm):
                     self.blacks[element_type].append(list_pair[i])
                 break
 
-    def generate_black_lists(self, markup_list, directory):
+    def generate_black_lists(self, markup_list):
         self.blacks = list()
         for i in range(len(self.types)):
             self.blacks.append(list())
 
         for markup in markup_list:
-            with open(directory + markup.file, "r") as file:
+            with open(self.directory + markup.file, "r") as file:
                 string = file.read()
             actual = self.parse(string)
             tree = html.fromstring(string)
@@ -165,9 +166,9 @@ class Algorithm_v1(Algorithm):
             for component in actual.components:
                 if component not in expected.components:
                     element, element_type = self.get_element_for_parser_component(component, tree)
-                    self.add_black_for_element(element, element_type, markup_list, directory)
+                    self.add_black_for_element(element, element_type, markup_list)
 
-    def learn(self, markup_list, directory=None):
+    def learn(self, markup_list):
         self.samples = list()
         self.xpaths = list()
         self.types = list()
@@ -204,7 +205,7 @@ class Algorithm_v1(Algorithm):
             self.xpaths[i] = self.combine_xpath(self.xpaths[i][len(self.block_xpath):])
         self.block_xpath = self.combine_xpath(self.block_xpath)
 
-        self.generate_black_lists(markup_list, directory)
+        self.generate_black_lists(markup_list)
 
         return self
 

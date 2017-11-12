@@ -13,5 +13,5 @@ control = QualityControl(metric, aggregator)
 #algorithm3 = PrimitiveAlgorithm_v3()
 #print("Quality =", control.get_quality(algorithm3))
 
-algorithm = Algorithm_v1()
+algorithm = Algorithm_v1("")
 print("Quality =", control.get_quality(algorithm))
