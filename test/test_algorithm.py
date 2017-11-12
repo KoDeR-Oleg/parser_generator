@@ -32,19 +32,19 @@ class TestAlgorithm(unittest.TestCase):
             parser_result = ideal_parser.parse(file.read())
         return parser_result
 
-    def test_count_of_blocks_on_google_page25(self):
+    def test_equal_count_of_blocks_on_google_page(self):
         actual = self.parse("google", "25.html")
         expected = self.get_expected("google", "25.html")
         self.assertEqual(actual.count(), expected.count())
 
-    def test_count_of_blocks_with_type_on_google_page34(self):
+    def test_equal_count_of_blocks_with_type_on_google_page(self):
         actual = self.parse("google", "34.html")
         expected = self.get_expected("google", "34.html")
         self.assertEqual(actual.count(), expected.count())
         self.assertEqual(actual.count("SEARCH_RESULT"), expected.count("SEARCH_RESULT"))
         self.assertEqual(actual.count("WIZARD"), expected.count("WIZARD"))
 
-    def test_type_of_blocks_on_google_image_page25(self):
+    def test_type_of_blocks_is_not_none_on_google_image_page(self):
         actual = self.parse("google_image", "25.html")
         expected = self.get_expected("google_image", "25.html")
         self.assertEqual(actual.count(), expected.count())
@@ -52,7 +52,7 @@ class TestAlgorithm(unittest.TestCase):
             with self.subTest(msg="Component "+str(i)):
                 self.assertIsNotNone(actual.components[i].type)
 
-    def test_title_of_blocks_on_google_image_page25(self):
+    def test_title_of_blocks_is_not_none_on_google_image_page(self):
         actual = self.parse("google_image", "25.html")
         expected = self.get_expected("google_image", "25.html")
         self.assertEqual(actual.count(), expected.count())
@@ -60,7 +60,7 @@ class TestAlgorithm(unittest.TestCase):
             with self.subTest(msg="Component "+str(i)):
                 self.assertIsNotNone(actual.components[i].title)
 
-    def test_view_url_of_blocks_on_yandex_page44(self):
+    def test_view_url_of_blocks_is_not_empty_on_yandex_page(self):
         actual = self.parse("yandex", "44.html")
         expected = self.get_expected("yandex", "44.html")
         self.assertEqual(actual.count(), expected.count())
@@ -69,17 +69,17 @@ class TestAlgorithm(unittest.TestCase):
                 self.assertIsNotNone(actual.components[i].view_url)
                 self.assertNotEqual(actual.components[i].view_url, "")
 
-    def test_count_of_blocks_on_yandex_page47(self):
+    def test_equal_count_of_blocks_on_yandex_page(self):
         actual = self.parse("yandex", "47.html")
         expected = self.get_expected("yandex", "47.html")
         self.assertEqual(actual.count(), expected.count())
 
-    def test_count_of_wizard_on_yandex_page47(self):
+    def test_equal_count_of_wizard_on_yandex_page(self):
         actual = self.parse("yandex", "47.html")
         expected = self.get_expected("yandex", "47.html")
         self.assertEqual(actual.count("WIZARD"), expected.count("WIZARD"))
 
-    def test_count_of_block_on_yandex_page30(self):
+    def test_equal_count_of_block_on_yandex_page_with_ads(self):
         actual = self.parse("yandex", "30.html")
         expected = self.get_expected("yandex", "30.html")
         self.assertEqual(actual.count(), expected.count())
