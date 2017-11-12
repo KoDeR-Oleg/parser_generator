@@ -7,7 +7,7 @@ from parsers.ideal_parser import IdealParser
 class TestAlgorithm(unittest.TestCase):
 
     def setUp(self):
-        self.algorithm = Algorithm_v1()
+        self.algorithm = Algorithm_v1("")
 
     def get_markup_list(self, path, part=0.5):
         N = 50
@@ -20,7 +20,8 @@ class TestAlgorithm(unittest.TestCase):
     def parse(self, golden_set, page):
         path = "./golden/" + golden_set + "/"
         markup_list = self.get_markup_list(path)
-        self.algorithm.learn(markup_list, directory=path)
+        self.algorithm.directory = path
+        self.algorithm.learn(markup_list)
         with open(path + str(page) + ".html", "r") as file:
             parser_result = self.algorithm.parse(file.read())
         return parser_result

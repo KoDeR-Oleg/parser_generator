@@ -17,7 +17,7 @@ class QualityControl(object):
         for i in learn_nums:
             markup_list.append(ideal_parser.extract_markup(str(i) + "_markup.json"))
 
-        algorithm.__init__(path)
+        algorithm.directory = path
         algorithm.learn(markup_list)
         dist = list()
         for i in test_nums:
