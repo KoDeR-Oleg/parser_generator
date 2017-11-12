@@ -121,8 +121,8 @@ class GoogleParser_v2(Parser):
                 markup.add(result)
         return markup
 
-    def parse(self, string):
-        tree = html.document_fromstring(string)
+    def parse(self, raw_page):
+        tree = html.document_fromstring(raw_page)
         parser_result = ParserResult()
         block_list = tree.xpath("//html/body/table/tbody/tr/td/div/div/div/div/ol/div")
         for block in block_list:

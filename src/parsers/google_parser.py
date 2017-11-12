@@ -100,8 +100,8 @@ class GoogleParser(Parser):
                     markup.add(result)
         return markup
 
-    def parse(self, string):
-        tree = html.document_fromstring(string)
+    def parse(self, raw_page):
+        tree = html.document_fromstring(raw_page)
         parser_result = ParserResult()
         block_list = tree.xpath("//html/body/div[7]/div[3]/div[10]/div[1]/div[2]/div/div[2]/div[2]/div/div/div/div")
         for block in block_list:

@@ -12,5 +12,5 @@ class Parser:
         """Получение разметки файла"""
 
     @abstractmethod
-    def parse(self, string) -> ParserResult:
+    def parse(self, raw_page) -> ParserResult:
         """Получение ParserResult из файла"""

@@ -120,8 +120,8 @@ class YandexParser(Parser):
                 markup.add(result)
         return markup
 
-    def parse(self, string):
-        tree = html.document_fromstring(string)
+    def parse(self, raw_page):
+        tree = html.document_fromstring(raw_page)
         parser_result = ParserResult()
         block_list = tree.xpath("//html/body/div[3]/div/div[2]/div/div/ul/li/div")
         for block in block_list:
