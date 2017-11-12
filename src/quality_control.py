@@ -8,14 +8,14 @@ class QualityControl(object):
 
     def cv(self, algorithm, path, part=0.5):
         N = 50
-        ideal_parser = IdealParser()
+        ideal_parser = IdealParser(path)
 
         learn_nums = range(int(N * part))
         test_nums = range(int(N * part), N)
 
         markup_list = list()
         for i in learn_nums:
-            markup_list.append(ideal_parser.extract_markup(path + str(i) + "_markup.json"))
+            markup_list.append(ideal_parser.extract_markup(str(i) + "_markup.json"))
 
         algorithm.learn(markup_list, directory=path)
         dist = list()

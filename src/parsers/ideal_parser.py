@@ -6,6 +6,9 @@ import os
 
 
 class IdealParser(Parser):
+    def __init__(self, directory):
+        self.directory = directory
+
     def get_from_page(self, tree, full_path):
         tag = tree.xpath(full_path.xpath)
         if len(tag) == 0:
@@ -56,7 +59,7 @@ class IdealParser(Parser):
         return subst
 
     def get_substitution(self, markup, element=None):
-        with open(markup.file, "r") as file:
+        with open(self.directory + markup.file, "r") as file:
             tree = html.document_fromstring(file.read())
         if element is None:
             parser_result = ParserResult()
@@ -66,9 +69,9 @@ class IdealParser(Parser):
         else:
             return self.get_substitution_component(tree, markup.components[element])
 
-    def parse(self, raw_page, directory="../golden"):
+    def parse(self, raw_page):
         file_names = list()
-        for root, dirs, files in os.walk(directory):
+        for root, dirs, files in os.walk(self.directory):
             file_names += [os.path.join(root, name) for name in files if name[-4:] == "html"]
         for file_name in file_names:
             with open(file_name, "r") as file:
@@ -79,6 +82,6 @@ class IdealParser(Parser):
         return None
 
     def extract_markup(self, file_name):
-        with open(file_name, "r") as file:
+        with open(self.directory + file_name, "r") as file:
             markup = jsonpickle.decode(file.read())
         return markup

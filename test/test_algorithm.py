@@ -12,9 +12,9 @@ class TestAlgorithm(unittest.TestCase):
     def get_markup_list(self, path, part=0.5):
         N = 50
         markup_list = list()
-        ideal_parser = IdealParser()
+        ideal_parser = IdealParser(path)
         for i in range(int(N * part)):
-            markup_list.append(ideal_parser.extract_markup(path + str(i) + "_markup.json"))
+            markup_list.append(ideal_parser.extract_markup(str(i) + "_markup.json"))
         return markup_list
 
     def parse(self, golden_set, page):
@@ -26,9 +26,9 @@ class TestAlgorithm(unittest.TestCase):
         return parser_result
 
     def get_expected(self, golden_set, page):
-        ideal_parser = IdealParser()
+        ideal_parser = IdealParser("./golden/" + golden_set)
         with open("./golden/" + golden_set + "/" + str(page) + ".html", "r") as file:
-            parser_result = ideal_parser.parse(file.read(), "./golden")
+            parser_result = ideal_parser.parse(file.read())
         return parser_result
 
     def test_count_of_blocks_on_google_page25(self):
@@ -80,6 +80,5 @@ class TestAlgorithm(unittest.TestCase):
 
     def test_count_of_block_on_yandex_page30(self):
         actual = self.parse("yandex", 30)
-        print(actual)
         expected = self.get_expected("yandex", 30)
         self.assertEqual(actual.count(), expected.count())
