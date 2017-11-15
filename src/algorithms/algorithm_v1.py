@@ -1,6 +1,7 @@
 from lxml import html
 from algorithms.algorithm import Algorithm
 from parser_result import ParserResult, Component
+import logging
 
 
 class Algorithm_v1(Algorithm):
@@ -216,6 +217,9 @@ class Algorithm_v1(Algorithm):
         return True
 
     def parse(self, raw_page):
+        logging.basicConfig(format='%(filename)s[LINE:%(lineno)d]# %(levelname)-8s [%(funcname)s]  %(message)s',
+                            level=logging.DEBUG, filename = 'algorithm_v1.log')
+        logging.info("Start parse")
         tree = html.document_fromstring(raw_page)
         parser_result = ParserResult()
 
@@ -228,4 +232,5 @@ class Algorithm_v1(Algorithm):
                         parser_result.add(result)
                         break
 
+        logging.debug("End parse")
         return parser_result
