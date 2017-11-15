@@ -217,7 +217,7 @@ class Algorithm_v1(Algorithm):
         return True
 
     def parse(self, raw_page):
-        logging.basicConfig(format='%(filename)s[LINE:%(lineno)d]# %(levelname)-8s [%(funcname)s]  %(message)s',
+        logging.basicConfig(format='%(filename)s[LINE:%(lineno)d]# %(levelname)-8s [%(funcName)s]  %(message)s',
                             level=logging.DEBUG, filename = 'algorithm_v1.log')
         logging.info("Start parse")
         tree = html.document_fromstring(raw_page)
