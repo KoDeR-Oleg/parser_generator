@@ -8,16 +8,17 @@ def get_max_distance(algorithm, golden_set):
     path = "../golden/" + golden_set + "/"
     N = 50
     part = 0.5
-    ideal_parser = IdealParser()
+    ideal_parser = IdealParser(path)
 
     learn_nums = range(int(N * part))
     test_nums = range(int(N * part), N)
 
     markup_list = list()
     for i in learn_nums:
-        markup_list.append(ideal_parser.extract_markup(path + str(i) + "_markup.json"))
+        markup_list.append(ideal_parser.extract_markup(str(i) + "_markup.json"))
 
-    algorithm.learn(markup_list, path)
+    algorithm.directory = path
+    algorithm.learn(markup_list)
     mx_dist = 0
     mx_ind = 0
     for i in test_nums:
@@ -34,6 +35,6 @@ def get_max_distance(algorithm, golden_set):
 
 metric = ParserResultLevensteinMetric()
 
-algorithm = Algorithm_v1()
+algorithm = Algorithm_v1("")
 dist, page = get_max_distance(algorithm, "yandex")
 print("Max dist = ", dist, ", page = ", page, sep="")
