@@ -80,6 +80,11 @@ class TestAlgorithm(unittest.TestCase):
         expected = self.get_expected("yandex", "47.html")
         self.assertEqual(actual.count(), expected.count())
 
+    def test_equal_count_of_blocks_on_yandex_page29(self):
+        actual = self.parse("yandex", "29.html")
+        expected = self.get_expected("yandex", "29.html")
+        self.assertEqual(actual.count("ADV"), expected.count("ADV"))
+
     def test_equal_count_of_wizard_on_yandex_page(self):
         actual = self.parse("yandex", "47.html")
         expected = self.get_expected("yandex", "47.html")
