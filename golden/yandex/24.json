@@ -47,6 +47,15 @@
         },
         {
             "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/3aJN2sRPfjm40000gQB0022Ek5EwdmLIbGAR0Mv3jm8j0OYrdeT01Ocrkb1l1fslF44LfbEAl_EK5GxSihreu0wzjk7JZmcgBgMkt_8DlASF4WQD0Tq1tf0azFIzX8ww8f6rPZ6R39VmYGlCnMwasWoJ0fa5GeoKSH6sbg87jPQY1w2OFrclb74Hiv0G9xIMeWVPc3zPsf0G9vIKdC-dd4a4gB10MNC7em6k-iQ0wPT6BgC5iG6on1400408-Vh6WEcNHYwZ1Vm5kQyyGHN1__________yFmlJ-Z_59EBdO1yMF3zB__________m_J__________yFxW7V0l2W060OxOWqzS368xkknlRGx57TWD1L-vHn4NmX?q=%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C+%D0%B8%D0%B3%D1%80%D1%8B",
+            "py/object": "parser_result.Component",
+            "snippet": "Впервые все военные силы в одной игре на одной карте! Присоединяйся18+",
+            "title": "War Thunder - скачай сейчас! / warthunder.com",
+            "type": "ADV",
+            "view_url": "warthunder.com/играть"
+        },
+        {
+            "alignment": "LEFT",
             "page_url": "http://play-apk.ru/game/",
             "py/object": "parser_result.Component",
             "snippet": "Любые игры, от самых популярных до никому не известных, могут быть найдены на этом сайте и стать любимыми на смартфоне, нужно только скачать игры на...",
@@ -89,6 +98,33 @@
             "title": "Скачать Игры - Бесплатные Игры",
             "type": "SEARCH_RESULT",
             "view_url": "http://www.gametop.com/ru/category/downloadable.html"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/3aJN2uPasl840000gQB0022Ek5EwdmLIbGAR0Mv3jm8j0JA8kWqYqWI9zyaIBfuhsiW1dQlG-0gQhqAM2APCYh6Th8yBtBSILB0ClRDZQcO8gYwbfR_H2xocjEm2ZG7T0TwG9FJqkIHWb1wHjMOncmoNy8aBpCLkfDeCamAP1KACcOq6jfJt0RMOgW6WcQSWhvcD1hELJGYqcAe1sPDV9zgO0WgKdHh4fvcX1QYi4Oyoem6k-iQ0wPT6BgC5iGEoX17v-iQ0wPT6BgC5_0Mvgz3u2i7__________m_2zFwFyKaukTW7nOyFql__________3zF__________m_k0Ty2yA00O1ZoWHJbaF8hxOCezS368xkknlRGx57TWD1L-vcD1dWZ?q=%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C+%D0%B8%D0%B3%D1%80%D1%8B",
+            "py/object": "parser_result.Component",
+            "snippet": "Играй в 3D онлайн игру без скачивания в браузере! Мужики в восторге от игры18+",
+            "title": "Эта 3D игра круче, чем Diablo!",
+            "type": "ADV",
+            "view_url": "легендарные-игры-онлайн.рф"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/3aJN2z9Y8KC40000gQB0022Ek5EwdmLIbGAR0Mv3jm8j0JE8kp_ce0A9g7BgV9saBH4JfYcAk3jW9mtSj0DO3WwzlIpu8GcgBgMihaiDlAhBoWAD0Tq1tf0az96rPZ6R39VmYGlCnMwasWoJ0fa5GeoJ5mMsduO1jPLB0Q2RhWUlanS5iv3q0RILIm7Pcwu7sf3q0PILGTQdaja6gBSegne4em6k-iQ0wPT6BgC5iG6on1400008-Vh6WEcNHYwZ1Vm5kQGj4HF1__________yFmlJ-Z_59EBdO1yMF3zB__________m_J__________yFxW7V0l2W060OvP3oA-s3AFN0nYExhiRsqEnHtO3GLVkJ5mLw8G00?q=%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C+%D0%B8%D0%B3%D1%80%D1%8B",
+            "py/object": "parser_result.Component",
+            "snippet": "Обзор бесплатных онлайн игр. Большой выбор.18+",
+            "title": "Онлайн игры – Играйте бесплатно!",
+            "type": "ADV",
+            "view_url": "mmo10.ru/онлайн-игры"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/3aJN2tdwPE840000gQB0022Ek5EwdmLIbGAR0Mv3jm8j0JI8hDEEy8do7aDKCldk8WgThCtg5PgzPfCi1QOEYhJ-4F83tB7u18e5lRsw2Ge4gYwbhHNQ1hoa97G6ZG7T0TwG9FJqktVxV16HjMOncmoNy8aBpCLkfDeCamAP1KACcLGBjfDc0xMNuGAWa5WEhvbK2xEPfGEqb-42sPXd3jgOgGEKaeExfv050wYnG5bp1wC1hlh6WEcNHYwZ1R43ieGH-Vh6WEcNHYwZ1Vm5kQpDwXN1__________yFmlJ-Z_59EBdO1zB__________m_J__________yFxW7V0l2W060Oye4KvP3oA-s3AFN0nYExhiRsqEnHtO3GLVkPL0j-8W00?q=%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C+%D0%B8%D0%B3%D1%80%D1%8B",
+            "py/object": "parser_result.Component",
+            "snippet": "Фанаты в восторге! Регистрируйся и играй прямо сейчас!18+",
+            "title": "Новая игра в стиле Героев. Играй! – Невероятная графика",
+            "type": "ADV",
+            "view_url": "sparrta.ru"
         }
     ],
     "py/object": "parser_result.ParserResult"

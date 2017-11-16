@@ -2,6 +2,42 @@
     "components": [
         {
             "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/MX3ykV1LuYC40000gQB0022EiLIwdmLIbG6R0cv3jm4bYBoXON01YPTm5vsVrG6c5egojOB73DomICMr3RsvkMdr2AekfQOh3msyhuOr38q1tG7Ua2JqaRui4di5b_292yp5RgJQ39C2cGL2Z9WW5hQMemQrag05e9wPZQ-O81QpaG0aj9AW1TcUcOtQaG0ab9WX6wUUKYIei41PSmUZ0QxmlW1rXsakemMn0RB44000G0ZvyBu0TOTfBgC5_0MvdzK1mV__________3yBt0NcPCIjm7GR5Zm_I__________yFq___________3-u1tmBme01WMEMGyYljWoZrnFKEf0--zjdE3UQ0q5Nxc20MVI00?q=%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B0+%D0%B0%D0%B2%D1%82%D0%BE",
+            "py/object": "parser_result.Component",
+            "snippet": "Новые объявления каждый день! Покупка и продажа машин с пробегом на Авто.ру",
+            "title": "Продажа автомобилей в объявлениях / auto.ru",
+            "type": "ADV",
+            "view_url": "auto.ru/продажа-автомобилей"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/MX3ykHhpkCS40000gQB0022EiLIwdmLIbG6R0cv3jm4bCeYoeY-G0ucwhqio1vscNeiMfZYAjiRfJH7Si9V1Pn6zjnfjm0ggBgMYN_KFZG7T0TwG9FJqi27w5oYHlYmIUmMNy8aBpCLkfDeCamAP1KACf00M0hQKCw2rbSE7eAKpe0Alf00M0hEGvggqbSE7sQKpe0BQaEQgb9OG2gULJGMefB6i5wC1hl2-07M7QIwZ1R41iiGG00102FdmlW1rXsakemNy1RccNeiMmV__________3yBt0NcPCIjm7GR5Zm_I__________yFq___________3-u1tmBme01WMEMGyYljWoZrnFKEf0--zjdE3UQ0q5Nxf00M0dyX?q=%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B0+%D0%B0%D0%B2%D1%82%D0%BE",
+            "py/object": "parser_result.Component",
+            "snippet": "Оценка и полное юридическое сопровождение сделки. Trade-in",
+            "title": "Срочный выкуп авто. До 90% цены! – ООО «Мир Авто»",
+            "type": "ADV",
+            "view_url": "miravto.spb.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/MX3ykGPvsQS40000gQB0022EiLIwdmLIbG6R0cv3jm4bCuY_gQTN1ecjw9bydQ4f5nAcPeguIku_4zomk7QU4hsxLIX72wekfQcW416yeVGK3eq1tG7Ua2JqzBfEYTSgaRui4di5b_292yp5RgJQ39C2cGL2Z9Zw-hQIIqkrdiu_eA0M806lcFhwiv0-IRIUpZ_Pe1OW0TgGFacKat0JfvZE2AYmG5bp1wC1hl2-07M7QIwZ1R41iiGG00102FdmlW1rXsakemNy1RcXAHSImV__________3yBt0NcPCIjm7GR5Zm_I__________yFq___________3-u1tmBme01WMEMGyYljWoZrnFKEf0--zjdE3UQ0q5NxcFhwUI80?q=%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B0+%D0%B0%D0%B2%D1%82%D0%BE",
+            "py/object": "parser_result.Component",
+            "snippet": "Выкуп автомобиля - 2 часа. Оценка + диагностика 0 рублей! Без посещения ГИБДД!",
+            "title": "Продажа авто – Выкупим Ваш авто",
+            "type": "ADV",
+            "view_url": "carprice.ru/Продать-Автомобиль"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/MX3ykG8I3pW40000gQB0022EiLIwdmLIbG6R0cv3jm4bD8Yq-65W0Ocy54F61fsej7iMfXMAiuxWDG_SlwYerG-zkkJz20ggBgMi6AqElAwnVmcD0Tq1tf0azFIzgqMz996-B19x1PVmYGlCnMwasWoJ0fa5GeoJXsksaq8WjPTM6w2Oeu6lauThivZr8BINLXlPcAE1sfZr89IQQ1IddZmFgA4cC5EZ0QxmlW1rXsakemMn0RB4400000ZvyBu0TOTfBgC5_0MvgBHx5i7__________m_2zm5vcJ4hS1q6nOyFql__________3zF__________m_k0Ty2yA00O5ZbaF8hxOCezSJr3gGFllRPpWtcWD1L-vE7QtyX?q=%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B0+%D0%B0%D0%B2%D1%82%D0%BE",
+            "py/object": "parser_result.Component",
+            "snippet": "Дорого Выкупим Ваш Автомобиль! Деньги в День Обращения! Подробнее На Сайте!",
+            "title": "Продать Автомобиль с Пробегом! / spetersburg-auto.ru",
+            "type": "ADV",
+            "view_url": "spetersburg-auto.ru"
+        },
+        {
+            "alignment": "LEFT",
             "page_url": "https://spb.drom.ru/auto/",
             "py/object": "parser_result.Component",
             "snippet": "spb.drom.ru›Авто",
@@ -98,6 +134,42 @@
             "title": "Авто с пробегом в Санкт-Петербурге (СПб): купить бу...",
             "type": "SEARCH_RESULT",
             "view_url": "http://rydo.ru/spb/legkovye-avto/"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/MX3ykNtMl-y40000gQB0022EiLIwdmLIbGAR0Mv3jm8j0OYw5Yx00ucoqR1M1fsjXSaLfZkAl7XvxGVSkMtqc0czkynrbWQgBgMc0XCAlA4mu0cD0Tq1tf0azFItXzyL8f6-B19x1PVmYGlCnMwasWoFk7fAEWYVjOaAcGoJ0fa5GeoTb42sdLyJjPHh4A2GF7EldPH0iv1C7RIKQn3Pa3npsf1C7PIV1wsddL81gB10MNC7em6kyBu0TOTfBgC5iG6on1400008-V2-07M7QIwZ1Vm5kQs5oHN1__________yFmlS1UPanAt0T1iMF3zB__________m_J__________yFxW7V0l2W061OvP3oA-s3AFN4zGwa3xxssSuDve3GLVkTb41y8m00?q=%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B0+%D0%B0%D0%B2%D1%82%D0%BE",
+            "py/object": "parser_result.Component",
+            "snippet": "Цена от 279 000 Р. Кредит от 4,2%. Получите скидку 40 000 Р. за заявку!",
+            "title": "Авто ДАТСУН он-ДО в кредит! / ucredit24.ru",
+            "type": "ADV",
+            "view_url": "ucredit24.ru/Он-До-В-Наличии"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/MX3ykKDHK8O40000gQB0022EiLIwdmLIbGAR0Mv3jm8j0JA8l3mou0A9inKLcWUThoKv4wOjYhzQ-n8JtBq5V7aIlR0PhpSBgYwbg3Ns4BokzEiGZG7T0TwG9FJqjXzMsogHlYmIUmMNy8aBpCLkfDeCZxXwIZe8dxM92faCamAP1KACdTiujfmE4RMQT0wWbGTWhvtREBEGQXYqcdGEsPK7ODgGQXYKazwbfvrD0QYce_ENem6kyBu0TOTfBgC5iG6on1400408-V2-07M7QIwZ1Vm5kQybEHF1__________yFmlS1UPanAt0T1iMF3zB__________m_J__________yFxW7V0l2W061OvP3oA-s3AFN4zGwa3xxssSuDve3GLVkTspXy8m00?q=%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B0+%D0%B0%D0%B2%D1%82%D0%BE",
+            "py/object": "parser_result.Component",
+            "snippet": "Читайте онлайн обзоры автомобилей, тест-драйвы, новости бизнеса и много другое.",
+            "title": "Автомобильный журнал Движок. / dvizhok.su",
+            "type": "ADV",
+            "view_url": "dvizhok.su"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/MX3ykQYQM0a40000gQB0022EiLIwdmLIbGAR0Mv3jm8j0JE8jCrXG0A9bt0NdQOXfHAc8uguE8T43DouW8Cw3RsyOrQp2AekfQTOO0oyer0v18q1tG7Ua2JqaRui4di5b_292yp5RgJQ39C2cGL2Z94EBxQT7GwrcVOBe91jLg-H3Y-paFaLj9ds2zcGRLRQaFaLb9q-mAUTPW6ehuzZGAC1hl2-07M7QIwZ1R41iiGH00102FdmlW1rXsakemNy1Rcc8QKImV__________3yBt0NcPCIjm7GR5Zm_I__________yFq___________3-u1tmBme01WMEMGyYljWoZrnFKEf0--zjdE3UQ0q5NxaGulU240?q=%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B0+%D0%B0%D0%B2%D1%82%D0%BE",
+            "py/object": "parser_result.Component",
+            "snippet": "Подберем для Вас оптимальный авто. Торг с продавцом. Полное сопровождение",
+            "title": "Услуга по подбору авто с пробегом / autoselectspb.ru",
+            "type": "ADV",
+            "view_url": "autoselectspb.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/MX3ykT3AzFa40000gQB0022EiLIwdmLIbGAR0Mv3jm8j0JI8jeGi40M9k-485mUTfXC-0gPGYhG1n4SHtBw_RcGHlRrwxhuAgYwbeCNm3xog_gaEZG7T0TwG9FIHlYmIUmMNy8aBpCLkfDeCZxXwIZe8dxM92faCamAP1KACaJH1jfgF4xMSan2WbGTWhv4qGREGQXYqd9CGsPK7ODgGQXYKbLEkfuhwgAtmUe-Z0QxmlW1rXsakemMn0RB44G00G0ZvyBu0TOTfBgC5_0MvfXC-0i7__________m_2zm5vcJ4hS1q6nOyFql__________3zF__________m_k0Ty2yA00O5ZbaF8hxOCezSJr3gGFllRPpWtcWD1L-v4qGNqY?q=%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B0+%D0%B0%D0%B2%D1%82%D0%BE",
+            "py/object": "parser_result.Component",
+            "snippet": "Domination АВТО. Низкая цена! В наличии! Гарантия. Доставка.",
+            "title": "Domination АВТО / videoglaz.ru",
+            "type": "ADV",
+            "view_url": "videoglaz.ru"
         }
     ],
     "py/object": "parser_result.ParserResult"

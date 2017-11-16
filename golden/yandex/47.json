@@ -2,6 +2,42 @@
     "components": [
         {
             "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/IA4jwl9K33a40000gQB0022EkrIwdmLIbG6R0cv3jm4bYB72co01YQwBo_EOGfsaCyW1fX6Af6ReYTodmZp6lQhpQBwgBgMkdL82lA0_DGMD0Tq1tf0azFI_kyNZ1P6_EpGA0fVmLyV1mMwasWoJ0fa5GeoRj--We6G11A-Rj-_Pe6G119INCYgdaLaygB10MNC7em6k_w905YEFBgC5iG6on1000008-V-YG1OZZowZ1Vm5kQGpo071__________yFml7NPqJZZfNo3yMF3zB__________m_J__________yFxW7V0l2W061OzS5B0VlnelRRjtJlWD1L-vktxtmU?q=%D0%B4%D0%B5%D1%88%D0%B5%D0%B2%D1%8B%D0%B5+%D0%B0%D0%B2%D0%B8%D0%B0%D0%B1%D0%B8%D0%BB%D0%B5%D1%82%D1%8B",
+            "py/object": "parser_result.Component",
+            "snippet": "Быстрый Поиск и Бронирование Дешевых Авиабилетов Онлайн! Низкие Цены!",
+            "title": "Дешевые Авиабилеты / aviasales.ru",
+            "type": "ADV",
+            "view_url": "aviasales.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/IA4jwcQmB4O40000gQB0022EkrIwdmLIbG6R0cv3jm4bCeYwj5y00echNkbydQGG5XEc7ug-6BNB1Doq2a281hsqEu6k1AekfQFghGUyhppY1Oq1tG7Ua2JqzB_HfP4baRyxD0e2b_1Nny71RgJQ39C2cGL2Z9HbKxQIL1-rabGVeAhU60Elb6LJiw3QAG6qabGVsQhU60FQeDef0PIJR36dcw5BgB10MNC7em6k_w905YEFBgC5iG6on1000008-V-YG1OZZowZ1Vm5kQGG5XF1__________yFml7NPqJZZfNo3yMF3zB__________m_J__________yFxW7V0l2W061OxO8zzS5B0VlnelRRjtJlWD1L-vHbKtyX?q=%D0%B4%D0%B5%D1%88%D0%B5%D0%B2%D1%8B%D0%B5+%D0%B0%D0%B2%D0%B8%D0%B0%D0%B1%D0%B8%D0%BB%D0%B5%D1%82%D1%8B",
+            "py/object": "parser_result.Component",
+            "snippet": "Моментальный поиск по всем авиакомпаниям. Найдите самые дешёвые билеты!",
+            "title": "Авиабилеты дёшево! – Бронируйте онлайн!",
+            "type": "ADV",
+            "view_url": "skyscanner.ru/Дешёвые-Авиабилеты"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/IA4jwYIjWxm40000gQB0022EkrIwdmLIbG6R0cv3jm4bCuYbLOnGYQraaNoOGfsandy3fWIAkAZL8WFSlne4MmIzlWJSGWEgBgMXLmW6lA5KF0QD0Tq1tf0az96_EpGA0fVmLyV1mMwasWoJ0fa5GeoQ5_IsbJf9jPiEFg2eszW2hveNzBEOJRcqcmu-sQZRs0BQc4svb9706gUHP1Mei41PSmUZ0Qx_ea0M8uykemMn0RB4400000Zv_w905YEFBgC5_0MvfCP_0y7__________m_2yTTdHEEEbV8FnOyFql__________3zF__________m_k0Ty2yA00O5ZbaF8hxOCezS5B0VlnelRRjtJlWD1L-veNz7mX?q=%D0%B4%D0%B5%D1%88%D0%B5%D0%B2%D1%8B%D0%B5+%D0%B0%D0%B2%D0%B8%D0%B0%D0%B1%D0%B8%D0%BB%D0%B5%D1%82%D1%8B",
+            "py/object": "parser_result.Component",
+            "snippet": "Дешевые авиабилеты по всему миру! Выгодные цены, удобный поиск!",
+            "title": "Дешевые авиабилеты! / ozon.travel",
+            "type": "ADV",
+            "view_url": "ozon.travel/дешевые авиабилеты"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/IA4jwaVTKwS40000gQB0022EkrIwdmLIbG6R0cv3jm4bD8YnPnAm1Odw5sH87jpbG0kTaCS1chG-mWy3fbgAibm7X0hSke3ilGkzjppQsWUgBgMiZsSBlAmbDGkD0Tq1tf0az96_EpGA0fVmLyV1mMwasWoJ0fa5GeoYMOe2jfmQmxMSLwMWe0Rj0g-YMOe2iv1klhISLwNPfL_W1DgWOZq1b9822QUTR0gei41PSmUZ0Qx_ea0M8uykemMn0xAq4000GFd_ea0M8uykemNy1RcGnm71__________yFml7NPqJZZfNo3yMF3zB__________m_J__________yFxW7V0l2W061OyeGJvP3oA-s3AFN1Im7xyQBssxTqxu3GLVkYMOe2UYC0?q=%D0%B4%D0%B5%D1%88%D0%B5%D0%B2%D1%8B%D0%B5+%D0%B0%D0%B2%D0%B8%D0%B0%D0%B1%D0%B8%D0%BB%D0%B5%D1%82%D1%8B",
+            "py/object": "parser_result.Component",
+            "snippet": "Официальный сайт авиакомпании Аэрофлот. Выгодные предложения.",
+            "title": "Авиабилеты по доступным ценам! / aeroflot.ru",
+            "type": "ADV",
+            "view_url": "aeroflot.ru/Купить-авиабилеты"
+        },
+        {
+            "alignment": "LEFT",
             "page_url": "https://www.skyscanner.ru/",
             "py/object": "parser_result.Component",
             "snippet": "skyscanner.ru",
@@ -89,6 +125,42 @@
             "title": "Авиабилеты и расписание самолетов. Стоимость...",
             "type": "SEARCH_RESULT",
             "view_url": "https://avia.tutu.ru/"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/IA4jwhEUcEK40000gQB0022EkrIwdmLIbGAR0Mv3jm8j0OYrQ2sm18dwh75ymqvZtWgTf_1D29grjmOx0QPAYhvNNXOHtBKPAomHlRD_AAKAgYwbfaZ83xofDiWFZG7T0TwG9FIHlpiq2WANy5V7mS5kfDeCamAP1KACdf1sjfUABBMNYYoWcdYlhvwGThEGwq6qbueisPfuhzgGwq6KbXt2fv0O3gYrGt-V1gC1hl-YG1OZZowZ1R43ihGH0010-V-YG1OZZowZ1Vm5kQVmJGZ1__________yFml7NPqJZZfNo3yMF3zB__________m_J__________yFxW7V0l2W061OyeGJxO8zzS5B0VlnelRRjtJlWD1L-vwGTdeY?q=%D0%B4%D0%B5%D1%88%D0%B5%D0%B2%D1%8B%D0%B5+%D0%B0%D0%B2%D0%B8%D0%B0%D0%B1%D0%B8%D0%BB%D0%B5%D1%82%D1%8B",
+            "py/object": "parser_result.Component",
+            "snippet": "Быстрый поиск авиабилетов. Низкие цены. Клиентская поддержка",
+            "title": "АВИАКАССА.ру - Дешевые билеты – AviaKassa.ru",
+            "type": "ADV",
+            "view_url": "aviakassa.ru/Дешевые-авиабилеты"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/IA4jwiGGoDG40000gQB0022EkrIwdmLIbGAR0Mv3jm8j0JA8i7S2PGQ9grxfV9sM-06cQOgs3Iim4DoywdgU4Bso345c2gekfQ30K0-yfkSj1uq1tG7Ua2JqzBnSod4caRyxD0e2b_1Nny71RgJQ39C2cGL2Z9uMVhQRqoMrc0uWe9rLkQ-U5dwpc1ulj9WE8DcTLRdQc1ulb95KrwUIqWkei41PSmUZ0Qx_ea0M8uykemMn0RB44G0000Zv_w905YEFBgC5_0MvblW1mV__________3yBnrsT4uuwLyW_5Zm_I__________yFq___________3-u1tmBme01WMEMGyYljWoZrmKi1-_6YzjktTE-0q5NxdXP-VY40?q=%D0%B4%D0%B5%D1%88%D0%B5%D0%B2%D1%8B%D0%B5+%D0%B0%D0%B2%D0%B8%D0%B0%D0%B1%D0%B8%D0%BB%D0%B5%D1%82%D1%8B",
+            "py/object": "parser_result.Component",
+            "snippet": "Гарантия лучшей цены на авиабилеты S7 Airlines. Бронируйте онлайн!",
+            "title": "Авиабилеты на рейсы S7 Airlines / s7.ru",
+            "type": "ADV",
+            "view_url": "s7.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/IA4jwjje0O040000gQB0022EkrIwdmLIbGAR0Mv3jm8j0JE8ixCmu0I9gOToVfsefD84fasAiALN4GRSjO2jtGUzjC17WGMgBgMdsPa8lANphWID0Tq1tf0azFIycXqI5v6_EpGA0fVmLyV1mMwasWoJ0fa5GeoNZRUsa_H4jPFqHA2NG-olbustivR1MBIJz4JPbqFisfR1M9IGD-2dbDm7gB10MNC7em6k_w905YEFBgC5iG6on1400408-V-YG1OZZowZ1Vm5kQYaqWJ1__________yFml7NPqJZZfNo3yMF3zB__________m_J__________yFxW7V0l2W061OxO8zzS5B0VlnelRRjtJlWD1L-vUDjtmX?q=%D0%B4%D0%B5%D1%88%D0%B5%D0%B2%D1%8B%D0%B5+%D0%B0%D0%B2%D0%B8%D0%B0%D0%B1%D0%B8%D0%BB%D0%B5%D1%82%D1%8B",
+            "py/object": "parser_result.Component",
+            "snippet": "Самые дешевые авиабилеты в любую точку мира. Бронируй лучшие предложения.",
+            "title": "Закажите авиабилеты дешево! – Поиск дешевых авиабилетов",
+            "type": "ADV",
+            "view_url": "momondo.ru/Авиабилеты"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/IA4jweNjYre40000gQB0022EkrIwdmLIbGAR0Mv3jm8j0JI8iAWQOmQ9zpOZ96sbUBO9c4ATdAi1cgRfyvkcQOgun4lG4DorFAGC4Rs_AZYN2gekfQOghG-ygZ8F3uq1tG7Ua2JqzBJG8KqdaRyxD0e2b_1Nny71RgJQ39C2cGL2Z9sySBQKqY6rcAaSe9ajWw-Tl72pcraXj9Yf7DcenZy1sfXCKPINnxQddwOCgB10MNC7em6k_w905YEFBgC5iGEoj140043v_w905YEFBgC5_0MvdAi1mV__________3yBnrsT4uuwLyW_5Zm_I__________yFq___________3-u1tmBme01WMFAD4-MGyYljWoZrmKi1-_6YzjktTE-0q5NxdRnmVIC0?q=%D0%B4%D0%B5%D1%88%D0%B5%D0%B2%D1%8B%D0%B5+%D0%B0%D0%B2%D0%B8%D0%B0%D0%B1%D0%B8%D0%BB%D0%B5%D1%82%D1%8B",
+            "py/object": "parser_result.Component",
+            "snippet": "Выгодные предложения. Удобный поиск.",
+            "title": "Авиабилеты на Туту ру. – Авиабилеты по низким ценам",
+            "type": "ADV",
+            "view_url": "avia.tutu.ru"
         }
     ],
     "py/object": "parser_result.ParserResult"

@@ -2,6 +2,24 @@
     "components": [
         {
             "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/FzPc6fRFFdC40000gQB0022EibIwdmM5cR8ybG6R0cv3jm4bYBP-LxS6YRkuXuu7dQT8M1QcVugyac964zopAP-V4hspiAz72wekfQUW516ygG_l48q1tG7Ua2JqzBixrzagaQQdcMcNy7qfciPkfDeCamAP1KACaW73jfM0EhMTap6Wgq4t2w-I0SEpeFlP0hITap7Pgq4t2zgW-za2b9ey6gUJ91gee1kE5QC1fC0000360gxnhi0nm6mkemMn0RB4400000ZvyQx0CS1iBgC5_0MvfqXO5i7__________m_2zbdEMZD4KB4Cn075Zm_I__________yFq___________3-u1tmBme01WQEMGyYljWoZroBfIqn6kzjRzs-Q0q5NxaW73VIC0?q=%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D1%8B%D0%B5+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D1%8B",
+            "py/object": "parser_result.Component",
+            "snippet": "Игровые автоматы. Огромный выбор в удобном каталоге для Вас!",
+            "title": "Игровые автоматы – Официальный сайт!",
+            "type": "ADV",
+            "view_url": "fragstore.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/FzPc6W8kyd840000gQB0022EibIwdmM5cR8ybG6R0cv3jm4bCeYxW3bH0Oc-g5gQ1vsfNQiMfXIAk27VHnFSjSivbnAzkRr3H0kgBgMcZXKHlA602H6D0Tq1tf0azFIm7mtIAf6cfvbfb_1zAPh6RgJQ39C2cGL2Z9HVzhQMwKcraQC-eAFWZmAlb5_sivY_fhIHepxPe-2F0jgOlwQKcTqCfvsR2gYjnjmwem6am0000CO2hl6km370R2wZ1R41iiGG00002Fdnhi0nm6mkemNy1RcfNQiMmV__________3yBsMSvQCqHGiGp5Zm_I__________yFq___________3-u1tmBme01WQEMGyYljWoZroBfIqn6kzjRzs-Q0q5Nxb5_sUYC0?q=%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D1%8B%D0%B5+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D1%8B",
+            "py/object": "parser_result.Component",
+            "snippet": "Официальный сайт. Качественный сервис. Акции и подарки. Гарантия. Поддержка.",
+            "title": "Игровые площадки официальный сайт / global-tech.site",
+            "type": "ADV",
+            "view_url": "global-tech.site/бонусы"
+        },
+        {
+            "alignment": "LEFT",
             "page_url": "http://full-house24.ru/",
             "py/object": "parser_result.Component",
             "snippet": "full-house24.ru",
@@ -89,6 +107,24 @@
             "title": "Игровые автоматы играть бесплатно и без регистрации...",
             "type": "SEARCH_RESULT",
             "view_url": "http://zerkalo2.slotshall.net/"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/FzPc6bGcJtu40000gQB0022EibIwdmM5cR8ybGAR0Mv3jm8j0OYyiyjG18cH9HITeong0QP4YhcgjymItBzaxauIlRqfiIOBgYwbeGfF38q1tG7Ua2JqzBGWxYugaQQdcMcNy7qfciPkfDeCamAP1KACbZi4jf150RMN4m6WaCyShvOx1BEGKmUqbnC1sP3F7DgGKmUKbWUZfvYJ1AYy_vN21AC1fC0000360gxnhi0nm6mkemMn0RB44G00G0ZvyQx0CS1iBgC5_0Mveong0S7__________m_2zbdEMZD4KB4CnOyFql__________3zF__________m_k0Ty2yA00O6ZbaF8hxOCezSYwKjCHhlRM_TlcWD1L-vOx17eY?q=%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D1%8B%D0%B5+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D1%8B",
+            "py/object": "parser_result.Component",
+            "snippet": "Безрассудная Мия или Стильная Эмма: кто станет твоей подружкой? Реши!",
+            "title": "Девчонки LEGO Friends. / lego.com",
+            "type": "ADV",
+            "view_url": "lego.com"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/FzPc6iGpLeC40000gQB0022EibIwdmM5cR8ybGAR0Mv3jm8j0JA8jTE3m069gb130vsjW8SMfXkAjGS0UnBSkd6I6nAzkmUP40kgBgMcUfOGlAQkjG-D0Tq1tf0az96cfvbfb_1zAPh6RgJQ39C2cGL2Z9EF2hQVAWErbAy2e9DJ4A-JZmgpc2O4j9Il0jcJKn3Qc2O4b96fawUT_G6ei41PSmUZ0QJ00000nWAkyQx0CS1iBgC5iG6on1400008-V6km370R2wZ1Vm5kQs0XnR1__________yFmlPPpbepH52n3CMF3zB__________m_J__________yFxW7V0l2W061evP3oA-s3AFN8kbBJ4QxsrltRve3GLVkJZmfx8W00?q=%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D1%8B%D0%B5+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D1%8B",
+            "py/object": "parser_result.Component",
+            "snippet": "Моментальная выдача до 100000р на Вашу карту даже с просрочкой. Бери сейчасСодействие в подборе финансовых услуг/организа…Содействие в подборе финансовых услуг/организаций",
+            "title": "Дам в долг на сайте онлайн! / quickzaimnew.ru",
+            "type": "ADV",
+            "view_url": "quickzaimnew.ru/Вам-Одобрен-Займ"
         }
     ],
     "py/object": "parser_result.ParserResult"

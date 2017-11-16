@@ -2,6 +2,15 @@
     "components": [
         {
             "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/Fq8W5cPYUBm40000gQB0022EkLIwdmLIbG6R0cv3jm4bYBi_vg02YVYODJAV6zHp1fsjPLm1chtoPNm6fYcAkYpSFGxSlOc_cmwzi_uyQmcgBgMfOn4ElA-JBWoD0Tq1tf0az96_aTwO2vVmLyV1mMwasWoJ0fa5GeoI5n6scMi6jPbh1g2HVYslaXSHiv0N4RIPQmRPbFr0sf1g69IOenMdc2yNgB10MNC7em6k_QG1EUM5BgC5iGEoX13v_QG1EUM5BgC5_0MvhMLS0S7__________m_2-_VsYHfN4ci7nOyFql__________3zF__________m_k0Ty2yA00O1ZoZXBjWZtrsPv3fzga0VRGG2NjWD1L-v8N4NyX?q=%D0%B8%D0%B3%D1%80%D1%8B+%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE",
+            "py/object": "parser_result.Component",
+            "snippet": "Простая, но невероятно интересная!",
+            "title": "Играть в Hearthstone – Бесплатная карточная стратегия",
+            "type": "ADV",
+            "view_url": "eu.battle.net/Играть-в-Hearthstone"
+        },
+        {
+            "alignment": "LEFT",
             "page_url": "http://vseigru.net/",
             "py/object": "parser_result.Component",
             "snippet": "vseigru.net",
@@ -89,6 +98,42 @@
             "title": "Игры онлайн бесплатно",
             "type": "SEARCH_RESULT",
             "view_url": "http://PlayMap.ru/flash/"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/Fq8W5kXMpHG40000gQB0022EkLIwdmLIbGAR0Mv3jm8j0OY-O-u018doIuxbi3U3c0MOLvsX8N85cgvgJAYcFugnW7Hk0TotdWy50hsmZpck0QekfQx6p0EyeAl50uq1tG7Ua2JqzBcEJW0BaR-HtfWBb_1Nny71RgJQ39C2cGL2Z9F93BQQc0MrcfW5e9NrNQ-JoGopd1yfj9gO1TcOqrxQa84fb9WpogUR20cei41PSmUZ0Qxzf04vvOKkemMn0xA44Vdzf04vvOKkemNy1RcX8N85mV__________3yBxz_Q96bSIQmV5Zm_I__________yFq___________3-u1tmBme01W6FAD4-s8DFNPdaEdsgG1zj109Us0q5NxayaCVo80?q=%D0%B8%D0%B3%D1%80%D1%8B+%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE",
+            "py/object": "parser_result.Component",
+            "snippet": "World of Tanks - та самая игра про танки. Регистрируйся и играй бесплатно!",
+            "title": "Бесплатная онлайн-игра! / worldoftanks.ru",
+            "type": "ADV",
+            "view_url": "worldoftanks.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/Fq8W5ezdKby40000gQB0022EkLIwdmLIbGAR0Mv3jm8j0JA8kWqYqWI9_p4_88lwJrm6dQlG-0gQhJE-7APCYhdy-BCBtBunIx0ClRgQPcO8gYwbfR_H2xocjEm2ZG7T0TwG9FIHlv7Uc0kNy5V7mS5kfDeCamAP1KACc68CjfAt0xMH9WEWb78ehvXY3BENI0gqaIO3sPWsAzgO_0gKdSo_fv7Z1QYi4Oyoem6k_QG1EUM5BgC5iGEoX17v_QG1EUM5BgC5_0Mvgz3u2i7__________m_2-_VsYHfN4ci7nOyFql__________3zF__________m_k0Ty2yA00O1ZoWHJbaF8hxOCezTcUGwVQf07sq40bxO3GLVkOOWnx8W00?q=%D0%B8%D0%B3%D1%80%D1%8B+%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE",
+            "py/object": "parser_result.Component",
+            "snippet": "Играй в 3D онлайн игру без скачивания в браузере! Мужики в восторге от игры18+",
+            "title": "Онлайн Игра Для Взрослых Мужиков!",
+            "type": "ADV",
+            "view_url": "легендарные-игры-онлайн.рф/игра-для-взрослых"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/Fq8W5hFvaN040000gQB0022EkLIwdmLIbGAR0Mv3jm8j0JE8lYlyW069_UII3LldhD46dQJAt0YQ2wONYhpUE0aGtBijENyGlRX_bLaAgYwbhaaw3xoWgyK3ZG7T0TwG9FJqlGomb2UHlv7Uc0kNy5V7mS5kfDeCamAP1KACceqFjflE1hMRpWQWcAmehvgD3xEMpH6qcyu6sPl7DzgGQXYKddsrfv3q0wYmG5bp1wC1hlsa0JdbXIwZ1R4BiiGH00102Vdzf04vvOKkemNy1Rcaojm8mV__________3yBxz_Q96bSIQmV5Zm_I__________yFq___________3-u1tmBme01W6FAISHZjY3JrsPv3fzga0VRGG2NjWD1L-vgD3tWZ?q=%D0%B8%D0%B3%D1%80%D1%8B+%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE",
+            "py/object": "parser_result.Component",
+            "snippet": "Играй бесплатно с аккаунтом PlayStation®Network.",
+            "title": "Бесплатная игра для PS4 – Скачай World of Tanks!",
+            "type": "ADV",
+            "view_url": "console.worldoftanks.com"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/Fq8W5Zynfky40000gQB0022EkLIwdmLIbGAR0Mv3jm8j0JI8lKADK0M9d9U4dQur7HQcL8goKA2_4jov8az44hsvR_CY2wekfQJEPWsyeZl_2uq1tG7Ua2JqzBD2h1agaR-HtfWBb_1Nny71RgJQ39C2cGL2Z99S2RQTpWAras42e9MQ2Q-IN0cpa742j9DX0jcLcWdQa742b9nWtAUOZWQehvBpIQC1hlsa0JdbXIwZ1R41iiGH00102Fdzf04vvOKkemNy1RckDHqMmV__________3yBxz_Q96bSIQmVI__________yFq___________3-u1tmBme01W6EMGyYljWoZrsPv3fzga0VRGG2NjWD1L-v9S2NmX?q=%D0%B8%D0%B3%D1%80%D1%8B+%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE",
+            "py/object": "parser_result.Component",
+            "snippet": "Увлекательная игра про пиратов Гроза Морей. Играй бесплатно онлайн!18+",
+            "title": "Бесплатная онлайн игра Гроза Морей / exe.ru",
+            "type": "ADV",
+            "view_url": "exe.ru"
         }
     ],
     "py/object": "parser_result.ParserResult"

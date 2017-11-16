@@ -2,6 +2,42 @@
     "components": [
         {
             "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/V5Ee5_mSeK440000gQB0022El5EwdmLIbG6R0cv3jm4bYB9E-r04YRetBdm3c1kTheQC5gP4YhN32ui1tBSFY3e2lRixHzC1gYwbfD_r0xojtVK3ZG7T0TwG9FJqlFQgHmgHiVj99WYNy5V7mS5kfDeCamAP1KACbZGWjfSO3hMN60wWd3CohvOq8BEG-HMqbnWEsPmpCjgG-HMKbxGPfvNK3wYmG5bp1wC1hlYxG8w9LIwZ1R41iiGG00002Fdukq2EYLKkemNy1RckXemMmV__________3yBp3J5c6o6ru0p5Zm_I__________yFq___________3-u1tuKDyA00O5ZjY3Jrn1VcwOYxzjfM3k60q5NxbZGWVY40?q=%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0+%D0%B2+%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B5",
+            "py/object": "parser_result.Component",
+            "snippet": "Единый поиск. Все вакансии в Вашем городе!",
+            "title": "Работа: Москва – Найдите работу сегодня!",
+            "type": "ADV",
+            "view_url": "ru.indeed.com/Работа"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/V5Ee5oYYa5e40000gQB0022El5EwdmLIbG6R0cv3jm4bCeYsdakS1ecGeWUTcY43fdYAiZV7MX7Skez_Sn6zkFLMnGggBgMgylqFlADilm-D0Tq1tf0azFIvBxygA96n-qac29VmLyV1mMwasWoJ0fa5GeoM_HAsbx85jP_J1A2GpnolblqIiv1J1xIVqmJPaCySsf1J1vIMVnsdcC0RgB10MNC7em6k-Bj0ZebLBgC5iG6on1000408-VYxG8w9LIwZ1Vm5kPeX0y7__________m_2ymqnPXiXjU0Cql__________3zF__________m_k0T-53V2W061OvP3oA-s3AFN45-RfYBlssbOEuO3GLVkM_H9w8G00?q=%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0+%D0%B2+%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B5",
+            "py/object": "parser_result.Component",
+            "snippet": "У нас 97287 вакансий, ожидающих откликов. Не пропустите!",
+            "title": "Ищете работу в Москве? / hh.ru",
+            "type": "ADV",
+            "view_url": "hh.ru/Москва"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/V5Ee5rYM2Z840000gQB0022El5EwdmLIbG6R0cv3jm4bCuYqNpAm0ucQhYATa4NIfZgAlBVXn17SkAn6jH6zknCXuWggBgMdsZGGlA0XJ0wD0Tq1tf0az96n-qac29VmLyV1mMwasWoJ0fa5GeoVbn6saqS5jP5v1A2GpnoldvSHiv1J1xIHUGJPaCySsf1J1vIJh1gdaSqQgB10MNC7em6k-Bj0ZebLBgC5iG6on1000408-VYxG8w9LIwZ1Vm5kP15qi7__________m_2ymqnPXiXjU0CnOyFql__________3zF__________m_k0Ty2yA00O5ZbaF8hxOCezSGNvkc8k_RQLWxXWD1L-v-N4NuW?q=%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0+%D0%B2+%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B5",
+            "py/object": "parser_result.Component",
+            "snippet": "Вакансии в вашем городе от прямых работодателей",
+            "title": "Работа в Москве. Вакансии / avito.ru",
+            "type": "ADV",
+            "view_url": "avito.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/V5Ee5pfmFYG40000gQB0022El5EwdmLIbG6R0cv3jm4bD8YpqDZt1ec_4_zx1fs8NQQ02Ogx_qCy3jozroa33xsoVRYX2QekfQ6e20gD0Tq1tf0az96n-qac29VmLyV1mMwasWoJ0fa5GeoI5n6sc205jPLO1A2L81MlaXSHiv1V1RILM0JPbI0Lsf1V1PIIQXodbaeRgAJ3Kg2Z0Qxukq2EYLKkemMn0RB4400000Zv-Bj0ZebLBgC5_0MvY5t1__________yFmlCDCMOR8RNW3CMC3zB__________m_J__________yFxW7VXGtme01WMEMGyYljWoZrn1VcwOYxzjfM3k60q5NxaXSHUY00?q=%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0+%D0%B2+%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B5",
+            "py/object": "parser_result.Component",
+            "snippet": "Только проверенные вакансии от прямых работодателей. Удобный поиск работы!",
+            "title": "Работа в Москве на Rabota.ru! / rabota.ru",
+            "type": "ADV",
+            "view_url": "rabota.ru"
+        },
+        {
+            "alignment": "LEFT",
             "page_url": "https://www.SuperJob.ru/",
             "py/object": "parser_result.Component",
             "snippet": "SuperJob.ru",
@@ -98,6 +134,42 @@
             "title": "Работа в Москве, свежие вакансии. Найти работу...",
             "type": "SEARCH_RESULT",
             "view_url": "http://ru.jobsora.com/moskva"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/V5Ee5uYka6e40000gQB0022El5EwdmLIbGAR0Mv3jm8j0OYqr30m18cRyJ2Te3Bu3AP2YhRBWcOBtBxKk8mClRndKL88gYwbf83k2xocM884ZG7T0TwG9FJqiOR2KnwHiVj99WYNy5V7mS5kfDeCamAP1KACcn9Yjf1i7RMHxnYWe2n00g-R4cApa7oIj97l6DcWB402sf1yafISTxQdbE41gB10MNC7em6k-Bj0ZebLBgC5iG6on0400408-VYxG8w9LIwZ1Vm5kQ0o-0p1__________yFmlCDCMOR8RNW3CMF3zB__________m_J__________yFxW7VXGtme01WMEMGyYljWoZrn1VcwOYxzjfM3k60q5Nxcn9YUI80?q=%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0+%D0%B2+%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B5",
+            "py/object": "parser_result.Component",
+            "snippet": "Работа водителем у партнеров Яндекс.Такси в Москве. Заполните заявку.",
+            "title": "Специальные условия аренды машины / taxi.yandex.ru",
+            "type": "ADV",
+            "view_url": "taxi.yandex.ru/оставить-заявку"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/V5Ee5xH_JUC40000gQB0022El5EwdmLIbGAR0Mv3jm8j0JA8koQsC0A9lz6XbmAO6vshz8G8fYAAlJ27PWBSkyqFSmEzkqPrg0AgBgMfSCO4ZG7T0TwG9FJql4FICWsHiVj99WYNy5V7mS5kfDeCZx_hUwm1dxxOaQe2amAP1KACcZ8Hjfqe1RMLNmIWaCyShveo4REGKmUqbLy4sP3F7DgGKmUKabwsfvaX2QYszozU0gC1hlYxG8w9LIwZ1R41iiGH00102Fdukq2EYLKkemNy1Rchz8G8mV__________3yBp3J5c6o6ru0p40SMC3zB__________m_J__________yFxW7VXGtme01WMEMGyYljWoZrn1VcwOYxzjfM3k60q5NxcZ8HVIC0?q=%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0+%D0%B2+%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B5",
+            "py/object": "parser_result.Component",
+            "snippet": "Вакансии кассиров, мерчендайзеров и работников склада. ЗП до 40 000 р. Жми!",
+            "title": "Работа в гипермаркете, на складах / lp.praludi.com",
+            "type": "ADV",
+            "view_url": "lp.praludi.com"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/V5Ee5t1fsgW40000gQB0022El5EwdmLIbGAR0Mv3jm8j0JE8lmbVK0Q9zCtcsijy_8i5dQ14B0AQj5fpB06cP8gyZPik2zosKkTW3BsoboSv2AekfQVSpmkyeCZ02uq1tG7Ua2JqzB3ZjWKUaR7xIIO8b_1Nny71RgJQ39C2cGL2Z9cf9RQOJ0krb9C9e9cdAw-PgIMpb1aBj9IJ2TcNaZRQdTyDb9ETkwUI60Iei41PSmUZ0Qxukq2EYLKkemMn0xAq4G00GFdukq2EYLKkemNy1RcWH2m2mV__________3yBp3J5c6o6ru0p5Zm_I__________yFq___________3-u1tmBme01WMFAD4-MGyYljWoZrn1VcwOYxzjfM3k60q5NxcQabVIC0?q=%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0+%D0%B2+%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B5",
+            "py/object": "parser_result.Component",
+            "snippet": "Стабильный доход с гарантией выплат. Работа копирайтером на бирже контента!",
+            "title": "Работа на дому в Москве тут! / advego.ru",
+            "type": "ADV",
+            "view_url": "advego.ru/работа-в-интернете"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/V5Ee5wlJUCO40000gQB0022El5EwdmLIbGAR0Mv3jm8j0JI8li3FkWQ9jZ9PWGQTe-xQ5QQ028gn0cLC3jooDw803xsvXM6W2QekfQgo7Gwyh7S83eq1tG7Ua2JqaR7xIIO8b_1Nny71RgJQ39C2cGL2Z9a58xQRWGgrbkS8e9Lf9g-P1IEpaCG9j9Rd2DcLQIRQaCG9b9q_rAUONmIefZAO2AC1hlYxG8w9LIwZ1R41iiGH00102Fdukq2EYLKkemNy1RcZxjeLmV__________3yBp3J5c6o6ru0pC1TB__________m_J__________yFxW7VXGtme01WMEMGyYljWoZrn1VcwOYxzjfM3k60q5NxcGKZUo40?q=%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0+%D0%B2+%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B5",
+            "py/object": "parser_result.Component",
+            "snippet": "Работа моделью, высокий заработок, добиться успеха.",
+            "title": "Работа для девушек в Москве / intimate-services.com",
+            "type": "ADV",
+            "view_url": "intimate-services.com"
         }
     ],
     "py/object": "parser_result.ParserResult"

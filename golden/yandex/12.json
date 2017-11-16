@@ -89,6 +89,24 @@
             "title": "Zona.mobi - cмотреть фильмы 2017 онлайн, смотреть...",
             "type": "SEARCH_RESULT",
             "view_url": "https://zona.mobi/movies"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/FYZPuX3hKSO40000gQB0022ElbAwdmLIbGAR0Mv3jm8j0OYtFIpW0udy3OrQGGBAJmgO3vslhS49cgwRA8scFOgfis9ztAnOLREzg1_qhQekfQye9mAyfC-Z0eq1tG7Ua2JqzBu_eOW5aRpAu7W2b_1zAPh6RgJQ39C2cGL2Z9aj1A2RZHMlcIq4sP3v5PIR4jAdbiS3gB10MNC7em6kyQt0dLeWBgC5iGEoj140043vyQt0dLeWBgC5_0Mvhwt12S7__________m_2zEQjOO9DQcWFql__________3zF__________m_k0Ty2yA00O6ZoWHJrmNQENHAjzjEMmjE0q5NxcIq4V1y0?q=%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B5%D1%82%D1%8C+%D1%84%D0%B8%D0%BB%D1%8C%D0%BC",
+            "py/object": "parser_result.Component",
+            "snippet": "Бесплатно, в хорошем качестве! От классики до новинок!18+",
+            "title": "Фильмы о войне 1941-1945! – Смотрите онлайн!",
+            "type": "ADV",
+            "view_url": "megogo.net"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/FYZPuezoIee40000gQB0022ElbAwdmLIbGAR0Mv3jm8j0JA8lRCY0WM9-5aGzNILCZ47dQAraWsQiQaTUWQcJugxhMrU1jo-Unym2BsstGQx1QekfQF5oGEyeER148q1tG7Ua2JqaRpAu7W2b_1zAPh6RgJQ39C2cGL2Z9yf1BQSFm6ra0y1e9XG1w-VAGIpaTm1j90F0TcGKmVQczm1b99EnQUS0GEekozs1GIZ0QxnhS2TMY0kemMn0xAq4G00GFdnhS2TMY0kemNy1RcYjP8DmV__________3yBqvgrXWargQ0_5Zm_I__________yFq___________3-u1tmBme01WQFAD4-MGyYljWoZrmNQENHAjzjEMmjE0q5Nxdoa4Vo80?q=%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B5%D1%82%D1%8C+%D1%84%D0%B8%D0%BB%D1%8C%D0%BC",
+            "py/object": "parser_result.Component",
+            "snippet": "Свежие трейлеры голливудских и российских новинок. Не пропусти в Peers.TV",
+            "title": "Самые ожидаемые фильмы года / peers.tv",
+            "type": "ADV",
+            "view_url": "peers.tv"
         }
     ],
     "py/object": "parser_result.ParserResult"

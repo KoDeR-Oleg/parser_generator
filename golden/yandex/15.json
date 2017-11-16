@@ -89,6 +89,24 @@
             "title": "Долгосрочный прогноз погоды - Санкт-Петербург",
             "type": "SEARCH_RESULT",
             "view_url": "http://o-pogode.ru/pogoda/sankt-peterburg"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/OV_r3tiaiW840000gQB0022EiLEwdmLIbGAR0Mv3jm8j0OYvLJLm0ucNl0kTe1Fw5QOsYh054hyItBmlmGGIlRhSqWKBgYwbgkc-4BoeRjq9ZG7T0TwG9FJqi7l5UYcHlH4G5WUNy7qfciPkfDeCZxxAfjuDdxr-TIa1amAP1KACcJWGjfWP1xMO6GUWcDFThvau4BEG5s6qc1a7sPZJtTgG5s6Ka0sMfvHB0QYmzzeu1wC1hlfoGlyKAowZ1R41iiGH00102FdwSaB_52ikemNy1RcW4_eLmV__________3yB_IBTqJOay1WF5Zm_I__________yFq___________3-u1tmBme01WQEs8DFNJyelQft82zjCrSTQ0q5NxcJWGVo80?q=%D0%BF%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7+%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D1%8B",
+            "py/object": "parser_result.Component",
+            "snippet": "Теплое солнце и нежный песок вместо холода и снега. Без виз. От 26000 руб.",
+            "title": "Погода в Эйлате Вас порадует! / ru.traveleilat.com",
+            "type": "ADV",
+            "view_url": "ru.traveleilat.com/отдых-море-Израиль"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/OV_r3tVbN2440000gQB0022EiLEwdmLIbGAR0Mv3jm8j0JA8kzryCW69fKAw0Psi3QiMfXAAiO6qGnFSkTx_NXAzi5R_B0kgBgMYLH8HlAMkrH2D0Tq1tf0azFIq9A1GAf6z4H0M1vVmVIcQncwasWoJ0fa5GeoKT1IsdY86jPGp1Q2GCnYlb7GKiv0d1hIKCmNPa5Kesf112fIVuQYdZwMeg-_D1wC1hlfoGlyKAowZ1R41iiGH00102FdwSaB_52ikemNy1Rci3QiMmV__________3yB_IBTqJOay1WF5Zm_I__________yFq___________3-u1tmBme01WQEMGyYljWoZrq_ABsgTo0lRJDN7MWD1L-vHq57yX?q=%D0%BF%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7+%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D1%8B",
+            "py/object": "parser_result.Component",
+            "snippet": "Акция. Обеспечивает клев, вызывая дикий аппетит даже у сытой рыбы",
+            "title": "Универсальная прикормка для рыбы – Всегда отличный улов.",
+            "type": "ADV",
+            "view_url": "mobileon.pro"
         }
     ],
     "py/object": "parser_result.ParserResult"

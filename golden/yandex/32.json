@@ -89,6 +89,24 @@
             "title": "Фильмы новинки скачать через торрент бесплатно",
             "type": "SEARCH_RESULT",
             "view_url": "http://torrentum.net/films/"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/SdZv6d-fQqK40000gQB0022ElrEwdmLIbGAR0Mv3jm8j0OYyAXHZ1ecpXoDq1PsZiDeLfccAlFtZLGdSinYJiGgzlT3vFGUgBgMWKZaAlAcXDmgD0Tq1tf0az96x27Tz2vVmYGlCnMwasWoJ0fa5GeoIk0EscXq1jO7oe9rx3A-Ik0Epc2m3j87osPrx3DgOB0EKbNtWfv4I1wYmG5bp1wC1hlFM0g6RNowZ1R41iiGH00102FdprWAXcrykemNy1RcZiDeLmV__________3yBzDhW5CjkAVmx5Zm_I__________yFq___________3-u1tmBme01W6EMGyYljWoZrtcVV9pZM0lRQsfBZWD1L-vAu0taX?q=%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C+%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B",
+            "py/object": "parser_result.Component",
+            "snippet": "GetVideo – бесплатно качай фильмы c YouTube. Скачай бесплатную программу!",
+            "title": "Программа для скачивания фильмов / getvideo.org",
+            "type": "ADV",
+            "view_url": "getvideo.org"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/SdZv6gCap6O40000gQB0022ElrEwdmLIbGAR0Mv3jm8j0JA8lC7Xe0I9vSyKPRRlUI2Tg1dz5PgraldC1QP9Yhikzg4BtB_dTCeBlRq_tU47gYwbftSj2xocoTO9ZG7T0TwG9FIHkmXtVGkNy8aBpCLkfDeCamAP1KACcE42jeJTjOYxe9d01Q-OuGApbdO1j8YxsP331TgGTm6KbpknfvU61gYbFpw8em6kyzO2ePjVBgC5iGEoX17vyzO2ePjVBgC5_0Mvg1dz5S7__________m_2_JQu1JBRYdyEnOyFql__________3zF__________m_k0Ty2yA00O1ZoWHJbaF8hxOCezTvdtoSurWBssjgIuu3GLVkOuG9u8W00?q=%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C+%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B",
+            "py/object": "parser_result.Component",
+            "snippet": "Хотите скачать программу для скачивания фильмов? Скачайте на нашем сайте!",
+            "title": "Скачать фильмы через программу / bestwinsoft.ru",
+            "type": "ADV",
+            "view_url": "bestwinsoft.ru/скачать-фильмы-на-пк"
         }
     ],
     "py/object": "parser_result.ParserResult"

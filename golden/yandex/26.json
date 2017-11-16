@@ -89,6 +89,15 @@
             "title": "Футбол онлайн - Прямые трансляции футбола смотреть...",
             "type": "SEARCH_RESULT",
             "view_url": "https://footballhd.ru/online-video/"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/GNGa2dnJHbq40000gQB0022EkbEwdmLIbGAR0Mv3jm8j0OYx1ox00ecWPyKAdQe00WIcAugvLnaM4TouXrZS1Bs_k7IN0wekfQ7Xim6D0Tq1tf0az96Ymjvlb_292yp5RgJQ39C2cGL2Z9zl1RQPeG6rdc41e90BaA-VRmMpa9yaj9vX0TcG2v3Qa9yab9yzogUMJGAefSBS3AC1hlhA03IEJ2wZ1R41iiGH40102FdwoW0qZamkemNy1Rcg0084mV__________3yBwiTPWhDY83mRI__________yFq___________3-u1tmBme01W6EMGyYljWoZrmgWXdgZAzjM2pzw0q5Nxdsy5Vny0?q=%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB+%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD",
+            "py/object": "parser_result.Component",
+            "snippet": "Ужин за счет кафе знатокам футбола! Шашлыки!",
+            "title": "Спорт online в «Телеге» 9 экранов – На Комендантском!",
+            "type": "ADV",
+            "view_url": "vk.com/cafetelega"
         }
     ],
     "py/object": "parser_result.ParserResult"

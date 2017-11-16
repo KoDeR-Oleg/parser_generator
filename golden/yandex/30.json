@@ -89,6 +89,24 @@
             "title": "Смотреть Маша и Медведь без остановки, все серии...",
             "type": "SEARCH_RESULT",
             "view_url": "http://mashaimedved.online/masha-i-medved-bez-ostanovki"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/FM65DO6a5lK40000gQB0022ElLEwdmLIbGAR0Mv3jm8j0OY_gzkW0ecopEOu0PWKdQ-jmGccAOgbtNIttANHg_wzgZc6xgekfQ91ZWAyfC-Z0eq1tG7Ua2JqzBKBFTK6aR6-KDaDb_1zAPh6RgJQ39C2cGL2Z9zU1Q2Gn0cldru5sP342PILbEodd8S2gB10MNC7em6kzwv0P2XPBgC5iG6on1400008-VUkG6GeMIwZ1Vm5kQ-jmGd1__________yFmlbFfN1Drbk_1TB__________m_J__________yFxW7V0l2W061ezSulECv_hlRR2lRXWD1L-vzU1NaU?q=%D0%BC%D0%B0%D1%88%D0%B0+%D0%B8+%D0%BC%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D1%8C+%D0%B2%D1%81%D0%B5+%D1%81%D0%B5%D1%80%D0%B8%D0%B8",
+            "py/object": "parser_result.Component",
+            "snippet": "Смотрите в онлайн-кинотеатре Megogo. Мультфильмы в отличном качестве.",
+            "title": "\"Маша и Медведь\" все серии подряд / megogo.net",
+            "type": "ADV",
+            "view_url": "megogo.net"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/FM65DOt5ufi40000gQB0022ElLEwdmLIbGAR0Mv3jm8j0JA8j2iQOmQ9etHA1fsaageMfccAkjOyHnFSkJWoe1Azj3JwHmkgBgMiSn8HlAMnr0ED0Tq1tf0azFIneXRRAf6nlb3P3PVmVIcQncwasWoFiznZF0oVi6j1NmkJ0fa5GeoUhn2scG45jP4-1A2RD1EldgyGiv3Y1BIHFWJPcpGJsf3Y19ISyfIdbZi1gADbIK-Z0Qxtha1aA5akemMn0RB44G00G0Zvzwv0P2XPBgC5_0Mvf9Ag5i7__________m_2-K-bS4tMMxy5nOyFql__________3zF__________m_k0Ty2yA00O6ZbaF8hxOCezSulECv_hlRR2lRXWD1L-vwl47iZ?q=%D0%BC%D0%B0%D1%88%D0%B0+%D0%B8+%D0%BC%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D1%8C+%D0%B2%D1%81%D0%B5+%D1%81%D0%B5%D1%80%D0%B8%D0%B8",
+            "py/object": "parser_result.Component",
+            "snippet": "100% новогоднее именное письмо от Деда Мороза. Подарите любимому ребенку сказку!",
+            "title": "Настоящее письмо от Деда Мороза! / дедмороз2018.рф",
+            "type": "ADV",
+            "view_url": "дедмороз2018.рф/Новогодние-Подарки"
         }
     ],
     "py/object": "parser_result.ParserResult"

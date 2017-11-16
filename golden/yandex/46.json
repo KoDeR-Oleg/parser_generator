@@ -97,6 +97,42 @@
             "title": "Новости Украины сегодня: последние новости...",
             "type": "SEARCH_RESULT",
             "view_url": "https://24tv.ua/ru/ukraina_tag1119/"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/2qHOFbufSWS40000gQB0022EkbIwdmM5cR8ybGAR0Mv3jm8j0OYdO_MnYQILsdoO3vscWJOLfWgAl1b01WVSjAbFr0YzlxHM7GQgBgMYLaK9lA_ykGQD0Tq1tf0azFImv6vj5v6tAGtY29VmYGlCnMwasWoJ0fa5GeoGy0AsYk6rWx-WbTS3hv3m0hE0-hI3lzcLrmFQWFgKb-pffv3h3gYzdlOG0QC1fC00001O0QxyreA3EOmkemMn0RB44G0000Zv_DQ2WpcCBgC5_0Mvfe4s5S7__________m_2u7JQpu53HfR40SMF3zB__________m_J__________yFxW7V0l2W060OvP3oA-s3AFNGDPmmmTO2zj5Hkkw0q5NxaF02Vo80?q=%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8+%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%8B",
+            "py/object": "parser_result.Component",
+            "snippet": "Новости, аналитика, мнения.",
+            "title": "Что сейчас происходит в Украине? – Читайте на Politpuzzle!",
+            "type": "ADV",
+            "view_url": "politpuzzle.ru/свежие-новости"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/2qHOFkkpu7W40000gQB0022EkbIwdmM5cR8ybGAR0Mv3jm8j0JA8jiDFa0M9ksEDkGQTgw7w5APOYhqWbFi6tBXFhia8lRyGL1O6gYwbgIE52Robple7ZG7T0TwG9FIHjoaDuWYNy8aBpCLkfDeCamAP1KACdnu3jelljOBBe9FD1A-V7WEpc3W1j8BBsPFD1DgOE06KamVgfv6W2QYmPINP1QC1fC00001O0QxyreA3EOmkemMn0RB44G0000Zv_DQ2WpcCBgC5_0Mvgw7w5C7__________m_2u7JQpu53HfR40SMF3zB__________m_J__________yFxW7V0l2W060OvP3oA-s3AFNGDPmmmTO2zj5Hkkw0q5Nxdnu3V280?q=%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8+%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%8B",
+            "py/object": "parser_result.Component",
+            "snippet": "Читайте последние мировые новости на rueconomics.ru!",
+            "title": "Новости дня в Украине! – Честно и достоверно",
+            "type": "ADV",
+            "view_url": "rueconomics.ru/главные-новости"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/2qHOFgPSnQi40000gQB0022EkbIwdmM5cR8ybGAR0Mv3jm8j0JE8hy0wWOcnlIio1fsidVeKfWUAke_tpmdSlVMwCGYzkK0Gl0MgBgMWOzm8lA7zkGQD0Tq1tf0az96tAGtY29VmYGlCnMwasWoJ0fa5GeoOLWEsbW01jOJPe9FD1A-OLWEpc3W1j8JPsPFD1DgOE06KaNNmfv6H2AYnG5bp1wC1fC00001O0QxyreA3EOmkemMn0RB44G0000Zv_DQ2WpcCBgC5_0Mvh9tw5C7__________m_2u7JQpu53HfR40SMF3zB__________m_J__________yFxW7V0l2W060OvP3oA-s3AFNGDPmmmTO2zj5Hkkw0q5Nxc5O3V280?q=%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8+%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%8B",
+            "py/object": "parser_result.Component",
+            "snippet": "Читайте самые свежие новости Украины! Сводка с места событий на Riafan.ru!",
+            "title": "Все события и новости Украины! / riafan.ru",
+            "type": "ADV",
+            "view_url": "riafan.ru/Украина"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/2qHOFcY5dt040000gQB0022EkbIwdmM5cR8ybGAR0Mv3jm8j0JI8l7XE80M9lPTjBWQTfrTI5QPHYhd6zJa7tBAdGnO9lRSgJ4G6gYwbeogq2Rodrxa6ZG7T0TwG9FIHjoaDuWYNy8aBpCLkfDeCamAP1KACa943jfyH0RM2wA2LrmEla943iu3wj8BesPNN0zg0-fIGi_6dala7gB6c2Tu4em6am00005W1hlpMWeCvZ2wZ1R41iiGH00002FdyreA3EOmkemNy1RcdLr8LmV__________3yBWTDhFWKD6biG1nOyFql__________3zF__________m_k0Ty2yA00O1ZbaF8hxOCezT0rd331rWBsqL6wxe3GLVkGaGDx8W00?q=%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8+%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%8B",
+            "py/object": "parser_result.Component",
+            "snippet": "Честные новости о происходящем в Украине сегодня",
+            "title": "Украина. Последние новости. – Читайте на inforeactor.ru!",
+            "type": "ADV",
+            "view_url": "inforeactor.ru/новости-украины"
         }
     ],
     "py/object": "parser_result.ParserResult"

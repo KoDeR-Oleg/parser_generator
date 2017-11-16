@@ -111,6 +111,42 @@
             "title": "О городе Санкт-Петербурге",
             "type": "SEARCH_RESULT",
             "view_url": "http://www.101hotels.ru/recreation/russia/sankt-peterburg/about"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/NdgZb8zv4Py40000gQB0022EiLIwdmLIbGAR0Mv3jm8j0OYvaZ900ucnatU_1fsatpW1fZEAjb-Rdm_Sin7UAH2zkaEdCGggBgMc-VCElA0vJ0MD0Tq1tf0az96zXk-q0fVmVIcQncwasWoJ0fa5GeoMpLssdpmZjPyy8w2juEG2hvRDNREWKXO1j9yy8zcjuEG2sg1I5W6Kc1cofusVgB10MNC7em6k-7523ofcBgC5iG6on1400408-VXnGWygPYwZ1Vm5kQJVE071__________yFmlRfSyNXnZTW2yMF3yo32zB__________m_J__________yFxW7V0l2W061exO8zzTk0mUs6SGBstNSsvO3GLVkMpLrz8G00?q=%D1%81%D0%B0%D0%BD%D0%BA%D1%82+%D0%BF%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3",
+            "py/object": "parser_result.Component",
+            "snippet": "Сэкономьте до 50% на бронировании. Выгодные цены без комиссий!",
+            "title": "Отели в Санкт-Петербурге / booking.com",
+            "type": "ADV",
+            "view_url": "booking.com"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/NdgZb2VLbC040000gQB0022EiLIwdmLIbGAR0Mv3jm8j0JA8lKhuh0Q9gpcwXPX4dQPRGGscV8g_o7fi0ToqCrtE0RspdF680QekfQfnoGEyfKZ90uq1tG7Ua2JqaRs6xxG2b_1zAPh6RgJQ39C2cGL2Z9Mh4RQKemQrbAC6eA7r0m6lbQiHiv2eORIKemRPeVK30TgGg66Kd3Qnfu6xgB10MNC7em6k-7523ofcBgC5iG6on1400008-VXnGWygPYwZ1Vm5kQPRGGt1__________yFmlRfSyNXnZTW2yMF3zB__________m_J__________yFxW7V0l2W061exO8zzTk0mUs6SGBstNSsvO3GLVkLgn5w8G00?q=%D1%81%D0%B0%D0%BD%D0%BA%D1%82+%D0%BF%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3",
+            "py/object": "parser_result.Component",
+            "snippet": "Отели в Санкт-Петербурге от 820 р. Скидки до 78% Цены с 200 сайтов бронир.",
+            "title": "4985 Отелей в г. Санкт-Петербург / trivago.ru",
+            "type": "ADV",
+            "view_url": "trivago.ru/Санкт-Петербург"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/NdgZb2JEVpG40000gQB0022EiLIwdmLIbGAR0Mv3jm8j0JE8itOXoWQ9f6Sr7PsjW8SMfeG8YhDLXbmItBf0yGeIlRJnwmWBgYwbgNU64BochhKFZG7T0TwG9FIHlORlj0ANy7qfciPkfDeCZxuduoC3dxc-Zt82amAP1KACbWSYjfOr2hMSfWYWbMachvO78hEGn0cqdAO8sPLf9jgGn0cKaK6Cfu-ogB10MNC7em6k-7523ofcBgC5iG6on1400008-VXnGWygPYwZ1Vm5kQs0XnR1__________yFmlRfSyNXnZTW2yMF3zB__________m_J__________yFxW7V0l2W061evP3oA-s3AFNRWC7jXd42zjrtDkM0q5NxbWSYVo80?q=%D1%81%D0%B0%D0%BD%D0%BA%D1%82+%D0%BF%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3",
+            "py/object": "parser_result.Component",
+            "snippet": "Моментальная выдача до 100000р на Вашу карту даже с просрочкой. Бери сейчасСодействие в подборе финансовых услуг/организа…Содействие в подборе финансовых услуг/организаций",
+            "title": "Дам в долг на сайте онлайн! / quickzaimnew.ru",
+            "type": "ADV",
+            "view_url": "quickzaimnew.ru/Вам-Одобрен-Займ"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/NdgZbDTrrYG40000gQB0022EiLIwdmLIbGAR0Mv3jm8j0JI8jvaECG69bjKddQ0u9WIc4egviAEJ4josIHSU4hsmNTuH2wekfQcnf12yfcM71eq1tG7Ua2JqzBAk1BWfaRs6xxG2b_1zAPh6RgJQ39C2cGL2Z97j6xQSO0YrcHa7e93F7A-HxHkpa5C7j9aP1zcGpnpQa5C7b9d9cgUDgAYmG5bp1wC1hlXnGWygPYwZ1R41iiGH00102FduSK8FAcOkemNy1RcWE2O4mV__________3yBswNF5uSOtO0l5Zm_I__________yFq___________3-u1tmBme01WQEMGyYljWoZrsu31xOPn0lRTTpRbWD1L-v7j6tyX?q=%D1%81%D0%B0%D0%BD%D0%BA%D1%82+%D0%BF%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3",
+            "py/object": "parser_result.Component",
+            "snippet": "Путевки в Гранд-отель \"Ривьера\" Туапсе от КУРОРТНОГО МАГАЗИНА",
+            "title": "Гранд-отель \"Ривьера\" Туапсе – Выгодные цены",
+            "type": "ADV",
+            "view_url": "kurortmag.ru"
         }
     ],
     "py/object": "parser_result.ParserResult"

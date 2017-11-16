@@ -103,6 +103,24 @@
             "title": "Подробная карта Москвы с улицами, Спутниковая",
             "type": "SEARCH_RESULT",
             "view_url": "http://MapsRF.ru/moskva-karta.html"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/MUWJH4DrbWu40000gQB0022EkLEwdmM5bp8ybGAR0Mv3jm8j0OYqDsCY0OdZKUgvB8XVGPsXkIi5chzp8Oe5fX6Al5rbg0hSj4oTu0kzjfhrxWUgBgMeUJS4lAPZDmID0Tq1tf0az96qJIUf2fVmYGlCnMwasWoJ0fa5GeoO4mssbEm3jP5J0w2Vw5klc1CDivzT5xIHKmFPbGTWsf1g69IG_hMda0S1gB10MNC7em6kyhi02Mj9BgC5iGEoj140043vyhi02Mj9BgC5_0MveRah1S7__________m_2-FfNA6hSkPKBnOyFql__________3zF__________m_k0T-53V2W061Oye4KvP3oA-s3AFN51bdHAxlsshG6te3GLVkO4mrv8m00?q=%D0%BA%D0%B0%D1%80%D1%82%D0%B0+%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D1%8B",
+            "py/object": "parser_result.Component",
+            "snippet": "Настенные карты Москвы и Московской области. Разумные цены+скидки! Доставка",
+            "title": "Настенные карты Москвы и области / globusoff.ru",
+            "type": "ADV",
+            "view_url": "globusoff.ru/карты-для-обучения"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/MUWJHCUNn4u40000gQB0022EkLEwdmM5bp8ybGAR0Mv3jm8j0JA8iP4le0A9kQ3OfG6Tds83fYcAjQNjh13Slw7uQ12zkMdwDm6gBgMjTWu3lAYR3WED0Tq1tf0azFIskZ_p1v6qJIUf2fVmYGlCnMwasWoJ0fa5GeoM4JEsa5eMjP1Q5g2RMpslbX4piv3R6hIGMXRPcrizsf3R6fIG2wcdWaAei41PSmUZ0Qxokm09QqakemMn0RB44G0000Zvyhi02Mj9BgC5_0Mvds83mV__________3yBu-bSeQjovbGl5Zm_I__________yFq___________3-u1tmBme01WMEs8DFN51bdHAxlsshG6te3GLVkM4JDz8G00?q=%D0%BA%D0%B0%D1%80%D1%82%D0%B0+%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D1%8B",
+            "py/object": "parser_result.Component",
+            "snippet": "Спецпредложения лучших отелей!",
+            "title": "москва карта - Какой отель самый лучший?",
+            "type": "ADV",
+            "view_url": "tripadvisor.ru/отели-и-гостиницы"
         }
     ],
     "py/object": "parser_result.ParserResult"

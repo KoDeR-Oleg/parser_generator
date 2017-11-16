@@ -2,6 +2,15 @@
     "components": [
         {
             "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/H-5w6u12qP440000gQB0022EjLIwdmLIbG6R0cv3jm4bYBHVCh03YRX0zxS6dQ9WM06cEegy_FCR4TosY3bB4RsutG482gekfQhigWwyebzQ3Oq1tG7Ua2JqzBIM8BaaaRs1Djm7b_292yp5RgJQ39C2cGL2Z9ZpbhQHIIsrcc0ceAiau06lcFEMiv0IUhIQO2RPgoJW0TgG4dgKaT4Hfvqk4wYmG5bp1wC1hlwxWBNBTYwZ1R41iiGG00102Fd-ku2rotOkemNy1RcYO5W1mV__________3yBx8Tmh_xGzd0x5Zm_I__________yFq___________3-u1tmBme01WMEMGyYljWoZrmdsDs-IxzjJXNkc0q5NxcFEMUI80?q=%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BD%D1%8B%D0%B9+%D0%BA%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80",
+            "py/object": "parser_result.Component",
+            "snippet": "Ставка от 12,9%. Срок до 5 лет. Без залога и поручителей. Решение онлайн.",
+            "title": "Калькулятор кредитов Сбербанка – Онлайн-заявка",
+            "type": "ADV",
+            "view_url": "sberbank.ru/Калькулятор"
+        },
+        {
+            "alignment": "LEFT",
             "page_url": "http://Calculator-Credit.ru/",
             "py/object": "parser_result.Component",
             "snippet": "Calculator-Credit.ru",
@@ -89,6 +98,42 @@
             "title": "Кредитный калькулятор онлайн",
             "type": "SEARCH_RESULT",
             "view_url": "https://credity5.ru/%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BD%D1%8B%D0%B9-%D0%BA%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/H-5w6_-JpdG40000gQB0022EjLIwdmLIbGAR0Mv3jm8j0OYvuZ2o0ecIy3ITfp4t0QOgYhJoz4uHtBDq-ceHlRAhei4AgYwbgZxs3xocs_G9ZG7T0TwG9FJqiq0-6IYHlO4st0UNy8aBpCLkfDeCamAP1KACboXajf8C7hMSTXcWfR0f0Q-NA6IpaAzBj9ns6Tcbi2a1sf2lIvIQ3hAdYlgei41PSmUZ0Qx-ku2rotOkemMn0RB44G00G0Zv_hk0jSjsBgC5_0Mvfp4t0S7__________m_2-o7SA_-qFPmEnOyFql__________3zF__________m_k0Ty2yA00O5ZbaF8hxOCezS9zZTlak_RKuLxfWD1L-vSeP7yX?q=%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BD%D1%8B%D0%B9+%D0%BA%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80",
+            "py/object": "parser_result.Component",
+            "snippet": "До 850 000р. Нужен только паспорт. Оставьте заявку! С 22 лет. От 14,9% годовых.ООО \"Хоум Кредит энд Финанс Банк\".",
+            "title": "Кредиты в Банк Хоум Кредит – Без справок и поручителей",
+            "type": "ADV",
+            "view_url": "homecredit.ru/Кредит-наличными"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/H-5w6ujxGry40000gQB0022EjLIwdmLIbGAR0Mv3jm8j0JA8kN5Xa069al0qdQf1D0Ec68gorn7i4TowdKRD4RsxhLZi2gekfQ6jIH2yfo8348q1tG7Ua2JqaRs1Djm7b_292yp5RgJQ39C2cGL2Z99-ExQHsH6raI0Fe918Yg-IVZkpa2WZj94W3zcGsgpQaF8hb967qwUPEW6ei41PSmUZ0Qx-ku2rotOkemMn0RB44G00G0Zv_hk0jSjsBgC5_0Mvga4q0y7__________m_2-o7SA_-qFPmEnOyFql__________3zF__________m_k0Ty2yA00O5ZbaF8hxOCezS9zZTlak_RKuLxfWD1L-v9-EtaX?q=%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BD%D1%8B%D0%B9+%D0%BA%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80",
+            "py/object": "parser_result.Component",
+            "snippet": "Кредит наличными до 3 млн ₽. Подберите кредит по параметрам!Содействие в подборе финансовых услуг/организа…Содействие в подборе финансовых услуг/организаций",
+            "title": "Кредитный калькулятор онлайн – Ставка от 11,9%!",
+            "type": "ADV",
+            "view_url": "sravni.ru/Рассчитать-кредит"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/H-5w6o5pMMW40000gQB0022EjLIwdmLIbGAR0Mv3jm8j0JE8lQGdPmQ9z8wCnwxEXQSBdQHHFHQQgmF70wPgYhGQR6qDtByjiZqElRF32Je9gYwbgOjx3RojkumBZG7T0TwG9FIHlO4st0UNy8aBpCLkfDeCamAP1KACa-Grjfug4BMOimsWct26hvFaDREGBYAqcBCDsPjmXjgGBYAKdr2gfvCf0QY--fQc0wC1hlwxWBNBTYwZ1R43ihGH0010-VwxWBNBTYwZ1Vm5kQHHFHR1__________yFmliXt2l_j3sS3iMF3zB__________m_J__________yFxW7V0l2W061OyeqIvP3oA-s3AFN2VOtRvBlsrE5UwO3GLVkJv3L-8W00?q=%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BD%D1%8B%D0%B9+%D0%BA%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80",
+            "py/object": "parser_result.Component",
+            "snippet": "Узнай как тебя оценивают банки. Данные кредитного скоринга из 300 банков РФ",
+            "title": "Проверка кредитной истории онлайн – отчет БКИ за 15 мин",
+            "type": "ADV",
+            "view_url": "zapros-bki.ru/Кредитная-история"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/H-5w6qQ3uaq40000gQB0022EjLIwdmLIbGAR0Mv3jm8j0JI8gQjoSecnzV_N0PX4dQ4JcGMc1egt2x1f0To_rNKA0hsoyBYn0QekfQd9n0Eyhwhk0eq1tG7Ua2JqzBhWmj89aRs1Djm7b_292yp5RgJQ39C2cGL2Z99b8RQS10grc7q8e9Lf9g-IPI6paCG9j9Xz2DcLQIRQaCG9b9zIwQUVs06ei41PSmUZ0Qx-ku2rotOkemMn0RB44G00G0Zv_hk0jSjsBgC5_0MveHEP1S7__________m_2-o7SA_-qFPmEnOyFql__________3zF__________m_k0Ty2yA00O5ZbaF8hxOCezS9zZTlak_RKuLxfWD1L-v9b8NeY?q=%D0%BA%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BD%D1%8B%D0%B9+%D0%BA%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80",
+            "py/object": "parser_result.Component",
+            "snippet": "Расчет любых кредитов до 3 млн. от ТОП-30 банков. Ставки от 11%.",
+            "title": "Кредитный калькулятор онлайн! / moneymatika.ru",
+            "type": "ADV",
+            "view_url": "moneymatika.ru/Калькулятор-кредитов"
         }
     ],
     "py/object": "parser_result.ParserResult"

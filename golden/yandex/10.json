@@ -2,6 +2,24 @@
     "components": [
         {
             "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/6e3uiznRzA840000gQB0022ElLAwdmLIbG6R0cv3jm4bYBphPuK6YQP7kv2Tfs464wPoYh2JdmmJtBtEzdmIlR8yK3aBgYwbfB472hoYrjq8ZG7T0TwG9FJqiPlAZIgHizOAJmkNy7qfciPkfDeCamAP1KACcGqdjfIt2xMSxGcWa-KohvaD9xEOy0oqdEq9sPFbCjgOy0oKae0Sfvjo9AYmhsdc1gC1hlskW7Zi6IwZ1R41iiGG00002Fdzhe1ux1akemNy1RcdOGOJmV__________3yBpa9epeOfsrGx5Zm_I__________yFq___________3-u1tmBme01WQEMGyYljWoZrmq_hUz2kzjiG9zA0q5NxcGqdVY40?q=%D0%B8%D0%B3%D1%80%D1%8B+%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD",
+            "py/object": "parser_result.Component",
+            "snippet": "Лучшие онлайн-игры! Новинки онлайн игр 2017! Бесплатно! Выбирай и играй прямо сейчас!",
+            "title": "Онлайн игры! – ТОП-100 лучших онлайн игр!",
+            "type": "ADV",
+            "view_url": "supermmorpg.ru/онлайн-игры/"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/6e3uiqBBgla40000gQB0022ElLAwdmLIbG6R0cv3jm4bCeYqgFGm18cP30gTgDzc5gP2YhxM_GmJtBF8J7qIlR--TZaBgYwbeJBn4Boen8yGZG7T0TwG9FJqlE2PZYgHizOAJmkNy7qfciPkfDeCamAP1KACdDXJjfX_7xMOVn-Wc3jhhvpOKxEOI2Yqc7yVsPvxOTgGdoIKajSLfvJ55AYmG5bp1wC1hlskW7Zi6IwZ1R41iiGG00002Fdzhe1ux1akemNy1RcetsOMmV__________3yBpa9epeOfsrGx5Zm_I__________yFq___________3-u1tmBme01WQEs2FVN3J-jxqAxssn0dqe3GLVkSs5Dw8G00?q=%D0%B8%D0%B3%D1%80%D1%8B+%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD",
+            "py/object": "parser_result.Component",
+            "snippet": "Построй свой город в русской онлайн игре!18+",
+            "title": "Онлайн Стратегия 2017 / triumph.totalbattle.com",
+            "type": "ADV",
+            "view_url": "triumph.totalbattle.com/войти-в-игру"
+        },
+        {
+            "alignment": "LEFT",
             "page_url": "http://vseigru.net/",
             "py/object": "parser_result.Component",
             "snippet": "Игры онлайн. Добро пожаловать на \"Vseigru.net\"! Это игровой портал, где собраны все самые новые онлайн игры.",
@@ -89,6 +107,42 @@
             "title": "Игры Онлайн Бесплатно! - ИгроУтка",
             "type": "SEARCH_RESULT",
             "view_url": "http://igroutka.net/"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/6e3uit6t_Qu40000gQB0022ElLAwdmLIbGAR0Mv3jm8j0OY-O-u018cllxXyc5UTeI5o1QO_Yhc1T6u1tB2U3mK2lRcEEQu1gYwbhiRC0xoWgyK3ZG7T0TwG9FJqkurE00kHizOAJmkNy7qfciPkfDeCamAP1KACc6OvjfaV6RMP7ncWbezlhvXcEREGr32qcHyPsPQFRzgGr32KdutLfvMR1QYmG5bp1wC1hlskW7Zi6IwZ1R41iiGH00002Fdzhe1ux1akemNy1RcX8N85mV__________3yBpa9epeOfsrGx5Zm_I__________yFq___________3-u1tmBme01WQEs8DFN3J-jxqAxssn0dqe3GLVkOPZbz8G00?q=%D0%B8%D0%B3%D1%80%D1%8B+%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD",
+            "py/object": "parser_result.Component",
+            "snippet": "World of Tanks - та самая игра про танки. Регистрируйся и играй бесплатно!",
+            "title": "Любишь онлайн игры? / worldoftanks.ru",
+            "type": "ADV",
+            "view_url": "worldoftanks.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/6e3uinFv2SG40000gQB0022ElLAwdmLIbGAR0Mv3jm8j0JA8krl5q0I9lTxpDWQTfP0M4wPCYhrisqmDtBgWZp0ElR31rZ89gYwbhtDc3RogQMq4ZG7T0TwG9FJqj0M6JYYHizOAJmkNy7qfciPkfDeCamAP1KACcxmgjf0E4BMG3X2WcNqwhvkyAhEG-HMqa0uGsPbzEjgG-HMKbKpdfvZW1gYmG5bp1wC1hlskW7Zi6IwZ1R41iiGH00102Fdzhe1ux1akemNy1Rcba1OJmV__________3yBpa9epeOfsrGx5Zm_I__________yFq___________3-u1tmBme01WQEs2FVN3J-jxqAxssn0dqe3GLVkRl2fz8G00?q=%D0%B8%D0%B3%D1%80%D1%8B+%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD",
+            "py/object": "parser_result.Component",
+            "snippet": "Обзор более 50-ти онлайн игр 2017 г. Играй в бесплатные онлайн игры!18+",
+            "title": "Игры онлайн 2017 / games-4-free.ru",
+            "type": "ADV",
+            "view_url": "games-4-free.ru/игры-онлайн"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/6e3uisojixC40000gQB0022ElLAwdmLIbGAR0Mv3jm8j0JE8leW6K0M9ev1WVvshiWuMfbIAkho3ZmpSlxhVXGszjIV3a0YgBgMl2CSBlAbsj0kD0Tq1tf0az96prWfF2vVmVIcQncwasWoJ0fa5GeoH5ngsczC7jP6Y1g2Tn1slaHSQivYH1xIHeWRPdSGTsfYH1vIVhEUddHKBgBGA6Ze1em6k_Qw0UEmPBgC5iG6on1400008-VskW7Zi6IwZ1Vm5kQko3XR1__________yFmlEGcZEXYdRL3iMF3zB__________m_J__________yFxW7V0l2W061evP3oA-s3AFN3J-jxqAxssn0dqe3GLVkH5nfw8G00?q=%D0%B8%D0%B3%D1%80%D1%8B+%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD",
+            "py/object": "parser_result.Component",
+            "snippet": "Обзоры и рейтинги онлайн игр. Играй прямо сейчас!18+",
+            "title": "Онлайн игры. Бесплатно. Топ-50 – лучших онлайн игр 2017!",
+            "type": "ADV",
+            "view_url": "mmo-top.org/онлайн-игры"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/6e3uiraWtAC40000gQB0022ElLAwdmLIbGAR0Mv3jm8j0JI8lPaYuWE9eBLq0fsbvQKAfZsAjBQrSGtSiDetKWwzllzqH0cgBgMgH9mClA6ilmED0Tq1tf0az96prWfF2vVmVIcQncwasWoJ0fa5GeoOabwscMGfjPbaAQ2Oqrwlc99Uiv21ARIPP2dPcDDUsf21APIKxiIdcmu3gB10MNC7em6k_Qw0UEmPBgC5iG6on1400408-VskW7Zi6IwZ1Vm5kQNbfGh1__________yFmlEGcZEXYdRL3iMF3zB__________m_J__________yFxW7V0l2W061exOWqzSDFwtlGhlRR42VIWD1L-vYINduW?q=%D0%B8%D0%B3%D1%80%D1%8B+%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD",
+            "py/object": "parser_result.Component",
+            "snippet": "Онлайн игра 2017 года. Играй на своем ПК бесплатно!18+",
+            "title": "Vikings: War of clans – Онлайн игра нового поколения!",
+            "type": "ADV",
+            "view_url": "plarium.com/Викинги"
         }
     ],
     "py/object": "parser_result.ParserResult"

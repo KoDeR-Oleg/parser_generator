@@ -2,6 +2,15 @@
     "components": [
         {
             "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/7koxm-ZbFvm40000gQB0022EjLAwdmLIbG6R0cv3jm4bYBvZxW04YQjeJAYOLvsX8N85fZ-AktzqRW7SlPmF1GAzjuqvhW6gBgMknim3lA2hnGED0Tq1tf0azFIsYKu02v6x2ywO3fVmVIcQncwasWoJ0fa5GeoUtDIscofTjPigNQ2T7j-ldjpKiv2eORIRAbtPdHxVsf2eOPIQtWwdaQaAgB10MNC7em6kzRK0YQxzBQC5iG6on1040008-VMr08ck_IsZ1Vm5kQ4XSWN1__________yFmlQPNBabqhjp2CMF3zB__________m_J__________yFxW7V0l2W061exOWqzS0UdqXSjVRKaHVBWD1L-vxSr7mX?q=%D1%82%D0%B0%D0%BD%D0%BA%D0%B8+%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD",
+            "py/object": "parser_result.Component",
+            "snippet": "World of tanks - Одна из лучших онлайн-игр про войну. Присоединись сейчас!",
+            "title": "Играй онлайн в танки! Бесплатно! / worldoftanks.ru",
+            "type": "ADV",
+            "view_url": "worldoftanks.ru"
+        },
+        {
+            "alignment": "LEFT",
             "page_url": "http://tankionline.com/",
             "py/object": "parser_result.Component",
             "snippet": "Круши вражеские танки, помогай команде, развивай свой танк, строй военную карьеру.",

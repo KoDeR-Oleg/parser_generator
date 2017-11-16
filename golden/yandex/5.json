@@ -89,6 +89,33 @@
             "title": "Звук онлайн - тут найдешь как скачать музыку и песни...",
             "type": "SEARCH_RESULT",
             "view_url": "https://zvooq.online/"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/BmxsEWlXDfO40000gQB0022EkLAwdmLIbGAR0Mv3jm8j0OYyxpGX0Oc-kyN11Ps2CwOHYhn64dKBtBFgUfeClREEL5e8gYwbgyaY2hoXTXyAZG7T0TwG9FIHj0tgx0QNy8aBpCLkfDeCZx8KJiK8dx9n-MWCamAP1KACcLC3jeZ_jOZOe9MQ2Q-PKmEpa742j8ZOsPMQ2TgGSGAKcyh8fvfU2wYqP_cK0gC1hlR3GDIN2YwZ1R41iiGH00102Fdsmq3KbmekemNy1Rc2Cy7__________m_2_OsRDGu55oi6ql__________3zF__________m_k0Ty2yA00O5ZbaF8hxOCezSiz0erhm_RHwr7EWD1L-vbJ0tmX?q=%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C+%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D1%83",
+            "py/object": "parser_result.Component",
+            "snippet": "Удобный формат: CD, DVD, пластинки, Blu-Ray!18+",
+            "title": "Музыка со всего света – Огромный выбор музыки",
+            "type": "ADV",
+            "view_url": "ozon.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/BmxsEakswNi40000gQB0022EkLAwdmLIbGAR0Mv3jm8j0JA8jMWji0I9iKAQbWETfUVZ5QPAYhejkQ8AtBUxNjiBlRl_xEi7gYwbgOmb2hoeF746ZG7T0TwG9FIHj0tgx0QNy8aBpCLkfDeCZx8KJiK8dx9n-MWCamAP1KACaRCGjfW21RMUFWIWa9uvhv6p4BEGfWwqdZu4sP2UETgGfWwKa1kefuZNgAUIX_MZ0Qxsmq3KbmekemMn0RB44G0000ZvziD0r9SABgC5_0MvfUVZ5S7__________m_2_OsRDGu55oi6nOyFql__________3zF__________m_k0Ty2yA00O5ZbaF8hxOCezSiz0erhm_RHwr7EWD1L-v6p47qY?q=%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C+%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D1%83",
+            "py/object": "parser_result.Component",
+            "snippet": "Учим Dj-ингу и созданию музыки в ц. СПб. Узнай",
+            "title": "Научись создавать музыку! – Запишись на бесплатный урок!",
+            "type": "ADV",
+            "view_url": "deluxe-music.ru/курсы-в-центре-СПб"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/BmxsEX6zb_440000gQB0022EkLAwdmLIbGAR0Mv3jm8j0JE8l2eKOmQ9e4w90vsZiDeLfccAlAvT60hSlXp8KmkzkZ8GdGUgBgMWKZaAlAcXDmgD0Tq1tf0az96q3Uhi1fVmYGlCnMwasWoJ0fa5GeoRBGEsWlIrZiwWbTS3hvij0xE0-hIEpjcLrmFQWFgKdp3RfvJm0wYmG5bp1wC1hlR3GDIN2YwZ1R41iiGH00102Fdsmq3KbmekemNy1RcZiDeLmV__________3yBzZPir3WKNAmR5Zm_I__________yFq___________3-u1tmBme01WMEMGyYljWoZropq2ZMl3zj7hKSw0q5Nxcoq3VI00?q=%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C+%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D1%83",
+            "py/object": "parser_result.Component",
+            "snippet": "GetVideo – качай бесплатно музыку c YouTube. Скачай бесплатную программу!18+",
+            "title": "Программа для скачивания музыки / mp3.getvideo.org",
+            "type": "ADV",
+            "view_url": "mp3.getvideo.org"
         }
     ],
     "py/object": "parser_result.ParserResult"

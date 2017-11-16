@@ -89,6 +89,24 @@
             "title": "Смотреть фильмы онлайн бесплатно в хорошем в 720...",
             "type": "SEARCH_RESULT",
             "view_url": "http://onfillm.club/"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/0maX_CtGbLa40000gQB0022ElLIwdmLIbGAR0Mv3jm8j0OYtFIpW0udy3OrQGGBAJmgO3vslhS49cgwRA8scFOgfis9ztAnOLREzg1_qhQekfQye9mAyfC-Z0eq1tG7Ua2JqzBu_eOW5aRcHgy0Eb_1Nny71RgJQ39C2cGL2Z9ua1A2RZHMldYG4sP3v5PIHij6dbyy3gB10MNC7em6kzC90BYAMBgC5iGEoj140043vzC90BYAMBgC5_0Mvhwt12S7__________m_2yR0tv36RqNO1ql__________3zF__________m_k0Ty2yA00O5ZoWHJrpYXQoKJ2zj5xDF60q5NxdYG4V1y0?q=%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B5%D1%82%D1%8C+%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B",
+            "py/object": "parser_result.Component",
+            "snippet": "Бесплатно, в хорошем качестве! От классики до новинок!18+",
+            "title": "Фильмы о войне 1941-1945! – Смотрите онлайн!",
+            "type": "ADV",
+            "view_url": "megogo.net"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/0maX_FytQTq40000gQB0022ElLIwdmLIbGAR0Mv3jm8j0JA8lRCY0WM9-5aGzNILCZ47dQAraWsQiQaTUWQcJugxhMrU1jo-Unym2BsstGQx1QekfQF5oGEyeER148q1tG7Ua2JqaRcHgy0Eb_1Nny71RgJQ39C2cGL2Z9Sf1BQQFm6rdWu1e9XG1w-NAGIpaTm1j9uE0TcGKmVQczm1b9EOmAUG0WEekozs1GIZ0Qxqma0k8fOkemMn0xAq4G00GFdqma0k8fOkemNy1RcYjP8DmV__________3yBni3VaCPlHTW75Zm_I__________yFq___________3-u1tmBme01WMFAD4-MGyYljWoZrpYXQoKJ2zj5xDF60q5Nxboa4Vo80?q=%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B5%D1%82%D1%8C+%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B",
+            "py/object": "parser_result.Component",
+            "snippet": "Свежие трейлеры голливудских и российских новинок. Не пропусти в Peers.TV",
+            "title": "Самые ожидаемые фильмы года / peers.tv",
+            "type": "ADV",
+            "view_url": "peers.tv"
         }
     ],
     "py/object": "parser_result.ParserResult"

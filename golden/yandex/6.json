@@ -104,6 +104,42 @@
             "title": "Поздравления с Днем Рождения",
             "type": "SEARCH_RESULT",
             "view_url": "http://prazdnik.na-svyazi.ru/bir/"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/HMZ263BPQKy40000gQB0022EkLAwdmLIbGAR0Mv3jm8j0OYxk2e01OdsqpDmR0H09G6ThO9K0Pgml-T11APFYhPoDV06tBdD3By8lRxgzGy6gYwbej1y2RohqEG2ZG7T0TwG9FIHkaQai0oNy7qfciPkfDeCamAP1KACcdiHjfi-1RMUSGIWcIvBhvfx4REJ7HEqdd44sP1jLjgG-HMKd9p0fv441QYj4_uPem6kzQq0dSqDBgC5iGEoX17vzQq0dSqDBgC5_0MvhO9K0S7__________m_2zhcI5IrMAei7nOyFql__________3zF__________m_k0Ty2yA00O6ZoYXFbaF8hxOCezSjNQYvQhVRKMH_FWD1L-vfx4NeY?q=%D0%BF%D0%BE%D0%B7%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F+%D1%81+%D0%B4%D0%BD%D0%B5%D0%BC+%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F",
+            "py/object": "parser_result.Component",
+            "snippet": "От 2 000 руб. Программы для любого возраста! Яркие костюмы. Опыт, справки!",
+            "title": "Поздравления с днем Рождения / aniland.ru",
+            "type": "ADV",
+            "view_url": "aniland.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/HMZ26AdNxV840000gQB0022EkLAwdmLIbGAR0Mv3jm8j0JA8jDcTyGE9-VBGuKe6ABS6c0oTg15y59gacwX-fZwAlk2X0GRSlbMmqGIzjDXka0EgBgMlp3m6lAYZM0sD0Tq1tf0azFIqh9ao496wHgIm39VmVIcQncwasWoJ0fa5GeoH0nksc1e8jP7U1g2VC6YlaGCRivHz6hIHtWRPazYKsfZN9PIKXAUdbEK1gAvKsm-Z0QxrhG2TpGqkemMn0xAq4G00GFdrhG2TpGqkemNy1Rce4NmKmV__________3yBskP8LBLOgYmVI__________yFq___________3-u1tmBme01WQFAE4kMGyYljWoZrorTgBbgjzjHP7y-0q5NxaGCRUYC0?q=%D0%BF%D0%BE%D0%B7%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F+%D1%81+%D0%B4%D0%BD%D0%B5%D0%BC+%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F",
+            "py/object": "parser_result.Component",
+            "snippet": "Закажи день подарков для дюбимого человека! Подари яркие эмоции! Жми!",
+            "title": "День сюрпризов и подарков / schastie-events.com",
+            "type": "ADV",
+            "view_url": "schastie-events.com"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/HMZ269KIV8C40000gQB0022EkLAwdmLIbGAR0Mv3jm8j0JE8jBghgGQ9gymdzvsfvMWLfdkAlL6ir1BSj3bpKXAzleujA0kgBgMZYyiGlAR2QX2D0Tq1tf0azFI_m-OrAf6wHgIm39VmVIcQncwasWoJ0fa5GeoKmXcsbBe7jPYC1g2LQIQlbC8Piv342RIOZ0RPbMacsf342PIHiiMdaDO1gBXnK6e1em6kzQq0dSqDBgC5iG6on1400008-VMj09tD3IwZ1Vm5kQdbQ1N1__________yFmlQvaXKjLYgB1yMF3zB__________m_J__________yFxW7V0l2W061evP3oA-s3AFNBLsekMgtsr5aVpu3GLVkKmXbu8W00?q=%D0%BF%D0%BE%D0%B7%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F+%D1%81+%D0%B4%D0%BD%D0%B5%D0%BC+%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F",
+            "py/object": "parser_result.Component",
+            "snippet": "Шуточные голосовые поздравления на День Рождения!",
+            "title": "Поздравь по телефону! – Музыкальные поздравления!",
+            "type": "ADV",
+            "view_url": "поздравленья-музыкальные.рф/на-телефон"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/HMZ26C49CiK40000gQB0022EkLAwdmLIbGAR0Mv3jm8j0JI8lVb5SWI9gymdzvsgxM8LfaQAlK2-F1FSi2O3cnAzi4gMHGkgBgMYKmmHlAi8mH2D0Tq1tf0azFIpfRpEAf6wHgIm39VmVIcQncwasWoJ0fa5GeoQVXosbem8jPa-1w2GpnolcduSiv1J1xIPFWVPaCySsf1J1vILrjAdcQW1gBXSojy1em6kzQq0dSqDBgC5iG6on1400008-VMj09tD3IwZ1Vm5kQhjOXN1__________yFmlQvaXKjLYgB1yMF3zB__________m_J__________yFxW7V0l2W061evP3oA-s3AFNBLsekMgtsr5aVpu3GLVkQVXnu8W00?q=%D0%BF%D0%BE%D0%B7%D0%B4%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F+%D1%81+%D0%B4%D0%BD%D0%B5%D0%BC+%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F",
+            "py/object": "parser_result.Component",
+            "snippet": "Выбирай и поздравляй! Прикольные аудио поздравления!",
+            "title": "Голосовые поздравления с Днём – Рождения на телефон!",
+            "type": "ADV",
+            "view_url": "zwonok-pozdrawlenie.ru/на-телефон"
         }
     ],
     "py/object": "parser_result.ParserResult"

@@ -2,6 +2,15 @@
     "components": [
         {
             "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/GT3eO42oOBi40000gQB0022EkbIwdmM5bp8ybG6R0cv3jm4bYBqgC103YRTSS7m7c8aSdPPLxQOmYgxyghtSjCHa1m6zhvgGzQekfQaGFG6yfpoS28q1tG7Ua2JqzBTzG1KgaRu76V47b_292yp5RgJQ39C2cGL2Z98N4RQO80MrbLW4e9194Q-I5n6pa6K4j9LO1DcGIH7Qa6K4b9df6gUStYAefeXvzgC1hllKmciCYIwZ1R41iiGG00102FdxrC9h38akemNy1RcMLUt1__________yFmlzL0aJRAJ-U0zB__________m_J__________yFxW7V0l2W060OvP3oA-s3AFNG2tZRlTG2zj4Dx-s0q5NxaXSHVY40?q=%D0%BF%D0%B4%D0%B4+%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD",
+            "py/object": "parser_result.Component",
+            "snippet": "Обучение и тренировка. Экзамен.",
+            "title": "пдд онлайн - Сдайте экзамен по билетам ПДД 2017",
+            "type": "ADV",
+            "view_url": "110km.ru"
+        },
+        {
+            "alignment": "LEFT",
             "page_url": "http://www.Pdd24.com/pdd-onlain",
             "py/object": "parser_result.Component",
             "snippet": "Билеты ПДД 2017 Официальные 100% от ГИБДД изменения 8 ноября 2017. Новый Экзамен ПДД онлайн 2017 года.",
@@ -89,6 +98,42 @@
             "title": "Билеты ПДД 2017",
             "type": "SEARCH_RESULT",
             "view_url": "https://pdde.ru/"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/GT3eOBN3NoO40000gQB0022EkbIwdmM5bp8ybGAR0Mv3jm8j0OYc3o1nYRiojey6dQbMLHQc1eg-vrXn3joot-yo3xsxmJAx2QekfQXxDmwyhMnU0uq1tG7Ua2JqaRu76V47b_292yp5RgJQ39C2cGL2Z98F1BQSDm6ramW1e9262w-I3mIpaEu2j9C80TcGXWlQaEu2b92pyQUSr0QeexRb5QC1hllKmciCYIwZ1R41iiGH00102FdxrC9h38akemNy1RcfLbKMmV__________3yB_LG94soa_dWF5Zm_I__________yFq___________3-u1tmBme01W6EMGyYljWoZrq0jusxtK0lRH3U_jWD1L-v8F17mX?q=%D0%BF%D0%B4%D0%B4+%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD",
+            "py/object": "parser_result.Component",
+            "snippet": "Со смартфона, планшета и ПК. Везде – дома, на работе и в дороге!",
+            "title": "ПДД онлайн - ПДД 2017",
+            "type": "ADV",
+            "view_url": "wpdd.ru/ПДД-2017"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/GT3eO50pMhe40000gQB0022EkbIwdmM5bp8ybGAR0Mv3jm8j0JA8ihtXK0E9jS7rsGQTeHeZ0gOqYhA37MGDtBuNz4GElQAvCcQgBgMHEL-yhXdB3Oq1tG7Ua2JqzB-FwxGZaRu76V47b_292yp5RgJQ39C2cGL2Z9Vo4BQP5GMra4y4e9lt6A-NyX2pa5a6j91F1DcRznZQa5a6b9KElQUJTG6efqmUbwC1hllKmciCYIwZ1R41iiGH00102FdxrC9h38akemNy1RcX6YC2mV__________3yB_LG94soa_dWF5Zm_I__________yFq___________3-u1tmBme01W6EMGyYljWoZrq0jusxtK0lRH3U_jWD1L-vVo47eY?q=%D0%BF%D0%B4%D0%B4+%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD",
+            "py/object": "parser_result.Component",
+            "snippet": "Видео уроки по вождению автомобиля с нуля. Вы легко научитесь водить!0+",
+            "title": "Хотите сдать экзамен по ПДД? / vodi-krasivo.ru",
+            "type": "ADV",
+            "view_url": "vodi-krasivo.ru/Вождение"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/GT3eO3YQ0ia40000gQB0022EkbIwdmM5bp8ybGAR0Mv3jm8j0JE8j5PtGW69js-slGMThYjM5QOJYhXoe_KItBIqksiIlRqfOJ8BgYwbevNW4Bob_i8AZG7T0TwG9FJqjANyQIgHlWSPyGUNy8aBpCLkfDeCZxTnz5u8dxm6SFyBamAP1KACcJGsjfz24BMVnmsWbJX3hvaqDhEG5n6qdySDsPKuGzgG5n6Kb-9uful5gB10MNC7em6k-zJ2Qmo9BgC5iG6on1400408-VlKmciCYIwZ1Vm5kQuhLXN1__________yFmlzL0aJRAJ-U0zB__________m_J__________yFxW7V0l2W060OvP3oA-s3AFNG2tZRlTG2zj4Dx-s0q5NxcJGsVIC0?q=%D0%BF%D0%B4%D0%B4+%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD",
+            "py/object": "parser_result.Component",
+            "snippet": "Заменит 3 устройства: антирадар, видеорегистратор и GPS. Оповещает голосом.",
+            "title": "Мечта водителя. Хит 2017! / roadgid.ru",
+            "type": "ADV",
+            "view_url": "roadgid.ru/sale-videoreg"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/GT3eOFjoh7S40000gQB0022EkbIwdmM5bp8ybGAR0Mv3jm8j0JI8jdj0K0M9hHM71vsaTNGDfbIAlMu-ymFSkLt6UmIzijWiM0EgBgMkKji6ZG7T0TwG9FIHlWSPyGUNy8aBpCLkfDeCamAP1KACaRq8jfAV0hMSE0AWbPe9hv6z2BEGSGAqd3W2sPMQ2TgGSGAKbCJHfvAj0gYtRMfV1QC1hllKmciCYIwZ1R41iiGH00002FdxrC9h38akemNy1RcaTNGDmV__________3yB_LG94soa_dWFI__________yFq___________3-u1tmBme01W6EMGyYljWoZrq0jusxtK0lRH3U_jWD1L-v6z27uW?q=%D0%BF%D0%B4%D0%B4+%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD",
+            "py/object": "parser_result.Component",
+            "snippet": "Действующая последняя редакция",
+            "title": "ПДД РФ - О Правилах дорожного движения",
+            "type": "ADV",
+            "view_url": "sudact.ru"
         }
     ],
     "py/object": "parser_result.ParserResult"

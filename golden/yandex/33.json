@@ -89,6 +89,42 @@
             "title": "Музыка на Patefon.fm - скачать MP3 бесплатно, слушать...",
             "type": "SEARCH_RESULT",
             "view_url": "https://patefon.net/"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/Ehaw7aUM-De40000gQB0022Ei5IwdmLIbGAR0Mv3jm8j0OYyxpGX0Oc-kyN11Ps2CwOHYhn64dKBtBFgUfeClREEL5e8gYwbgyaY2hoXTXyAZG7T0TwG9FIHkGb4NWwNy8aBpCLkfDeCZxGovAmAdxQQiF85amAP1KACda43jeFwjO3Ke9MQ2Q-UGGEpa742j83KsPMQ2TgGSGAKczgefvSR3gYqP_cK0gC1hlMZmVypOowZ1R41iiGH00102Fdrey7_CsCkemNy1Rc2Cy7__________m_2_iogBUVaSPO3ql__________3zF__________m_k0Ty2yA00O1ZbaF8hxOCezTwW8FXUem7srF9uv83GLVkUGGDz8G00?q=%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C+%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE+%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D1%83",
+            "py/object": "parser_result.Component",
+            "snippet": "Удобный формат: CD, DVD, пластинки, Blu-Ray!18+",
+            "title": "Музыка со всего света – Огромный выбор музыки",
+            "type": "ADV",
+            "view_url": "ozon.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/Ehaw7dQr-ei40000gQB0022Ei5IwdmLIbGAR0Mv3jm8j0JA8jMWji0I9iKAQbWETfUVZ5QPAYhIKkQ8AtBV3NjiBlRO1xUi7gYwbgOmb2hoeF746ZG7T0TwG9FIHkGb4NWwNy8aBpCLkfDeCZxGovAmAdxQQiF85amAP1KACbcKXjfq42hMPVGYWa9uvhvPb8REGfWwqcNq8sP2UETgGfWwKbgoAfv510QYdaeVrem6kzQF1_pDZBgC5iG6on1400008-VMZmVypOowZ1Vm5kQNdunN1__________yFmlxCgYtdv76M0yMF3zB__________m_J__________yFxW7V0l2W060OvP3oA-s3AFNUe23uNgC1zjJoUEI0q5NxbcKXVo80?q=%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C+%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE+%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D1%83",
+            "py/object": "parser_result.Component",
+            "snippet": "Учим Dj-ингу и созданию музыки в ц. СПб. Узнай",
+            "title": "Научись создавать музыку! – Запишись на бесплатный урок!",
+            "type": "ADV",
+            "view_url": "deluxe-music.ru/курсы-в-центре-СПб"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/Ehaw7jmdwzm40000gQB0022Ei5IwdmLIbGAR0Mv3jm8j0JE8i_7cS0E9fdJQ7vWJdQirOHAcDegzUAvL0TomFiJg0RsoH_-S0QekfQAlfWED0Tq1tf0az96v2KHU3fVmYGlCnMwasWoJ0fa5GeoOuGAsXDsrYBkWcE42hvZX0hE8kxI8kzcOuGBQYBkKbj7Lfv4z2wYilU7Jem6kzQF1_pDZBgC5iG6on1400008-VMZmVypOowZ1Vm5kQirOHB1__________yFmlxCgYtdv76M0yMF3zB__________m_J__________yFxW7V0l2W060OvP3oA-s3AFNUe23uNgC1zjJoUEI0q5NxcE42UY00?q=%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C+%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE+%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D1%83",
+            "py/object": "parser_result.Component",
+            "snippet": "Уникальный аудио плеер Atlas для поиска, прослушивания и скачивания музыки18+",
+            "title": "Поиск и скачивание музыки / atlasplayer.ru",
+            "type": "ADV",
+            "view_url": "atlasplayer.ru/скачать-бесплатно"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/Ehaw7iJjdsu40000gQB0022Ei5IwdmLIbGAR0Mv3jm8j0JI8ioPh80A9bQG1dQs0XnQc8OgwXS3T4Tou9N744RsyIbRe2gekfQAdG12yfgwr3uq1tG7Ua2JqaRa9H5uEb_292yp5RgJQ38-o54x529-oSVbe39C2cGL2Z9_AGhQR2HIra_iGe9KuGw-VoaApa1SHj9Fx4DcLE4FQa1SHb97hWgU3ggYmG5bp1wC1hlMZmVypOowZ1R41iiGH00002Fdrey7_CsCkemNy1RcjW8SMmV__________3yB-pAejv-HnbWF5Zm_I__________yFq___________3-u1tmBme01W6EMGyYljWoZrtg0W-5wZ0VRKydZaWD1L-v_AGdqY?q=%D1%81%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C+%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE+%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D1%83",
+            "py/object": "parser_result.Component",
+            "snippet": "Моментальная выдача до 100000р на Вашу карту даже с просрочкой. Бери сейчасСодействие в подборе финансовых услуг/организа…Содействие в подборе финансовых услуг/организаций",
+            "title": "Дам в долг на сайте онлайн! / quickzaimnew.ru",
+            "type": "ADV",
+            "view_url": "quickzaimnew.ru/Вам-Одобрен-Займ"
         }
     ],
     "py/object": "parser_result.ParserResult"

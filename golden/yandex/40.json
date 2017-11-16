@@ -97,6 +97,15 @@
             "title": "Туристический конвертер валют по странам",
             "type": "SEARCH_RESULT",
             "view_url": "https://NashaPlaneta.net/services/konverter-valuty"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/Vyu-270sv5q40000gQB0022EjbIwdmLIbGAR0Mv3jm8j0OYq-65W0Ocr-ydO1fsSdGAc5OgnZIjv3Tov4p5P3hsmIlL72QekfQa1KGsyfWKn3Oq1tG7Ua2JqaRYoKc49b_1zAPh6RgJQ39C2cGL2Z9joGhQJxnErdEGGe9W5IA-RSaApc4yIj9pa4DcO1KZQc4yIb995oAU4CAYmG5bp1wC1hlHo0gt2UIwZ1R41iiGH00102FdqSWAjmdakemNy1RcSdGB1__________yFmlA6kyZkJyfz1SG1nOuFql__________3zF__________m_k0Ty2yA00O6ZbaF8hxOCezT-fQYbCSWBsqvuSwe3GLVkRSa9w8G00?q=%D0%BA%D0%BE%D0%BD%D0%B2%D0%B5%D1%80%D1%82%D0%B5%D1%80+%D0%B2%D0%B0%D0%BB%D1%8E%D1%82",
+            "py/object": "parser_result.Component",
+            "snippet": "Выгодные условия в ВТБ24! До 1 000 000 рублей без предварительного заказа.",
+            "title": "Конвертер валюты в ВТБ24. / vtb24.ru",
+            "type": "ADV",
+            "view_url": "vtb24.ru/Обмен-валют"
         }
     ],
     "py/object": "parser_result.ParserResult"

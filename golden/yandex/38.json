@@ -102,6 +102,33 @@
             "title": "Обои для рабочего стола, картинки на рабочий стол.",
             "type": "SEARCH_RESULT",
             "view_url": "https://WallBox.ru/"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/9MjgxtgsHXG40000gQB0022Ej5IwdmLIbGAR0Mv3jm8j0OYmF5-G0ecYBET-c36Tf5Uq2AOeYg6G-BlSks0Z1G6zeLo_FAekfQDN7m6yhYp50eq1tG7Ua2JqaRJ9SQm6b_1zAPh6RgJQ39C2cGL2Z91e0xQP1G6rYzsWbPe9hv1e0xEGSGAqYztPbPe9sf1n0fIK3UsddLCLgB10MNC7em6k_t32eNTpBgC5iG6on1400008-Vzmmg5tSowZ1Vm5kQHNj0Z1__________yFml_ZkiuFThh42SMF3zB__________m_J__________yFxW7V0l2W061evP3oA-s3AFNM1LVb_N02zj_PYUY0q5Nxa6W3U240?q=%D0%BE%D0%B1%D0%BE%D0%B8+%D0%B4%D0%BB%D1%8F+%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B5%D0%B3%D0%BE+%D1%81%D1%82%D0%BE%D0%BB%D0%B0",
+            "py/object": "parser_result.Component",
+            "snippet": "Шикарные обои для рабочего стола. Выбирай и устанавливай бесплатно!18+",
+            "title": "Обои для рабочего стола / desktopmania.ru",
+            "type": "ADV",
+            "view_url": "desktopmania.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/9MjgxqFti-840000gQB0022Ej5IwdmLIbGAR0Mv3jm8j0JA8ljWkq0A9hYsuBvsYiTq3fYoAkfK6BHFSj98ZZ1AzkQLpFmkgBgMZNm8HlAqF_0YD0Tq1tf0azFIoWmwjAf6qoN6i1fVmVIcQncwasWoFjWb5mWsVkyjaT0oJ0fa5GeoJlIksanyDjPmU2w2G2v2laxqhiv2V9BIS7WlPa0kGsf2V99ILIhcdXvcei41PSmUZ0Qx_SCAXTtCkemMn0RB44G0000Zv_t32eNTpBgC5_0Mveh7T0y7__________m_2_-EwpWzskiG9nOyFql__________3zF__________m_k0Ty2yA00O6ZbaF8hxOCezTO5L-NzS0Bstzc9w83GLVkJlIjy8m00?q=%D0%BE%D0%B1%D0%BE%D0%B8+%D0%B4%D0%BB%D1%8F+%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B5%D0%B3%D0%BE+%D1%81%D1%82%D0%BE%D0%BB%D0%B0",
+            "py/object": "parser_result.Component",
+            "snippet": "Доставка по Санкт-Петербургу и области, самовывоз. Гарантия.",
+            "title": "Столы рабочие в наличии от 11199 р. / kuvalda.ru",
+            "type": "ADV",
+            "view_url": "kuvalda.ru"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://yabs.yandex.ru/count/9Mjgxtsj2he40000gQB0022Ej5IwdmLIbGAR0Mv3jm8j0JE8lkuGuGA9jxR5KWUTgcI-5QOjYhgfJRKHtBM5OwSHlR9NNDmAgYwbh7Uk2RoWewq9ZG7T0TwG9FIHjCbnh0QNy7qfciPkfDeCamAP1KACcE42jeJTjOYxe9kk1w-OuGApaFG1j8YxsPkk1zgGz06KdwRVfvkb2gYZQfTvem6k_t32eNTpBgC5iG6on1400408-Vzmmg5tSowZ1Vm5kQfalXN1__________yFml_ZkiuFThh42TB__________m_J__________yFxW7V0l2W061evP3oA-s3AFNM1LVb_N02zj_PYUY0q5NxcE42VI00?q=%D0%BE%D0%B1%D0%BE%D0%B8+%D0%B4%D0%BB%D1%8F+%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B5%D0%B3%D0%BE+%D1%81%D1%82%D0%BE%D0%BB%D0%B0",
+            "py/object": "parser_result.Component",
+            "snippet": "Большая коллекция, красивые обои на рабочий стол, высокого качества любой тематики18+",
+            "title": "Обои на рабочий стол скачать / myfons.ru",
+            "type": "ADV",
+            "view_url": "myfons.ru/обои-на-рабочий-стол"
         }
     ],
     "py/object": "parser_result.ParserResult"
