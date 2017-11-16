@@ -118,7 +118,8 @@ class Algorithm_v1(Algorithm):
             expected = self.get_substitution(tree, markup)
             logging.debug("Actual count = " + str(actual.count()) + ", Expected count = " + str(expected.count()))
             if actual.count() == expected.count():
-                continue
+                if actual == expected:
+                    continue
             for component in actual.components:
                 if component not in expected.components:
                     logging.debug(component == expected.components[0])
