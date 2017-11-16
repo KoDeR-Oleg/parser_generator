@@ -1,4 +1,4 @@
-from parsers.yandex_parser import YandexParser
+from parsers.yandex_parser_v3 import YandexParser_v3
 import requests
 
 url = "https://yandex.ru/search/?text="
@@ -65,7 +65,7 @@ for i in range(len(request_list)):
         file.write(response.text)
     """
     print("i =", i)
-    parser = YandexParser()
+    parser = YandexParser_v3()
     with open(file_name + ".json", "w") as file:
         with open(file_name + ".html", "r") as input:
             file.write(str(parser.parse(input.read())))
