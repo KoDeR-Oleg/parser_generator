@@ -113,6 +113,17 @@ class SearchMarkupSearchResult(SearchMarkupComponent):
         return self.__dict__ == other.__dict__
 
 
+class SearchMarkupAdv(SearchMarkupComponent):
+    def __init__(self):
+        SearchMarkupComponent.__init__(self)
+        self.type = "ADV"
+        self.snippet = None
+        self.view_url = None
+
+    def __eq__(self, other):
+        return self.__dict__ == other.__dict__
+
+
 class SearchMarkupWizardImage(SearchMarkupComponent):
     def __init__(self):
         SearchMarkupComponent.__init__(self)

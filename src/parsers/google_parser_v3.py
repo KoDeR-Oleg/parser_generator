@@ -1,11 +1,11 @@
 from lxml import html
 
-from markups.search_markup import SearchMarkupSearchResult, FullPath, SearchMarkup, SearchMarkupWizardImage, SearchMarkupWizardNews
+from markups.search_markup import SearchMarkupSearchResult, FullPath, SearchMarkup, SearchMarkupWizardImage, SearchMarkupWizardNews, SearchMarkupAdv
 from parser_result import ParserResult, Component
 from parsers.parser import Parser
 
 
-class GoogleParser_v2(Parser):
+class GoogleParser_v3(Parser):
     @staticmethod
     def get_index(parent, tag):
         index = 1
@@ -20,7 +20,7 @@ class GoogleParser_v2(Parser):
     def get_path(element):
         path = ""
         while element.tag != "html":
-            path = "/" + element.tag + "[" + str(GoogleParser_v2.get_index(element.getparent(), element)) + "]" + path
+            path = "/" + element.tag + "[" + str(GoogleParser_v3.get_index(element.getparent(), element)) + "]" + path
             element = element.getparent()
         path = "//html" + path
         return path
@@ -43,11 +43,20 @@ class GoogleParser_v2(Parser):
     def extract_search_result(self, element):
         search_result = SearchMarkupSearchResult()
         search_result.alignment = "LEFT"
-        search_result.page_url = FullPath(GoogleParser_v2.get_path(element) + "/h3/a", "href")
-        search_result.title = FullPath(GoogleParser_v2.get_path(element) + "/h3/a", "string")
-        search_result.snippet = FullPath(GoogleParser_v2.get_path(element) + "/div/span", "strings")
-        search_result.view_url = FullPath(GoogleParser_v2.get_path(element) + "/div/div/cite", "string")
+        search_result.page_url = FullPath(GoogleParser_v3.get_path(element) + "/h3/a", "href")
+        search_result.title = FullPath(GoogleParser_v3.get_path(element) + "/h3/a", "string")
+        search_result.snippet = FullPath(GoogleParser_v3.get_path(element) + "/div/span", "strings")
+        search_result.view_url = FullPath(GoogleParser_v3.get_path(element) + "/div/div/cite", "string")
         return search_result
+
+    def extract_adv(self, element):
+        adv = SearchMarkupAdv()
+        adv.alignment = "LEFT"
+        adv.page_url = FullPath(GoogleParser_v3.get_path(element) + "/h3/a", "href")
+        adv.title = FullPath(GoogleParser_v3.get_path(element) + "/h3/a", "string")
+        adv.snippet = FullPath(GoogleParser_v3.get_path(element) + "/div[2]", "string")
+        adv.view_url = FullPath(GoogleParser_v3.get_path(element) + "/div/cite", "string")
+        return adv
 
     def parse_search_result(self, element):
         search_result = Component()
@@ -59,14 +68,24 @@ class GoogleParser_v2(Parser):
         search_result.view_url = self.get_from_page(element, "./div/div/cite", "string")
         return search_result
 
+    def parse_adv(self, element):
+        adv = Component()
+        adv.type = "ADV"
+        adv.alignment = "LEFT"
+        adv.page_url = self.get_from_page(element, "./h3/a", "href")
+        adv.title = self.get_from_page(element, "./h3/a", "string")
+        adv.snippet = self.get_from_page(element, "./div[2]", "string")
+        adv.view_url = self.get_from_page(element, "./div/cite", "string")
+        return adv
+
     def extract_wizard_image(self, element):
         wizard = SearchMarkupWizardImage()
         wizard.alignment = "LEFT"
         img_list = element.xpath("./div/a/img")
         for img in img_list:
-            wizard.media_links.append(FullPath(GoogleParser_v2.get_path(img), "src"))
-        wizard.page_url = FullPath(GoogleParser_v2.get_path(element) + "/h3/a", "href")
-        wizard.title = FullPath(GoogleParser_v2.get_path(element) + "/h3/a", "string")
+            wizard.media_links.append(FullPath(GoogleParser_v3.get_path(img), "src"))
+        wizard.page_url = FullPath(GoogleParser_v3.get_path(element) + "/h3/a", "href")
+        wizard.title = FullPath(GoogleParser_v3.get_path(element) + "/h3/a", "string")
         return wizard
 
     def parse_wizard_image(self, element):
@@ -85,8 +104,8 @@ class GoogleParser_v2(Parser):
     def extract_wizard_news(self, element):
         wizard = SearchMarkupWizardNews()
         wizard.alignment = "LEFT"
-        wizard.page_url = FullPath(GoogleParser_v2.get_path(element), "href")
-        wizard.title = FullPath(GoogleParser_v2.get_path(element), "string")
+        wizard.page_url = FullPath(GoogleParser_v3.get_path(element), "href")
+        wizard.title = FullPath(GoogleParser_v3.get_path(element), "string")
         return wizard
 
     def parse_wizard_news(self, element):
@@ -103,41 +122,59 @@ class GoogleParser_v2(Parser):
             tree = html.document_fromstring(file.read())
         markup = SearchMarkup()
         markup.file = file_name.split('/')[-1]
-        block_list = tree.xpath("//html/body/table/tbody/tr/td/div/div/div/div/ol/div")
+        block_list = tree.xpath("//html/body/table/tbody/tr/td/div/div")
         for block in block_list:
-            document_list = block.xpath(".")
-            for document in document_list:
-                if len(document.xpath("./div/div/cite")) > 0:
-                    result = self.extract_search_result(document)
+            adv_list = block.xpath(".")
+            for adv in adv_list:
+                subblock_list = adv.xpath("./ol/li")
+                for subblock in subblock_list:
+                    if len(subblock.xpath("./h3")) > 0:
+                        result = self.extract_adv(subblock)
+                        markup.add(result)
+            subblock_list = block.xpath("./div/div/ol/div")
+            for subblock in subblock_list:
+                document_list = subblock.xpath(".")
+                for document in document_list:
+                    if len(document.xpath("./div/div/cite")) > 0:
+                        result = self.extract_search_result(document)
+                        markup.add(result)
+                wizard_image_list = subblock.xpath(".")
+                for wizard_image in wizard_image_list:
+                    if len(wizard_image.xpath("./div[1]/a")) > 0:
+                        result = self.extract_wizard_image(wizard_image)
+                        markup.add(result)
+                wizard_news_list = subblock.xpath("./div/h3/a")
+                for wizard_news in wizard_news_list:
+                    result = self.extract_wizard_news(wizard_news)
                     markup.add(result)
-            wizard_image_list = block.xpath(".")
-            for wizard_image in wizard_image_list:
-                if len(wizard_image.xpath("./div[1]/a")) > 0:
-                    result = self.extract_wizard_image(wizard_image)
-                    markup.add(result)
-            wizard_news_list = block.xpath("./div/h3/a")
-            for wizard_news in wizard_news_list:
-                result = self.extract_wizard_news(wizard_news)
-                markup.add(result)
         return markup
 
     def parse(self, raw_page):
         tree = html.document_fromstring(raw_page)
         parser_result = ParserResult()
-        block_list = tree.xpath("//html/body/table/tbody/tr/td/div/div/div/div/ol/div")
+        block_list = tree.xpath("//html/body/table/tbody/tr/td/div/div")
         for block in block_list:
-            document_list = block.xpath(".")
-            for document in document_list:
-                if len(document.xpath("./div/div/cite")) > 0:
-                    result = self.parse_search_result(document)
+            adv_list = block.xpath(".")
+            for adv in adv_list:
+                subblock_list = adv.xpath("./ol/li")
+                for subblock in subblock_list:
+                    if len(subblock.xpath("./h3")) > 0:
+                        result = self.parse_adv(subblock)
+                        parser_result.add(result)
+            subblock_list = block.xpath("./div/div/ol/div")
+            for subblock in subblock_list:
+                document_list = subblock.xpath(".")
+                for document in document_list:
+                    if len(document.xpath("./div/div/cite")) > 0:
+                        result = self.parse_search_result(document)
+                        parser_result.add(result)
+                wizard_image_list = subblock.xpath(".")
+                for wizard_image in wizard_image_list:
+                    if len(wizard_image.xpath("./div[1]/a")) > 0:
+                        result = self.parse_wizard_image(wizard_image)
+                        parser_result.add(result)
+                wizard_news_list = subblock.xpath("./div/h3/a")
+                for wizard_news in wizard_news_list:
+                    result = self.parse_wizard_news(wizard_news)
                     parser_result.add(result)
-            wizard_image_list = block.xpath(".")
-            for wizard_image in wizard_image_list:
-                if len(wizard_image.xpath("./div[1]/a")) > 0:
-                    result = self.parse_wizard_image(wizard_image)
-                    parser_result.add(result)
-            wizard_news_list = block.xpath("./div/h3/a")
-            for wizard_news in wizard_news_list:
-                result = self.parse_wizard_news(wizard_news)
-                parser_result.add(result)
         return parser_result
