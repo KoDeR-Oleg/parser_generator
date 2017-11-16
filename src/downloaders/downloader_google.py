@@ -1,4 +1,4 @@
-from parsers.google_parser_v2 import GoogleParser_v2
+from parsers.google_parser_v3 import GoogleParser_v3
 
 url = "https://www.google.com/search?q="
 suf_url = "&gs_l=psy-ab.3..0i67k1j0i131k1j0l2j0i131k1j0l2j0i131k1j0l2.829898.832060.0.832979.8.8.0.0.0.0.169.737.7j1.8.0....0...1.1.64.psy-ab..0.8.735...35i39k1.0.cGY3eIJaieU"
@@ -64,10 +64,9 @@ for i in range(len(request_list)):
         file.write(response.text)
     """
     print("i =", i)
-    parser = GoogleParser_v2()
+    parser = GoogleParser_v3()
     with open(file_name + ".json", "w") as file:
         with open(file_name + ".html", "r") as input:
             file.write(str(parser.parse(input.read())))
     with open(file_name + "_markup.json", "w") as file:
         file.write(str(parser.extract_markup(file_name + ".html")))
-
