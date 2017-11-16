@@ -2,6 +2,15 @@
     "components": [
         {
             "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=l&ai=DChcSEwjpkP_bro_XAhVLSRkKHaYoCr8YABAAGgJsZg&sig=AOD64_3Zt6pk1O0nUtDqZspkTRyVJLyd8Q&ved=0ahUKEwjZw_zbro_XAhVEP5oKHSc4B74Q0QwIEg&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "Регистрация на ЗБТ, скорее получи ключ!",
+            "title": "Новая танки【Omega Tanks】 - Уже получили ключ?",
+            "type": "ADV",
+            "view_url": "omegatanks.gamesofa.com/"
+        },
+        {
+            "alignment": "LEFT",
             "page_url": "/url?q=http://www.androeed.ru/files/cat/30.html&sa=U&ved=0ahUKEwjZw_zbro_XAhVEP5oKHSc4B74QFggaMAA&usg=AOvVaw3R0Zu4wSwCOVKyo_O0hz2l",
             "py/object": "parser_result.Component",
             "snippet": "androeed.ru предлагает Вам скачать Скачать бесплатные игры на Андроид (\nAndroid) на любой вкус для Андроид (Android) телефонов и планшетов ...",
@@ -89,6 +98,24 @@
             "title": "Скачать игру World of Tanks с официального сайта",
             "type": "SEARCH_RESULT",
             "view_url": "https://worldoftanks.ru/ru/game/download/"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=L&ai=DChcSEwjpkP_bro_XAhVLSRkKHaYoCr8YABABGgJsZg&sig=AOD64_2daVoxx3aTv5C0H9OvfEobY99DSw&ved=0ahUKEwjZw_zbro_XAhVEP5oKHSc4B74Q0QwIXw&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "Играй здесь и сейчас абсолютно бесплатно!",
+            "title": "Бесплатные игры - Здесь игры на любой вкус",
+            "type": "ADV",
+            "view_url": "www.allagames.ru/"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=l&ai=DChcSEwjpkP_bro_XAhVLSRkKHaYoCr8YABACGgJsZg&sig=AOD64_3fqmoed5PQ47YwLeFTrWpeI-_Q9g&ved=0ahUKEwjZw_zbro_XAhVEP5oKHSc4B74Q0QwIaw&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "Узнайте Бесплатное Игра Скачать. Быстрые результаты из ряда источников",
+            "title": "Бесплатное Игра Скачать - Ищите Бесплатное Игра Скачать",
+            "type": "ADV",
+            "view_url": "www.izito.ru/Найдите/Качеств_рез-ты"
         }
     ],
     "py/object": "parser_result.ParserResult"

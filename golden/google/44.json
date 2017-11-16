@@ -89,6 +89,24 @@
             "title": "Игры на Андроид | Cкачать бесплатно новые игры без ...",
             "type": "SEARCH_RESULT",
             "view_url": "https://androidapplications.ru/games/"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=l&ai=DChcSEwiUgMzCpo_XAhVJLRkKHVvHDroYABAAGgJsZg&sig=AOD64_0QEYjXN_-m8Yc49DXJwtzTXx2PwQ&ved=0ahUKEwiun8nCpo_XAhWJQZoKHRqPBuEQ0QwIWA&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "Играйте в лучшие игры на GoGy. прохождение игры видео включены бесплатно!",
+            "title": "Играть популярных игр на GoGy - Играть более 1000 игр",
+            "type": "ADV",
+            "view_url": "www.gogy.com/"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=L&ai=DChcSEwiUgMzCpo_XAhVJLRkKHVvHDroYABAFGgJsZg&sig=AOD64_0cnQnF0pNY1My89X29rfCQcCgLYg&ved=0ahUKEwiun8nCpo_XAhWJQZoKHRqPBuEQ0QwIYw&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "Играй здесь и сейчас абсолютно бесплатно!",
+            "title": "Бесплатные игры - Здесь игры на любой вкус",
+            "type": "ADV",
+            "view_url": "www.allagames.ru/"
         }
     ],
     "py/object": "parser_result.ParserResult"

@@ -2,6 +2,24 @@
     "components": [
         {
             "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=l&ai=DChcSEwiZ143ero_XAhULZRkKHZupDJUYABAAGgJsZg&sig=AOD64_3V8tLOwQHXJHX14-Myr2FxTKA2lw&ved=0ahUKEwiz6orero_XAhWEE5oKHRGADNcQ0QwIEg&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "Есть Зарплата - есть работа. Свежие вакансии на Зарплата.ру! Отправьте отклик",
+            "title": "Вакансии в Москве - От прямых работодателей - zarplata.ru",
+            "type": "ADV",
+            "view_url": "msk.zarplata.ru/Вакансии"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=L&ai=DChcSEwiZ143ero_XAhULZRkKHZupDJUYABAFGgJsZg&sig=AOD64_2GQTdCR61A2EQRBGoISU8ObVSVDQ&ved=0ahUKEwiz6orero_XAhWEE5oKHRGADNcQ0QwIHQ&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "Зарегистрируйтесь и получите при первой покупке бесплатную вакансию Стандарт+.",
+            "title": "Работа В Москве - База из 25 млн.резюме здесь - hh.ru",
+            "type": "ADV",
+            "view_url": "www.hh.ru/"
+        },
+        {
+            "alignment": "LEFT",
             "page_url": "/url?q=https://www.superjob.ru/vakansii/pryamoj-rabotodatel.html&sa=U&ved=0ahUKEwiz6orero_XAhWEE5oKHRGADNcQFggmMAA&usg=AOvVaw0R9qRnK4raO5nMWu32-Jdd",
             "py/object": "parser_result.Component",
             "snippet": "Выбирайте среди 400000 вакансий в Москве от прямых работодателей. \nИщите работу с Superjob.",

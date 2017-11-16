@@ -2,6 +2,33 @@
     "components": [
         {
             "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=l&ai=DChcSEwjvvq_gro_XAhVUgbIKHYkZCrAYABAAGgJscg&sig=AOD64_0KwDlW9udT_YXJop2gKyqJtE9Pcw&ved=0ahUKEwjRka3gro_XAhXiQpoKHQsyBhMQ0QwIEg&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "Новые машины в продаже каждый день! Более 450 000 объявлений на Авто.ру.",
+            "title": "Авто.ру – продажа автомобилей - Огромная база объявлений",
+            "type": "ADV",
+            "view_url": "www.auto.ru/Авто-объявления/Авто-в-продаже"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=l&ai=DChcSEwjvvq_gro_XAhVUgbIKHYkZCrAYABAFGgJscg&sig=AOD64_2YQXXWE4VtPpL-6EBLwdVU6o96uA&ved=0ahUKEwjRka3gro_XAhXiQpoKHQsyBhMQ0QwIIA&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "Широкий выбор автомобилей рядом с вами. Новые и с пробегом",
+            "title": "Купить Автомобиль на Авито - Сайт объявлений номер один",
+            "type": "ADV",
+            "view_url": "www.avito.ru/"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=L&ai=DChcSEwjvvq_gro_XAhVUgbIKHYkZCrAYABAKGgJscg&sig=AOD64_3auGXYfCWoKz86vECh6Uji3EbUBA&ved=0ahUKEwjRka3gro_XAhXiQpoKHQsyBhMQ0QwIKw&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "Выкуп авто за 2 часа. Быстрая онлайн-оценка. Деньги сразу после аукциона.",
+            "title": "Сайт по продаже автомобилей - Продать авто выгодно и быстро.",
+            "type": "ADV",
+            "view_url": "www.carprice.ru/Официальный/сайт"
+        },
+        {
+            "alignment": "LEFT",
             "page_url": "/url?q=https://spb.drom.ru/auto/&sa=U&ved=0ahUKEwjRka3gro_XAhXiQpoKHQsyBhMQFgg4MAA&usg=AOvVaw0EpcGdQJqLyXSdkzbPk1dl",
             "py/object": "parser_result.Component",
             "snippet": "Продажа автомобилей в Санкт-\nПетербурге .... Новые автомобили .... о \nпродаже в Санкт-Петербурге ... 2002\n—2017 Drom.ru (Санкт-Петербург)",
@@ -89,6 +116,33 @@
             "title": "Продажа автомобилей с пробегом в СПб: купить б/у авто в ...",
             "type": "SEARCH_RESULT",
             "view_url": "https://www.rolf-vitebskiy.ru/cars/mileage/"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=l&ai=DChcSEwjvvq_gro_XAhVUgbIKHYkZCrAYABAOGgJscg&sig=AOD64_09uCnUSgcZvMf6hXMS0V4dcJTO2g&ved=0ahUKEwjRka3gro_XAhXiQpoKHQsyBhMQ0QwIkAE&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "Авто по сертифицированной программе.",
+            "title": "Ищете автомобиль с пробегом? - Взгляните на автомобили Nissan",
+            "type": "ADV",
+            "view_url": "used.nissan.ru/Ниссан_с_пробегом"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=l&ai=DChcSEwjvvq_gro_XAhVUgbIKHYkZCrAYABARGgJscg&sig=AOD64_0yi58QhYeNNswGk0R0_6gP7WBEJQ&ved=0ahUKEwjRka3gro_XAhXiQpoKHQsyBhMQ0QwImAE&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "Выкупим б/у авто в любом состоянии дорого, выше рынка, выше перекупщиков.",
+            "title": "Продам Автомобиль в СПб? - Выкупим дорого в РОЛЬФ",
+            "type": "ADV",
+            "view_url": "www.рольф-выкуп-авто.рф/Выкуп-Авто"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=l&ai=DChcSEwjvvq_gro_XAhVUgbIKHYkZCrAYABASGgJscg&sig=AOD64_0-LRQcYAv0483QpwALDk_W-sokZA&ved=0ahUKEwjRka3gro_XAhXiQpoKHQsyBhMQ0QwInwE&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "Зайди и Выбирай из 5000 Объявлений!",
+            "title": "Автомобили б/у в РФ - Хочешь Выгодно Купить Автомобиль?",
+            "type": "ADV",
+            "view_url": "www.avtopoisk.ru/БУ"
         }
     ],
     "py/object": "parser_result.ParserResult"

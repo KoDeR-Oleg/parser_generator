@@ -2,6 +2,42 @@
     "components": [
         {
             "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=l&ai=DChcSEwj33e_Dpo_XAhUFFtMKHZMmBxMYABAAGgJ3Yg&sig=AOD64_35ELYceIEMGyHB7DdYJc_jWWaB5Q&ved=0ahUKEwjzmO3Dpo_XAhUF5xoKHUmbCUIQ0QwIEg&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "Сравнивайте предложения и экономьте. Мы не взимаем комиссий!",
+            "title": "Дешёвые авиабилеты - Экономьте со Skyscanner - skyscanner.ru",
+            "type": "ADV",
+            "view_url": "www.skyscanner.ru/Дешёвые/Авиабилеты"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=l&ai=DChcSEwj33e_Dpo_XAhUFFtMKHZMmBxMYABAFGgJ3Yg&sig=AOD64_0M-3G9hfb7G_JJkGpLZsd9WTL9CA&ved=0ahUKEwjzmO3Dpo_XAhUF5xoKHUmbCUIQ0QwIIA&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "Низкие Цены на Авиабилеты 728 авиакомпаний! Российский поисковик авиабилетов.",
+            "title": "Дешевые Авиабилеты. - Поисковик Дешёвых Авиабилетов.",
+            "type": "ADV",
+            "view_url": "www.aviasales.ru/Поиск-Дешёвых/Авиабилетов"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=l&ai=DChcSEwj33e_Dpo_XAhUFFtMKHZMmBxMYABAJGgJ3Yg&sig=AOD64_0kTUNAP8aBlJ2AgOw3natAW7zoeg&ved=0ahUKEwjzmO3Dpo_XAhUF5xoKHUmbCUIQ0QwILQ&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "Быстрый поиск, бронирование и покупка дешевых авиабилетов. Бронируй лучшие!",
+            "title": "Дешевые авиабилеты - Не упусти самые низкие цены",
+            "type": "ADV",
+            "view_url": "www.momondo.ru/авиабилеты"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=l&ai=DChcSEwj33e_Dpo_XAhUFFtMKHZMmBxMYABAKGgJ3Yg&sig=AOD64_1zrI_ebVCAgl65Z-J8GnWRa-xGRg&ved=0ahUKEwjzmO3Dpo_XAhUF5xoKHUmbCUIQ0QwIMg&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "Дешевые авиабилеты в любую точку мира онлайн! Удобная оплата, бонусы за заказ.",
+            "title": "Дешевые авиабилеты онлайн - Все направления, низкие цены",
+            "type": "ADV",
+            "view_url": "www.ozon.travel/Авиабилеты"
+        },
+        {
+            "alignment": "LEFT",
             "page_url": "/url?q=https://www.skyscanner.ru/&sa=U&ved=0ahUKEwjzmO3Dpo_XAhUF5xoKHUmbCUIQFgg6MAA&usg=AOvVaw2vVLg3BgeYmiRaopWoAMAH",
             "py/object": "parser_result.Component",
             "snippet": "Скайсканер – бесплатный поисковик дешевых авиабилетов онлайн. \nСравните тысячи рейсов и выбирайте самое выгодное предложение.",
@@ -89,6 +125,33 @@
             "title": "Связной Трэвел: Авиабилеты онлайн. Купить дешевые билеты ...",
             "type": "SEARCH_RESULT",
             "view_url": "https://www.svyaznoy.travel/"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=l&ai=DChcSEwj33e_Dpo_XAhUFFtMKHZMmBxMYABALGgJ3Yg&sig=AOD64_0CXp7kpM82BMXxnfno-OfLyHaLUQ&ved=0ahUKEwjzmO3Dpo_XAhUF5xoKHUmbCUIQ0QwIfA&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "Авиабилеты быстро и выгодно. Оплата онлайн. Поддержка 24/7. Спецпредложения.",
+            "title": "Дешевые авиабилеты онлайн. - Авиабилеты онлайн на Туту.ру.",
+            "type": "ADV",
+            "view_url": "avia.tutu.ru/"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=l&ai=DChcSEwj33e_Dpo_XAhUFFtMKHZMmBxMYABAPGgJ3Yg&sig=AOD64_1GOpElzzv-PWE-WoQTY__OafAXAA&ved=0ahUKEwjzmO3Dpo_XAhUF5xoKHUmbCUIQ0QwIhgE&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "Чартеры, лоукостеры, бюджетные авиалинии дешево! Выгодные цены онлайн",
+            "title": "Официальный сайт KAYAK - Авиабилеты от лоукостеров",
+            "type": "ADV",
+            "view_url": "www.kayak.ru/"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=l&ai=DChcSEwj33e_Dpo_XAhUFFtMKHZMmBxMYABASGgJ3Yg&sig=AOD64_0cJohbmOy08SQmAK0Eysi5HjO8-w&ved=0ahUKEwjzmO3Dpo_XAhUF5xoKHUmbCUIQ0QwIkAE&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "Поиск авиабилетов по привлекательной цене. Оплата на сайте перевозчика. 16+",
+            "title": "Купить дешевые авиабилеты - подберем наилучший вариант",
+            "type": "ADV",
+            "view_url": "www.buyaviabilet.ru/"
         }
     ],
     "py/object": "parser_result.ParserResult"

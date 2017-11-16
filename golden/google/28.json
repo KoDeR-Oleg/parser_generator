@@ -2,6 +2,24 @@
     "components": [
         {
             "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=l&ai=DChcSEwjJkNPdro_XAhXJthgKHRBiAbQYABAAGgJsZQ&sig=AOD64_10WkE3ngoKwCI6JtK37lIxQgmKcQ&ved=0ahUKEwitvNDdro_XAhVDAZoKHUtnDjQQ0QwIEg&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "Билеты на поезд по выгодным ценам. Все способы оплаты. Возврат онлайн.",
+            "title": "Билеты на поезд онлайн - tutu.ru",
+            "type": "ADV",
+            "view_url": "www.tutu.ru/"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=L&ai=DChcSEwjJkNPdro_XAhXJthgKHRBiAbQYABAEGgJsZQ&sig=AOD64_3yX7C2CCVJ9gsijk3FWYMQHJyCeA&ved=0ahUKEwitvNDdro_XAhVDAZoKHUtnDjQQ0QwIHA&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "Расписание поездов, расписание жд вокзалов, ЖД билеты стоимость и бронирование.",
+            "title": "\"РЖД\" Расписание Поездов 2017. - ЖД Билеты на все направления.",
+            "type": "ADV",
+            "view_url": "www.rzd-poezd24-raspisanie.gq/"
+        },
+        {
+            "alignment": "LEFT",
             "page_url": "/url?q=https://www.tutu.ru/poezda/station_d.php%3Fnnst%3D2004001&sa=U&ved=0ahUKEwitvNDdro_XAhVDAZoKHUtnDjQQFggyMAI&usg=AOvVaw1ZuqyZ1iaOcf8Eq2y36AaX",
             "py/object": "parser_result.Component",
             "snippet": "Жд билеты в Московский вокзал и из Московского вокзала. Расписание \nпоездов через Московский вокзал, возможность покупки билета на поезд до ...",
@@ -89,6 +107,24 @@
             "title": "Расписание поездов дальнего следования на УФС - UFS.Travel",
             "type": "SEARCH_RESULT",
             "view_url": "https://www.ufs-online.ru/raspisanie-poezdov"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=L&ai=DChcSEwjJkNPdro_XAhXJthgKHRBiAbQYABAFGgJsZQ&sig=AOD64_0hln62Z8VV0O4ZX8YvVOVf9EUrtw&ved=0ahUKEwitvNDdro_XAhVDAZoKHUtnDjQQ0QwIdQ&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "Не справился с управлением.Фото с места событий на сайте. Расписание Поездов",
+            "title": "Газманов Ушел Из Жизни.Сегодня - Он Разбился на Автомобиле.",
+            "type": "ADV",
+            "view_url": "www.viraservice.ru/"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=L&ai=DChcSEwjJkNPdro_XAhXJthgKHRBiAbQYABAGGgJsZQ&sig=AOD64_1lUAqHfelxk5ol9kO1K82ixMLyyA&ved=0ahUKEwitvNDdro_XAhVDAZoKHUtnDjQQ0QwIeg&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "2017",
+            "title": "Расписание поездов: Санкт-Петербург. Отправление. График 2017",
+            "type": "ADV",
+            "view_url": "www.yandex.ru/"
         }
     ],
     "py/object": "parser_result.ParserResult"

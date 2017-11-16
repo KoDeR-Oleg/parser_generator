@@ -2,6 +2,42 @@
     "components": [
         {
             "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=l&ai=DChcSEwj4_86_po_XAhVez7IKHeU3ClkYABAAGgJscg&sig=AOD64_0xDYRDPu-fY3JSqJj7FV1qEhLz1Q&ved=0ahUKEwjBsMy_po_XAhVHGZoKHeFzCTgQ0QwIEg&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "Сайт знакомств удобнее всего выбирать тут. Сравнить и влюбиться!",
+            "title": "Топ 5 сайтов знакомств - Узнай, какие сайты работают",
+            "type": "ADV",
+            "view_url": "www.top5sajtovznakomstv.ru/Отзывы"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=l&ai=DChcSEwj4_86_po_XAhVez7IKHeU3ClkYABABGgJscg&sig=AOD64_2X6yWS6ZoydW_mz496kK7-84_MDg&ved=0ahUKEwjBsMy_po_XAhVHGZoKHeFzCTgQ0QwIFw&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "Тысячи люди уже нашли себе пару на Мамбе. Пришло твое время интересных знакомств",
+            "title": "Бесплатный сайт знакомств - Более 30 млн. пользователей",
+            "type": "ADV",
+            "view_url": "www.mamba.ru/найти_пару"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=l&ai=DChcSEwj4_86_po_XAhVez7IKHeU3ClkYABAEGgJscg&sig=AOD64_3Hmh_H9Q_qni7wf8up7J8ttwQtSQ&ved=0ahUKEwjBsMy_po_XAhVHGZoKHeFzCTgQ0QwIIA&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "eDarling: только серьезные отношения. 37% пользователей нашли пару за месяц!",
+            "title": "Сайт знакомств в Петербурге - eDarling.ru",
+            "type": "ADV",
+            "view_url": "www.edarling.ru/знакомства_в_Петербурге"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=l&ai=DChcSEwj4_86_po_XAhVez7IKHeU3ClkYABAHGgJscg&sig=AOD64_3wupIvPYE3TwLgiPOVui9GzV_Mig&ved=0ahUKEwjBsMy_po_XAhVHGZoKHeFzCTgQ0QwIKQ&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "Обзор лучших сайтов знакомств для поиска любимого человека и создания семьи",
+            "title": "Популярные сайты знакомств - Выберите лучший именно для вас",
+            "type": "ADV",
+            "view_url": "www.revizorznakomstv.ru/"
+        },
+        {
+            "alignment": "LEFT",
             "page_url": "/url?q=https://www.mamba.ru/ru/&sa=U&ved=0ahUKEwjBsMy_po_XAhVHGZoKHeFzCTgQFggyMAA&usg=AOvVaw2DrfCwYBfRjmHHj1HRfcw2",
             "py/object": "parser_result.Component",
             "snippet": "Mamba – самый популярный бесплатный сайт знакомств в России и СНГ. \nЗнакомьтесь с интересными людьми, общайтесь, играйте, флиртуйте.",
@@ -89,6 +125,33 @@
             "title": "Лучшие сайты знакомств - 2017 » Рейтинг популярных сайтов ...",
             "type": "SEARCH_RESULT",
             "view_url": "topdating.su/"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=l&ai=DChcSEwj4_86_po_XAhVez7IKHeU3ClkYABAIGgJscg&sig=AOD64_3YzKuIvqOzez7wxN7ON-jdByfptg&ved=0ahUKEwjBsMy_po_XAhVHGZoKHeFzCTgQ0QwIcA&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "Психологически совместимый подбор пар. Пройдите тест и найдите свою любовь!",
+            "title": "Сайт знакомств - В этот раз начните правильно.",
+            "type": "ADV",
+            "view_url": "www.teamo.ru/знакомства/для-отношений"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=l&ai=DChcSEwj4_86_po_XAhVez7IKHeU3ClkYABANGgJscg&sig=AOD64_1QciEfQsmDRh_orKPIl4AvXniIjA&ved=0ahUKEwjBsMy_po_XAhVHGZoKHeFzCTgQ0QwIfA&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "Простая регистрация. Подбор по параметрам. Выбрать партнера рядом с вами.",
+            "title": "Знакомства вход на сайт - Более 40 млн анкет",
+            "type": "ADV",
+            "view_url": "www.fotostrana.ru/Знакомства/Онлайн"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=l&ai=DChcSEwj4_86_po_XAhVez7IKHeU3ClkYABASGgJscg&sig=AOD64_2ILDuYVj4C6WwFy7-WmRgNYCtVMw&ved=0ahUKEwjBsMy_po_XAhVHGZoKHeFzCTgQ0QwIhwE&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "Заходите на LovePlanet. Знакомства онлайн. Тест и подбор пары по интересам!",
+            "title": "Сайт знакомств - Знакомства в интернете",
+            "type": "ADV",
+            "view_url": "www.loveplanet.ru/Сайт/знакомства"
         }
     ],
     "py/object": "parser_result.ParserResult"

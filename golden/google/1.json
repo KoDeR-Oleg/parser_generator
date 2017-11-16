@@ -2,6 +2,15 @@
     "components": [
         {
             "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=l&ai=DChcSEwir2bTTro_XAhVJXxkKHQznD4kYABAAGgJsZg&sig=AOD64_1sAgLZJIBGzfMe3zY5NX1Yw1JT9Q&ved=0ahUKEwjq9LHTro_XAhWtZpoKHfILD_YQ0QwIEg&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "400+ танков, 150 миллионов игроков уже играют. Присоединяйся к боевому братству!",
+            "title": "World of Tanks - Играй онлайн в танки - worldoftanks.ru",
+            "type": "ADV",
+            "view_url": "www.worldoftanks.ru/World_of_Tanks/Начни_игру"
+        },
+        {
+            "alignment": "LEFT",
             "page_url": "/url?q=http://tankionline.com/ru/&sa=U&ved=0ahUKEwjq9LHTro_XAhWtZpoKHfILD_YQFggcMAA&usg=AOvVaw3wAjidtuUWTkSl7E3HvicA",
             "py/object": "parser_result.Component",
             "snippet": "Прими участие в бешеных танковых боях - круши вражеские танки, помогай \nсвоей команде, развивай свой танк, строй военную карьеру! Множество ...",

@@ -2,6 +2,15 @@
     "components": [
         {
             "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=l&ai=DChcSEwjoo6TDpo_XAhUW4BkKHQsTAIsYABAAGgJsZg&sig=AOD64_2zsKV7CIO4DQXi6cWmDUQ7R6Wpcg&ved=0ahUKEwjW0qHDpo_XAhVHQZoKHWTIBMEQ0QwIEg&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "Смотрите онлайн фото и видео с мест событий. 12+",
+            "title": "Новости в Украине - Срочные актуальные события - zelv.ru",
+            "type": "ADV",
+            "view_url": "www.zelv.ru/"
+        },
+        {
+            "alignment": "LEFT",
             "page_url": "/search?q=%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8+%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%8B&newwindow=1&dcr=0&ie=UTF-8&prmd=ivns&source=univ&tbm=nws&tbo=u&sa=X&ved=0ahUKEwjW0qHDpo_XAhVHQZoKHWTIBMEQqAIIHg",
             "py/object": "parser_result.Component",
             "title": "Новости по запросу новости украины",

@@ -2,6 +2,42 @@
     "components": [
         {
             "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=l&ai=DChcSEwjO-c7Apo_XAhUMOhsKHTZFBloYABAAGgJ3bA&sig=AOD64_1u0U7uvBdnrT2Q9GJn12cGvR550g&ved=0ahUKEwiF3cvApo_XAhXHvBoKHUsmCI4Q0QwIEg&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "Ставка от 12,9%. Срок до 5 лет. Без залога и поручителей. Решение онлайн.",
+            "title": "Калькулятор кредитов Сбербанка - Онлайн-заявка - sberbank.ru",
+            "type": "ADV",
+            "view_url": "www.sberbank.ru/Кредит/Калькулятор"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=l&ai=DChcSEwjO-c7Apo_XAhUMOhsKHTZFBloYABAEGgJ3bA&sig=AOD64_0mE_Ez3dIPyrT97EeEYeTGV65RSA&ved=0ahUKEwiF3cvApo_XAhXHvBoKHUsmCI4Q0QwIHQ&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "Рассчитайте платежи по кредиту в банках России онлайн на Банки.ру!",
+            "title": "Кредитный калькулятор - banki.ru",
+            "type": "ADV",
+            "view_url": "www.banki.ru/Кредитный_калькулятор"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=l&ai=DChcSEwjO-c7Apo_XAhUMOhsKHTZFBloYABAFGgJ3bA&sig=AOD64_0-ewYclCQaG4PeAMFvHxfZuAnDiQ&ved=0ahUKEwiF3cvApo_XAhXHvBoKHUsmCI4Q0QwIIg&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "Все программы Топ-30 банков. Онлайн калькулятор. Ставки от 11%",
+            "title": "Кредитный калькулятор онлайн - Все ставки на одном сайте",
+            "type": "ADV",
+            "view_url": "www.moneymatika.ru/Калькулятор/Кретитов"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=l&ai=DChcSEwjO-c7Apo_XAhUMOhsKHTZFBloYABAJGgJ3bA&sig=AOD64_1rMZjv3gK1qcVsuLbe1t1Djf3IIw&ved=0ahUKEwiF3cvApo_XAhXHvBoKHUsmCI4Q0QwILA&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "вашего кредита онлайн. Оформить сейчас!",
+            "title": "Кредитный калькулятор ВТБ24 - Рассчитайте условия - vtb24.ru",
+            "type": "ADV",
+            "view_url": "www.vtb24.ru/Выгодный/кредит"
+        },
+        {
+            "alignment": "LEFT",
             "page_url": "/url?q=http://www.banki.ru/services/calculators/credits/&sa=U&ved=0ahUKEwiF3cvApo_XAhXHvBoKHUsmCI4QFgg6MAA&usg=AOvVaw1A7oYdxPWhiDu3iB5KoImz",
             "py/object": "parser_result.Component",
             "snippet": "Удобный кредитный калькулятор. Быстро и легко рассчитать ставку и \nпроцент по потребительскому кредиту и оставить заявку онлайн.",

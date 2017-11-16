@@ -2,6 +2,15 @@
     "components": [
         {
             "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=l&ai=DChcSEwj11_PCpo_XAhVaibIKHaoRDAMYABAAGgJscg&sig=AOD64_14QhqM6FshIuusLf6WZ1BEzqaDqw&ved=0ahUKEwjopPHCpo_XAhWya5oKHbSHALAQ0QwIEg&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "ПДД 2017 со всеми последними изменениями. Онлайн экзамен на знание ПДД",
+            "title": "ПДД 2017. Последняя редакция. - Сдать экзамен онлайн",
+            "type": "ADV",
+            "view_url": "www.110km.ru/pdd"
+        },
+        {
+            "alignment": "LEFT",
             "page_url": "/url?q=https://pdd.drom.ru/&sa=U&ved=0ahUKEwjopPHCpo_XAhWya5oKHbSHALAQFggeMAA&usg=AOvVaw23UbmiKcT6-YtNxpI12XXr",
             "py/object": "parser_result.Component",
             "snippet": "пдд 2017 онлайн экзаменационные билеты пдд 2017. Правила дорожного \nдвижения: онлайн экзамен, каталог автошкол, рейтинг инструкторов, ...",

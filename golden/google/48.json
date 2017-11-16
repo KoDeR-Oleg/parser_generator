@@ -2,6 +2,42 @@
     "components": [
         {
             "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=l&ai=DChcSEwjQ1rXEpo_XAhWiCtMKHUV1AHMYABAAGgJ3Yg&sig=AOD64_30vIMAEFiK1KEQ1UDujoj5WwRwoQ&ved=0ahUKEwjy3rLEpo_XAhVBtBoKHVvVDWgQ0QwIEg&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "Опыт работы в банке не важен, важно желание работать и развиваться!",
+            "title": "Для тебя есть вакансия - Работа дома в Тинькофф Банке",
+            "type": "ADV",
+            "view_url": "weboffice.tinkoff.ru/"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=l&ai=DChcSEwjQ1rXEpo_XAhWiCtMKHUV1AHMYABAEGgJ3Yg&sig=AOD64_2ymMSZ59GX2rVQd9dGEnSt3fjCLg&ved=0ahUKEwjy3rLEpo_XAhVBtBoKHVvVDWgQ0QwIGw&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "Выполняйте несложные задания и зарабатывайте деньги. Быстро и удобно. Попробуйте",
+            "title": "Работа на дому. Яндекс Толока. - Яндекс Толока - работа онлайн.",
+            "type": "ADV",
+            "view_url": "toloka.yandex.ru/Яндекс/_Толока"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=l&ai=DChcSEwjQ1rXEpo_XAhWiCtMKHUV1AHMYABAFGgJ3Yg&sig=AOD64_2sB8DDKRHsGWO6m7Uwu0U_gijqSg&ved=0ahUKEwjy3rLEpo_XAhVBtBoKHVvVDWgQ0QwIIA&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "Требуются сотрудники для перепечатки текстов. График свободный. з/п до 40 000руб",
+            "title": "Работа на дому - Перепечатка текстов - сотрудник.com",
+            "type": "ADV",
+            "view_url": "www.сотрудник.com/"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=l&ai=DChcSEwjQ1rXEpo_XAhWiCtMKHUV1AHMYABAGGgJ3Yg&sig=AOD64_2phXlESymcqlMyXxlKeiKaWv_BIg&ved=0ahUKEwjy3rLEpo_XAhVBtBoKHVvVDWgQ0QwIJQ&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "Специалисты hh.ru расскажут, как правильно искать подработку и где ее найти.",
+            "title": "Хотите подрабатывать из дома? - Вакансии на HeadHunter - hh.ru",
+            "type": "ADV",
+            "view_url": "www.hh.ru/"
+        },
+        {
+            "alignment": "LEFT",
             "page_url": "/url?q=https://spb.superjob.ru/vakansii/na-domu.html&sa=U&ved=0ahUKEwjy3rLEpo_XAhVBtBoKHVvVDWgQFggyMAA&usg=AOvVaw3szuS66eZlojLVF7IRKTvW",
             "py/object": "parser_result.Component",
             "snippet": "850 свежих вакансий в Санкт-Петербурге, подходящих по критериям поиска \nработы: на дому.",
@@ -89,6 +125,33 @@
             "title": "Работа на дому онлайн. Работай удаленно в интернете. / Workle",
             "type": "SEARCH_RESULT",
             "view_url": "https://www.workle.ru/content/rabota-na-domu/"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=l&ai=DChcSEwjQ1rXEpo_XAhWiCtMKHUV1AHMYABAKGgJ3Yg&sig=AOD64_2An41OqIRUjHAxIC8Uk-rp2BXA1w&ved=0ahUKEwjy3rLEpo_XAhVBtBoKHVvVDWgQ0QwIaA&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "Стань агентом «Восточного». Выдавай банковские карты. Получай доход!",
+            "title": "Удаленная работа в «Восточном» - Один из крупнейших банков РФ",
+            "type": "ADV",
+            "view_url": "www.vostbank.ru/Восточный_банк/работа_агентом"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=l&ai=DChcSEwjQ1rXEpo_XAhWiCtMKHUV1AHMYABAPGgJ3Yg&sig=AOD64_1Xiwvd6plszqhv0sNe0PY9Qy-T_Q&ved=0ahUKEwjy3rLEpo_XAhVBtBoKHVvVDWgQ0QwIcw&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "Бесплатное оформление и обучение, подробные бесплатные инструкции, работы много!",
+            "title": "Работа на дому - набор текста - Проверка и редактура текстов",
+            "type": "ADV",
+            "view_url": "www.textx.ru/"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=L&ai=DChcSEwjQ1rXEpo_XAhWiCtMKHUV1AHMYABAUGgJ3Yg&sig=AOD64_1VvAdVO3y_eqVNm3GYW-BtwAxmpQ&ved=0ahUKEwjy3rLEpo_XAhVBtBoKHVvVDWgQ0QwIfQ&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "FORSAGEINFO — Это самая ПРОСТАЯ система для заработка денег в интернете!",
+            "title": "ПРОСТАЯ система для заработка - работа на дому",
+            "type": "ADV",
+            "view_url": "pearlnina.for-sage.info/"
         }
     ],
     "py/object": "parser_result.ParserResult"

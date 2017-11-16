@@ -2,6 +2,42 @@
     "components": [
         {
             "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=l&ai=DChcSEwiViZDCpo_XAhUIlLIKHRyXAwoYABAAGgJscg&sig=AOD64_2X6e2iN8Z6qCSyrhm4yywbiVT6Jg&ved=0ahUKEwjMuI3Cpo_XAhXECpoKHRLWC4sQ0QwIEg&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "Поступили новые модели! Официальный представитель ваших любимых брендов.",
+            "title": "Свадебные платья. Салон в СПб - Скидка 30% на модели 2017 года",
+            "type": "ADV",
+            "view_url": "www.inbuduar.ru/свадебный_салон"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=l&ai=DChcSEwiViZDCpo_XAhUIlLIKHRyXAwoYABAFGgJscg&sig=AOD64_3Xzk715V_R9grRD4A5vTdDJyck2g&ved=0ahUKEwjMuI3Cpo_XAhXECpoKHRLWC4sQ0QwIHA&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "1900 свадебных платьев в 4 салонах Санкт-Петербурга. Каталог на сайте!",
+            "title": "Свадебные платья от 34 500 ₽ - Новинки сезона лето-осень 2017",
+            "type": "ADV",
+            "view_url": "www.milanovera.ru/"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=l&ai=DChcSEwiViZDCpo_XAhUIlLIKHRyXAwoYABALGgJscg&sig=AOD64_1j32Iwkxwoh_SkhCsnBRAXLF6vXQ&ved=0ahUKEwjMuI3Cpo_XAhXECpoKHRLWC4sQ0QwIJw&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "Ждем вас в салоне Мэри Трюфель! При покупке - комплект нижнего белья в подарок",
+            "title": "Свадебные платья - Более 2 000 моделей - marytrufel.ru",
+            "type": "ADV",
+            "view_url": "spb.marytrufel.ru/"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=l&ai=DChcSEwiViZDCpo_XAhUIlLIKHRyXAwoYABAMGgJscg&sig=AOD64_0EaDIDY_doyQaaCRHiqCXQqhXmNw&ved=0ahUKEwjMuI3Cpo_XAhXECpoKHRLWC4sQ0QwIMw&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "Выбирай Из 386 Моделей Главных Свадебных Платьев. Подберём «То Самое».",
+            "title": "Свадебные Платья 2017 Года - Твоё Платье Ждёт Тебя",
+            "type": "ADV",
+            "view_url": "spb.salon-love-forever.ru/Свадебные/Платья_от_17000"
+        },
+        {
+            "alignment": "LEFT",
             "page_url": "/url?q=http://www.milanovera.ru/svadebnye-platya/&sa=U&ved=0ahUKEwjMuI3Cpo_XAhXECpoKHRLWC4sQFghgMAM&usg=AOvVaw1dBHUaXWD6TSLuVMCXzNl2",
             "py/object": "parser_result.Component",
             "snippet": "Купить красивые свадебные платья в Санкт-Петербурге. Множество \nсилуэтов свадебных платьев: рыбки, А-силуэт, греческие и для беременных,\n ...",
@@ -89,6 +125,33 @@
             "title": "Свадебные платья 2017 в Москве. Большой каталог свадебных ...",
             "type": "SEARCH_RESULT",
             "view_url": "https://svadba-msk.ru/cat/dress/"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=l&ai=DChcSEwiViZDCpo_XAhUIlLIKHRyXAwoYABAQGgJscg&sig=AOD64_2RMoKSllGQV9lxOtv-yeHJZmasoQ&ved=0ahUKEwjMuI3Cpo_XAhXECpoKHRLWC4sQ0QwInAE&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "Каталог цветных свадебных платьев. Ваша свадьба будет незабываемой!",
+            "title": "Цветные свадебные платья - Лучшие цены и качество в СПб",
+            "type": "ADV",
+            "view_url": "www.goroshina.spb.ru/"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=L&ai=DChcSEwiViZDCpo_XAhUIlLIKHRyXAwoYABAUGgJscg&sig=AOD64_0yaNRtjjA_dXP0rjur9rJViTyLnQ&ved=0ahUKEwjMuI3Cpo_XAhXECpoKHRLWC4sQ0QwIpQE&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "107 платьев до 9900 руб. 29 - до 4900. 7 - до 2900. Распродажа в Dream Boutique!",
+            "title": "Свадебные Платья - Распродажа - 107 платьев до 9900 руб. Sale.",
+            "type": "ADV",
+            "view_url": "www.dreamboutique.ru/СвадебныеПлатья/Распродажа"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "http://www.google.ru/aclk?sa=L&ai=DChcSEwiViZDCpo_XAhUIlLIKHRyXAwoYABAXGgJscg&sig=AOD64_2Tr1sNmmraI83DnBDqiYjoVVm3BA&ved=0ahUKEwjMuI3Cpo_XAhXECpoKHRLWC4sQ0QwIrQE&adurl=",
+            "py/object": "parser_result.Component",
+            "snippet": "Покупай только лучшие свадебные платья сезона 2017-2018. Выбери свой салон!",
+            "title": "Летние новинки платьев - Топ 5 свадебных салонов СПб",
+            "type": "ADV",
+            "view_url": "www.svadba-rating.ru/"
         }
     ],
     "py/object": "parser_result.ParserResult"
