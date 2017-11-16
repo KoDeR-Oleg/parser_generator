@@ -37,6 +37,12 @@ class TestAlgorithm(unittest.TestCase):
         expected = self.get_expected("google", "25.html")
         self.assertEqual(actual.count(), expected.count())
 
+    def test_equal_count_of_blocks_on_google_page1(self):
+        actual = self.parse("google", "1.html")
+        expected = self.get_expected("google", "1.html")
+        print(actual)
+        self.assertEqual(actual.count(), expected.count())
+
     def test_equal_count_of_blocks_with_type_on_google_page(self):
         actual = self.parse("google", "34.html")
         expected = self.get_expected("google", "34.html")
@@ -79,7 +85,7 @@ class TestAlgorithm(unittest.TestCase):
         expected = self.get_expected("yandex", "47.html")
         self.assertEqual(actual.count("WIZARD"), expected.count("WIZARD"))
 
-    def test_equal_count_of_block_on_yandex_page_with_ads(self):
+    def test_equal_count_of_block_on_yandex_page_with_adv(self):
         actual = self.parse("yandex", "30.html")
         expected = self.get_expected("yandex", "30.html")
         self.assertEqual(actual.count(), expected.count())
