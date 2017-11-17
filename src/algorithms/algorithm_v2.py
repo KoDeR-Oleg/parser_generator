@@ -166,7 +166,6 @@ class Algorithm_v2(Algorithm):
                     ind += 1
 
                 if not f:
-                    self.samples.append(component)
                     self.types.append(type(component))
 
                 component_path = component.title
