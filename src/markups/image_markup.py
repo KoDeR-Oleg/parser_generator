@@ -24,7 +24,10 @@ class FullPath(TreePath):
         attrs = ["href", "title", "style", "src"]
         if self.attr in attrs:
             if self.attr == "style":
-                return tag.get("style").split("//")[1][:-2]
+                if len(tag.get("style").split("//")) > 1:
+                    return tag.get("style").split("//")[1][:-2]
+                else:
+                    return None
             return tag.get(self.attr)
         return tag.text_content()
 
@@ -46,13 +49,16 @@ class FullPath(TreePath):
             xpath = "."
         if len(extract_list) > 0 and extract_list[0][0] == "html":
             xpath = "/"
+        if len(extract_list) > 0 and extract_list[0][0] == ".":
+            xpath = "."
+            extract_list = extract_list[1:]
         for item in extract_list:
             xpath += "/" + item[0]
             if str(item[1]) != "0":
                 xpath += "[" + str(item[1]) + "]"
         return xpath
 
-    def get_common_prefix(self, tree_path):
+    def get_common_prefix(self, tree_path, in_block=False):
         xpath1 = self.split_xpath()
         xpath2 = tree_path.split_xpath()
         common_list = []
@@ -62,6 +68,8 @@ class FullPath(TreePath):
             if xpath1[i][1] == xpath2[i][1]:
                 common_list.append(xpath1[i])
             else:
+                if in_block:
+                    break
                 common_list.append((xpath1[i][0], 0))
         xpath = self.merge_xpath(common_list)
         attr = self.attr
@@ -76,10 +84,21 @@ class FullPath(TreePath):
         return tree.xpath(self.xpath)
 
     def len(self):
-        return len(self.split_xpath())
+        lst = self.split_xpath()
+        if len(lst) == 1 and lst[0][0] == ".":
+            return 0
+        return len(lst)
 
     def drop_for_len(self, len):
         return FullPath(self.merge_xpath(self.split_xpath()[:len]), None)
+
+    def concat(self, tree_path):
+        result = FullPath(self.xpath, tree_path.attr)
+        if tree_path.xpath[0] == '.':
+            result.xpath += tree_path.xpath[1:]
+        else:
+            result.xpath += tree_path.xpath
+        return result
 
     @staticmethod
     def get_tree(raw_page):

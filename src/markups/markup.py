@@ -28,6 +28,10 @@ class TreePath:
     def drop_for_len(self, len):
         "Обрезание пути до заданной длины"
 
+    @abstractmethod
+    def concat(self, tree_path):
+        "Конкатенация путей"
+
     @abstractstaticmethod
     def get_tree(raw_page):
         "Получение дерева путей"
