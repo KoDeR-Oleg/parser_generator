@@ -1,5 +1,5 @@
 from algorithms.primitive_algorithm_v3 import PrimitiveAlgorithm_v3
-from algorithms.algorithm_v1 import Algorithm_v1
+from algorithms.algorithm_v2 import Algorithm_v2
 from metrics.parser_result_levenstein_metric import ParserResultLevensteinMetric
 from parsers.ideal_parser import IdealParser
 
@@ -35,6 +35,6 @@ def get_max_distance(algorithm, golden_set):
 
 metric = ParserResultLevensteinMetric()
 
-algorithm = Algorithm_v1("")
+algorithm = Algorithm_v2("")
 dist, page = get_max_distance(algorithm, "yandex")
 print("Max dist = ", dist, ", page = ", page, sep="")
