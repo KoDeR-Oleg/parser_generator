@@ -1,6 +1,6 @@
 from algorithms.algorithm import Algorithm
 from parser_result import ParserResult, Component
-from markups.markup import TreePath
+from trees.tree_path import TreePath
 import copy
 import logging
 
@@ -20,6 +20,8 @@ class Algorithm_v2(Algorithm):
         self.blacks = list()
         self.directory = directory
         self.markup_type = None
+        self.tree_type = None
+        self.treepath_type = None
         logging.basicConfig(format='%(filename)s[LINE:%(lineno)d]# %(levelname)-8s [%(funcName)s]  %(message)s',
                             level=logging.DEBUG, filename='algorithm_v1.log')
 
@@ -35,9 +37,9 @@ class Algorithm_v2(Algorithm):
                 elif isinstance(field, list):
                     parser_component.__dict__[key] = list()
                     for elem in field:
-                        parser_component.__dict__[key].append(elem.get_value(tree))
+                        parser_component.__dict__[key].append(tree.get_value(elem))
                 else:
-                    parser_component.__dict__[key] = field.get_value(tree)
+                    parser_component.__dict__[key] = tree.get_value(field)
             parser_result.add(parser_component)
         logging.info("End")
         return parser_result
@@ -48,7 +50,7 @@ class Algorithm_v2(Algorithm):
     def add_black_for_element(self, element, element_path, index_of_element_type, markup_list):
         logging.info("Start")
         list_pair = list()
-        for tag in element.iter():
+        for tag in element.get_iter():
             for cl in tag.classes:
                 list_pair.append((tag.tag, cl))
         list_flag = [True] * len(list_pair)
@@ -56,12 +58,11 @@ class Algorithm_v2(Algorithm):
         for markup in markup_list:
             with open(self.directory + markup.file, "r") as file:
                 string = file.read()
-            tree = markup.get_TreePath_class().get_tree(string)
+            tree = self.tree_type.get_tree(string)
 
             for component in markup.components:
                 if isinstance(component, self.types[index_of_element_type]):
-                    block_list = component.title.drop_for_len(element_path.len()).get_elements(tree)# element_path.get_elements(tree)
-                    # block = component.title.drop_for_len(self.block_treepath.len()).get_elements(tree)[0]
+                    block_list = tree.get_elements(component.title.drop_for_len(element_path.len()))
                     if len(block_list) > 0:
                         for i in range(len(list_pair)):
                             if list_flag[i] and len(block_list[0].cssselect(list_pair[i][0] + "." + list_pair[i][1])) > 0:
@@ -87,7 +88,7 @@ class Algorithm_v2(Algorithm):
             with open(self.directory + markup.file, "r") as file:
                 string = file.read()
             actual = self.parse(string)
-            tree = markup.get_TreePath_class().get_tree(string)
+            tree = self.tree_type.get_tree(string)
             expected = self.get_substitution(tree, markup)
             logging.debug("Actual count = " + str(actual.count()) + ", Expected count = " + str(expected.count()))
             if actual.count() == expected.count():
@@ -149,6 +150,8 @@ class Algorithm_v2(Algorithm):
     def learn(self, markup_list):
         logging.info("Start learn")
         self.markup_type = type(markup_list[0])
+        self.treepath_type = self.markup_type.get_TreePath_class()
+        self.tree_type = self.treepath_type.get_Tree_class()
         self.root = Node()
         self.types = list()
 
@@ -197,12 +200,12 @@ class Algorithm_v2(Algorithm):
                     inner_treepath = inner_treepath.get_common_prefix(elem)
 
                 component.__dict__[key] = None
-                if len(inner_treepath.get_elements(element)) > 0:
+                if len(element.get_elements(inner_treepath)) > 0:
                     component.__dict__[key] = list()
-                    for elem in inner_treepath.get_elements(element):
-                        component.__dict__[key].append(field[0].get_relative_path(field[0]).get_value(elem))
+                    for elem in element.get_elements(inner_treepath):
+                        component.__dict__[key].append(elem.get_value(field[0].get_relative_path(field[0])))
             else:
-                component.__dict__[key] = field.get_value(element)
+                component.__dict__[key] = element.get_value(field)
             if component.__dict__[key] is None:
                 logging.info("End None")
                 return None
@@ -229,7 +232,7 @@ class Algorithm_v2(Algorithm):
                         parser_result.add(result)
                         break
         for path, next_node in node.treepaths:
-            elements = path.get_elements(tree)
+            elements = tree.get_elements(path)
             for elem in elements:
                 if current_path is None:
                     new_path = copy.deepcopy(path)
@@ -242,7 +245,7 @@ class Algorithm_v2(Algorithm):
 
     def parse(self, raw_page):
         logging.info("Start parse")
-        tree = self.markup_type.get_TreePath_class().get_tree(raw_page)
+        tree = self.tree_type.get_tree(raw_page)
         parser_result = ParserResult()
 
         self.dfs(self.root, tree, parser_result)
