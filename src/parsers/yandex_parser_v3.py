@@ -1,6 +1,7 @@
 from lxml import html
 
-from markups.search_markup import SearchMarkupSearchResult, FullPath, SearchMarkup, SearchMarkupWizardImage, SearchMarkupWizardNews, SearchMarkupAdv
+from markups.search_markup import SearchMarkupSearchResult, SearchMarkup, SearchMarkupWizardImage, SearchMarkupWizardNews, SearchMarkupAdv
+from trees.html_path import HTMLPath
 from parser_result import ParserResult, Component
 from parsers.parser import Parser
 
@@ -43,19 +44,19 @@ class YandexParser_v3(Parser):
     def extract_search_result(self, element):
         search_result = SearchMarkupSearchResult()
         search_result.alignment = "LEFT"
-        search_result.page_url = FullPath(YandexParser_v3.get_path(element) + "/h2/a", "href")
-        search_result.title = FullPath(YandexParser_v3.get_path(element) + "/h2/a", "string")
-        search_result.snippet = FullPath(YandexParser_v3.get_path(element) + "/div[2]/div[1]", "string")
-        search_result.view_url = FullPath(YandexParser_v3.get_path(element) + "/div/div[1]/a[last()]", "href")
+        search_result.page_url = HTMLPath(YandexParser_v3.get_path(element) + "/h2/a", "href")
+        search_result.title = HTMLPath(YandexParser_v3.get_path(element) + "/h2/a", "string")
+        search_result.snippet = HTMLPath(YandexParser_v3.get_path(element) + "/div[2]/div[1]", "string")
+        search_result.view_url = HTMLPath(YandexParser_v3.get_path(element) + "/div/div[1]/a[last()]", "href")
         return search_result
 
     def extract_adv(self, element):
         adv = SearchMarkupAdv()
         adv.alignment = "LEFT"
-        adv.page_url = FullPath(YandexParser_v3.get_path(element) + "/h2/a", "href")
-        adv.title = FullPath(YandexParser_v3.get_path(element) + "/h2/a", "string")
-        adv.snippet = FullPath(YandexParser_v3.get_path(element) + "/div[@class='organic__content-wrapper clearfix']/div[1]", "string")
-        adv.view_url = FullPath(YandexParser_v3.get_path(element) + "/div[@class='organic__subtitle typo typo_type_greenurl']/div[1]/a", "string")
+        adv.page_url = HTMLPath(YandexParser_v3.get_path(element) + "/h2/a", "href")
+        adv.title = HTMLPath(YandexParser_v3.get_path(element) + "/h2/a", "string")
+        adv.snippet = HTMLPath(YandexParser_v3.get_path(element) + "/div[@class='organic__content-wrapper clearfix']/div[1]", "string")
+        adv.view_url = HTMLPath(YandexParser_v3.get_path(element) + "/div[@class='organic__subtitle typo typo_type_greenurl']/div[1]/a", "string")
         return adv
 
     def parse_search_result(self, element):
@@ -83,9 +84,9 @@ class YandexParser_v3(Parser):
         wizard.alignment = "LEFT"
         img_list = element.xpath("./div[2]/div/div/div/a")
         for img in img_list:
-            wizard.media_links.append(FullPath(YandexParser_v3.get_path(img) + "/div[1]/div[1]", "style"))
-        wizard.page_url = FullPath(YandexParser_v3.get_path(element) + "/div[1]/h2/a", "href")
-        wizard.title = FullPath(YandexParser_v3.get_path(element) + "/div[1]/h2/a", "string")
+            wizard.media_links.append(HTMLPath(YandexParser_v3.get_path(img) + "/div[1]/div[1]", "style"))
+        wizard.page_url = HTMLPath(YandexParser_v3.get_path(element) + "/div[1]/h2/a", "href")
+        wizard.title = HTMLPath(YandexParser_v3.get_path(element) + "/div[1]/h2/a", "string")
         return wizard
 
     def parse_wizard_image(self, element):
@@ -104,8 +105,8 @@ class YandexParser_v3(Parser):
     def extract_wizard_news(self, element):
         wizard = SearchMarkupWizardNews()
         wizard.alignment = "LEFT"
-        wizard.page_url = FullPath(YandexParser_v3.get_path(element) + "/div[1]/h2/a[2]", "href")
-        wizard.title = FullPath(YandexParser_v3.get_path(element) + "/div[1]/h2/a[2]", "string")
+        wizard.page_url = HTMLPath(YandexParser_v3.get_path(element) + "/div[1]/h2/a[2]", "href")
+        wizard.title = HTMLPath(YandexParser_v3.get_path(element) + "/div[1]/h2/a[2]", "string")
         return wizard
 
     def parse_wizard_news(self, element):
