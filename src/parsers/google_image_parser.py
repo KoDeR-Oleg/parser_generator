@@ -1,6 +1,6 @@
 from lxml import html
 
-from markups.image_markup import ImageMarkup, ImageMarkupComponent, FullPath
+from markups.image_markup import ImageMarkup, ImageMarkupComponent, HTMLPath
 from parser_result import ParserResult, Component
 from parsers.parser import Parser
 
@@ -49,9 +49,9 @@ class GoogleImageParser(Parser):
 
     def extract_image(self, element):
         image = ImageMarkupComponent()
-        image.page_url = FullPath(GoogleImageParser.get_path(element) + "/a", "href")
-        image.view_url = FullPath(GoogleImageParser.get_path(element) + "/cite", "title")
-        image.title = FullPath(GoogleImageParser.get_path(element), "string")
+        image.page_url = HTMLPath(GoogleImageParser.get_path(element) + "/a", "href")
+        image.view_url = HTMLPath(GoogleImageParser.get_path(element) + "/cite", "title")
+        image.title = HTMLPath(GoogleImageParser.get_path(element), "string")
         return image
 
     def extract_markup(self, file_name):

@@ -1,6 +1,7 @@
 from lxml import html
 
-from markups.search_markup import SearchMarkupSearchResult, FullPath, SearchMarkup, SearchMarkupWizardImage, SearchMarkupWizardNews, SearchMarkupAdv
+from markups.search_markup import SearchMarkupSearchResult, SearchMarkup, SearchMarkupWizardImage, SearchMarkupWizardNews, SearchMarkupAdv
+from trees.html_path import HTMLPath
 from parser_result import ParserResult, Component
 from parsers.parser import Parser
 
@@ -43,19 +44,19 @@ class GoogleParser_v3(Parser):
     def extract_search_result(self, element):
         search_result = SearchMarkupSearchResult()
         search_result.alignment = "LEFT"
-        search_result.page_url = FullPath(GoogleParser_v3.get_path(element) + "/h3/a", "href")
-        search_result.title = FullPath(GoogleParser_v3.get_path(element) + "/h3/a", "string")
-        search_result.snippet = FullPath(GoogleParser_v3.get_path(element) + "/div/span", "strings")
-        search_result.view_url = FullPath(GoogleParser_v3.get_path(element) + "/div/div/cite", "string")
+        search_result.page_url = HTMLPath(GoogleParser_v3.get_path(element) + "/h3/a", "href")
+        search_result.title = HTMLPath(GoogleParser_v3.get_path(element) + "/h3/a", "string")
+        search_result.snippet = HTMLPath(GoogleParser_v3.get_path(element) + "/div/span", "strings")
+        search_result.view_url = HTMLPath(GoogleParser_v3.get_path(element) + "/div/div/cite", "string")
         return search_result
 
     def extract_adv(self, element):
         adv = SearchMarkupAdv()
         adv.alignment = "LEFT"
-        adv.page_url = FullPath(GoogleParser_v3.get_path(element) + "/h3/a", "href")
-        adv.title = FullPath(GoogleParser_v3.get_path(element) + "/h3/a", "string")
-        adv.snippet = FullPath(GoogleParser_v3.get_path(element) + "/div[2]", "string")
-        adv.view_url = FullPath(GoogleParser_v3.get_path(element) + "/div/cite", "string")
+        adv.page_url = HTMLPath(GoogleParser_v3.get_path(element) + "/h3/a", "href")
+        adv.title = HTMLPath(GoogleParser_v3.get_path(element) + "/h3/a", "string")
+        adv.snippet = HTMLPath(GoogleParser_v3.get_path(element) + "/div[2]", "string")
+        adv.view_url = HTMLPath(GoogleParser_v3.get_path(element) + "/div/cite", "string")
         return adv
 
     def parse_search_result(self, element):
@@ -83,9 +84,9 @@ class GoogleParser_v3(Parser):
         wizard.alignment = "LEFT"
         img_list = element.xpath("./div/a/img")
         for img in img_list:
-            wizard.media_links.append(FullPath(GoogleParser_v3.get_path(img), "src"))
-        wizard.page_url = FullPath(GoogleParser_v3.get_path(element) + "/h3/a", "href")
-        wizard.title = FullPath(GoogleParser_v3.get_path(element) + "/h3/a", "string")
+            wizard.media_links.append(HTMLPath(GoogleParser_v3.get_path(img), "src"))
+        wizard.page_url = HTMLPath(GoogleParser_v3.get_path(element) + "/h3/a", "href")
+        wizard.title = HTMLPath(GoogleParser_v3.get_path(element) + "/h3/a", "string")
         return wizard
 
     def parse_wizard_image(self, element):
@@ -104,8 +105,8 @@ class GoogleParser_v3(Parser):
     def extract_wizard_news(self, element):
         wizard = SearchMarkupWizardNews()
         wizard.alignment = "LEFT"
-        wizard.page_url = FullPath(GoogleParser_v3.get_path(element), "href")
-        wizard.title = FullPath(GoogleParser_v3.get_path(element), "string")
+        wizard.page_url = HTMLPath(GoogleParser_v3.get_path(element), "href")
+        wizard.title = HTMLPath(GoogleParser_v3.get_path(element), "string")
         return wizard
 
     def parse_wizard_news(self, element):

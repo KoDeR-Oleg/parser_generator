@@ -1,6 +1,7 @@
 from lxml import html
 
-from markups.search_markup import SearchMarkupSearchResult, FullPath, SearchMarkup, SearchMarkupWizardImage
+from markups.search_markup import SearchMarkupSearchResult, SearchMarkup, SearchMarkupWizardImage
+from trees.html_path import HTMLPath
 from parser_result import ParserResult, Component
 from parsers.parser import Parser
 
@@ -28,10 +29,10 @@ class GoogleParser(Parser):
     def extract_search_result(self, element):
         search_result = SearchMarkupSearchResult()
         search_result.alignment = "LEFT"
-        search_result.page_url = FullPath(GoogleParser.get_path(element) + "/h3/a", "href")
-        search_result.title = FullPath(GoogleParser.get_path(element) + "/h3/a", "string")
-        search_result.snippet = FullPath(GoogleParser.get_path(element) + "/div/div/span", "strings")
-        search_result.view_url = FullPath(GoogleParser.get_path(element) + "/div/div/div/cite", "string")
+        search_result.page_url = HTMLPath(GoogleParser.get_path(element) + "/h3/a", "href")
+        search_result.title = HTMLPath(GoogleParser.get_path(element) + "/h3/a", "string")
+        search_result.snippet = HTMLPath(GoogleParser.get_path(element) + "/div/div/span", "strings")
+        search_result.view_url = HTMLPath(GoogleParser.get_path(element) + "/div/div/div/cite", "string")
         return search_result
 
     def get_from_page(self, element, xpath, attr):
@@ -64,9 +65,9 @@ class GoogleParser(Parser):
         wizard.alignment = "LEFT"
         img_list = element.xpath("./div[2]/div/div/div/div/div/div/div/div/div/a/g-img/img")
         for img in img_list:
-            wizard.media_links.append(FullPath(GoogleParser.get_path(img), "title"))
-        wizard.page_url = FullPath(GoogleParser.get_path(element) + "/div[1]/h3/a", "href")
-        wizard.title = FullPath(GoogleParser.get_path(element) + "/div[1]/h3/a", "string")
+            wizard.media_links.append(HTMLPath(GoogleParser.get_path(img), "title"))
+        wizard.page_url = HTMLPath(GoogleParser.get_path(element) + "/div[1]/h3/a", "href")
+        wizard.title = HTMLPath(GoogleParser.get_path(element) + "/div[1]/h3/a", "string")
         return wizard
 
     def parse_wizard_image(self, element):
