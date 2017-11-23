@@ -2,3 +2,4 @@ cssselect >= 1.0
 lxml >= 3.8
 requests >= 2.18
 jsonpickle >= 0.9.5
+jsonpath >= 0.75
