@@ -1,7 +1,4 @@
 from aggregators.avg_aggregator import AvgAggregator
-from algorithms.primitive_algorithm import PrimitiveAlgorithm
-from algorithms.primitive_algorithm_v2 import PrimitiveAlgorithm_v2
-from algorithms.primitive_algorithm_v3 import PrimitiveAlgorithm_v3
 from algorithms.algorithm_v1 import Algorithm_v1
 from algorithms.algorithm_v2 import Algorithm_v2
 from algorithms.selectors.simple_selector import SimpleSelector
