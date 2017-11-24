@@ -1,4 +1,5 @@
 import requests
+from parsers.wiki_parser import WikiParser
 
 
 url = "https://ru.wikipedia.org/w/api.php?action=query&format=json&list=search&utf8=1&srsearch="
@@ -59,7 +60,15 @@ for i in range(len(request_list)):
 
     full_url = url + request_list[i] + suf_url
     file_name = "../../golden/wiki/" + str(i)
-
+    """
     response = requests.get(full_url)
     with open(file_name + ".json", "w") as file:
         file.write(response.text)
+    """
+    print("i =", i)
+    parser = WikiParser()
+    with open(file_name + "_result.json", "w") as file:
+        with open(file_name + ".json", "r") as input:
+            file.write(str(parser.parse(input.read())))
+    with open(file_name + "_markup.json", "w") as file:
+        file.write(str(parser.extract_markup(file_name + ".json")))
