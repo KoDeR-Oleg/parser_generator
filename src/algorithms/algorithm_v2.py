@@ -13,14 +13,14 @@ class Node:
 
 
 class Algorithm_v2(Algorithm):
-    def __init__(self, directory):
+    def __init__(self, directory, selector):
         self.root = None
         self.types = list()
-        self.blacks = list()
         self.directory = directory
         self.markup_type = None
         self.tree_type = None
         self.treepath_type = None
+        self.selector = selector
         logging.basicConfig(format='%(filename)s[LINE:%(lineno)d]# %(levelname)-8s [%(funcName)s]  %(message)s',
                             level=logging.DEBUG, filename='algorithm_v1.log')
 
@@ -45,66 +45,6 @@ class Algorithm_v2(Algorithm):
 
     def get_element_for_parser_component(self, parser_component, tree):
         return self.dfs(self.root, tree, parser_component, True)
-
-    def add_black_for_element(self, element, element_path, index_of_element_type, markup_list):
-        logging.info("Start")
-        list_pair = list()
-        for tag in element.get_iter():
-            for cl in tag.classes:
-                list_pair.append((tag.tag, cl))
-        list_flag = [True] * len(list_pair)
-
-        for markup in markup_list:
-            with open(self.directory + markup.file, "r") as file:
-                string = file.read()
-            tree = self.tree_type.get_tree(string)
-
-            for component in markup.components:
-                if isinstance(component, self.types[index_of_element_type]):
-                    block_list = tree.get_elements(component.title.drop_for_len(element_path.len()))
-                    if len(block_list) > 0:
-                        for i in range(len(list_pair)):
-                            if list_flag[i] and len(block_list[0].cssselect(list_pair[i][0] + "." + list_pair[i][1])) > 0:
-                                list_flag[i] = False
-
-        for i in range(len(list_flag)):
-            if list_flag[i]:
-                if list_pair[i] not in self.blacks[index_of_element_type]:
-                    self.blacks[index_of_element_type].append(list_pair[i])
-                    break
-        logging.info("End")
-
-    def generate_black_lists(self, markup_list):
-        logging.info("Start")
-        self.blacks = list()
-        for i in range(len(self.types)):
-            self.blacks.append(list())
-
-        i = 0
-        while i < len(markup_list):
-            markup = markup_list[i]
-            logging.debug("Markup for " + markup.file)
-            with open(self.directory + markup.file, "r") as file:
-                string = file.read()
-            actual = self.parse(string)
-            tree = self.tree_type.get_tree(string)
-            expected = self.get_substitution(tree, markup)
-            logging.debug("Actual count = " + str(actual.count()) + ", Expected count = " + str(expected.count()))
-            if actual.count() == expected.count():
-                if actual == expected:
-                    continue
-            for component in actual.components:
-                if component not in expected.components:
-                    logging.debug(component == expected.components[0])
-                    element, element_path, element_type = self.get_element_for_parser_component(component, tree)
-                    self.add_black_for_element(element, element_path, element_type, markup_list)
-                    i -= 1
-                    break
-                else:
-                    logging.debug(str(component))
-            i += 1
-
-        logging.info("End")
 
     def get_relative_component(self, component, treepath):
         for key in component.__dict__.keys():
@@ -181,7 +121,7 @@ class Algorithm_v2(Algorithm):
 
                 self.add_component(self.root, component_path, ind, copy.deepcopy(component))
 
-        self.generate_black_lists(markup_list)
+        self.selector = self.selector.learn(self, markup_list)
         logging.info("End learn")
         return self
 
@@ -211,25 +151,19 @@ class Algorithm_v2(Algorithm):
         logging.info("End ok")
         return component
 
-    def is_not_black(self, element, element_type):
-        for pair in self.blacks[element_type]:
-            if len(element.cssselect(pair[0] + "." + pair[1])) > 0:
-                return False
-        return True
-
     def dfs(self, node, tree, parser_result, check=False, current_path=None):
         if node is None:
             return None, None, None
-        for i in range(len(node.indexes)):
-            if self.is_not_black(tree, node.indexes[i]):
-                result = self.parse_component(tree, node.samples[i])
-                if result is not None:
-                    if check:
-                        if parser_result == result:
-                            return tree, current_path, node.indexes[i]
-                    else:
-                        parser_result.add(result)
-                        break
+
+        for i in self.selector.get_iter(node=node, tree=tree):
+            result = self.parse_component(tree, node.samples[i])
+            if result is not None:
+                if check:
+                    if parser_result == result:
+                        return tree, current_path, node.indexes[i]
+                else:
+                    parser_result.add(result)
+                    break
         for path, next_node in node.treepaths:
             elements = tree.get_elements(path)
             for elem in elements:
