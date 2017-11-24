@@ -1,0 +1,176 @@
+{
+    "components": [
+        {
+            "alignment": "JSON",
+            "page_url": {
+                "path": "$.query.search[0].pageid",
+                "py/object": "trees.json_path.JSONPath"
+            },
+            "py/object": "markups.wiki_markup.WikiMarkupComponent",
+            "snippet": {
+                "path": "$.query.search[0].snippet",
+                "py/object": "trees.json_path.JSONPath"
+            },
+            "title": {
+                "path": "$.query.search[0].title",
+                "py/object": "trees.json_path.JSONPath"
+            },
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": {
+                "path": "$.query.search[1].pageid",
+                "py/object": "trees.json_path.JSONPath"
+            },
+            "py/object": "markups.wiki_markup.WikiMarkupComponent",
+            "snippet": {
+                "path": "$.query.search[1].snippet",
+                "py/object": "trees.json_path.JSONPath"
+            },
+            "title": {
+                "path": "$.query.search[1].title",
+                "py/object": "trees.json_path.JSONPath"
+            },
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": {
+                "path": "$.query.search[2].pageid",
+                "py/object": "trees.json_path.JSONPath"
+            },
+            "py/object": "markups.wiki_markup.WikiMarkupComponent",
+            "snippet": {
+                "path": "$.query.search[2].snippet",
+                "py/object": "trees.json_path.JSONPath"
+            },
+            "title": {
+                "path": "$.query.search[2].title",
+                "py/object": "trees.json_path.JSONPath"
+            },
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": {
+                "path": "$.query.search[3].pageid",
+                "py/object": "trees.json_path.JSONPath"
+            },
+            "py/object": "markups.wiki_markup.WikiMarkupComponent",
+            "snippet": {
+                "path": "$.query.search[3].snippet",
+                "py/object": "trees.json_path.JSONPath"
+            },
+            "title": {
+                "path": "$.query.search[3].title",
+                "py/object": "trees.json_path.JSONPath"
+            },
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": {
+                "path": "$.query.search[4].pageid",
+                "py/object": "trees.json_path.JSONPath"
+            },
+            "py/object": "markups.wiki_markup.WikiMarkupComponent",
+            "snippet": {
+                "path": "$.query.search[4].snippet",
+                "py/object": "trees.json_path.JSONPath"
+            },
+            "title": {
+                "path": "$.query.search[4].title",
+                "py/object": "trees.json_path.JSONPath"
+            },
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": {
+                "path": "$.query.search[5].pageid",
+                "py/object": "trees.json_path.JSONPath"
+            },
+            "py/object": "markups.wiki_markup.WikiMarkupComponent",
+            "snippet": {
+                "path": "$.query.search[5].snippet",
+                "py/object": "trees.json_path.JSONPath"
+            },
+            "title": {
+                "path": "$.query.search[5].title",
+                "py/object": "trees.json_path.JSONPath"
+            },
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": {
+                "path": "$.query.search[6].pageid",
+                "py/object": "trees.json_path.JSONPath"
+            },
+            "py/object": "markups.wiki_markup.WikiMarkupComponent",
+            "snippet": {
+                "path": "$.query.search[6].snippet",
+                "py/object": "trees.json_path.JSONPath"
+            },
+            "title": {
+                "path": "$.query.search[6].title",
+                "py/object": "trees.json_path.JSONPath"
+            },
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": {
+                "path": "$.query.search[7].pageid",
+                "py/object": "trees.json_path.JSONPath"
+            },
+            "py/object": "markups.wiki_markup.WikiMarkupComponent",
+            "snippet": {
+                "path": "$.query.search[7].snippet",
+                "py/object": "trees.json_path.JSONPath"
+            },
+            "title": {
+                "path": "$.query.search[7].title",
+                "py/object": "trees.json_path.JSONPath"
+            },
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": {
+                "path": "$.query.search[8].pageid",
+                "py/object": "trees.json_path.JSONPath"
+            },
+            "py/object": "markups.wiki_markup.WikiMarkupComponent",
+            "snippet": {
+                "path": "$.query.search[8].snippet",
+                "py/object": "trees.json_path.JSONPath"
+            },
+            "title": {
+                "path": "$.query.search[8].title",
+                "py/object": "trees.json_path.JSONPath"
+            },
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": {
+                "path": "$.query.search[9].pageid",
+                "py/object": "trees.json_path.JSONPath"
+            },
+            "py/object": "markups.wiki_markup.WikiMarkupComponent",
+            "snippet": {
+                "path": "$.query.search[9].snippet",
+                "py/object": "trees.json_path.JSONPath"
+            },
+            "title": {
+                "path": "$.query.search[9].title",
+                "py/object": "trees.json_path.JSONPath"
+            },
+            "type": "WIKI"
+        }
+    ],
+    "file": "1.json",
+    "py/object": "markups.wiki_markup.WikiMarkup"
+}

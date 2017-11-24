@@ -1,0 +1,85 @@
+{
+    "components": [
+        {
+            "alignment": "JSON",
+            "page_url": 732,
+            "py/object": "parser_result.Component",
+            "snippet": "разделившего <span class=\"searchmatch\">Украину</span> по Днепру, в употреблении появляются названия «сегобочная <span class=\"searchmatch\">Украина</span>», «тогобочная <span class=\"searchmatch\">Украина</span>» и «Малороссийская <span class=\"searchmatch\">Украина</span>». С XVIII века",
+            "title": "Украина",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 125181,
+            "py/object": "parser_result.Component",
+            "snippet": "составляет 95 % территории <span class=\"searchmatch\">Украины</span>. «<span class=\"searchmatch\">Украина</span>» входит в медийный холдинг украинского олигарха Рината Ахметова — ООО «Медиа Группу <span class=\"searchmatch\">Украина</span>» — одного из 4-х крупнейших",
+            "title": "Украина (телеканал)",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 1033364,
+            "py/object": "parser_result.Component",
+            "snippet": "<span class=\"searchmatch\">Украина</span> — участник программы Евросоюза «Восточное партнёрство» (с 2009 года). В 2014 году <span class=\"searchmatch\">Украина</span> и Евросоюз подписали Соглашение об ассоциации, заменившее",
+            "title": "Украина и Европейский союз",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 362613,
+            "py/object": "parser_result.Component",
+            "snippet": "Слово «<span class=\"searchmatch\">украина</span>» изначально применялось к разным приграничным землям Киевской Руси и русских княжеств. В этом значении этимология слова <span class=\"searchmatch\">Украина</span> рассматривается",
+            "title": "Украина (топоним)",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 662670,
+            "py/object": "parser_result.Component",
+            "snippet": "Стадио́н «<span class=\"searchmatch\">Украи́на</span>» — многофункциональный стадион с травяным покрытием во Львове (<span class=\"searchmatch\">Украина</span>). Является домашним стадионом футбольной команды «Карпаты».",
+            "title": "Украина (стадион)",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 3174867,
+            "py/object": "parser_result.Component",
+            "snippet": "«Коммерсантъ». Коммерсантъ <span class=\"searchmatch\">Украина</span> (31 мая 2005). Проверено 20 июля 2012. Архивировано 27 июля 2012 года. ↑ № 1 от 18.07.2005. Коммерсантъ <span class=\"searchmatch\">Украина</span> (18 июля 2005)",
+            "title": "Коммерсантъ Украина",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 745927,
+            "py/object": "parser_result.Component",
+            "snippet": "решение о реорганизации ПрАО «МТС-<span class=\"searchmatch\">Украина</span>», в форме присоединения к ОАО МТС в виде макрорегионального филиала «<span class=\"searchmatch\">Украина</span>». Планировалось начать присоединение",
+            "title": "Vodafone (Украина)",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 722139,
+            "py/object": "parser_result.Component",
+            "snippet": "входили: «Наша <span class=\"searchmatch\">Украина</span>», «Вперёд, <span class=\"searchmatch\">Украина</span>!», «Народный рух <span class=\"searchmatch\">Украины</span>», Христианско-демократический союз, УРП «Собор», Европейская партия <span class=\"searchmatch\">Украины</span>, Украинская",
+            "title": "Наша Украина — Народная самооборона",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 320657,
+            "py/object": "parser_result.Component",
+            "snippet": "именуется Партией «Наша <span class=\"searchmatch\">Украина</span>»), членами которого стали беспартийные депутаты фракции «Наша <span class=\"searchmatch\">Украина</span>» в Верховной раде <span class=\"searchmatch\">Украины</span> (в частности, Юрий Ехануров)",
+            "title": "Блок партий «Наша Украина»",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 89954,
+            "py/object": "parser_result.Component",
+            "snippet": "было учреждено молодёжное крыло Народного союза «Наша <span class=\"searchmatch\">Украина</span>» — «Молодёжный Союз Наша <span class=\"searchmatch\">Украина</span>» — Всеукраинская молодёжная общественная организация. II",
+            "title": "Наша Украина (партия)",
+            "type": "WIKI"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

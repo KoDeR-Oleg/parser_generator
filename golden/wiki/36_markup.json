@@ -1,0 +1,40 @@
+{
+    "components": [
+        {
+            "alignment": "JSON",
+            "page_url": {
+                "path": "$.query.search[0].pageid",
+                "py/object": "trees.json_path.JSONPath"
+            },
+            "py/object": "markups.wiki_markup.WikiMarkupComponent",
+            "snippet": {
+                "path": "$.query.search[0].snippet",
+                "py/object": "trees.json_path.JSONPath"
+            },
+            "title": {
+                "path": "$.query.search[0].title",
+                "py/object": "trees.json_path.JSONPath"
+            },
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": {
+                "path": "$.query.search[1].pageid",
+                "py/object": "trees.json_path.JSONPath"
+            },
+            "py/object": "markups.wiki_markup.WikiMarkupComponent",
+            "snippet": {
+                "path": "$.query.search[1].snippet",
+                "py/object": "trees.json_path.JSONPath"
+            },
+            "title": {
+                "path": "$.query.search[1].title",
+                "py/object": "trees.json_path.JSONPath"
+            },
+            "type": "WIKI"
+        }
+    ],
+    "file": "36.json",
+    "py/object": "markups.wiki_markup.WikiMarkup"
+}

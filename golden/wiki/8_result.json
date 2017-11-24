@@ -1,0 +1,85 @@
+{
+    "components": [
+        {
+            "alignment": "JSON",
+            "page_url": 639373,
+            "py/object": "parser_result.Component",
+            "snippet": "на сайт «<span class=\"searchmatch\">ВКонтакте</span>» зашло 13,09 миллионов уникальных российских пользователей, больше, чем на «Одноклассники». В апреле на сайт «<span class=\"searchmatch\">ВКонтакте</span>» зашло 14",
+            "title": "ВКонтакте",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 4460343,
+            "py/object": "parser_result.Component",
+            "snippet": "Пользователи «<span class=\"searchmatch\">ВКонтакте</span>» выступили против микроблогов ↑ Микроблог <span class=\"searchmatch\">Вконтакте</span> — выгодное нововведение ↑ Сообщения в контакте ↑ Число сообщений «<span class=\"searchmatch\">ВКонтакте</span>» превысило",
+            "title": "Список служб и инструментов «ВКонтакте»",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 4681246,
+            "py/object": "parser_result.Component",
+            "snippet": "совместное предприятие <span class=\"searchmatch\">ВКонтакте</span> и сервиса Creara Media. Информация о пользователях для таргетинга берётся в основном из профиля <span class=\"searchmatch\">ВКонтакте</span>, но также учитываются",
+            "title": "Рекламная сеть «ВКонтакте»",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 4445254,
+            "py/object": "parser_result.Component",
+            "snippet": "Звезда «<span class=\"searchmatch\">ВКонтакте</span>» — музыкальный конкурс, проводившийся петербургским «Пятым каналом». О наборе поэтов и музыкантов для конкурса было объявлено в феврале",
+            "title": "Звезда «ВКонтакте»",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 4860923,
+            "py/object": "parser_result.Component",
+            "snippet": "Группы «<span class=\"searchmatch\">ВКонтакте</span>» готовы делить с соцсетью доходы, но по-разному ↑ Во «<span class=\"searchmatch\">ВКонтакте</span>» началось закрытое тестирование рекламной биржи  «<span class=\"searchmatch\">ВКонтакте</span>» открывает",
+            "title": "Биржа рекламы «ВКонтакте»",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 4682958,
+            "py/object": "parser_result.Component",
+            "snippet": "адресу — соцсеть «<span class=\"searchmatch\">ВКонтакте</span>» перенесла 7,5 млн подписчиков в новый паблик.  К маю 2016 года сеть развлекательных пабликов внутри «<span class=\"searchmatch\">ВКонтакте</span>», входящих в MDK",
+            "title": "MDK (сообщество)",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 1297302,
+            "py/object": "parser_result.Component",
+            "snippet": "социальной сети «<span class=\"searchmatch\">ВКонтакте</span>» и одноимённой компании; создатель кроссплатформенного мессенджера «Telegram». Бывший генеральный директор <span class=\"searchmatch\">ВКонтакте</span> (2006—2014)",
+            "title": "Дуров, Павел Валерьевич",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 4354284,
+            "py/object": "parser_result.Component",
+            "snippet": "Реальная история „<span class=\"searchmatch\">ВКонтакте</span>“ и её создателя» — роман Николая Кононова о создателях крупнейшей в Европе социальной сети «<span class=\"searchmatch\">ВКонтакте</span>».   Автор книги — главный",
+            "title": "Код Дурова",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 5222798,
+            "py/object": "parser_result.Component",
+            "snippet": "был один из акционеров «<span class=\"searchmatch\">ВКонтакте</span>», фонд United Capital Partners. 18 сентября 2014 года назначен генеральным директором «<span class=\"searchmatch\">ВКонтакте</span>», спустя два дня после",
+            "title": "Добродеев, Борис Олегович",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 5603972,
+            "py/object": "parser_result.Component",
+            "snippet": "интернет-предприниматель и инвестор, сооснователь крупнейшей российской социальной сети «<span class=\"searchmatch\">ВКонтакте</span>», инвестиционного фонда Vaizra Capital и сети дата-центров Selectel. ",
+            "title": "Левиев, Лев Бинзумович",
+            "type": "WIKI"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

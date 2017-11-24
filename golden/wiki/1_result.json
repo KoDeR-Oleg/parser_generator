@@ -1,0 +1,85 @@
+{
+    "components": [
+        {
+            "alignment": "JSON",
+            "page_url": 5723,
+            "py/object": "parser_result.Component",
+            "snippet": "<span class=\"searchmatch\">Влади́мир</span> <span class=\"searchmatch\">Влади́мирович</span> <span class=\"searchmatch\">Пу́тин</span> (род. 7 октября 1952, Ленинград, РСФСР, СССР) — советский и российский государственный и политический деятель, действующий",
+            "title": "Путин, Владимир Владимирович",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 427556,
+            "py/object": "parser_result.Component",
+            "snippet": "Дмитриевич (1918—2003) — советский лётчик, Герой Советского Союза. <span class=\"searchmatch\">Путин</span>, <span class=\"searchmatch\">Владимир</span> <span class=\"searchmatch\">Владимирович</span> (род. 1952) — президент Российской Федерации (2000—2008, с 2012",
+            "title": "Путин (значения)",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 4715307,
+            "py/object": "parser_result.Component",
+            "snippet": "полёта <span class=\"searchmatch\">Владимира</span> <span class=\"searchmatch\">Путина</span> на дельтаплане со стерхами осенью 2012 года в рамках проекта «Полёт надежды». С мая 2011 года <span class=\"searchmatch\">Владимир</span> <span class=\"searchmatch\">Владимирович</span> <span class=\"searchmatch\">Владимиров</span> — секретарь",
+            "title": "Владимиров, Владимир Владимирович",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 4617868,
+            "py/object": "parser_result.Component",
+            "snippet": "Президентство <span class=\"searchmatch\">Владимира</span> <span class=\"searchmatch\">Путина</span> (2000—2008) Президентство Дмитрия Медведева Президентство <span class=\"searchmatch\">Владимира</span> <span class=\"searchmatch\">Путина</span> (2012—2018)  Правящая элита в России при президентстве",
+            "title": "Правление Путина",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 2849772,
+            "py/object": "parser_result.Component",
+            "snippet": "топливно-энергетического комплекса и экологической безопасности]] (<span class=\"searchmatch\">Путин</span>, <span class=\"searchmatch\">Владимир</span> <span class=\"searchmatch\">Владимирович</span>) Комиссия при Президенте Российской Федерации по вопросам государственной",
+            "title": "Комиссия при президенте Российской Федерации",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 162782,
+            "py/object": "parser_result.Component",
+            "snippet": "просвещения, бывшая супруга Президента Российской Федерации <span class=\"searchmatch\">Владимира</span> <span class=\"searchmatch\">Владимировича</span> <span class=\"searchmatch\">Путина</span>, с которым она прожила в браке около 30 лет. Является инициатором",
+            "title": "Путина, Людмила Александровна",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 7009470,
+            "py/object": "parser_result.Component",
+            "snippet": "с <span class=\"searchmatch\">Владимиром</span> <span class=\"searchmatch\">Путиным</span>» — ежегодная телепередача, в ходе которой президент, а ранее премьер-министр Российской Федерации <span class=\"searchmatch\">Владимир</span> <span class=\"searchmatch\">Владимирович</span> <span class=\"searchmatch\">Путин</span> отвечает",
+            "title": "Прямая линия с Владимиром Путиным",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 817311,
+            "py/object": "parser_result.Component",
+            "snippet": "Работа <span class=\"searchmatch\">Владимира</span> <span class=\"searchmatch\">Путина</span> в органах власти Ленинграда и Санкт-Петербурга осуществлялась с 1990 по 1996 годы (16 мая 1992 года Ленинград был переименован",
+            "title": "Работа Владимира Путина в органах власти Ленинграда и Санкт-Петербурга",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 3066990,
+            "py/object": "parser_result.Component",
+            "snippet": "в 2011 году в честь второго президента Российской Федерации <span class=\"searchmatch\">Владимира</span> <span class=\"searchmatch\">Владимировича</span> <span class=\"searchmatch\">Путина</span>.   Пик расположен в горной системе Тянь-Шань. Видимость с пика",
+            "title": "Пик Владимира Путина",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 104337,
+            "py/object": "parser_result.Component",
+            "snippet": "<span class=\"searchmatch\">Влади́мир</span> <span class=\"searchmatch\">Влади́мирович</span> Я́кушев (род. 14 июня 1968, Нефтекамск) — российский государственный деятель, губернатор Тюменской области с 24 ноября 2005 года",
+            "title": "Якушев, Владимир Владимирович",
+            "type": "WIKI"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

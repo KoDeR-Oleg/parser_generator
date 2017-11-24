@@ -1,0 +1,85 @@
+{
+    "components": [
+        {
+            "alignment": "JSON",
+            "page_url": 9,
+            "py/object": "parser_result.Component",
+            "snippet": "богатеют, а <span class=\"searchmatch\">Россия</span> — наоборот // РБК, 25.11.2016 ↑ Рост числа наркоманов в <span class=\"searchmatch\">России</span> остановился на восьми миллионах.  Lenta.ru (26 июня 2014). ↑ <span class=\"searchmatch\">Россия</span>: рекорды",
+            "title": "Россия",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 283540,
+            "py/object": "parser_result.Component",
+            "snippet": "анонсах упоминается, как канал «<span class=\"searchmatch\">Россия</span>». «<span class=\"searchmatch\">Россия</span>-1» является главным и основным телеканалом ВГТРК. На телеканале «<span class=\"searchmatch\">Россия</span>-1» есть единые эфирные окна для",
+            "title": "Россия-1",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 351082,
+            "py/object": "parser_result.Component",
+            "snippet": "<span class=\"searchmatch\">Росси́я</span> (юридическое название АО «Авиакомпания „<span class=\"searchmatch\">Россия</span>“») — российская авиакомпания, входящая в группу Аэрофлот. Компания базируется в Санкт-Петербурге",
+            "title": "Россия (авиакомпания)",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 2013272,
+            "py/object": "parser_result.Component",
+            "snippet": "Максим Домчев. Неспортивная <span class=\"searchmatch\">Россия</span>.  Газета.Ru (30 сентября 2009). Проверено 3 октября 2009. ↑ Би-би-си | <span class=\"searchmatch\">Россия</span> | В <span class=\"searchmatch\">России</span> запущен спортивный телеканал",
+            "title": "Россия-2",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 15325,
+            "py/object": "parser_result.Component",
+            "snippet": "«sovereignty»   ↑ ХI Съезд партии «ЕДИНАЯ <span class=\"searchmatch\">РОССИЯ</span>» // Официальный сайт партии «Единая <span class=\"searchmatch\">Россия</span>» ↑ «Единая <span class=\"searchmatch\">Россия</span>» позвала <span class=\"searchmatch\">россиян</span> в светлое прошлое // Коммерсантъ",
+            "title": "Единая Россия",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 347872,
+            "py/object": "parser_result.Component",
+            "snippet": "претендует. Партия «Справедливая <span class=\"searchmatch\">Россия</span>» — прямой преемник Российской партии Жизни. С середины 2012 года «Справедливая <span class=\"searchmatch\">Россия</span>» полностью поддерживает политику",
+            "title": "Справедливая Россия",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 552757,
+            "py/object": "parser_result.Component",
+            "snippet": "«<span class=\"searchmatch\">Россия</span>-24» получил эфирные частоты для вещания в Крыму и Севастополе вместо отключенного за долги телеканала «Черноморская ТРК». .  Телеканал «<span class=\"searchmatch\">Россия</span>-24»",
+            "title": "Россия-24",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 4813078,
+            "py/object": "parser_result.Component",
+            "snippet": "агентство „<span class=\"searchmatch\">Россия</span> сегодня“» (ФГУП МИА «<span class=\"searchmatch\">Россия</span> сегодня») — российское информационное агентство. Создано 9 декабря 2013 года указом президента <span class=\"searchmatch\">России</span> Владимира",
+            "title": "Россия сегодня",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 31413,
+            "py/object": "parser_result.Component",
+            "snippet": "объединений Единство—Отечество—Вся <span class=\"searchmatch\">Россия</span>», на котором союз был преобразован в политическую партию ВПП Единая <span class=\"searchmatch\">Россия</span>. 9 апреля 2002 года состоялся IV съезд",
+            "title": "Отечество — Вся Россия",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 1832265,
+            "py/object": "parser_result.Component",
+            "snippet": "Госуда́рственный центра́льный конце́ртный зал «<span class=\"searchmatch\">Росси́я</span>» (ГЦКЗ «<span class=\"searchmatch\">Россия</span>») — муниципальное учреждение культуры, подчинённое Правительству Москвы. Первоначально",
+            "title": "Государственный центральный концертный зал «Россия»",
+            "type": "WIKI"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

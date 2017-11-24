@@ -1,0 +1,85 @@
+{
+    "components": [
+        {
+            "alignment": "JSON",
+            "page_url": 1134,
+            "py/object": "parser_result.Component",
+            "snippet": "отражает правки после этой даты. см. также другие аудиостатьи   <span class=\"searchmatch\">Кита́йская</span> <span class=\"searchmatch\">Наро́дная</span> <span class=\"searchmatch\">Респу́блика</span> (КНР) (кит. трад. 中華人民共和國, упр. 中华人民共和国, пиньинь: Zhōnghuá",
+            "title": "Китайская Народная Республика",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 2072656,
+            "py/object": "parser_result.Component",
+            "snippet": "<span class=\"searchmatch\">Китайская</span> <span class=\"searchmatch\">Народная</span> <span class=\"searchmatch\">Республика</span> впервые приняла участие в Олимпийских играх в 1952 году в Хельсинки. В том же году Международным Олимпийским Комитетом допускаются",
+            "title": "Китайская Народная Республика на Олимпийских играх",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 4002905,
+            "py/object": "parser_result.Component",
+            "snippet": "1946—1950-х годах <span class=\"searchmatch\">Китайская</span> <span class=\"searchmatch\">республика</span> утратила контроль над материковым Китаем, где в 1949 была создана <span class=\"searchmatch\">Китайская</span> <span class=\"searchmatch\">Народная</span> <span class=\"searchmatch\">Республика</span>.    Курсивом выделены",
+            "title": "Президент Китайской Республики",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 2594,
+            "py/object": "parser_result.Component",
+            "snippet": "безопасности ООН (в 1971 году место <span class=\"searchmatch\">Китайской</span> <span class=\"searchmatch\">Республики</span> в ООН было передано <span class=\"searchmatch\">Китайской</span> <span class=\"searchmatch\">Народной</span> <span class=\"searchmatch\">Республике</span>). <span class=\"searchmatch\">Китайская</span> <span class=\"searchmatch\">Республика</span> признана 20 государствами —",
+            "title": "Китайская Республика",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 4530345,
+            "py/object": "parser_result.Component",
+            "snippet": "<span class=\"searchmatch\">Китайской</span> <span class=\"searchmatch\">Народной</span> <span class=\"searchmatch\">Республики</span> (КНР).  Должность существует в период: с 1 октября 1949 года по настоящее время.   ↑ Государство <span class=\"searchmatch\">Китайская</span> <span class=\"searchmatch\">Республика</span>,",
+            "title": "Список глав правительств Китайской Народной Республики",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 1745057,
+            "py/object": "parser_result.Component",
+            "snippet": "<span class=\"searchmatch\">Китайская</span> <span class=\"searchmatch\">Народная</span> <span class=\"searchmatch\">Республика</span> — государство, провозглашённое 1 октября 1949 года в Пекине.   Разгром милитаристской Японии в августе-сентябре 1945 завершил",
+            "title": "История Китайской Народной Республики",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 1889423,
+            "py/object": "parser_result.Component",
+            "snippet": "международных отношений. Во-первых, <span class=\"searchmatch\">Китайская</span> <span class=\"searchmatch\">Народная</span> <span class=\"searchmatch\">Республика</span> возражает против использования термина «<span class=\"searchmatch\">Китайская</span> <span class=\"searchmatch\">Республика</span>», так как это может трактоваться",
+            "title": "Китайский Тайбэй",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 2276400,
+            "py/object": "parser_result.Component",
+            "snippet": "истории завоевала олимпийскую медаль. В знак протеста против узурпации Тайванем названия «Китай» <span class=\"searchmatch\">Китайская</span> <span class=\"searchmatch\">народная</span> <span class=\"searchmatch\">республика</span> бойкотировала эти игры.",
+            "title": "Китайская Республика на летних Олимпийских играх 1968",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 2193394,
+            "py/object": "parser_result.Component",
+            "snippet": "В знак протеста против узурпации Тайванем названия «Китай» <span class=\"searchmatch\">Китайская</span> <span class=\"searchmatch\">народная</span> <span class=\"searchmatch\">республика</span> бойкотировала эти игры.  База МОК Официальные олимпийские отчёты",
+            "title": "Китайская Республика на летних Олимпийских играх 1964",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 2276396,
+            "py/object": "parser_result.Component",
+            "snippet": "В знак протеста против узурпации Тайванем названия «Китай» <span class=\"searchmatch\">Китайская</span> <span class=\"searchmatch\">народная</span> <span class=\"searchmatch\">республика</span> бойкотировала эти игры.     Спортсменов — 19 Состав команды",
+            "title": "Китайская Республика на летних Олимпийских играх 1960",
+            "type": "WIKI"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

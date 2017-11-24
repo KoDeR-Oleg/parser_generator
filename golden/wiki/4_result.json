@@ -1,0 +1,85 @@
+{
+    "components": [
+        {
+            "alignment": "JSON",
+            "page_url": 1095699,
+            "py/object": "parser_result.Component",
+            "snippet": "<span class=\"searchmatch\">До́нальд</span> Джон <span class=\"searchmatch\">Трамп</span> (англ. Donald John Trump; род. 14 июня 1946 года, Джамейка, Куинс, Нью-Йорк, США) — американский государственный деятель, политик",
+            "title": "Трамп, Дональд",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 6301562,
+            "py/object": "parser_result.Component",
+            "snippet": "<span class=\"searchmatch\">Дональд</span> Джон «Дон» <span class=\"searchmatch\">Трамп</span>-младший (род. 31 декабря 1977, Нью-Йорк, США) — американский бизнесмен. Старший сын 45-го Президента США <span class=\"searchmatch\">Дональда</span> <span class=\"searchmatch\">Трампа</span> и чешской",
+            "title": "Трамп, Дональд (младший)",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 1304193,
+            "py/object": "parser_result.Component",
+            "snippet": "формате (офисы, гостиница, апартаменты). Небоскрёб спроектирован <span class=\"searchmatch\">Дональдом</span> <span class=\"searchmatch\">Трампом</span> и Equitable Life Assurance Company. Строительство сооружения было",
+            "title": "Трамп-тауэр",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 3297214,
+            "py/object": "parser_result.Component",
+            "snippet": "<span class=\"searchmatch\">Дональда</span> <span class=\"searchmatch\">Трампа</span>.    Иванка Мари <span class=\"searchmatch\">Трамп</span> родилась 30 октября 1981 года в Нью-Йорке (США) в семье бизнесмена <span class=\"searchmatch\">Дональда</span> <span class=\"searchmatch\">Трампа</span> и чешской модели Иваны <span class=\"searchmatch\">Трамп</span>",
+            "title": "Трамп, Иванка",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 3631080,
+            "py/object": "parser_result.Component",
+            "snippet": "наручных часов и ювелирных изделий. Супруга 45-го президента США <span class=\"searchmatch\">Дональда</span> <span class=\"searchmatch\">Трампа</span>.   Меланья <span class=\"searchmatch\">Трамп</span> родилась в 1970 году в городе Ново-Место в Словении, входившей",
+            "title": "Трамп, Меланья",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 1245770,
+            "py/object": "parser_result.Component",
+            "snippet": "года). <span class=\"searchmatch\">Трамп</span>, <span class=\"searchmatch\">Дональд</span> (младший; род. 1977) — американский бизнесмен, первый сын <span class=\"searchmatch\">Дональда</span> <span class=\"searchmatch\">Трампа</span>. <span class=\"searchmatch\">Трамп</span>, Дэвид (1931—2016) — британский археолог. <span class=\"searchmatch\">Трамп</span>, Ивана",
+            "title": "Трамп (значения)",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 6385475,
+            "py/object": "parser_result.Component",
+            "snippet": "Президентская кампания <span class=\"searchmatch\">Дональда</span> <span class=\"searchmatch\">Трампа</span> — предвыборная кампания 45-го президента США, бизнесмена и телеведущего, кандидата в президенты от Республиканской",
+            "title": "Президентская кампания Дональда Трампа",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 6667555,
+            "py/object": "parser_result.Component",
+            "snippet": "Ариана <span class=\"searchmatch\">Трамп</span> (англ. Tiffany Ariana Trump; род. 13 октября 1993, Нью-Йорк) — американская модель и певица. Дочь президента США <span class=\"searchmatch\">Дональда</span> <span class=\"searchmatch\">Трампа</span> и его второй",
+            "title": "Трамп, Тиффани",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 6747487,
+            "py/object": "parser_result.Component",
+            "snippet": "Инаугурация <span class=\"searchmatch\">Дональда</span> <span class=\"searchmatch\">Трампа</span> в качестве 45-го Президента США состоялась 20 января 2017 года. Одновременно к присяге был приведён Майкл Пенс как 48-й вице-президент",
+            "title": "Инаугурация Дональда Трампа",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 6719810,
+            "py/object": "parser_result.Component",
+            "snippet": "Президентство <span class=\"searchmatch\">Дональда</span> <span class=\"searchmatch\">Трампа</span> началось 20 января 2017 года. <span class=\"searchmatch\">Трамп</span> — известный американский предприниматель и миллиардер, обошел кандидата от Демократической",
+            "title": "Президентство Дональда Трампа",
+            "type": "WIKI"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

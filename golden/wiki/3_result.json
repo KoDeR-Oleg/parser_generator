@@ -1,0 +1,85 @@
+{
+    "components": [
+        {
+            "alignment": "JSON",
+            "page_url": 1943831,
+            "py/object": "parser_result.Component",
+            "snippet": "«<span class=\"searchmatch\">Игра́</span> <span class=\"searchmatch\">престо́лов</span>» (англ. Game of Thrones) — американский драматический <span class=\"searchmatch\">телесериал</span> в жанре фэнтези, основанный на цикле романов «Песнь Льда и Огня» Джорджа",
+            "title": "Игра престолов (телесериал)",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 2353079,
+            "py/object": "parser_result.Component",
+            "snippet": "настольная <span class=\"searchmatch\">игра</span> для 3-5 игроков. <span class=\"searchmatch\">Игра</span> <span class=\"searchmatch\">престолов</span>: Начало — стратегическая компьютерная <span class=\"searchmatch\">игра</span> по мотивам «Песни Льда и Огня». <span class=\"searchmatch\">Игра</span> <span class=\"searchmatch\">Престолов</span> — ролевая компьютерная",
+            "title": "Игра престолов",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 3848694,
+            "py/object": "parser_result.Component",
+            "snippet": "Brotherhood, (<span class=\"searchmatch\">телесериал</span>), эпизод «Give Me the Ocular Proof…» 2010 — Rubicon, (<span class=\"searchmatch\">телесериал</span>), эпизод «The Truth Will Out» 2012 — <span class=\"searchmatch\">Игра</span> <span class=\"searchmatch\">престолов</span> (<span class=\"searchmatch\">телесериал</span>, 2-й",
+            "title": "Сахаров, Алик",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 4677705,
+            "py/object": "parser_result.Component",
+            "snippet": "«<span class=\"searchmatch\">Игра</span> <span class=\"searchmatch\">престолов</span>» (англ. Game of Thrones) — американский драматический <span class=\"searchmatch\">телесериал</span> в жанре фэнтези, созданный по мотивам цикла романов «Песнь Льда и Огня»",
+            "title": "Список наград и номинаций телесериала «Игра престолов»",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 5823136,
+            "py/object": "parser_result.Component",
+            "snippet": "Шестой сезон фэнтезийного драматического сериала «<span class=\"searchmatch\">Игра</span> <span class=\"searchmatch\">престолов</span>», премьера которого состоялась на канале HBO 24 апреля 2016 года, а заключительная серия",
+            "title": "Игра престолов (6-й сезон)",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 2966121,
+            "py/object": "parser_result.Component",
+            "snippet": "«<span class=\"searchmatch\">Игра</span> <span class=\"searchmatch\">престолов</span>» (англ. A Game of Thrones) — роман в жанре фэнтези американского писателя Джорджа Р. Р. Мартина, первая книга из серии «Песнь Льда и Огня»",
+            "title": "Игра престолов (роман)",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 3637335,
+            "py/object": "parser_result.Component",
+            "snippet": "Game of Thrones — саундтрек к американскому сериалу канала HBO <span class=\"searchmatch\">Игра</span> <span class=\"searchmatch\">престолов</span>. Над ним работал немецкий композитор Рамин Джавади, пластинка к первому сезону",
+            "title": "Игра престолов (саундтрек)",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 3879344,
+            "py/object": "parser_result.Component",
+            "snippet": "<span class=\"searchmatch\">Игра</span> <span class=\"searchmatch\">престолов</span> (оригинальное название — Game of Thrones) — компьютерная ролевая <span class=\"searchmatch\">игра</span> по мотивам цикла романов «Песнь Льда и Огня» американского писателя",
+            "title": "Game of Thrones (игра, 2012)",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 3364007,
+            "py/object": "parser_result.Component",
+            "snippet": "«<span class=\"searchmatch\">Игра</span> <span class=\"searchmatch\">престолов</span>» — американский <span class=\"searchmatch\">телесериал</span> в жанре фэнтези, созданный по мотивам цикла романов «Песнь Льда и Огня» писателя Джорджа Мартина. Действие",
+            "title": "Список эпизодов телесериала «Игра престолов»",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 1373428,
+            "py/object": "parser_result.Component",
+            "snippet": "благоухающими розами и апельсиновыми деревьями вдоль аллей.  <span class=\"searchmatch\">Игра</span> <span class=\"searchmatch\">престолов</span> (<span class=\"searchmatch\">телесериал</span>) (В Алькасаре снимались дворцовые сцены Дорна).   ↑ Monuments",
+            "title": "Севильский Алькасар",
+            "type": "WIKI"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

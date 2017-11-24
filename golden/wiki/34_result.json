@@ -1,0 +1,85 @@
+{
+    "components": [
+        {
+            "alignment": "JSON",
+            "page_url": 2944,
+            "py/object": "parser_result.Component",
+            "snippet": "<span class=\"searchmatch\">Пётр</span> <span class=\"searchmatch\">I</span> Алексе́евич, прозванный Вели́кий (30 мая [9 июня] 1672 год — 28 января [8 февраля] 1725 год) — последний царь всея Руси (с 1682 года) и первый Император",
+            "title": "Пётр I",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 2967351,
+            "py/object": "parser_result.Component",
+            "snippet": "<span class=\"searchmatch\">Пётр</span> <span class=\"searchmatch\">I</span> Петрович Негош (серб. Петар <span class=\"searchmatch\">I</span> Петровић Његош, 1748(1748) — 18 октября 1830, Цетинье) — митрополит и правитель Черногории. Канонизирован Сербской",
+            "title": "Пётр I Петрович",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 495655,
+            "py/object": "parser_result.Component",
+            "snippet": "<span class=\"searchmatch\">Пётр</span> <span class=\"searchmatch\">I</span> Мушат (рум. Petru <span class=\"searchmatch\">I</span>, Petru al <span class=\"searchmatch\">I</span>-lea Mușat) — господарь Молдавского княжества в 1375—1391 годах, сын Кости(Штефана из Щепениц) и Мушаты(Маргариты)",
+            "title": "Пётр I Мушат",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 694468,
+            "py/object": "parser_result.Component",
+            "snippet": "<span class=\"searchmatch\">Пётр</span> <span class=\"searchmatch\">I</span> Карагео́ргиевич (серб. Петар <span class=\"searchmatch\">I</span> Карађорђевић; 29 июня 1844, Белград — 16 августа 1921, Белград) — первый сербский король из династии Карагеоргиевичей",
+            "title": "Пётр I Карагеоргиевич",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 790508,
+            "py/object": "parser_result.Component",
+            "snippet": "<span class=\"searchmatch\">Пётр</span> <span class=\"searchmatch\">I</span> (умер 30 января 970) — царь Болгарии (927—969), второй сын царя Симеона <span class=\"searchmatch\">I</span>. В правление <span class=\"searchmatch\">Петра</span> <span class=\"searchmatch\">I</span> регулярные набеги венгров и внутренние смуты привели",
+            "title": "Пётр I (царь Болгарии)",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 7012259,
+            "py/object": "parser_result.Component",
+            "snippet": "Посещения Царицына <span class=\"searchmatch\">Петром</span> <span class=\"searchmatch\">I</span> состоялись трижды: 6 июня 1695, а также 15 июня и 15 ноября 1722 года. Первые два раза государь был в крепости проездом, в",
+            "title": "Посещения Царицына Петром I",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 5917540,
+            "py/object": "parser_result.Component",
+            "snippet": "«<span class=\"searchmatch\">Пётр</span> <span class=\"searchmatch\">I</span> допрашивает царевича Алексея Петровича в Петергофе» — картина русского художника Николая Ге (1831—1894), написанная в 1871 году. Она является частью",
+            "title": "Пётр I допрашивает царевича Алексея Петровича в Петергофе",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 434938,
+            "py/object": "parser_result.Component",
+            "snippet": "Финансовая реформа <span class=\"searchmatch\">Петра</span> <span class=\"searchmatch\">I</span> — реформа российского императора <span class=\"searchmatch\">Петра</span> <span class=\"searchmatch\">I</span>.   Основной причиной, послужившей проведению финансовой реформы, была нужда в денежных",
+            "title": "Финансовая реформа Петра I",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 4412377,
+            "py/object": "parser_result.Component",
+            "snippet": "<span class=\"searchmatch\">Петр</span> <span class=\"searchmatch\">I</span> из Рожмберка (чеш. Petr <span class=\"searchmatch\">I</span>. z Rožmberka; ум. 14 октября 1347) — чешский государственный деятель из рода Рожмберков. Высочайший коморник Чешского",
+            "title": "Петр I из Рожмберка",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 1167993,
+            "py/object": "parser_result.Component",
+            "snippet": "Память о <span class=\"searchmatch\">Петре</span> <span class=\"searchmatch\">I</span> увековечена во многих городах России и Европы. Старейшим и наиболее известным памятником основателю Российской империи является «Медный",
+            "title": "Памятники Петру I",
+            "type": "WIKI"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

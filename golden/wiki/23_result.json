@@ -1,0 +1,85 @@
+{
+    "components": [
+        {
+            "alignment": "JSON",
+            "page_url": 398887,
+            "py/object": "parser_result.Component",
+            "snippet": "<span class=\"searchmatch\">Дэдпул</span> (англ. Deadpool), настоящее имя Уэйд Уинстон Уилсон (Wade Winston Wilson) — вымышленный персонаж, антигерой комиксов издательства Marvel Comics",
+            "title": "Дэдпул",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 5606470,
+            "py/object": "parser_result.Component",
+            "snippet": "«<span class=\"searchmatch\">Дэдпул</span>» (англ. Deadpool) — американский комедийный фантастический боевик с Райаном Рейнольдсом в главной роли, снятый режиссёром Тимом Миллером на основе",
+            "title": "Дэдпул (фильм)",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 6853793,
+            "py/object": "parser_result.Component",
+            "snippet": "«<span class=\"searchmatch\">Дэдпул</span> 2» (англ. Deadpool 2) — предстоящий американский фильм о супергерое, основанном на комиксах Роба Лайфелда и Фабина Нициезе издательства Marvel",
+            "title": "Дэдпул 2 (фильм)",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 5474328,
+            "py/object": "parser_result.Component",
+            "snippet": "<span class=\"searchmatch\">Дэдпул</span> (англ. Deadpool) — вымышленный персонаж, антигерой комиксов издательства Marvel, созданный художником Робом Лайфилдом и писателем Фабианом Нициезо",
+            "title": "Дэдпул (значения)",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 4296979,
+            "py/object": "parser_result.Component",
+            "snippet": "Deadpool (с англ. — «<span class=\"searchmatch\">Дэдпул</span>») — компьютерная игра в категории экшн об одноимённом персонаже комиксов, издаваемых компанией Marvel Comics. Игра разработана",
+            "title": "Deadpool (игра)",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 3817842,
+            "py/object": "parser_result.Component",
+            "snippet": "был жестоко убит. Видя <span class=\"searchmatch\">Дэдпула</span> в Нью-Йорке, Человек-Паук подозревает что он убийца и борется с ним и ловит. Тем не менее, <span class=\"searchmatch\">Дэдпул</span> утверждает, что у него",
+            "title": "Хит-Манки",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 1690684,
+            "py/object": "parser_result.Component",
+            "snippet": "(Remy LeBeau)) Леди Повелительница Разума (Lady Mastermind) Красный Омега <span class=\"searchmatch\">Дэдпул</span> Леди Смертельный Удар Росомаха Злыдень Мистик (Mystique) Солнечный огонь",
+            "title": "Мародёры (Marvel Comics)",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 6417632,
+            "py/object": "parser_result.Component",
+            "snippet": "Когда они возвращаются, Стив оставляет лезвие <span class=\"searchmatch\">Дэдпулу</span> и говорит, что <span class=\"searchmatch\">Дэдпул</span> знает, что делать с ним. <span class=\"searchmatch\">Дэдпул</span> относит лезвие в инкубатор Батлера. Там он собирает",
+            "title": "Смерть Росомахи",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 7058427,
+            "py/object": "parser_result.Component",
+            "snippet": "проверить Джонни Блейза и становится связанным с Титаном Таносом и наёмником <span class=\"searchmatch\">Дэдпулом</span>.   Смерть является абстрактным объектом, обладающим практически бесконечными",
+            "title": "Смерть (Marvel Comics)",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 4449547,
+            "py/object": "parser_result.Component",
+            "snippet": "(1972) Бедненький Эдди (1975) Шугар Хилл (1993) Один на один (2009) <span class=\"searchmatch\">Дэдпул</span> (2016) <span class=\"searchmatch\">Дэдпул</span> 2 (2018)    Leslie Uggams - Biography. AllRovi. Проверено 28 марта",
+            "title": "Аггамс, Лесли",
+            "type": "WIKI"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

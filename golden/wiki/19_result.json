@@ -1,0 +1,85 @@
+{
+    "components": [
+        {
+            "alignment": "JSON",
+            "page_url": 45,
+            "py/object": "parser_result.Component",
+            "snippet": "<span class=\"searchmatch\">Санкт</span>-<span class=\"searchmatch\">Петербу́рг</span> (с 18 [31] августа 1914 года до 26 января 1924 года — Петрогра́д, с 26 января 1924 года до 6 сентября 1991 года — Ленингра́д) — второй",
+            "title": "Санкт-Петербург",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 30299,
+            "py/object": "parser_result.Component",
+            "snippet": "станции <span class=\"searchmatch\">Санкт</span>-<span class=\"searchmatch\">Петербург</span>-Главный. Расположен по адресу: <span class=\"searchmatch\">Санкт</span>-<span class=\"searchmatch\">Петербург</span>, Площадь Восстания, 2. Один из пяти действующих вокзалов <span class=\"searchmatch\">Санкт</span>-<span class=\"searchmatch\">Петербурга</span> и один",
+            "title": "Московский вокзал (Санкт-Петербург)",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 1418871,
+            "py/object": "parser_result.Component",
+            "snippet": "ГТРК «<span class=\"searchmatch\">Санкт</span>-<span class=\"searchmatch\">Петербург</span>» — филиал Всероссийской государственной телевизионной и радиовещательной компании в <span class=\"searchmatch\">Санкт</span>-<span class=\"searchmatch\">Петербурге</span> и Ленинградской области.   7",
+            "title": "Санкт-Петербург (телерадиокомпания)",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 6649124,
+            "py/object": "parser_result.Component",
+            "snippet": "<span class=\"searchmatch\">Санкт</span>-<span class=\"searchmatch\">Петербург</span>-Сортировочный-Московский — внеклассная сортировочная станция Октябрьской железной дороги (ОЖД) (ранее «Московская-Сортировочная»). Код",
+            "title": "Санкт-Петербург-Сортировочный-Московский",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 880213,
+            "py/object": "parser_result.Component",
+            "snippet": "«<span class=\"searchmatch\">Санкт</span>-<span class=\"searchmatch\">Петербург</span>» — советский и российский коммерческий банк, созданный в форме публичного акционерного общества. Головной офис расположен в <span class=\"searchmatch\">Санкт</span>-Петербурге",
+            "title": "Санкт-Петербург (банк)",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 1023162,
+            "py/object": "parser_result.Component",
+            "snippet": "Кресто́вский остров (фин. Ristisaari) — остров в <span class=\"searchmatch\">Санкт</span>-<span class=\"searchmatch\">Петербурге</span>, находится в западной части города, на территории Петроградского административного района",
+            "title": "Крестовский остров (Санкт-Петербург)",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 1033875,
+            "py/object": "parser_result.Component",
+            "snippet": "«Водоканал <span class=\"searchmatch\">Санкт</span>-<span class=\"searchmatch\">Петербурга</span>» — государственное унитарное предприятие, обеспечивающее услугами водоснабжения и водоотведения город <span class=\"searchmatch\">Санкт</span>-<span class=\"searchmatch\">Петербург</span>.       ",
+            "title": "Водоканал Санкт-Петербурга",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 66584,
+            "py/object": "parser_result.Component",
+            "snippet": "Губернатор <span class=\"searchmatch\">Санкт</span>-<span class=\"searchmatch\">Петербурга</span> — высшее должностное лицо <span class=\"searchmatch\">Санкт</span>-<span class=\"searchmatch\">Петербурга</span>, возглавляющее исполнительную власть и Правительство <span class=\"searchmatch\">Санкт</span>-<span class=\"searchmatch\">Петербурга</span>. Губернатор",
+            "title": "Губернатор Санкт-Петербурга",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 2005325,
+            "py/object": "parser_result.Component",
+            "snippet": "<span class=\"searchmatch\">Санкт</span>-<span class=\"searchmatch\">Петербург</span> — Витебский регион Октябрьской железной дороги ДИЗТЕР-2 (бывшее НОД-2) — один из 6 регионов Октябрьской железной дороги. Пути и инфраструктура",
+            "title": "Санкт-Петербург — Витебский регион Октябрьской железной дороги",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 962795,
+            "py/object": "parser_result.Component",
+            "snippet": "Скоростная автомобильная дорога Москва — <span class=\"searchmatch\">Санкт</span>-<span class=\"searchmatch\">Петербург</span> (федеральная автомобильная дорога М11) — строящаяся (в эксплуатацию введены отдельные участки)",
+            "title": "Автомагистраль Москва — Санкт-Петербург",
+            "type": "WIKI"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

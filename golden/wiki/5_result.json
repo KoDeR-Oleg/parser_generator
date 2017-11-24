@@ -1,0 +1,85 @@
+{
+    "components": [
+        {
+            "alignment": "JSON",
+            "page_url": 275424,
+            "py/object": "parser_result.Component",
+            "snippet": "<span class=\"searchmatch\">YouTube</span> (от англ. you «ты, вы» + tube «труба» = «телек» жарг. «телевизор»; МФА: [juːt(j)uːb] произносится [ютуб], [ютюб] или [ютьюб]) — видеохостинговая",
+            "title": "YouTube",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 6987446,
+            "py/object": "parser_result.Component",
+            "snippet": "Кнопки <span class=\"searchmatch\">YouTube</span> — часть наград <span class=\"searchmatch\">YouTube</span>, признание наиболее популярных каналов <span class=\"searchmatch\">YouTube</span>. Они отличаются от «<span class=\"searchmatch\">YouTube</span> Awards» (где награждают за лучшие видео)",
+            "title": "Кнопки YouTube",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 6129219,
+            "py/object": "parser_result.Component",
+            "snippet": "<span class=\"searchmatch\">YouTube</span> Rewind — серия видеороликов, произведенных, созданных и загруженных на <span class=\"searchmatch\">YouTube</span> на официальный канал. Это видео-обзор самых популярных видео на",
+            "title": "YouTube Rewind",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 7130241,
+            "py/object": "parser_result.Component",
+            "snippet": "Список самых просматриваемых видео на <span class=\"searchmatch\">Youtube</span> включает в себя 100 самых популярных видео на <span class=\"searchmatch\">Youtube</span>. Хотя первоначально самые популярные видео были вирусными",
+            "title": "Список самых просматриваемых видео на YouTube",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 6355550,
+            "py/object": "parser_result.Component",
+            "snippet": "видео <span class=\"searchmatch\">YouTube</span> независимо от участия в процессе создания загружаемого видеоролика. Если загружающий видео пользователь включил монетизацию своего <span class=\"searchmatch\">YouTube</span>-канала",
+            "title": "Вопросы авторского права YouTube",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 3776703,
+            "py/object": "parser_result.Component",
+            "snippet": "популярного сайта обмена видео <span class=\"searchmatch\">YouTube</span> и Mixbit[en]. В октябре 2006 года он и Стив Чен (англ. Steve Chen) продали <span class=\"searchmatch\">YouTube</span> за $1,65 млрд корпорации Google",
+            "title": "Хёрли, Чад",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 3609728,
+            "py/object": "parser_result.Component",
+            "snippet": "которого является Максим Голополосов. Первый выпуск передачи появился на <span class=\"searchmatch\">YouTube</span> 29 августа 2010 года.   Интернет-шоу было названо по интернет-мему «+100500»",
+            "title": "+100500",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 4627755,
+            "py/object": "parser_result.Component",
+            "snippet": "одноимённого канала на <span class=\"searchmatch\">YouTube</span>. Его канал является одним из самых быстрорастущих и насчитывает наибольшее количество подписчиков среди всех <span class=\"searchmatch\">YouTube</span>-каналов (более",
+            "title": "PewDiePie",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 772931,
+            "py/object": "parser_result.Component",
+            "snippet": "<span class=\"searchmatch\">YouTube</span> ↑ Cliff Thorburn, World Championship, 1983 на <span class=\"searchmatch\">YouTube</span> ↑ Kirk Stevens, Masters, 1984 на <span class=\"searchmatch\">YouTube</span> ↑ James Wattana, British Open, 1992 на <span class=\"searchmatch\">YouTube</span>",
+            "title": "Максимальный брейк",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 3648775,
+            "py/object": "parser_result.Component",
+            "snippet": "         Логотип с 2016 по настоящее время     <span class=\"searchmatch\">YouTube</span> Google Видео Vimeo   ↑ Catherine Shu. <span class=\"searchmatch\">YouTube</span> Confirms Renewed VEVO Deal, Takes Stake In Company",
+            "title": "Vevo",
+            "type": "WIKI"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

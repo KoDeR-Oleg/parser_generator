@@ -1,0 +1,85 @@
+{
+    "components": [
+        {
+            "alignment": "JSON",
+            "page_url": 5606470,
+            "py/object": "parser_result.Component",
+            "snippet": "Comics <span class=\"searchmatch\">Дэдпуле</span>. Восьмой <span class=\"searchmatch\">фильм</span> киносерии «Люди Икс». Премьера в США состоялась 10 февраля 2016 года. <span class=\"searchmatch\">Дэдпул</span> стал самым кассовым среди всех <span class=\"searchmatch\">фильмов</span> с рейтингом",
+            "title": "Дэдпул (фильм)",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 6853793,
+            "py/object": "parser_result.Component",
+            "snippet": "«<span class=\"searchmatch\">Дэдпул</span> 2» (англ. Deadpool 2) — предстоящий американский <span class=\"searchmatch\">фильм</span> о супергерое, основанном на комиксах Роба Лайфелда и Фабина Нициезе издательства Marvel",
+            "title": "Дэдпул 2 (фильм)",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 398887,
+            "py/object": "parser_result.Component",
+            "snippet": "<span class=\"searchmatch\">Дэдпул</span> (англ. Deadpool), настоящее имя Уэйд Уинстон Уилсон (Wade Winston Wilson) — вымышленный персонаж, антигерой комиксов издательства Marvel Comics",
+            "title": "Дэдпул",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 5474328,
+            "py/object": "parser_result.Component",
+            "snippet": "<span class=\"searchmatch\">Дэдпул</span> (англ. Deadpool) — вымышленный персонаж, антигерой комиксов издательства Marvel, созданный художником Робом Лайфилдом и писателем Фабианом Нициезо",
+            "title": "Дэдпул (значения)",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 3050734,
+            "py/object": "parser_result.Component",
+            "snippet": "прокат <span class=\"searchmatch\">фильм</span> выйдет 13 апреля 2018 года, в России — 12 апреля.   2 марта 2017 года вместе с премьерой «Логана» вышла короткометражка к «<span class=\"searchmatch\">Дэдпул</span> 2» — «Никаких",
+            "title": "Люди Икс (серия фильмов)",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 6829539,
+            "py/object": "parser_result.Component",
+            "snippet": "тюрьмы.  В пасхалке, относящейся к Рафту также входит удаленная сцена <span class=\"searchmatch\">фильма</span> <span class=\"searchmatch\">Дэдпул</span>, в которой главный антагонист «Аякс», которого сопровождали на лодке",
+            "title": "Рафт (Marvel Comics)",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 6062404,
+            "py/object": "parser_result.Component",
+            "snippet": "анимационный короткометражный <span class=\"searchmatch\">фильм</span> за его работу над короткометражным мультфильмом «Суслик обломался». Его режиссёрский дебют — <span class=\"searchmatch\">фильм</span> «<span class=\"searchmatch\">Дэдпул</span>». Миллер — автор начальных",
+            "title": "Миллер, Тим",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 7011364,
+            "py/object": "parser_result.Component",
+            "snippet": "сценарием и подобно «<span class=\"searchmatch\">Дэдпулу</span>» <span class=\"searchmatch\">фильм</span> будет отличаться от основных <span class=\"searchmatch\">фильмов</span> о Людях Икс: «может он будет не настолько отличаться, как «<span class=\"searchmatch\">Дэдпул</span>», но у него есть",
+            "title": "Новые мутанты (фильм)",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 1784768,
+            "py/object": "parser_result.Component",
+            "snippet": "Бессмертный», «Люди Икс: Дни минувшего будущего», «<span class=\"searchmatch\">Дэдпул</span>», «Люди Икс: Апокалипсис», «Логан». Несколько <span class=\"searchmatch\">фильмов</span> находятся в разработке и в них должны будут фигурировать",
+            "title": "Список персонажей серии фильмов «Люди Икс»",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 110119,
+            "py/object": "parser_result.Component",
+            "snippet": "» (Вы ещё здесь? Всё кончилось! Идите домой!) была спародирована в <span class=\"searchmatch\">фильме</span> «<span class=\"searchmatch\">Дэдпул</span>», также после финальных титров.    В Викицитатнике есть страница по",
+            "title": "Феррис Бьюллер берёт выходной",
+            "type": "WIKI"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

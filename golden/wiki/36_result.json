@@ -1,0 +1,21 @@
+{
+    "components": [
+        {
+            "alignment": "JSON",
+            "page_url": 2388136,
+            "py/object": "parser_result.Component",
+            "snippet": "<span class=\"searchmatch\">Па́вел</span> <span class=\"searchmatch\">Вале́рьевич</span> <span class=\"searchmatch\">Прилу́чный</span> (5 ноября 1987 года, Чимкент, Казахская ССР, СССР) — российский актёр театра и кино, телеведущий.   <span class=\"searchmatch\">Павел</span> <span class=\"searchmatch\">Прилучный</span> родился",
+            "title": "Прилучный, Павел Валерьевич",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 3143075,
+            "py/object": "parser_result.Component",
+            "snippet": " сотрудничала с Ingrid. Возлюбленная Виктора Полякова (4 сезон).  <span class=\"searchmatch\">Павел</span> <span class=\"searchmatch\">Прилучный</span> — Максим Петрович Морозов (настоящее ФИО — Вершинин, Максим Анатольевич)",
+            "title": "Закрытая школа",
+            "type": "WIKI"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

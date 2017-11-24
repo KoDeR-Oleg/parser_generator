@@ -1,0 +1,85 @@
+{
+    "components": [
+        {
+            "alignment": "JSON",
+            "page_url": 997,
+            "py/object": "parser_result.Component",
+            "snippet": "Сэнгером, <span class=\"searchmatch\">Википедия</span> сейчас является самым крупным и наиболее популярным справочником в Интернете. По объёму сведений и тематическому охвату <span class=\"searchmatch\">Википедия</span> считается",
+            "title": "Википедия",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 276747,
+            "py/object": "parser_result.Component",
+            "snippet": "Англи́йская <span class=\"searchmatch\">Википе́дия</span> (англ. English Wikipedia) — раздел <span class=\"searchmatch\">Википедии</span> на английском языке. Основана 15 января 2001 года. Это самый ранний и самый крупный",
+            "title": "Английская Википедия",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 276803,
+            "py/object": "parser_result.Component",
+            "snippet": "нидерландскую <span class=\"searchmatch\">Википедию</span> обогнала шведская <span class=\"searchmatch\">Википедия</span>, залившая огромное число статей о биологических видах, а 9 февраля 2015 года — немецкая <span class=\"searchmatch\">Википедия</span>. 29 марта",
+            "title": "Нидерландская Википедия",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 279452,
+            "py/object": "parser_result.Component",
+            "snippet": "Испа́нская <span class=\"searchmatch\">Википе́дия</span> (исп. Wikipedia en español) — раздел <span class=\"searchmatch\">Википедии</span> на испанском языке. Открылся в мае 2001 года. Ввиду огромного количества региональных",
+            "title": "Испанская Википедия",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 2257626,
+            "py/object": "parser_result.Component",
+            "snippet": "      Астурлеонская <span class=\"searchmatch\">Википедия</span> (также именуется Астурийская <span class=\"searchmatch\">Википедия</span>, астур. Uiquipedia n'asturianu, код ast) — раздел <span class=\"searchmatch\">Википедии</span> на астурлеонском языке",
+            "title": "Языковые разделы Википедии",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 276778,
+            "py/object": "parser_result.Component",
+            "snippet": "<span class=\"searchmatch\">Википедия</span> обгоняет польскую, сместив её на 8 место, а также на второе место крупнейшей славянской <span class=\"searchmatch\">Википедии</span>. 4 апреля 2013 года — шведская <span class=\"searchmatch\">Википедия</span> за",
+            "title": "Польская Википедия",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 277982,
+            "py/object": "parser_result.Component",
+            "snippet": "Неме́цкая <span class=\"searchmatch\">Википе́дия</span> — раздел <span class=\"searchmatch\">Википедии</span> на немецком языке. Второй после английского, он был создан 16 марта 2001 года. Первая статья появилась на следующий",
+            "title": "Немецкая Википедия",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 24176,
+            "py/object": "parser_result.Component",
+            "snippet": "Ру́сская <span class=\"searchmatch\">Википе́дия</span> — русскоязычный раздел интернет-энциклопедии <span class=\"searchmatch\">Википедия</span>, основанный 11 мая 2001 года. По основным статистическим характеристикам, определяющим",
+            "title": "Русская Википедия",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 281333,
+            "py/object": "parser_result.Component",
+            "snippet": "показателю украинская <span class=\"searchmatch\">Википедия</span> занимает 16 место среди всех языковых разделов. По данным за декабрь 2014 года украинская <span class=\"searchmatch\">Википедия</span> находилась на 18 месте",
+            "title": "Украинская Википедия",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 282578,
+            "py/object": "parser_result.Component",
+            "snippet": "Шведскоязычная <span class=\"searchmatch\">Википедия</span> (швед. Svenskspråkiga Wikipedia, до 2006 года Шведская <span class=\"searchmatch\">Википедия</span>, швед. Svenska Wikipedia) — раздел <span class=\"searchmatch\">Википедии</span> на шведском языке",
+            "title": "Шведская Википедия",
+            "type": "WIKI"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

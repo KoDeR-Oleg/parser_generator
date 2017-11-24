@@ -1,0 +1,85 @@
+{
+    "components": [
+        {
+            "alignment": "JSON",
+            "page_url": 932117,
+            "py/object": "parser_result.Component",
+            "snippet": "2007 года <span class=\"searchmatch\">социальная</span> <span class=\"searchmatch\">сеть</span> «<span class=\"searchmatch\">Одноклассники</span>» увеличила свою аудиторию до 4 миллионов пользователей.  В июле 2009 года <span class=\"searchmatch\">социальная</span> <span class=\"searchmatch\">сеть</span> «<span class=\"searchmatch\">Одноклассники</span>» заняла",
+            "title": "Одноклассники (социальная сеть)",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 1251050,
+            "py/object": "parser_result.Component",
+            "snippet": "«Одноклассники» — <span class=\"searchmatch\">социальная</span> <span class=\"searchmatch\">сеть</span>; «<span class=\"searchmatch\">Одноклассники</span>» — девятый альбом российской группы «Блестящие»; «<span class=\"searchmatch\">Одноклассники</span>» — пьеса Ю. М. Полякова; «<span class=\"searchmatch\">Одноклассники</span>» — русскоязычное",
+            "title": "Одноклассники",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 941081,
+            "py/object": "parser_result.Component",
+            "snippet": "<span class=\"searchmatch\">Социальная</span> <span class=\"searchmatch\">сеть</span> — платформа, онлайн-сервис и веб-сайт, предназначенные для построения, отражения и организации <span class=\"searchmatch\">социальных</span> взаимоотношений в Интернете",
+            "title": "Социальная сеть",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 3187821,
+            "py/object": "parser_result.Component",
+            "snippet": "со многих устройств, через которые доступна конкретная <span class=\"searchmatch\">социальная</span> <span class=\"searchmatch\">сеть</span>. Игры в <span class=\"searchmatch\">социальных</span> <span class=\"searchmatch\">сетях</span> — одни из лидеров по популярности во всем мире, некоторые",
+            "title": "Игры для социальных сетей",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 1046996,
+            "py/object": "parser_result.Component",
+            "snippet": "«Основной» тип. Ок — «<span class=\"searchmatch\">одноклассники</span>», <span class=\"searchmatch\">социальная</span> <span class=\"searchmatch\">сеть</span> в рунете (odnoklassniki.ru или ok.ru). О’Кей (<span class=\"searchmatch\">сеть</span> магазинов) — российская <span class=\"searchmatch\">сеть</span> гипермаркетов. Open",
+            "title": "ОК",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 1734374,
+            "py/object": "parser_result.Component",
+            "snippet": "года <span class=\"searchmatch\">социальная</span> <span class=\"searchmatch\">сеть</span> «<span class=\"searchmatch\">Одноклассники</span>» увеличила свою аудиторию в 2 раза — до 4 миллионов пользователей.  В июле 2009 года <span class=\"searchmatch\">социальная</span> <span class=\"searchmatch\">сеть</span> «<span class=\"searchmatch\">Одноклассники</span>» заняла",
+            "title": "Попков, Альберт Михайлович",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 849250,
+            "py/object": "parser_result.Component",
+            "snippet": "Кругу Друзей» — русскоязычная <span class=\"searchmatch\">социальная</span> <span class=\"searchmatch\">сеть</span> (ранее известная как «<span class=\"searchmatch\">Одноклассники</span>. KM.RU»), позволяющая найти <span class=\"searchmatch\">одноклассников</span> и сокурсников, старых и новых",
+            "title": "В кругу друзей",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 6956882,
+            "py/object": "parser_result.Component",
+            "snippet": "украинская <span class=\"searchmatch\">социальная</span> <span class=\"searchmatch\">сеть</span>, которая разрабатывалась взамен заблокированных на территории Украины <span class=\"searchmatch\">социальных</span> <span class=\"searchmatch\">сетей</span> «ВКонтакте» и «<span class=\"searchmatch\">Одноклассники</span>».   После",
+            "title": "Ukrainians",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 6968776,
+            "py/object": "parser_result.Component",
+            "snippet": "сохранять картинки с сайтов и видеоролики из <span class=\"searchmatch\">социальных</span> <span class=\"searchmatch\">сетей</span> ВКонтакте, <span class=\"searchmatch\">Одноклассники</span> (<span class=\"searchmatch\">социальная</span> <span class=\"searchmatch\">сеть</span>) и Facebook в самые популярные облачные хранилища",
+            "title": "Clouder Mail.Ru",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 5289837,
+            "py/object": "parser_result.Component",
+            "snippet": "WEUA («Виюа», [ˈviˌiua]) — вторая украинская <span class=\"searchmatch\">социальная</span> <span class=\"searchmatch\">сеть</span> Основана в 2014 году Богданом Олиярчуком. Впервые проект был анонсирован 21 марта 2014. Ресурс",
+            "title": "WeUA",
+            "type": "WIKI"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

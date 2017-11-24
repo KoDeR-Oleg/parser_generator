@@ -1,0 +1,85 @@
+{
+    "components": [
+        {
+            "alignment": "JSON",
+            "page_url": 110,
+            "py/object": "parser_result.Component",
+            "snippet": "В 1800 году Королевство <span class=\"searchmatch\">Великобритания</span> и Королевство Ирландия объединились, образовав Соединённое Королевство <span class=\"searchmatch\">Великобритании</span> и Ирландии, которое после",
+            "title": "Великобритания",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 1671289,
+            "py/object": "parser_result.Component",
+            "snippet": "<span class=\"searchmatch\">Великобритания</span> на конкурсе песни Евровидение принимала участие 54 раза. Участия этой страны можно назвать очень удачными — <span class=\"searchmatch\">Великобритания</span> побеждала пять",
+            "title": "Великобритания на «Евровидении»",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 140893,
+            "py/object": "parser_result.Component",
+            "snippet": "Короле́вство <span class=\"searchmatch\">Великобрита́ния</span>, или королевство <span class=\"searchmatch\">Великобритании</span> (англ. the Kingdom of Great Britain) — государство, располагавшееся в Западной Европе и образовавшееся",
+            "title": "Королевство Великобритания",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 5716391,
+            "py/object": "parser_result.Component",
+            "snippet": "Songs4europe.com. Проверено 25 июня 2014.   <span class=\"searchmatch\">Великобритания</span> на конкурсе песни Евровидение Конкурс песни Евровидение 1959 <span class=\"searchmatch\">Великобритания</span> на Евровидении 1959",
+            "title": "Великобритания на «Евровидении-1959»",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 1234011,
+            "py/object": "parser_result.Component",
+            "snippet": "выступление <span class=\"searchmatch\">Великобритании</span> за всю историю конкурса: в 2003 году дуэт Jemini вообще не набрал ни одного балла. После Евровидения-2008 <span class=\"searchmatch\">Великобритания</span> вместе",
+            "title": "Великобритания на «Евровидении-2008»",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 4929395,
+            "py/object": "parser_result.Component",
+            "snippet": "«Большой пятёрки», <span class=\"searchmatch\">Великобритания</span> автоматически имела право на место в финале, который состоялся 10 мая 2014 года. В дополнении <span class=\"searchmatch\">Великобритании</span> был передан шанс",
+            "title": "Великобритания на «Евровидении-2014»",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 1344497,
+            "py/object": "parser_result.Component",
+            "snippet": "номером. В итоге <span class=\"searchmatch\">Великобритания</span> набрала как раз 19 баллов и заняла 23-е, предпоследнее место, опередив только Ирландию. 12 баллов <span class=\"searchmatch\">Великобритания</span> неожиданно",
+            "title": "Великобритания на «Евровидении-2007»",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 306503,
+            "py/object": "parser_result.Component",
+            "snippet": "географическом плане          Соединённое Королевство <span class=\"searchmatch\">Великобритании</span> и Северной Ирландии          Остров <span class=\"searchmatch\">Великобритания</span> в географическом плане          Шотландия",
+            "title": "Регионы Великобритании",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 5620039,
+            "py/object": "parser_result.Component",
+            "snippet": "<span class=\"searchmatch\">Великобритания</span> на Евровидении 1957 принимала участие первый раз. На конкурсе её представляла Патрисия Бредин с песней «All». В этом году страна заняла",
+            "title": "Великобритания на «Евровидении-1957»",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 3690676,
+            "py/object": "parser_result.Component",
+            "snippet": "<span class=\"searchmatch\">Великобритания</span> участвует в конкурсе песни Евровидение 2012 в Баку, Азербайджан. Своего представителя выберет внутренним отбором, организованный каналом",
+            "title": "Великобритания на «Евровидении-2012»",
+            "type": "WIKI"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

@@ -1,0 +1,85 @@
+{
+    "components": [
+        {
+            "alignment": "JSON",
+            "page_url": 5504658,
+            "py/object": "parser_result.Component",
+            "snippet": "<span class=\"searchmatch\">Евровидение</span>-<span class=\"searchmatch\">2016</span> (англ. Eurovision Song Contest 2016; фр. Concours Eurovision de la chanson 2016; швед. Eurovisionsschlagerfestivalen 2016) — 61-й конкурс",
+            "title": "Евровидение-2016",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 6265685,
+            "py/object": "parser_result.Component",
+            "snippet": "Норвегия приняла участие в конкурсе песни «<span class=\"searchmatch\">Евровидение</span> <span class=\"searchmatch\">2016</span>» в Швеции. Представитель был выбран путём национального отбора, состоящего из одного финала",
+            "title": "Норвегия на «Евровидении-2016»",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 6102772,
+            "py/object": "parser_result.Component",
+            "snippet": "Детский конкурс песни <span class=\"searchmatch\">Евровидение</span> <span class=\"searchmatch\">2016</span> (англ. Junior Eurovision Song Contest 2016) — четырнадцатый ежегодный детский конкурс песни Евровидение, который",
+            "title": "Детское Евровидение — 2016",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 6205695,
+            "py/object": "parser_result.Component",
+            "snippet": "Украина принимала участие в конкурсе песни <span class=\"searchmatch\">Евровидение</span> <span class=\"searchmatch\">2016</span> в Стокгольме, Швеция. Впервые за всю историю участия Украины в конкурсе телеканалы UA:Перший",
+            "title": "Украина на «Евровидении-2016»",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 5789425,
+            "py/object": "parser_result.Component",
+            "snippet": "Конкурс молодых музыкантов «<span class=\"searchmatch\">Евровидение</span>-<span class=\"searchmatch\">2016</span>»   Даты Финал 3 сентября 2016 Проведение Место проведения Германия Германия, Кёльн, «Кёльнский собор» Ведущие",
+            "title": "Конкурс молодых музыкантов «Евровидение-2016»",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 6166139,
+            "py/object": "parser_result.Component",
+            "snippet": "Финляндию на конкурсе песни <span class=\"searchmatch\">Евровидение</span> <span class=\"searchmatch\">2016</span> в Стокгольме (Швеция) представляла певица Сандья с песней «Sing It Away». Сандья была отобрана на национальном",
+            "title": "Финляндия на «Евровидении-2016»",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 6384576,
+            "py/object": "parser_result.Component",
+            "snippet": "Армения приняла участие в конкурсе песни «<span class=\"searchmatch\">Евровидение</span> <span class=\"searchmatch\">2016</span>» в Швеции. Представитель и песня были выбраны путём внутреннего отбора, организованного армянским",
+            "title": "Армения на «Евровидении-2016»",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 6014367,
+            "py/object": "parser_result.Component",
+            "snippet": "Нидерланды приняли участие в конкурсе песни <span class=\"searchmatch\">Евровидение</span> <span class=\"searchmatch\">2016</span> в Стокгольме, Швеция, представив исполнителя Дауэ Боба, избранного путём внутреннего отбора",
+            "title": "Нидерланды на «Евровидении-2016»",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 6381345,
+            "py/object": "parser_result.Component",
+            "snippet": "В конкурсе песни «<span class=\"searchmatch\">Евровидении</span> <span class=\"searchmatch\">2016</span>» в Стокгольме (Швеция) Азербайджан принимает участие в 9-й раз. Страну представляет Семра Рагимли с песней «Miracle»",
+            "title": "Азербайджан на «Евровидении-2016»",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 6271541,
+            "py/object": "parser_result.Component",
+            "snippet": "получил 18-й номер в финале. В итоге он занял третье место в конкурсе «<span class=\"searchmatch\">Евровидение</span>-<span class=\"searchmatch\">2016</span>», а также первое место по результатам зрительского голосования. Жюри",
+            "title": "Россия на «Евровидении-2016»",
+            "type": "WIKI"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

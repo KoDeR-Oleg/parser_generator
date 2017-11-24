@@ -1,0 +1,85 @@
+{
+    "components": [
+        {
+            "alignment": "JSON",
+            "page_url": 2663245,
+            "py/object": "parser_result.Component",
+            "snippet": "«<span class=\"searchmatch\">Ше́рлок</span>», также известен как «<span class=\"searchmatch\">Шерлок</span> Холмс» (англ. Sherlock) — британский <span class=\"searchmatch\">телесериал</span> компании Hartswood Films, снятый для BBC Wales. Сюжет основан на",
+            "title": "Шерлок (телесериал)",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 3606208,
+            "py/object": "parser_result.Component",
+            "snippet": "«<span class=\"searchmatch\">Ше́рлок</span> Холмс» — российский детективный <span class=\"searchmatch\">телесериал</span> производства кинокомпании «Централ партнершип», снятый режиссёром Андреем Кавуном по мотивам рассказов",
+            "title": "Шерлок Холмс (телесериал, 2013)",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 3494655,
+            "py/object": "parser_result.Component",
+            "snippet": "<span class=\"searchmatch\">Телесериалы</span>, связанные с <span class=\"searchmatch\">Шерлоком</span> Холмсом: «Приключения <span class=\"searchmatch\">Шерлока</span> Холмса и доктора Ватсона» — цикл советских телефильмов 1979—1986 годов режиссёра Игоря",
+            "title": "Шерлок Холмс (телесериал)",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 182102,
+            "py/object": "parser_result.Component",
+            "snippet": "«Воспомина́ния о <span class=\"searchmatch\">Ше́рлоке</span> Хо́лмсе» — 13-серийный <span class=\"searchmatch\">телесериал</span> по произведениям Артура Конан Дойля. <span class=\"searchmatch\">Телесериал</span> рассказывает о личной жизни известного британского",
+            "title": "Воспоминания о Шерлоке Холмсе",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 6205185,
+            "py/object": "parser_result.Component",
+            "snippet": "Паркера. <span class=\"searchmatch\">Шерлок</span> Холмс — фильм 2009 года режиссёра Гая Ричи. <span class=\"searchmatch\">Шерлок</span> Холмс — фильм 2010 года режиссёра Рэйчел Голденберг. <span class=\"searchmatch\">Шерлок</span> Холмс — <span class=\"searchmatch\">телесериал</span> 2013 года",
+            "title": "Шерлок Холмс (значения)",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 4846162,
+            "py/object": "parser_result.Component",
+            "snippet": "британский <span class=\"searchmatch\">телесериал</span> по мотивам произведений Артура Конан Дойля (с 2010). <span class=\"searchmatch\">Шерлок</span>, Эмбер — австралийская журналистка и телеведущая. <span class=\"searchmatch\">Шерлок</span>-младший — немая",
+            "title": "Шерлок",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 2491472,
+            "py/object": "parser_result.Component",
+            "snippet": "«Приключения <span class=\"searchmatch\">Шерлока</span> Холмса» (англ. The Adventures of Sherlock Holmes; Великобритания, 1984—1994) — британский детективный <span class=\"searchmatch\">телесериал</span> производства Granada",
+            "title": "Приключения Шерлока Холмса (телесериал)",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 3672692,
+            "py/object": "parser_result.Component",
+            "snippet": "Список эпизодов британского <span class=\"searchmatch\">телесериала</span> «<span class=\"searchmatch\">Шерлок</span>». Сюжет основан на произведениях Артура Конан Дойла о <span class=\"searchmatch\">Шерлоке</span> Холмсе, но действия перенесены в наши дни",
+            "title": "Список эпизодов телесериала «Шерлок»",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 914835,
+            "py/object": "parser_result.Component",
+            "snippet": "«<span class=\"searchmatch\">Шерлок</span> Холмс» (2009) и «<span class=\"searchmatch\">Шерлок</span> Холмс: Игра теней» (2011) Руперт Грейвс, «<span class=\"searchmatch\">Шерлок</span>» (<span class=\"searchmatch\">телесериал</span>, 2010 — н. в.) Шон Пертви, «Элементарно» (<span class=\"searchmatch\">телесериал</span>, 2012",
+            "title": "Персонажи рассказов о Шерлоке Холмсе",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 16976,
+            "py/object": "parser_result.Component",
+            "snippet": "«Приключения <span class=\"searchmatch\">Шерлока</span> Холмса». «Воспоминания <span class=\"searchmatch\">Шерлока</span> Холмса» («Записки о <span class=\"searchmatch\">Шерлоке</span> Холмсе»). «Возвращение <span class=\"searchmatch\">Шерлока</span> Холмса» «Его прощальный поклон» «Архив <span class=\"searchmatch\">Шерлока</span> Холмса»",
+            "title": "Шерлок Холмс",
+            "type": "WIKI"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

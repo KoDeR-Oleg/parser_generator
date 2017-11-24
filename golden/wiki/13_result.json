@@ -1,0 +1,85 @@
+{
+    "components": [
+        {
+            "alignment": "JSON",
+            "page_url": 71,
+            "py/object": "parser_result.Component",
+            "snippet": "границы <span class=\"searchmatch\">Москвы</span> ↑ Юрий Кочетков. Новая <span class=\"searchmatch\">Москва</span> не сразу строилась.  Инвесткафе (5 августа 2011). Архивировано 14 января 2013 года. ↑ Новая <span class=\"searchmatch\">Москва</span>: землю",
+            "title": "Москва",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 4292,
+            "py/object": "parser_result.Component",
+            "snippet": "<span class=\"searchmatch\">Москва́</span> (обычно <span class=\"searchmatch\">Москва́</span>-река́, в московском произношении с XIX века — «Москва́река», первая часть в разговорной речи часто не склоняется: на <span class=\"searchmatch\">Москва́</span>-реке) —",
+            "title": "Москва (река)",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 129735,
+            "py/object": "parser_result.Component",
+            "snippet": "Московский международный деловой центр «<span class=\"searchmatch\">Москва</span>-Сити» (ММДЦ «<span class=\"searchmatch\">Москва</span>-Сити») — строящийся деловой район в <span class=\"searchmatch\">Москве</span> на Пресненской набережной. В настоящее время",
+            "title": "Москва-Сити",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 591747,
+            "py/object": "parser_result.Component",
+            "snippet": "Гостиница «<span class=\"searchmatch\">Москва</span>»                       Гостиница «<span class=\"searchmatch\">Москва</span>», занимающая целый квартал, стала одной из первых гостиниц, построенных в советской <span class=\"searchmatch\">Москве</span>. Массивное",
+            "title": "Москва (гостиница, Москва)",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 32759,
+            "py/object": "parser_result.Component",
+            "snippet": "В Викисловаре есть статья «<span class=\"searchmatch\">Москва</span>»  <span class=\"searchmatch\">Москва́</span> — многозначный термин: <span class=\"searchmatch\">Москва</span> — столица Российской Федерации, город федерального значения, административный",
+            "title": "Москва (значения)",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 1661301,
+            "py/object": "parser_result.Component",
+            "snippet": "Кана́л и́мени <span class=\"searchmatch\">Москвы́</span> (сокращённо КиМ, до 1947 года — канал <span class=\"searchmatch\">Москва</span> — Волга) — соединяет реку <span class=\"searchmatch\">Москву</span> с Волгой.   Расположен в Московской и Тверской областях",
+            "title": "Канал имени Москвы",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 51215,
+            "py/object": "parser_result.Component",
+            "snippet": "«<span class=\"searchmatch\">Москва́</span>» — российский футбольный клуб из <span class=\"searchmatch\">Москвы</span>, существовавший с 1997 по 2010 годы и выступавший в высшем дивизионе чемпионата России по футболу и его",
+            "title": "Москва (футбольный клуб)",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 341503,
+            "py/object": "parser_result.Component",
+            "snippet": "была сооружена в 1929 году для нужд ВНИИЖТ. Также <span class=\"searchmatch\">Москва</span> III — парк железнодорожной станции <span class=\"searchmatch\">Москва</span>-Пассажирская-Ярославская, расположенный восточнее остановочного",
+            "title": "Москва-3",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 460723,
+            "py/object": "parser_result.Component",
+            "snippet": "<span class=\"searchmatch\">Москва</span>-Каланчёвская (реже используется название <span class=\"searchmatch\">Москва</span>-Техническая-Курская) — железнодорожная станция Алексеевской соединительной линии Московской железной",
+            "title": "Москва-Каланчёвская",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 199797,
+            "py/object": "parser_result.Component",
+            "snippet": "«<span class=\"searchmatch\">Москва</span>-Петушки» установлен в сквере на площади Борьбы в <span class=\"searchmatch\">Москве</span> в 2007 году.   Горьковское направление Московской железной дороги    Поэма «<span class=\"searchmatch\">Москва</span> —",
+            "title": "Москва — Петушки",
+            "type": "WIKI"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

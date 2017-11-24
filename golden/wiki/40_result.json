@@ -1,0 +1,85 @@
+{
+    "components": [
+        {
+            "alignment": "JSON",
+            "page_url": 20562,
+            "py/object": "parser_result.Component",
+            "snippet": "сказал ему: «В поте лица твоего ты будешь есть свой хлеб» (Быт. 3:19)   <span class=\"searchmatch\">Труд</span> — целесообразная, сознательная деятельность человека, направленная на удовлетворение",
+            "title": "Труд",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 381900,
+            "py/object": "parser_result.Component",
+            "snippet": "«<span class=\"searchmatch\">Труд</span>» — советская и российская газета. Издаётся издательским домом «<span class=\"searchmatch\">Труд</span>».   Выходит с 19 февраля 1921 года в Москве. В газете печатались известные писатели",
+            "title": "Труд (газета)",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 2632531,
+            "py/object": "parser_result.Component",
+            "snippet": "Медаль «За <span class=\"searchmatch\">труд</span> и доблесть» (укр. Медаль «За працю і звитягу») — знак отличия президента Украины — государственная награда Украины для награждения граждан",
+            "title": "Медаль «За труд и доблесть»",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 178278,
+            "py/object": "parser_result.Component",
+            "snippet": "Викисловаре есть статья «<span class=\"searchmatch\">труд</span>» <span class=\"searchmatch\">Труд</span> — многозначный термин, основное значение которого — целесообразная деятельность людей. Также: <span class=\"searchmatch\">труд</span> — книга, работа по некоторой",
+            "title": "Труд (значения)",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 2360702,
+            "py/object": "parser_result.Component",
+            "snippet": "Свой <span class=\"searchmatch\">Труд</span> — хутор в Кагальницком районе Ростовской области. Входит в состав Иваново-Шамшевского сельского поселения.   ул. Звёздная, ул. Зелёная, ул. Космонавтов",
+            "title": "Свой Труд",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 365128,
+            "py/object": "parser_result.Component",
+            "snippet": "Медаль «За доблестный <span class=\"searchmatch\">труд</span> в Великой Отечественной войне 1941—1945 гг.» учреждена Указом Президиума ВС СССР от 6 июня 1945 года. Авторы рисунка медали —",
+            "title": "Медаль «За доблестный труд в Великой Отечественной войне 1941—1945 гг.»",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 3271050,
+            "py/object": "parser_result.Component",
+            "snippet": "Товарищеский <span class=\"searchmatch\">Труд</span> (укр. Товариський <span class=\"searchmatch\">Труд</span>) — село, Мопровский сельский совет, Солонянский район, Днепропетровская область, Украина. Код КОАТУУ — 1225083807",
+            "title": "Товарищеский Труд",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 353988,
+            "py/object": "parser_result.Component",
+            "snippet": "Медаль «Ветеран <span class=\"searchmatch\">труда</span>» — государственная награда СССР. Учреждена Указом Президиума Верховного Совета СССР от 18 января 1974 года. Автор проекта медали —",
+            "title": "Медаль «Ветеран труда»",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 272229,
+            "py/object": "parser_result.Component",
+            "snippet": "Стадион «<span class=\"searchmatch\">Труд</span>» — многофункциональный стадион в городе Иркутске, Россия. Территориально располагается в Правобережном округе. Построен в 1957 году, вмещает",
+            "title": "Труд (стадион, Иркутск)",
+            "type": "WIKI"
+        },
+        {
+            "alignment": "JSON",
+            "page_url": 1204870,
+            "py/object": "parser_result.Component",
+            "snippet": "<span class=\"searchmatch\">Труд</span> (болг. <span class=\"searchmatch\">Труд</span>) — село в Болгарии. Находится в Пловдивской области, входит в общину Марица. Население составляет 3 673 человека.  В местном кметстве",
+            "title": "Труд (село, Болгария)",
+            "type": "WIKI"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}
