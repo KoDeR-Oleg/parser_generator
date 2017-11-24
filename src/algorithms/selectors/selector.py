@@ -7,7 +7,7 @@ class Selector:
     __metaclass__ = ABCMeta
 
     @abstractmethod
-    def __init__(self, algorithm: Algorithm, markup_list: List[Markup]):
+    def learn(self, algorithm: Algorithm, markup_list: List[Markup]):
         "Инициализация фильтра коллизий"
 
     @abstractmethod
