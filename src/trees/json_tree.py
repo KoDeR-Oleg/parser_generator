@@ -30,6 +30,8 @@ class JSONTree(Tree):
 
     def get_elements(self, json_path):
         lst = jsonpath.jsonpath(self.tree, json_path.path)
+        if not lst:
+            return [self]
         obj_lst = list()
         for i in range(len(lst)):
             obj_lst.append(JSONTree(lst[i]))
