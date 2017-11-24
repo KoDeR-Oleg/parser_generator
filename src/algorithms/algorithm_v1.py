@@ -187,7 +187,7 @@ class Algorithm_v1(Algorithm):
         block_list = tree.get_elements(self.block_treepath)
         for block in block_list:
             for i in range(len(self.types)):
-                if len(block.get_elements(self.treepaths[i])) > 0 and self.is_not_black(block, i):
+                if self.is_not_black(block, i):
                     result = self.parse_component(block, i)
                     if result is not None:
                         parser_result.add(result)
