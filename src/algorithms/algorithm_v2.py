@@ -15,7 +15,6 @@ class Node:
 class Algorithm_v2(Algorithm):
     def __init__(self, directory):
         self.root = None
-        self.samples = list()
         self.types = list()
         self.blacks = list()
         self.directory = directory
