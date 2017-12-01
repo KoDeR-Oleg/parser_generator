@@ -1,6 +1,7 @@
 from algorithms.algorithm import Algorithm
 from parser_result import ParserResult, Component
 from trees.tree_path import TreePath
+from markup_types.markup_type_registry import MarkupTypeRegistry
 import copy
 import logging
 
@@ -18,8 +19,6 @@ class Algorithm_v2(Algorithm):
         self.types = list()
         self.directory = directory
         self.markup_type = None
-        self.tree_type = None
-        self.treepath_type = None
         self.selector = selector
         logging.basicConfig(format='%(filename)s[LINE:%(lineno)d]# %(levelname)-8s [%(funcName)s]  %(message)s',
                             level=logging.DEBUG, filename='algorithm_v1.log')
@@ -88,9 +87,7 @@ class Algorithm_v2(Algorithm):
 
     def learn(self, markup_list):
         logging.info("Start learn")
-        self.markup_type = type(markup_list[0])
-        self.treepath_type = self.markup_type.get_TreePath_class()
-        self.tree_type = self.treepath_type.get_Tree_class()
+        self.markup_type = markup_list[0].type
         self.root = Node()
         self.types = list()
 
@@ -178,7 +175,7 @@ class Algorithm_v2(Algorithm):
 
     def parse(self, raw_page):
         logging.info("Start parse")
-        tree = self.tree_type.get_tree(raw_page)
+        tree = MarkupTypeRegistry().get_tree(self.markup_type, raw_page)
         parser_result = ParserResult()
 
         self.dfs(self.root, tree, parser_result)

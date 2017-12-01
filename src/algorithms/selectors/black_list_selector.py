@@ -1,4 +1,5 @@
 from algorithms.selectors.selector import Selector
+from markup_types.markup_type_registry import MarkupTypeRegistry
 
 
 class BlackListSelector(Selector):
@@ -16,7 +17,7 @@ class BlackListSelector(Selector):
             with open(algorithm.directory + markup.file, "r") as file:
                 string = file.read()
             actual = algorithm.parse(string)
-            tree = algorithm.tree_type.get_tree(string)
+            tree = MarkupTypeRegistry().get_tree(algorithm.markup_type, string)
             expected = algorithm.get_substitution(tree, markup)
             if actual.count() == expected.count():
                 if actual == expected:
@@ -55,7 +56,7 @@ class BlackListSelector(Selector):
         for markup in markup_list:
             with open(algorithm.directory + markup.file, "r") as file:
                 string = file.read()
-            tree = algorithm.tree_type.get_tree(string)
+            tree = MarkupTypeRegistry().get_tree(algorithm.markup_type, string)
 
             for component in markup.components:
                 if isinstance(component, algorithm.types[index_of_element_type]):

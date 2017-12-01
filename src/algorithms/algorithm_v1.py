@@ -1,6 +1,7 @@
 from algorithms.algorithm import Algorithm
 from parser_result import ParserResult, Component
 from trees.tree_path import TreePath
+from markup_types.markup_type_registry import MarkupTypeRegistry
 import logging
 
 
@@ -87,7 +88,7 @@ class Algorithm_v1(Algorithm):
         for markup in markup_list:
             with open(self.directory + markup.file, "r") as file:
                 string = file.read()
-            tree = markup.get_TreePath_class().get_Tree_class().get_tree(string)
+            tree = MarkupTypeRegistry().get_tree(self.markup_type, string)
 
             for component in markup.components:
                 if isinstance(component, self.types[index_of_element_type]):
@@ -114,7 +115,7 @@ class Algorithm_v1(Algorithm):
             with open(self.directory + markup.file, "r") as file:
                 string = file.read()
             actual = self.parse(string)
-            tree = markup.get_TreePath_class().get_Tree_class().get_tree(string)
+            tree = MarkupTypeRegistry().get_tree(self.markup_type, string)
             expected = self.get_substitution(tree, markup)
             logging.debug("Actual count = " + str(actual.count()) + ", Expected count = " + str(expected.count()))
             if actual.count() == expected.count():
@@ -132,7 +133,7 @@ class Algorithm_v1(Algorithm):
 
     def learn(self, markup_list):
         logging.info("Start learn")
-        self.markup_type = type(markup_list[0])
+        self.markup_type = markup_list[0].type
         self.samples = list()
         self.treepaths = list()
         self.types = list()
@@ -181,7 +182,7 @@ class Algorithm_v1(Algorithm):
 
     def parse(self, raw_page):
         logging.info("Start parse")
-        tree = self.markup_type.get_TreePath_class().get_Tree_class().get_tree(raw_page)
+        tree = MarkupTypeRegistry().get_tree(self.markup_type, raw_page)
         parser_result = ParserResult()
 
         block_list = tree.get_elements(self.block_treepath)
