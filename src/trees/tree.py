@@ -16,7 +16,3 @@ class Tree:
     @abstractmethod
     def get_iter(self):
         "Получение итератора по потомкам"
-
-    @abstractstaticmethod
-    def get_tree(raw_page: str):
-        "Получение дерева путей"

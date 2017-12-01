@@ -9,14 +9,17 @@ class TagIterator(Iterator):
 
     def __next__(self):
         try:
-            return HTMLTree(self.iter.__next__())
+            return HTMLTree(html_tree=self.iter.__next__())
         except StopIteration:
             raise StopIteration
 
 
 class HTMLTree(Tree):
-    def __init__(self, html_tree):
-        self.tree = html_tree
+    def __init__(self, **kwargs):
+        if 'raw_page' in kwargs:
+            self.tree = html.fromstring(kwargs['raw_page'])
+        if 'html_tree' in kwargs:
+            self.tree = kwargs['html_tree']
         self.tag = self.tree.tag
         self.classes = self.tree.classes
 
@@ -40,7 +43,7 @@ class HTMLTree(Tree):
         lst = self.tree.xpath(html_path.xpath)
         obj_lst = list()
         for i in range(len(lst)):
-            obj_lst.append(HTMLTree(lst[i]))
+            obj_lst.append(HTMLTree(html_tree=lst[i]))
         return obj_lst
 
     def get_iter(self):
@@ -48,7 +51,3 @@ class HTMLTree(Tree):
 
     def cssselect(self, attribute):
         return self.tree.cssselect(attribute)
-
-    @staticmethod
-    def get_tree(raw_page):
-        return HTMLTree(html.fromstring(raw_page))

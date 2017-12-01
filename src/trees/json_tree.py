@@ -10,14 +10,17 @@ class ChildIterator(Iterator):
 
     def __next__(self):
         try:
-            return JSONTree(self.iter.__next__())
+            return JSONTree(json_tree=self.iter.__next__())
         except StopIteration:
             raise StopIteration
 
 
 class JSONTree(Tree):
-    def __init__(self, json_tree):
-        self.tree = json_tree
+    def __init__(self, **kwargs):
+        if 'raw_page' in kwargs:
+            self.tree = json.loads(kwargs['raw_page'])
+        if 'json_tree' in kwargs:
+            self.tree = kwargs['json_tree']
         self.tag = self.tree.__class__
         self.classes = list()
 
@@ -34,7 +37,7 @@ class JSONTree(Tree):
             return [self]
         obj_lst = list()
         for i in range(len(lst)):
-            obj_lst.append(JSONTree(lst[i]))
+            obj_lst.append(JSONTree(json_tree=lst[i]))
         return obj_lst
 
     def get_iter(self):
@@ -42,7 +45,3 @@ class JSONTree(Tree):
 
     def cssselect(self, attribute):
         return list()
-
-    @staticmethod
-    def get_tree(raw_page):
-        return JSONTree(json.loads(raw_page))
