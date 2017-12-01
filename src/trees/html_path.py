@@ -78,7 +78,3 @@ class HTMLPath(TreePath):
         else:
             result.xpath += tree_path.xpath
         return result
-
-    @staticmethod
-    def get_Tree_class():
-        return HTMLTree

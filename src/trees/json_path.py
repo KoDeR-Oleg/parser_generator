@@ -69,7 +69,3 @@ class JSONPath(TreePath):
         else:
             result.path += tree_path.path
         return result
-
-    @staticmethod
-    def get_Tree_class():
-        return JSONTree

@@ -23,7 +23,3 @@ class TreePath:
     @abstractmethod
     def concat(self, tree_path):
         "Конкатенация путей"
-
-    @abstractstaticmethod
-    def get_Tree_class():
-        "Получение класса дерева"
