@@ -1,13 +1,14 @@
 import jsonpickle
 from parser_result import Component
-from trees.html_path import HTMLPath
+from markups.markup import Markup
 
 
-class ImageMarkupComponent(Component):
+class CinemaComponent(Component):
     def __init__(self):
         Component.__init__(self)
-        self.view_url = None
-        self.type = "IMAGE"
+        self.snippet = None
+        self.year = None
+        self.type = "Cinema"
         self.alignment = "LEFT"
 
     def __str__(self):
@@ -18,7 +19,7 @@ class ImageMarkupComponent(Component):
         return self.__dict__ == other.__dict__
 
 
-class ImageMarkup:
+class CinemaMarkup(Markup):
     def __init__(self):
         self.file = None
         self.components = list()
