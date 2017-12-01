@@ -26,6 +26,7 @@ class WikiMarkup(Markup):
     def __init__(self):
         self.file = None
         self.components = list()
+        self.type = None
 
     def __str__(self):
         jsonpickle.set_encoder_options('simplejson', sort_keys=True, indent=4)
@@ -33,7 +34,3 @@ class WikiMarkup(Markup):
 
     def add(self, component):
         self.components.append(component)
-
-    @staticmethod
-    def get_TreePath_class():
-        return JSONPath
