@@ -172,5 +172,6 @@
         }
     ],
     "file": "2.json",
-    "py/object": "markups.wiki_markup.WikiMarkup"
+    "py/object": "markups.wiki_markup.WikiMarkup",
+    "type": "JSONTree"
 }
