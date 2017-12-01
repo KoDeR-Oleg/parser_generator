@@ -2,7 +2,6 @@ import jsonpickle
 
 from markups.markup import Markup
 from parser_result import Component
-from trees.html_path import HTMLPath
 
 
 class SearchMarkupComponent(Component):

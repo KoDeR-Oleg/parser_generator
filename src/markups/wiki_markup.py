@@ -2,7 +2,6 @@ import jsonpickle
 
 from markups.markup import Markup
 from parser_result import Component
-from trees.json_path import JSONPath
 
 
 class WikiMarkupComponent(Component):
