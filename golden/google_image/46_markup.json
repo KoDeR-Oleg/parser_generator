@@ -402,5 +402,6 @@
         }
     ],
     "file": "46.html",
-    "py/object": "markups.image_markup.ImageMarkup"
+    "py/object": "markups.image_markup.ImageMarkup",
+    "type": "HTMLTree"
 }
