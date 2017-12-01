@@ -59,6 +59,7 @@ class GoogleImageParser(Parser):
             tree = html.document_fromstring(file.read())
         markup = ImageMarkup()
         markup.file = file_name.split('/')[-1]
+        markup.type = "HTMLTree"
         block_list = tree.xpath("//html/body/table/tbody/tr/td/div/div/div/div/table/tr/td")
         for block in block_list:
             image_list = block.xpath(".")

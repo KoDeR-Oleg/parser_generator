@@ -31,6 +31,7 @@ class WikiParser(Parser):
             obj = json.load(file)
         markup = WikiMarkup()
         markup.file = file_name.split('/')[-1]
+        markup.type = "JSONTree"
         block_list = jsonpath.jsonpath(obj, self.block_path)[0]
         for ind in range(len(block_list)):
             result = self.extract_component(ind)

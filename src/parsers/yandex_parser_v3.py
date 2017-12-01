@@ -123,6 +123,7 @@ class YandexParser_v3(Parser):
             tree = html.document_fromstring(file.read())
         markup = SearchMarkup()
         markup.file = file_name.split('/')[-1]
+        markup.type = "HTMLTree"
         block_list = tree.xpath("//html/body/div[3]/div/div[2]/div/div/ul/li/div")
         for block in block_list:
             if (len(block.xpath("./div[2]/div[2]")) > 0 and block.xpath("./div[2]/div[2]")[0].text == "реклама") or \

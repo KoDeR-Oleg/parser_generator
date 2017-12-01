@@ -123,6 +123,7 @@ class GoogleParser_v3(Parser):
             tree = html.document_fromstring(file.read())
         markup = SearchMarkup()
         markup.file = file_name.split('/')[-1]
+        markup.type = "HTMLTree"
         block_list = tree.xpath("//html/body/table/tbody/tr/td/div/div")
         for block in block_list:
             adv_list = block.xpath(".")
