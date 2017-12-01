@@ -60,5 +60,6 @@ class QualityControl(object):
         result['google_image'] = self.cv(algorithm, "../golden/google_image/")
         result['yandex'] = self.cv(algorithm, "../golden/yandex/")
         result['wiki'] = self.cv_json(algorithm, "../golden/wiki/")
+        result['kinopoisk'] = self.cv(algorithm, "../golden/kinopoisk/")
         result['total'] = self.aggregator.aggregate(result.values())
         return result
