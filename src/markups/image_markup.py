@@ -1,6 +1,6 @@
 import jsonpickle
 from parser_result import Component
-from trees.html_path import HTMLPath
+from markups.markup import Markup
 
 
 class ImageMarkupComponent(Component):
@@ -18,7 +18,7 @@ class ImageMarkupComponent(Component):
         return self.__dict__ == other.__dict__
 
 
-class ImageMarkup:
+class ImageMarkup(Markup):
     def __init__(self):
         self.file = None
         self.components = list()
