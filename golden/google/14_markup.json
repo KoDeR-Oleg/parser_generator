@@ -177,5 +177,6 @@
         }
     ],
     "file": "14.html",
-    "py/object": "markups.search_markup.SearchMarkup"
+    "py/object": "markups.search_markup.SearchMarkup",
+    "type": "HTMLTree"
 }
