@@ -1,0 +1,104 @@
+{
+    "components": [
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/ivan-vasilevich-menyaet-professiyu-1973-42664/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "СССР, реж. Леонид Гайдай\n     \t(фантастика, комедия, приключения)\n     ",
+            "title": "Иван Васильевич меняет профессию",
+            "type": "Cinema",
+            "year": "1973"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/car-ivan-vasilevich-groznyy-1915-40765/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Российская империя, реж. Александр Иванов-Гай\n     \t(драма, история)\n     ",
+            "title": "Царь Иван Васильевич Грозный",
+            "type": "Cinema",
+            "year": "1915"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/ivan-carevich-i-seryy-volk-3-2015-705346/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Россия, реж. Дарина Шмидт\n     \t(мультфильм, приключения, семейный)\n     ",
+            "title": "Иван Царевич и Серый Волк 3",
+            "type": "Cinema",
+            "year": "2015"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/ivan-carevich-i-seryy-volk-2011-406175/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Россия, реж. Владимир Торопчин\n     \t(мультфильм, фэнтези, комедия...)\n     ",
+            "title": "Иван Царевич и Серый Волк",
+            "type": "Cinema",
+            "year": "2011"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/ivan-carevich-i-seryy-volk-2-2013-707217/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Россия, реж. Владимир Торопчин\n     \t(мультфильм, приключения, семейный...)\n     ",
+            "title": "Иван Царевич и Серый Волк 2",
+            "type": "Cinema",
+            "year": "2013"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/moy-drug-ivan-lapshin-1984-46671/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "СССР, реж. Алексей Герман\n     \t(драма)\n     ",
+            "title": "Мой друг Иван Лапшин",
+            "type": "Cinema",
+            "year": "1984"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/238527/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер, сценарист, режиссер, продюсер, актер: дубляж\n     \t\n     \t51 год\n     ",
+            "title": "Иван Охлобыстин",
+            "type": "Cinema",
+            "year": "1966"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/1908986/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t32 года\n     ",
+            "title": "Иван Реон",
+            "type": "Cinema",
+            "year": "1985"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/1122331/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t34 года\n     ",
+            "title": "Иван Жидков",
+            "type": "Cinema",
+            "year": "1983"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/681410/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер, актер: дубляж, сценарист, продюсер\n     \t\n     \t39 лет\n     ",
+            "title": "Иван Ургант",
+            "type": "Cinema",
+            "year": "1978"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/564278/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер, режиссер, сценарист, продюсер\n     \t\n     \t36 лет\n     ",
+            "title": "Иван Стебунов",
+            "type": "Cinema",
+            "year": "1981"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

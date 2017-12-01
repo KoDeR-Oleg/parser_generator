@@ -1,0 +1,95 @@
+{
+    "components": [
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/vlastelin-kolec-vozvrashhenie-korolya-2003-3498/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США... реж. Питер Джексон\n     \t(фэнтези, драма, приключения)\n     ",
+            "title": "Властелин колец: Возвращение Короля",
+            "type": "Cinema",
+            "year": "2003"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/vlastelin-kolec-bratstvo-kolca-2001-328/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США... реж. Питер Джексон\n     \t(фэнтези, драма, приключения)\n     ",
+            "title": "Властелин колец: Братство кольца",
+            "type": "Cinema",
+            "year": "2001"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/vlastelin-kolec-dve-kreposti-2002-312/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США... реж. Питер Джексон\n     \t(фэнтези, драма, приключения)\n     ",
+            "title": "Властелин колец: Две крепости",
+            "type": "Cinema",
+            "year": "2002"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/ngo-za-kadrom-vlastelin-kolec-vozvrashhenie-korolya-2003-581525/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США\n     \t(документальный)\n     ",
+            "title": "НГО: За кадром – Властелин колец: Возвращение Короля (ТВ)",
+            "type": "Cinema",
+            "year": "2003"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/vlastelin-kolec-1978-5919/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Ральф Бакши\n     \t(мультфильм, фэнтези, приключения)\n     ",
+            "title": "Властелин колец",
+            "type": "Cinema",
+            "year": "1978"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/vozvrashhenie-korolya-1980-229253/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США... реж. Джулз Басс...\n     \t(мультфильм, мюзикл, фэнтези...)\n     ",
+            "title": "Возвращение короля (ТВ)",
+            "type": "Cinema",
+            "year": "1980"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/3442564/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактриса\n     \t\n     \t31 год\n     ",
+            "title": "Волга Король",
+            "type": "Cinema",
+            "year": "1986"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/3442560/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактриса\n     \t\n     \t31 год\n     ",
+            "title": "Катя Король",
+            "type": "Cinema",
+            "year": "1986"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/1629235/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tрежиссер, актер, сценарист, продюсер\n     \t\n     \t52 года\n     ",
+            "title": "Юрий Стааль",
+            "type": "Cinema",
+            "year": "1964"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/1862303/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t28 лет\n     ",
+            "title": "Артём Королёв",
+            "type": "Cinema",
+            "year": "1989"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

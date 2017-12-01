@@ -1,0 +1,104 @@
+{
+    "components": [
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/leon-1994-389/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Франция, реж. Люк Бессон\n     \t(триллер, драма, криминал)\n     ",
+            "title": "Леон",
+            "type": "Cinema",
+            "year": "1994"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/leon-2007-398852/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Аргентина... реж. Сантьяго Отегуй\n     \t(драма)\n     ",
+            "title": "Леон",
+            "type": "Cinema",
+            "year": "2007"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/leon-2013-703403/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Испания, реж. Викториано Рубио\n     \t(драма, спорт)\n     ",
+            "title": "Леон",
+            "type": "Cinema",
+            "year": "2013"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/leon-2009-741323/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Франция... реж. Patrick Giusiano...\n     \t(мультфильм, короткометражка, семейный)\n     ",
+            "title": "Леон (сериал)",
+            "type": "Cinema",
+            "year": "2009"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/leon-2018-1044328/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Япония, реж. Рэнпей Цукамото\n     \t(драма)\n     ",
+            "title": "Леон",
+            "type": "Cinema",
+            "year": "2018"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/leon-moren-svyashchennik-1961-142793/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Франция... реж. Жан-Пьер Мельвиль\n     \t(драма, мелодрама)\n     ",
+            "title": "Леон Морен, священник",
+            "type": "Cinema",
+            "year": "1961"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/643/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер, продюсер\n     \t\n     \t55 лет\n     ",
+            "title": "Леон",
+            "type": "Cinema",
+            "year": "1962"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/7411/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t68 лет\n     ",
+            "title": "Леон Риппи",
+            "type": "Cinema",
+            "year": "1949"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/1105822/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t24 года\n     ",
+            "title": "Леон Дж. Томас III",
+            "type": "Cinema",
+            "year": "1993"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/241597/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер, сценарист, продюсер, режиссер, композитор\n     \t\n     \t66 лет\n     ",
+            "title": "Леон Шустер",
+            "type": "Cinema",
+            "year": "1951"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/8197/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t75 лет\n     ",
+            "title": "Леон Рассом",
+            "type": "Cinema",
+            "year": "1941"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

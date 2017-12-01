@@ -1,0 +1,77 @@
+{
+    "components": [
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/spisok-shindlera-1993-329/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Стивен Спилберг\n     \t(драма, биография, история)\n     ",
+            "title": "Список Шиндлера",
+            "type": "Cinema",
+            "year": "1993"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/chyornyy-spisok-2013-741231/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Майкл В. Уоткинс...\n     \t(триллер, драма, криминал...)\n     ",
+            "title": "Чёрный список (сериал)",
+            "type": "Cinema",
+            "year": "2013 – ..."
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/spisok-kontaktov-2008-258275/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Марсель Лангенеггер\n     \t(триллер, драма, криминал...)\n     ",
+            "title": "Список контактов",
+            "type": "Cinema",
+            "year": "2008"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/spisok-klientov-2012-611388/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Аллан Аркуш...\n     \t(драма)\n     ",
+            "title": "Список клиентов (сериал)",
+            "type": "Cinema",
+            "year": "2012 – 2013"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/spisok-klientov-2010-504091/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Эрик Ланёвилль\n     \t(драма)\n     ",
+            "title": "Список клиентов (ТВ)",
+            "type": "Cinema",
+            "year": "2010"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/1466133/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \t\n     \t\n     \t66 лет\n     ",
+            "title": "Оскар Шиндлер",
+            "type": "Cinema",
+            "year": "1908 – 1974"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/277112/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \t\n     \t\n     \t93 года\n     ",
+            "title": "Эмили Шиндлер",
+            "type": "Cinema",
+            "year": "1907 – 2001"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/527615/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактриса\n     \t\n     \t77 лет\n     ",
+            "title": "Ротрауд Шиндлер",
+            "type": "Cinema",
+            "year": "1940"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

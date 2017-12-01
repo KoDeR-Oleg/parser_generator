@@ -1,0 +1,104 @@
+{
+    "components": [
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/ostrov-proklyatykh-2009-397667/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Мартин Скорсезе\n     \t(триллер, детектив)\n     ",
+            "title": "Остров проклятых",
+            "type": "Cinema",
+            "year": "2009"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/ostrov-2005-81291/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Майкл Бэй\n     \t(фантастика, боевик, триллер...)\n     ",
+            "title": "Остров",
+            "type": "Cinema",
+            "year": "2005"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/kong-ostrov-cherepa-2017-843147/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Китай... реж. Джордан Вот-Робертс\n     \t(фантастика, фэнтези, боевик...)\n     ",
+            "title": "Конг: Остров черепа",
+            "type": "Cinema",
+            "year": "2017"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/ostrov-2016-941521/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Россия, реж. Михаил Старчак...\n     \t(комедия)\n     ",
+            "title": "Остров (сериал)",
+            "type": "Cinema",
+            "year": "2016 – ..."
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/obitel-proklyatykh-2014-572035/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Брэд Андерсон\n     \t(триллер)\n     ",
+            "title": "Обитель проклятых",
+            "type": "Cinema",
+            "year": "2014"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/puteshestvie-2-tainstvennyy-ostrov-2012-453367/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Брэд Пейтон\n     \t(фантастика, фэнтези, боевик...)\n     ",
+            "title": "Путешествие 2: Таинственный остров",
+            "type": "Cinema",
+            "year": "2012"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/1854724/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактриса, сценарист\n     \t\n     \t27 лет\n     ",
+            "title": "Анна Острём",
+            "type": "Cinema",
+            "year": "1990"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/53800/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактриса, продюсер\n     \t\n     \t40 лет\n     ",
+            "title": "Мередит Остром",
+            "type": "Cinema",
+            "year": "1977"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/1091355/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер, продюсер\n     \t\n     \t58 лет\n     ",
+            "title": "Энди Острой",
+            "type": "Cinema",
+            "year": "1959"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/level/9/cinema/263857/",
+            "py/object": "parser_result.Component",
+            "snippet": "+7 (8512) 31-70-05 ",
+            "title": "«Киноцентр \"Остров сокровищ\"»",
+            "type": "Cinema",
+            "year": "Астрахань"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/level/9/cinema/264743/",
+            "py/object": "parser_result.Component",
+            "snippet": "+7 (8512) 31-70-05 ",
+            "title": "«Киноцентр \"Остров сокровищ\" (Магистральная)»",
+            "type": "Cinema",
+            "year": "Астрахань"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

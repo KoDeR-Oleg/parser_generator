@@ -1,0 +1,86 @@
+{
+    "components": [
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/valli-2008-279102/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Эндрю Стэнтон\n     \t(мультфильм, фантастика, приключения...)\n     ",
+            "title": "ВАЛЛ·И",
+            "type": "Cinema",
+            "year": "2008"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/krosbi-kolumbo-i-valli-1932-316839/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Рудольф Исинг\n     \t(мультфильм, короткометражка, мюзикл...)\n     ",
+            "title": "Кросби, Колумбо и Валли",
+            "type": "Cinema",
+            "year": "1932"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/s-dnem-rozhdeniya-valli-2006-300089/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Великобритания, реж. Майк Принц\n     \t(документальный)\n     ",
+            "title": "С Днем Рождения, Валли! (ТВ)",
+            "type": "Cinema",
+            "year": "2006"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/bar-valli-2008-686260/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Эстония, реж. Манфред Вайнокиви\n     \t(документальный)\n     ",
+            "title": "Бар Валли",
+            "type": "Cinema",
+            "year": "2008"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/vospominaniya-letisii-de-vale-1980-151528/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Испания, реж. Мигель Анхель Ривас\n     \t(драма)\n     ",
+            "title": "Воспоминания Летисии де Валье",
+            "type": "Cinema",
+            "year": "1980"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/korshun-valli-1921-190434/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Германия, реж. Эвальд Андре Дюпон\n     \t\n     ",
+            "title": "Коршун Валли",
+            "type": "Cinema",
+            "year": "1921"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/1951074/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t39 лет\n     ",
+            "title": "Валентин Валл",
+            "type": "Cinema",
+            "year": "1978"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/58767/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tрежиссер, продюсер, монтажер, сценарист, актер\n     \t\n     \t54 года\n     ",
+            "title": "Жан-Марк Валле",
+            "type": "Cinema",
+            "year": "1963"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/1321842/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер, сценарист\n     \t\n     \t30 лет\n     ",
+            "title": "Валло Кирс",
+            "type": "Cinema",
+            "year": "1987"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

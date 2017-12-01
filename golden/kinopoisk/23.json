@@ -1,0 +1,95 @@
+{
+    "components": [
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/poymay-menya-esli-smozhesh-2002-324/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США... реж. Стивен Спилберг\n     \t(драма, криминал, биография)\n     ",
+            "title": "Поймай меня, если сможешь",
+            "type": "Cinema",
+            "year": "2002"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/poymay-menya-esli-smozhesh-1989-2788/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Стивен Соммерс\n     \t(боевик, драма, комедия)\n     ",
+            "title": "Поймай меня, если сможешь",
+            "type": "Cinema",
+            "year": "1989"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/poymay-menya-esli-smozhesh-1982-64034/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Италия, реж. Карло Ванцина\n     \t(комедия)\n     ",
+            "title": "Поймай меня, если сможешь",
+            "type": "Cinema",
+            "year": "1982"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/poymay-tolstukhu-esli-smozhesh-2013-606698/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Сет Гордон\n     \t(комедия, криминал)\n     ",
+            "title": "Поймай толстуху, если сможешь",
+            "type": "Cinema",
+            "year": "2013"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/dostan-menya-esli-smozhesh-2014-716461/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Джон Херцфелд\n     \t(драма, триллер, комедия)\n     ",
+            "title": "Достань меня, если сможешь",
+            "type": "Cinema",
+            "year": "2014"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/naydi-menya-esli-smozhesh-2016-733412/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Канада... реж. Зак Уэдон\n     \t(триллер)\n     ",
+            "title": "Найди меня, если сможешь",
+            "type": "Cinema",
+            "year": "2016"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/298/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактриса, продюсер\n     \t\n     \t38 лет\n     ",
+            "title": "Мена Сувари",
+            "type": "Cinema",
+            "year": "1979"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/2811410/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t25 лет\n     ",
+            "title": "Эль",
+            "type": "Cinema",
+            "year": "1992"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/493531/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t45 лет\n     ",
+            "title": "Ким Мён-мин",
+            "type": "Cinema",
+            "year": "1972"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/493821/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t37 лет\n     ",
+            "title": "Чхон Джон-мён",
+            "type": "Cinema",
+            "year": "1980"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

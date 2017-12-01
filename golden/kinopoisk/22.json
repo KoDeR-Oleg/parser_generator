@@ -1,0 +1,59 @@
+{
+    "components": [
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/pianist-2002-355/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Польша... реж. Роман Полански\n     \t(драма, военный, биография...)\n     ",
+            "title": "Пианист",
+            "type": "Cinema",
+            "year": "2002"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/pianist-1996-167829/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Корея Южная, реж. Сан-ук Ю\n     \t(ужасы, триллер, детектив)\n     ",
+            "title": "Пианист",
+            "type": "Cinema",
+            "year": "1996"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/pianist-1991-52556/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Канада, реж. Клод Ганьон\n     \t(мелодрама)\n     ",
+            "title": "Пианист",
+            "type": "Cinema",
+            "year": "1991"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/pianist-2010-714243/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Корея Южная, реж. Мун Джун-ха\n     \t(драма, мелодрама, музыка)\n     ",
+            "title": "Пианист (ТВ)",
+            "type": "Cinema",
+            "year": "2010"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/pianist-2013-841600/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Россия, реж. Константин Шатов\n     \t(короткометражка, драма)\n     ",
+            "title": "Пианист",
+            "type": "Cinema",
+            "year": "2013"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/pianist-2012-915318/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Болгария, реж. Ася Кованова...\n     \t(короткометражка)\n     ",
+            "title": "Пианист",
+            "type": "Cinema",
+            "year": "2012"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

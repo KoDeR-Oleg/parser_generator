@@ -1,0 +1,59 @@
+{
+    "components": [
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/amerikanskaya-istoriya-kh-1998-382/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Тони Кэй\n     \t(драма, криминал)\n     ",
+            "title": "Американская история X",
+            "type": "Cinema",
+            "year": "1998"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/amerikanskaya-istoriya-uzhasov-2011-589167/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Брэдли Букер...\n     \t(ужасы, триллер, драма)\n     ",
+            "title": "Американская история ужасов (сериал)",
+            "type": "Cinema",
+            "year": "2011 – ..."
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/amerikanskaya-istoriya-prestupleniy-2016-745939/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Райан Мёрфи...\n     \t(драма, криминал, биография)\n     ",
+            "title": "Американская история преступлений (сериал)",
+            "type": "Cinema",
+            "year": "2016 – ..."
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/amerikanskaya-istoriya-1986-7111/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Дон Блут\n     \t(мультфильм, мюзикл, драма...)\n     ",
+            "title": "Американская история",
+            "type": "Cinema",
+            "year": "1986"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/amerikanskaya-istoriya-2-fivel-edet-na-zapad-1991-6670/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Фил Ниббелинк...\n     \t(мультфильм, мюзикл, приключения...)\n     ",
+            "title": "Американская история 2: Фивел едет на Запад",
+            "type": "Cinema",
+            "year": "1991"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/amerikanskaya-istoriya-3-sokrovishha-ostrova-mankhetten-1998-211926/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Ларри Лэтэм\n     \t(мультфильм, приключения, семейный)\n     ",
+            "title": "Американская история 3: Сокровища острова Манхэттен (видео)",
+            "type": "Cinema",
+            "year": "1998"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

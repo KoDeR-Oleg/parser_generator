@@ -1,0 +1,68 @@
+{
+    "components": [
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/temnyy-rytsar-2008-111543/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США... реж. Кристофер Нолан\n     \t(фантастика, боевик, триллер...)\n     ",
+            "title": "Темный рыцарь",
+            "type": "Cinema",
+            "year": "2008"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/temnyy-rycar-2000-321839/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Великобритания, реж. Кит Клэкстон...\n     \t(фэнтези, приключения)\n     ",
+            "title": "Темный рыцарь (сериал)",
+            "type": "Cinema",
+            "year": "2000 – 2002"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/betmen-rytsar-gotema-2008-401176/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США... реж. Ясухиро Аоки...\n     \t(аниме, мультфильм, фантастика...)\n     ",
+            "title": "Бэтмен: Рыцарь Готэма (видео)",
+            "type": "Cinema",
+            "year": "2008"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/temnyy-rytsar-vozrozhdenie-legendy-2012-437410/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Великобритания... реж. Кристофер Нолан\n     \t(фантастика, боевик, триллер...)\n     ",
+            "title": "Темный рыцарь: Возрождение легенды",
+            "type": "Cinema",
+            "year": "2012"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/betmen-temnyy-rycar-2008-645059/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Великобритания, реж. Клинт Уокер\n     \t(короткометражка, фантастика, боевик...)\n     ",
+            "title": "Бэтмен: Темный рыцарь (видео)",
+            "type": "Cinema",
+            "year": "2008"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/kiba-tyomnyy-rycar-2011-634605/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Япония, реж. Кэйта Амэмия\n     \t(фэнтези)\n     ",
+            "title": "Киба: Тёмный рыцарь (видео)",
+            "type": "Cinema",
+            "year": "2011"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/193820/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tрежиссер, сценарист\n     \t\n     \t65 лет\n     ",
+            "title": "Борис Рыцарев",
+            "type": "Cinema",
+            "year": "1930 – 1995"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

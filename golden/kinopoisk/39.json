@@ -1,0 +1,32 @@
+{
+    "components": [
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/khoristy-2004-51481/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Франция... реж. Кристоф Барратье\n     \t(драма, музыка)\n     ",
+            "title": "Хористы",
+            "type": "Cinema",
+            "year": "2004"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/khoristy-2014-806934/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Нидерланды... реж. Франсуа Жирар\n     \t(драма, музыка)\n     ",
+            "title": "Хористы",
+            "type": "Cinema",
+            "year": "2014"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/luzery-2009-432714/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Брэдли Букер...\n     \t(мюзикл, драма, комедия...)\n     ",
+            "title": "Лузеры (сериал)",
+            "type": "Cinema",
+            "year": "2009 – 2015"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

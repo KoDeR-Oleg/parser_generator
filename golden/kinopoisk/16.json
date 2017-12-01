@@ -1,0 +1,86 @@
+{
+    "components": [
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/operatsiya-y-i-drugie-priklyucheniya-shurika-1965-42782/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "СССР, реж. Леонид Гайдай\n     \t(мелодрама, комедия, криминал)\n     ",
+            "title": "Операция «Ы» и другие приключения Шурика",
+            "type": "Cinema",
+            "year": "1965"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/kavkazskaya-plennitsa-ili-novye-priklyucheniya-shurika-1966-44745/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "СССР, реж. Леонид Гайдай\n     \t(мелодрама, комедия, приключения...)\n     ",
+            "title": "Кавказская пленница, или Новые приключения Шурика",
+            "type": "Cinema",
+            "year": "1966"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/prodavec-i-drugie-priklyucheniya-1995-196022/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Ханна Вейер\n     \t(короткометражка)\n     ",
+            "title": "Продавец и другие приключения",
+            "type": "Cinema",
+            "year": "1995"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/drugie-2001-494/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Испания... реж. Алехандро Аменабар\n     \t(ужасы, триллер, детектив)\n     ",
+            "title": "Другие",
+            "type": "Cinema",
+            "year": "2001"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/operatsiya-argo-2012-462487/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Бен Аффлек\n     \t(триллер, драма, биография...)\n     ",
+            "title": "Операция «Арго»",
+            "type": "Cinema",
+            "year": "2012"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/lyubov-i-drugie-lekarstva-2010-463695/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Эдвард Цвик\n     \t(драма, мелодрама, комедия)\n     ",
+            "title": "Любовь и другие лекарства",
+            "type": "Cinema",
+            "year": "2010"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/1829806/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t63 года\n     ",
+            "title": "Шурик Харитонов",
+            "type": "Cinema",
+            "year": "1954"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/1578249/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tсценарист\n     \t\n     \t57 лет\n     ",
+            "title": "Александр Другов",
+            "type": "Cinema",
+            "year": "1960"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/352432/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t60 лет\n     ",
+            "title": "Руди Шурике",
+            "type": "Cinema",
+            "year": "1913 – 1973"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

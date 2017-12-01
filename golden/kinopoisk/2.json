@@ -1,0 +1,50 @@
+{
+    "components": [
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/forrest-gamp-1994-448/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Роберт Земекис\n     \t(драма, мелодрама, комедия)\n     ",
+            "title": "Форрест Гамп",
+            "type": "Cinema",
+            "year": "1994"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/3731193/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t19 лет\n     ",
+            "title": "Форрест Гудлак",
+            "type": "Cinema",
+            "year": "1998"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/14084/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t80 лет\n     ",
+            "title": "Фредерик Форрест",
+            "type": "Cinema",
+            "year": "1936"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/33222/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t23 года\n     ",
+            "title": "Форрест Лэндис",
+            "type": "Cinema",
+            "year": "1994"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/141158/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t42 года\n     ",
+            "title": "Нэйтан Форрест Уинтерс",
+            "type": "Cinema",
+            "year": "1975"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

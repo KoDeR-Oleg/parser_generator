@@ -1,0 +1,77 @@
+{
+    "components": [
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/krestnyy-otec-1972-325/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Фрэнсис Форд Коппола\n     \t(драма, криминал)\n     ",
+            "title": "Крестный отец",
+            "type": "Cinema",
+            "year": "1972"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/krestnyy-otec-1975-97002/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Индия, реж. Фероз Кхан\n     \t(боевик, триллер)\n     ",
+            "title": "Крестный отец",
+            "type": "Cinema",
+            "year": "1975"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/krestnyy-otec-1991-98560/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Индия, реж. Лал...\n     \t(драма, мелодрама, комедия)\n     ",
+            "title": "Крестный отец",
+            "type": "Cinema",
+            "year": "1991"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/kryostnyy-otec-1973-151595/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Италия, реж. Джузеппе Вери\n     \t\n     ",
+            "title": "Крёстный отец",
+            "type": "Cinema",
+            "year": "1973"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/krestnyy-otec-2-1974-327/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Фрэнсис Форд Коппола\n     \t(драма, криминал)\n     ",
+            "title": "Крестный отец 2",
+            "type": "Cinema",
+            "year": "1974"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/krestnyy-otec-3-1990-4500/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Фрэнсис Форд Коппола\n     \t(боевик, триллер, драма...)\n     ",
+            "title": "Крестный отец 3",
+            "type": "Cinema",
+            "year": "1990"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/40422/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tсценарист\n     \t\n     \t68 лет\n     ",
+            "title": "Александр Дюма отец",
+            "type": "Cinema",
+            "year": "1802 – 1870"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/1780687/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \t\n     \t\n     \t85 лет\n     ",
+            "title": "отец Джон Толкин",
+            "type": "Cinema",
+            "year": "1917 – 2003"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

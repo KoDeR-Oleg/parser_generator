@@ -1,0 +1,86 @@
+{
+    "components": [
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/igry-razuma-2001-530/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Рон Ховард\n     \t(драма, биография)\n     ",
+            "title": "Игры разума",
+            "type": "Cinema",
+            "year": "2001"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/igry-razuma-2003-23828/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Адриан Карр\n     \t(детектив)\n     ",
+            "title": "Игры разума",
+            "type": "Cinema",
+            "year": "2003"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/igry-razuma-2014-742558/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Тимоти Басфилд...\n     \t(драма)\n     ",
+            "title": "Игры разума (сериал)",
+            "type": "Cinema",
+            "year": "2014"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/igry-razuma-1989-32113/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Боб Яри\n     \t(триллер)\n     ",
+            "title": "Игры разума",
+            "type": "Cinema",
+            "year": "1989"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/igry-razuma-2011-635433/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Майкл Нигро...\n     \t(документальный, игра, реальное ТВ...)\n     ",
+            "title": "Игры разума (сериал)",
+            "type": "Cinema",
+            "year": "2011 – ..."
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/igry-razuma-2001-298744/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Великобритания, реж. Ричард Стэндевен\n     \t(триллер, драма, криминал...)\n     ",
+            "title": "Игры разума (ТВ)",
+            "type": "Cinema",
+            "year": "2001"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/284474/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактриса\n     \t\n     \t66 лет\n     ",
+            "title": "Регина Разума",
+            "type": "Cinema",
+            "year": "1951"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/766495/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tоператор\n     \t\n     \t80 лет\n     ",
+            "title": "Александр Разумов",
+            "type": "Cinema",
+            "year": "1937"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/351872/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t68 лет\n     ",
+            "title": "Степан  Разумов",
+            "type": "Cinema",
+            "year": "1909 – 1978"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

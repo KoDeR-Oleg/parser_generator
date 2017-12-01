@@ -1,0 +1,59 @@
+{
+    "components": [
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/probuzhdenie-1990-2950/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Пенни Маршалл\n     \t(драма, биография)\n     ",
+            "title": "Пробуждение",
+            "type": "Cinema",
+            "year": "1990"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/probuzhdenie-2009-325544/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Элли Каннер\n     \t(драма, мелодрама, комедия)\n     ",
+            "title": "Пробуждение",
+            "type": "Cinema",
+            "year": "2009"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/probuzhdenie-2012-580655/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Джеффри Рейнер...\n     \t(фантастика, фэнтези, драма...)\n     ",
+            "title": "Пробуждение (сериал)",
+            "type": "Cinema",
+            "year": "2012"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/probuzhdenie-1998-4675/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. М. Найт Шьямалан\n     \t(драма, комедия, семейный)\n     ",
+            "title": "Пробуждение",
+            "type": "Cinema",
+            "year": "1998"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/probuzhdenie-2009-391436/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Агустин\n     \t(триллер, мелодрама)\n     ",
+            "title": "Пробуждение",
+            "type": "Cinema",
+            "year": "2009"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/probuzhdenie-2012-586848/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Дэрик Лу\n     \t(фантастика, драма, мелодрама)\n     ",
+            "title": "Пробуждение",
+            "type": "Cinema",
+            "year": "2012"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

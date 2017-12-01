@@ -1,0 +1,68 @@
+{
+    "components": [
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/eta-zamechatelnaya-zhizn-1946-348/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Фрэнк Капра\n     \t(фэнтези, драма, семейный)\n     ",
+            "title": "Эта замечательная жизнь",
+            "type": "Cinema",
+            "year": "1946"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/eta-zamechatelnaya-zhizn-2000-339241/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Франсуа Клузо\n     \t(для взрослых)\n     ",
+            "title": "Эта замечательная жизнь (видео)",
+            "type": "Cinema",
+            "year": "2000"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/eta-zamechatelnaya-zhizn-1994-36985/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Гонконг, реж. Клифтон Ко\n     \t(комедия, семейный)\n     ",
+            "title": "Эта замечательная жизнь",
+            "type": "Cinema",
+            "year": "1994"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/eta-zamechatelnaya-zhizn-franca-kafki-1993-196102/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Великобритания, реж. Питер Капальди\n     \t(короткометражка, фэнтези, комедия...)\n     ",
+            "title": "Эта замечательная жизнь Франца Кафки",
+            "type": "Cinema",
+            "year": "1993"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/eta-zamechatelnaya-zagrobnaya-zhizn-2009-432968/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Великобритания, реж. Гуриндер Чадха\n     \t(ужасы, драма, мелодрама...)\n     ",
+            "title": "Эта замечательная загробная жизнь",
+            "type": "Cinema",
+            "year": "2009"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/334162/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактриса\n     \t\n     \t79 лет\n     ",
+            "title": "Эта Костер",
+            "type": "Cinema",
+            "year": "1938"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/509335/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактриса\n     \t\n     \t58 лет\n     ",
+            "title": "Эта Силадьи",
+            "type": "Cinema",
+            "year": "1928 – 1986"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

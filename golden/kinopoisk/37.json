@@ -1,0 +1,86 @@
+{
+    "components": [
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/proletaya-nad-gnezdom-kukushki-1975-336/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Милош Форман\n     \t(драма)\n     ",
+            "title": "Пролетая над гнездом кукушки",
+            "type": "Cinema",
+            "year": "1975"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/sozdanie-filma-proletaya-nad-gnezdom-kukushki-1997-765926/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Charles Kiselyak\n     \t(документальный)\n     ",
+            "title": "Создание фильма 'Пролетая над гнездом кукушки' (видео)",
+            "type": "Cinema",
+            "year": "1997"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/proletaya-nad-kuryatnikom-2012-765247/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Annie Schwartz\n     \t(короткометражка, комедия)\n     ",
+            "title": "Пролетая над курятником",
+            "type": "Cinema",
+            "year": "2012"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/tri-metra-nad-urovnem-neba-2010-523362/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Испания, реж. Фернандо Гонзалез Молина\n     \t(драма, мелодрама)\n     ",
+            "title": "Три метра над уровнем неба",
+            "type": "Cinema",
+            "year": "2010"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/tri-metra-nad-urovnem-neba-ya-tebya-khochu-2012-603616/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Испания, реж. Фернандо Гонзалез Молина\n     \t(драма, мелодрама)\n     ",
+            "title": "Три метра над уровнем неба: Я тебя хочу",
+            "type": "Cinema",
+            "year": "2012"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/tri-metra-nad-nebom-2004-64994/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Италия, реж. Люка Лючини\n     \t(мелодрама)\n     ",
+            "title": "Три метра над небом",
+            "type": "Cinema",
+            "year": "2004"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/229425/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактриса\n     \t\n     \t44 года\n     ",
+            "title": "Над Дье",
+            "type": "Cinema",
+            "year": "1973"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/101750/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактриса, продюсер, актриса: дубляж, режиссер\n     \t\n     \t31 год\n     ",
+            "title": "Надежда Михалкова",
+            "type": "Cinema",
+            "year": "1986"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/level/9/cinema/281153/",
+            "py/object": "parser_result.Component",
+            "snippet": "+7 (3499) 59-78-59 ",
+            "title": "«ПаркСинема»",
+            "type": "Cinema",
+            "year": "Надым"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

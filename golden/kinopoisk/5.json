@@ -1,0 +1,104 @@
+{
+    "components": [
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/nachalo-2010-447301/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США... реж. Кристофер Нолан\n     \t(фантастика, боевик, триллер...)\n     ",
+            "title": "Начало",
+            "type": "Cinema",
+            "year": "2010"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/nachalo-1970-46294/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "СССР, реж. Глеб Панфилов\n     \t(драма, мелодрама)\n     ",
+            "title": "Начало",
+            "type": "Cinema",
+            "year": "1970"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/nachalo-2014-804935/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Германия, реж. Марко Кройцпайнтнер\n     \t(мелодрама, комедия)\n     ",
+            "title": "Начало",
+            "type": "Cinema",
+            "year": "2014"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/nachalo-2008-517442/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Великобритания, реж. Робин Вэнари\n     \t(короткометражка, драма)\n     ",
+            "title": "Начало",
+            "type": "Cinema",
+            "year": "2008"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/nachalo-2007-640146/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Россия, реж. Наташа Новик\n     \t(короткометражка)\n     ",
+            "title": "Начало",
+            "type": "Cinema",
+            "year": "2007"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/nachalo-1967-43823/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "СССР, реж. Артавазд Пелешян\n     \t(документальный, короткометражка)\n     ",
+            "title": "Начало",
+            "type": "Cinema",
+            "year": "1967"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/548934/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер, сценарист, режиссер, продюсер\n     \t\n     \t40 лет\n     ",
+            "title": "Начо Вигалондо",
+            "type": "Cinema",
+            "year": "1977"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/466868/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер, режиссер, сценарист, продюсер\n     \t\n     \t43 года\n     ",
+            "title": "Начо Видаль",
+            "type": "Cinema",
+            "year": "1973"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/395275/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tрежиссер, сценарист, продюсер, актер, оператор, монтажер\n     \t\n     \t48 лет\n     ",
+            "title": "Начо Серда",
+            "type": "Cinema",
+            "year": "1969"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/540217/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t25 лет\n     ",
+            "title": "Начо Перес",
+            "type": "Cinema",
+            "year": "1992"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/599262/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t46 лет\n     ",
+            "title": "Начо Фреснеда",
+            "type": "Cinema",
+            "year": "1971"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

@@ -1,0 +1,32 @@
+{
+    "components": [
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/prestizh-2006-195334/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США... реж. Кристофер Нолан\n     \t(фантастика, триллер, драма...)\n     ",
+            "title": "Престиж",
+            "type": "Cinema",
+            "year": "2006"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/prestizh-1932-12007/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Тэй Гарнетт\n     \t(драма, приключения)\n     ",
+            "title": "Престиж",
+            "type": "Cinema",
+            "year": "1932"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/prestizh-smerti-2006-222149/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Франция, реж. Люк Мулле\n     \t(комедия, приключения)\n     ",
+            "title": "Престиж смерти",
+            "type": "Cinema",
+            "year": "2006"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

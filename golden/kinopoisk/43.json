@@ -1,0 +1,77 @@
+{
+    "components": [
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/v-dzhaze-tolko-devushki-1959-356/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Билли Уайлдер\n     \t(мелодрама, комедия, криминал...)\n     ",
+            "title": "В джазе только девушки",
+            "type": "Cinema",
+            "year": "1959"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/v-shou-tolko-devushki-2004-6887/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Майкл Лембек\n     \t(комедия, криминал, музыка)\n     ",
+            "title": "В шоу только девушки",
+            "type": "Cinema",
+            "year": "2004"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/v-sporte-tolko-devushki-2014-716877/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Россия, реж. Евгений Невский\n     \t(комедия)\n     ",
+            "title": "В спорте только девушки",
+            "type": "Cinema",
+            "year": "2014"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/v-sporte-tolko-devushki-2-2016-893137/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Россия, реж. Евгений Невский\n     \t(комедия)\n     ",
+            "title": "В спорте только девушки 2",
+            "type": "Cinema",
+            "year": "2016"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/v-bare-tolko-devushki-1994-53249/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Марита Джованни\n     \t(драма)\n     ",
+            "title": "В баре только девушки",
+            "type": "Cinema",
+            "year": "1994"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/v-nebe-tolko-devushki-1967-46731/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "СССР, реж. Василий Журавлев\n     \t(короткометражка)\n     ",
+            "title": "В небе только девушки",
+            "type": "Cinema",
+            "year": "1967"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/3016071/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактриса, продюсер\n     \t\n     \t25 лет\n     ",
+            "title": "Дэйзи Ридли",
+            "type": "Cinema",
+            "year": "1992"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/94150/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактриса\n     \t\n     \t29 лет\n     ",
+            "title": "Джаз Рэйкол",
+            "type": "Cinema",
+            "year": "1988"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

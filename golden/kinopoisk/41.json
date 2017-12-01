@@ -1,0 +1,59 @@
+{
+    "components": [
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/titanik-1997-2213/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Джеймс Кэмерон\n     \t(драма, мелодрама)\n     ",
+            "title": "Титаник",
+            "type": "Cinema",
+            "year": "1997"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/titanik-1996-89633/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Канада... реж. Роберт Либерман\n     \t(драма, мелодрама, история)\n     ",
+            "title": "Титаник (мини-сериал)",
+            "type": "Cinema",
+            "year": "1996"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/titanik-2012-591839/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Великобритания... реж. Джон Джонс\n     \t(драма)\n     ",
+            "title": "Титаник (мини-сериал)",
+            "type": "Cinema",
+            "year": "2012"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/titanik-1953-1135/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Жан Негулеско\n     \t(драма, мелодрама, история)\n     ",
+            "title": "Титаник",
+            "type": "Cinema",
+            "year": "1953"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/titanik-1915-81442/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Италия, реж. Пьер Анджело Мадзолотти\n     \t(история)\n     ",
+            "title": "Титаник",
+            "type": "Cinema",
+            "year": "1915"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/titanik-2012-709798/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Россия, реж. Анастасия Попова\n     \t(документальный, драма)\n     ",
+            "title": "Титаник (ТВ)",
+            "type": "Cinema",
+            "year": "2012"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

@@ -1,0 +1,104 @@
+{
+    "components": [
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/a-zori-zdes-tikhie-1972-43395/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "СССР, реж. Станислав Ростоцкий\n     \t(драма, военный, история)\n     ",
+            "title": "...А зори здесь тихие",
+            "type": "Cinema",
+            "year": "1972"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/a-zori-zdes-tikhie-2015-840754/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Россия, реж. Ренат Давлетьяров\n     \t(драма, военный, история)\n     ",
+            "title": "А зори здесь тихие...",
+            "type": "Cinema",
+            "year": "2015"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/a-zori-zdes-tikhie-2006-265088/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Россия... реж. Мао Вэйнин\n     \t(боевик, драма, военный)\n     ",
+            "title": "А зори здесь тихие... (сериал)",
+            "type": "Cinema",
+            "year": "2006"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/a-zori-zdes-tikhie-1970-927560/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "СССР, реж. Иван Рассомахин\n     \t(военный, драма)\n     ",
+            "title": "А зори здесь тихие...",
+            "type": "Cinema",
+            "year": "1970"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/a-ty-kiska-ostavaysya-zdes-1961-138189/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Австрия, реж. Франц Антель\n     \t(мюзикл, комедия)\n     ",
+            "title": "А ты, киска, оставайся здесь",
+            "type": "Cinema",
+            "year": "1961"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/ne-zdes-a-v-rayu-2000-73664/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Италия, реж. Джанлука Мария Таварелли\n     \t(драма, криминал)\n     ",
+            "title": "Не здесь, а в раю",
+            "type": "Cinema",
+            "year": "2000"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/level/9/cinema/264423/",
+            "py/object": "parser_result.Component",
+            "snippet": "+380 (57) 343-34-88 ",
+            "title": "«Кинотеатр им. А. П. Довженко»",
+            "type": "Cinema",
+            "year": "Харьков"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/level/9/cinema/263993/",
+            "py/object": "parser_result.Component",
+            "snippet": "+7 (351) 263-42-24 автоответчик",
+            "title": "«Кинотеатр им. А.С. Пушкина»",
+            "type": "Cinema",
+            "year": "Челябинск"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/level/9/cinema/280447/",
+            "py/object": "parser_result.Component",
+            "snippet": "+7 (82142) 3-93-87 ",
+            "title": "«Кинотеатр им. А. М. Горького»",
+            "type": "Cinema",
+            "year": "Печора"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/level/9/cinema/280427/",
+            "py/object": "parser_result.Component",
+            "snippet": "+7 (35168) 2-12-78 ",
+            "title": "«Уральские зори»",
+            "type": "Cinema",
+            "year": "Чебаркуль"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/level/9/cinema/280794/",
+            "py/object": "parser_result.Component",
+            "snippet": "+7 (950) 899-55-68 касса",
+            "title": "«Восход»",
+            "type": "Cinema",
+            "year": "Полярные Зори"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

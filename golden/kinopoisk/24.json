@@ -1,0 +1,95 @@
+{
+    "components": [
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/v-boy-idut-odni-stariki-1973-25108/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "СССР, реж. Леонид Быков\n     \t(драма, комедия, военный)\n     ",
+            "title": "В бой идут одни «старики»",
+            "type": "Cinema",
+            "year": "1973"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/men-go-to-battle-2015-906693/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Закари Трейц\n     \t(драма, комедия, история)\n     ",
+            "title": "Мужчины идут в бой",
+            "type": "Cinema",
+            "year": "2015"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/mak-i-devin-idut-v-shkolu-2012-690281/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Дилан С. Браун\n     \t(комедия)\n     ",
+            "title": "Мак и Девин идут в школу",
+            "type": "Cinema",
+            "year": "2012"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/odni-v-berline-2016-776996/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Великобритания... реж. Венсан Перес\n     \t(драма)\n     ",
+            "title": "Одни в Берлине",
+            "type": "Cinema",
+            "year": "2016"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/snova-v-boy-1993-4936/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Канада, реж. Стив ДиМарко...\n     \t(боевик, драма, приключения)\n     ",
+            "title": "Снова в бой",
+            "type": "Cinema",
+            "year": "1993"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/farshirovannye-percy-idut-v-delo-2004-340003/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Германия... реж. Лина Вертмюллер\n     \t(драма, комедия)\n     ",
+            "title": "Фаршированные перцы идут в дело",
+            "type": "Cinema",
+            "year": "2004"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/291664/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер, режиссер\n     \t\n     \t61 год\n     ",
+            "title": "Бой Ольми",
+            "type": "Cinema",
+            "year": "1955"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/17621/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер, продюсер\n     \t\n     \t48 лет\n     ",
+            "title": "Биг Бой",
+            "type": "Cinema",
+            "year": "1969"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/385713/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер, композитор, группа\n     \t\n     \t56 лет\n     ",
+            "title": "Бой Джордж",
+            "type": "Cinema",
+            "year": "1961"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/1552855/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер, продюсер, композитор\n     \t\n     \t27 лет\n     ",
+            "title": "Соулджа Бой",
+            "type": "Cinema",
+            "year": "1990"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

@@ -1,0 +1,122 @@
+{
+    "components": [
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/zelenaya-milya-1999-435/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Фрэнк Дарабонт\n     \t(фэнтези, драма, криминал...)\n     ",
+            "title": "Зеленая миля",
+            "type": "Cinema",
+            "year": "1999"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/8-milya-2002-581/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Кёртис Хэнсон\n     \t(драма, музыка)\n     ",
+            "title": "8 миля",
+            "type": "Cinema",
+            "year": "2002"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/zelenaya-kareta-2015-839018/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Россия, реж. Олег Асадулин\n     \t(драма)\n     ",
+            "title": "Зеленая карета",
+            "type": "Cinema",
+            "year": "2015"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/amerikanskiy-pirog-golaya-milya-2006-258454/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Канада... реж. Джо Нуссбаум\n     \t(комедия)\n     ",
+            "title": "Американский пирог: Голая миля (видео)",
+            "type": "Cinema",
+            "year": "2006"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/zelenaya-komnata-2015-844150/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Джереми Солнье\n     \t(триллер, криминал)\n     ",
+            "title": "Зеленая комната",
+            "type": "Cinema",
+            "year": "2015"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/prekrasnaya-zelenaya-1996-55035/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Франция, реж. Колин Серро\n     \t(комедия)\n     ",
+            "title": "Прекрасная зеленая",
+            "type": "Cinema",
+            "year": "1996"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/307742/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактриса, сценарист\n     \t\n     \t89 лет\n     ",
+            "title": "Рина Зеленая",
+            "type": "Cinema",
+            "year": "1901 – 1991"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/52900/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактриса, продюсер\n     \t\n     \t34 года\n     ",
+            "title": "Мила Кунис",
+            "type": "Cinema",
+            "year": "1983"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/24507/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактриса, продюсер, композитор\n     \t\n     \t41 год\n     ",
+            "title": "Милла Йовович",
+            "type": "Cinema",
+            "year": "1975"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/32002/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактриса, продюсер\n     \t\n     \t44 года\n     ",
+            "title": "Алисса Милано",
+            "type": "Cinema",
+            "year": "1972"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/25206/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер, продюсер, режиссер, сценарист\n     \t\n     \t40 лет\n     ",
+            "title": "Майло Вентимилья",
+            "type": "Cinema",
+            "year": "1977"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/level/9/cinema/280632/",
+            "py/object": "parser_result.Component",
+            "snippet": "+7 (812) 406-93-86 ",
+            "title": "«Пресс-клуб «Зеленая лампа»»",
+            "type": "Cinema",
+            "year": "Санкт-Петербург"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/level/9/cinema/280811/",
+            "py/object": "parser_result.Component",
+            "snippet": "+7 (495) 979-70-09 ",
+            "title": "«Зеленый кинотеатр»",
+            "type": "Cinema",
+            "year": "Москва"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

@@ -1,0 +1,59 @@
+{
+    "components": [
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/otstupniki-2006-81314/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США... реж. Мартин Скорсезе\n     \t(триллер, драма, криминал)\n     ",
+            "title": "Отступники",
+            "type": "Cinema",
+            "year": "2006"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/otstupniki-2000-4550/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Великобритания... реж. Майлс Коннелл\n     \t(драма, мелодрама, комедия...)\n     ",
+            "title": "Отступники",
+            "type": "Cinema",
+            "year": "2000"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/otstupniki-1930-15432/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Виктор Флеминг\n     \t(боевик, мелодрама, приключения)\n     ",
+            "title": "Отступники",
+            "type": "Cinema",
+            "year": "1930"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/otstupniki-2001-94170/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Канада, реж. Джим Бэнкс\n     \t(боевик, драма, криминал)\n     ",
+            "title": "Отступники (ТВ)",
+            "type": "Cinema",
+            "year": "2001"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/otstupniki-1983-325907/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Барбара Питерс...\n     \t(боевик, драма, криминал)\n     ",
+            "title": "Отступники (сериал)",
+            "type": "Cinema",
+            "year": "1983"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/otstupniki-2010-679808/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Индия, реж. Jatinder Mauhar\n     \t(драма)\n     ",
+            "title": "Отступники",
+            "type": "Cinema",
+            "year": "2010"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

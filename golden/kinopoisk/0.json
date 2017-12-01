@@ -1,0 +1,59 @@
+{
+    "components": [
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/pobeg-iz-shoushenka-1994-326/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Фрэнк Дарабонт\n     \t(драма, криминал)\n     ",
+            "title": "Побег из Шоушенка",
+            "type": "Cinema",
+            "year": "1994"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/pobeg-iz-vegasa-2010-412299/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Николас Столлер\n     \t(комедия, приключения, музыка)\n     ",
+            "title": "Побег из Вегаса",
+            "type": "Cinema",
+            "year": "2010"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/pobeg-iz-tyurmy-finalnyy-pobeg-2009-415249/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Кевин Хукс...\n     \t(боевик, триллер, драма)\n     ",
+            "title": "Побег из тюрьмы: Финальный побег (видео)",
+            "type": "Cinema",
+            "year": "2009"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/pobeg-iz-alkatrasa-1979-10851/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Дон Сигел\n     \t(триллер, драма, криминал...)\n     ",
+            "title": "Побег из Алькатраса",
+            "type": "Cinema",
+            "year": "1979"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/pobeg-iz-tyurmy-doroga-k-svobode-2007-391746/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Джим Баррет...\n     \t(короткометражка, боевик, драма...)\n     ",
+            "title": "Побег из тюрьмы: Дорога к свободе (ТВ)",
+            "type": "Cinema",
+            "year": "2007"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/pobeg-iz-nyu-yorka-1981-4404/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США... реж. Джон Карпентер\n     \t(фантастика, боевик)\n     ",
+            "title": "Побег из Нью-Йорка",
+            "type": "Cinema",
+            "year": "1981"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

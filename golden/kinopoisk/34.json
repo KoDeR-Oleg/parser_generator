@@ -1,0 +1,59 @@
+{
+    "components": [
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/dzhentlmeny-udachi-1971-44386/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "СССР, реж. Александр Серый\n     \t(драма, комедия, криминал...)\n     ",
+            "title": "Джентльмены удачи",
+            "type": "Cinema",
+            "year": "1971"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/dzhentlmeny-udachi-1990-32422/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США... реж. Майкл МакКарти\n     \t(боевик)\n     ",
+            "title": "Джентльмены удачи",
+            "type": "Cinema",
+            "year": "1990"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/dzhentlmeny-udachi-2012-608706/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Россия, реж. Александр Баранов...\n     \t(комедия, криминал)\n     ",
+            "title": "Джентльмены, удачи!",
+            "type": "Cinema",
+            "year": "2012"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/udachi-chak-2007-232141/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США... реж. Марк Хелфрич\n     \t(мелодрама, комедия)\n     ",
+            "title": "Удачи, Чак!",
+            "type": "Cinema",
+            "year": "2007"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/dobroy-nochi-i-udachi-2005-86991/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США... реж. Джордж Клуни\n     \t(драма, биография, история)\n     ",
+            "title": "Доброй ночи и удачи",
+            "type": "Cinema",
+            "year": "2005"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/soldaty-udachi-2011-522109/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Максим Коростышевский\n     \t(боевик, приключения)\n     ",
+            "title": "Солдаты удачи",
+            "type": "Cinema",
+            "year": "2011"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

@@ -1,0 +1,104 @@
+{
+    "components": [
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/matrica-1999-301/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Лана Вачовски...\n     \t(фантастика, боевик)\n     ",
+            "title": "Матрица",
+            "type": "Cinema",
+            "year": "1999"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/matrica-1993-400787/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Канада, реж. Хорхе Монтеси...\n     \t(фэнтези, боевик, триллер...)\n     ",
+            "title": "Матрица (сериал)",
+            "type": "Cinema",
+            "year": "1993"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/matrica-perezagruzka-2003-299/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США... реж. Лана Вачовски...\n     \t(фантастика, боевик)\n     ",
+            "title": "Матрица: Перезагрузка",
+            "type": "Cinema",
+            "year": "2003"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/matrica-revolyuciya-2003-316/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Австралия... реж. Лана Вачовски...\n     \t(фантастика, боевик)\n     ",
+            "title": "Матрица: Революция",
+            "type": "Cinema",
+            "year": "2003"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/matritsa-vremeni-2017-556944/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Ри Руссо-Янг\n     \t(триллер, драма, детектив)\n     ",
+            "title": "Матрица времени",
+            "type": "Cinema",
+            "year": "2017"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/armitazh-dvoynaya-matrica-2002-252252/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Япония, реж. Кацухито Акияма\n     \t(аниме, мультфильм, фантастика...)\n     ",
+            "title": "Армитаж: Двойная матрица (видео)",
+            "type": "Cinema",
+            "year": "2002"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/level/9/cinema/280535/",
+            "py/object": "parser_result.Component",
+            "snippet": "+7 (495) 783-97-77 ",
+            "title": "«Матрица»",
+            "type": "Cinema",
+            "year": "Домодедово"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/level/9/cinema/280351/",
+            "py/object": "parser_result.Component",
+            "snippet": "+7 (8422) 24-01-01 ",
+            "title": "«Матрица»",
+            "type": "Cinema",
+            "year": "Ульяновск"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/level/9/cinema/280467/",
+            "py/object": "parser_result.Component",
+            "snippet": "+7 (496) 727-27-27 ",
+            "title": "«Матрица»",
+            "type": "Cinema",
+            "year": "Чехов"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/level/9/cinema/280664/",
+            "py/object": "parser_result.Component",
+            "snippet": "+7 (3852) 20-24-28 ",
+            "title": "«Матрица»",
+            "type": "Cinema",
+            "year": "Барнаул"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/level/9/cinema/263332/",
+            "py/object": "parser_result.Component",
+            "snippet": "+7 (495) 545-05-05 единая справочная служба",
+            "title": "«Каро Фильм Матрица»",
+            "type": "Cinema",
+            "year": "Москва"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

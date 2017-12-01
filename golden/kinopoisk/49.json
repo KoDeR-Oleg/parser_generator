@@ -1,0 +1,104 @@
+{
+    "components": [
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/priklyucheniya-sherloka-kholmsa-i-doktora-vatsona-sobaka-baskerviley-1981-77263/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "СССР, реж. Игорь Масленников\n     \t(криминал, детектив)\n     ",
+            "title": "Приключения Шерлока Холмса и доктора Ватсона: Собака Баскервилей (ТВ)",
+            "type": "Cinema",
+            "year": "1981"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/sherlok-kholms-i-doktor-vatson-znakomstvo-1979-77269/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "СССР, реж. Игорь Масленников\n     \t(криминал, детектив)\n     ",
+            "title": "Шерлок Холмс и доктор Ватсон: Знакомство (сериал)",
+            "type": "Cinema",
+            "year": "1979"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/sherlok-kholms-i-doktor-vatson-krovavaya-nadpis-1979-77265/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "СССР, реж. Игорь Масленников\n     \t(криминал, детектив)\n     ",
+            "title": "Шерлок Холмс и доктор Ватсон: Кровавая надпись (ТВ)",
+            "type": "Cinema",
+            "year": "1979"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/sherlok-kholms-i-doktor-vatson-smertelnaya-skhvatka-1980-354799/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "СССР, реж. Игорь Масленников\n     \t(криминал, детектив)\n     ",
+            "title": "Шерлок Холмс и доктор Ватсон: Смертельная схватка (ТВ)",
+            "type": "Cinema",
+            "year": "1980"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/sherlok-kholms-i-doktor-vatson-korol-shantazha-1980-368936/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "СССР, реж. Игорь Масленников\n     \t(криминал, детектив)\n     ",
+            "title": "Шерлок Холмс и доктор Ватсон: Король шантажа (ТВ)",
+            "type": "Cinema",
+            "year": "1980"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/priklyucheniya-sherloka-kholmsa-i-doktora-vatsona-okhota-na-tigra-1980-368937/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "СССР, реж. Игорь Масленников\n     \t(криминал, детектив)\n     ",
+            "title": "Приключения Шерлока Холмса и доктора Ватсона: Охота на тигра (ТВ)",
+            "type": "Cinema",
+            "year": "1980"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/40779/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактриса\n     \t\n     \t27 лет\n     ",
+            "title": "Эмма Уотсон",
+            "type": "Cinema",
+            "year": "1990"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/9943/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактриса, продюсер, режиссер, сценарист\n     \t\n     \t38 лет\n     ",
+            "title": "Кэти Холмс",
+            "type": "Cinema",
+            "year": "1978"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/582209/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t39 лет\n     ",
+            "title": "Эштон Холмс",
+            "type": "Cinema",
+            "year": "1978"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/2794/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t70 лет\n     ",
+            "title": "Холмс Осборн",
+            "type": "Cinema",
+            "year": "1947"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/303933/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер, композитор\n     \t\n     \t58 лет\n     ",
+            "title": "Константин Кинчев",
+            "type": "Cinema",
+            "year": "1958"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

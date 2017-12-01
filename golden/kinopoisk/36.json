@@ -1,0 +1,95 @@
+{
+    "components": [
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/piraty-karibskogo-morya-proklyatie-chernoy-zhemchuzhiny-2003-4374/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Гор Вербински\n     \t(фэнтези, боевик, приключения)\n     ",
+            "title": "Пираты Карибского моря: Проклятие Черной жемчужины",
+            "type": "Cinema",
+            "year": "2003"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/piraty-karibskogo-morya-sunduk-mertvetsa-2006-63991/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Гор Вербински\n     \t(фэнтези, боевик, приключения)\n     ",
+            "title": "Пираты Карибского моря: Сундук мертвеца",
+            "type": "Cinema",
+            "year": "2006"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/piraty-karibskogo-morya-na-krayu-sveta-2007-102124/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Гор Вербински\n     \t(фэнтези, боевик, приключения)\n     ",
+            "title": "Пираты Карибского моря: На краю Света",
+            "type": "Cinema",
+            "year": "2007"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/piraty-karibskogo-morya-na-strannykh-beregakh-2011-427076/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США... реж. Роб Маршалл\n     \t(фэнтези, боевик, комедия...)\n     ",
+            "title": "Пираты Карибского моря: На странных берегах",
+            "type": "Cinema",
+            "year": "2011"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/piraty-karibskogo-morya-mertvetsy-ne-rasskazyvayut-skazki-2017-575180/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Хоаким Роннинг...\n     \t(фэнтези, боевик, комедия...)\n     ",
+            "title": "Пираты Карибского моря: Мертвецы не рассказывают сказки",
+            "type": "Cinema",
+            "year": "2017"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/2433898/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \t\n     \t\n     \t65 лет\n     ",
+            "title": "Михаил Черной",
+            "type": "Cinema",
+            "year": "1952"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/2669/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактриса, продюсер\n     \t\n     \t56 лет\n     ",
+            "title": "Джулианна Мур",
+            "type": "Cinema",
+            "year": "1960"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/level/9/cinema/280854/",
+            "py/object": "parser_result.Component",
+            "snippet": "8 (800) 250-80-25 ",
+            "title": "«Формула Кино Жемчужина»",
+            "type": "Cinema",
+            "year": "Санкт-Петербург"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/level/9/cinema/280419/",
+            "py/object": "parser_result.Component",
+            "snippet": "+7 (965) 955-88-88 заказ билетов",
+            "title": "«Черная Жемчужина»",
+            "type": "Cinema",
+            "year": "Грозный"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/level/9/cinema/280448/",
+            "py/object": "parser_result.Component",
+            "snippet": "+7 (38557) 2-97-67 касса",
+            "title": "«Жемчужина»",
+            "type": "Cinema",
+            "year": "Рубцовск"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

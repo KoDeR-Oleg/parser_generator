@@ -1,0 +1,59 @@
+{
+    "components": [
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/nazad-v-budushhee-1985-476/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Роберт Земекис\n     \t(фантастика, комедия, приключения)\n     ",
+            "title": "Назад в будущее",
+            "type": "Cinema",
+            "year": "1985"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/nazad-v-budushhee-2011-623259/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Фрэнк Маршалл\n     \t(короткометражка, фантастика, комедия)\n     ",
+            "title": "Назад в будущее",
+            "type": "Cinema",
+            "year": "2011"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/nazad-v-budushhee-1991-229404/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Пейтон Рид...\n     \t(мультфильм, фантастика, приключения...)\n     ",
+            "title": "Назад в будущее (сериал)",
+            "type": "Cinema",
+            "year": "1991 – 1993"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/nazad-v-budushhee-2-1989-5502/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Роберт Земекис\n     \t(фантастика, боевик, комедия...)\n     ",
+            "title": "Назад в будущее 2",
+            "type": "Cinema",
+            "year": "1989"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/nazad-v-budushhee-3-1990-7103/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Роберт Земекис\n     \t(фантастика, комедия, приключения...)\n     ",
+            "title": "Назад в будущее 3",
+            "type": "Cinema",
+            "year": "1990"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/nazad-v-budushhee-2015-944474/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Kyle Chen\n     \t(короткометражка, фантастика)\n     ",
+            "title": "Назад в будущее?",
+            "type": "Cinema",
+            "year": "2015"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

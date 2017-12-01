@@ -1,0 +1,59 @@
+{
+    "components": [
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/vlastelin-kolec-dve-kreposti-2002-312/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США... реж. Питер Джексон\n     \t(фэнтези, драма, приключения)\n     ",
+            "title": "Властелин колец: Две крепости",
+            "type": "Cinema",
+            "year": "2002"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/vlastelin-kolec-bratstvo-kolca-2001-328/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США... реж. Питер Джексон\n     \t(фэнтези, драма, приключения)\n     ",
+            "title": "Властелин колец: Братство кольца",
+            "type": "Cinema",
+            "year": "2001"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/vlastelin-kolec-vozvrashhenie-korolya-2003-3498/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США... реж. Питер Джексон\n     \t(фэнтези, драма, приключения)\n     ",
+            "title": "Властелин колец: Возвращение Короля",
+            "type": "Cinema",
+            "year": "2003"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/vlastelin-kolec-1978-5919/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Ральф Бакши\n     \t(мультфильм, фэнтези, приключения)\n     ",
+            "title": "Властелин колец",
+            "type": "Cinema",
+            "year": "1978"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/ngo-za-kadrom-vlastelin-kolec-vozvrashhenie-korolya-2003-581525/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США\n     \t(документальный)\n     ",
+            "title": "НГО: За кадром – Властелин колец: Возвращение Короля (ТВ)",
+            "type": "Cinema",
+            "year": "2003"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/ngo-za-kadrom-vlastelin-kolec-bratstvo-kolca-2002-581524/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Лиза Корс\n     \t(документальный)\n     ",
+            "title": "НГО: За кадром – Властелин колец: Братство кольца (ТВ)",
+            "type": "Cinema",
+            "year": "2002"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

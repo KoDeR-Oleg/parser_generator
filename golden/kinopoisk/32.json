@@ -1,0 +1,122 @@
+{
+    "components": [
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/bolshoy-kush-2000-526/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Великобритания... реж. Гай Ричи\n     \t(криминал, комедия)\n     ",
+            "title": "Большой куш",
+            "type": "Cinema",
+            "year": "2000"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/bolshoy-kush-2017-1006647/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США... реж. Лоуренс Гоф...\n     \t(комедия, криминал)\n     ",
+            "title": "Большой куш (сериал)",
+            "type": "Cinema",
+            "year": "2017 – ..."
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/bolshoy-kush-1950-1308/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Уолтер Лэнг\n     \t(комедия)\n     ",
+            "title": "Большой куш",
+            "type": "Cinema",
+            "year": "1950"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/van-pis-1999-382731/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Япония, реж. Сакаи Мунэхиса...\n     \t(аниме, мультфильм, фэнтези...)\n     ",
+            "title": "Ван-Пис (сериал)",
+            "type": "Cinema",
+            "year": "1999 – ..."
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/futurama-bolshoy-kush-bendera-2007-229938/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Дуэйн Кэри-Хилл\n     \t(мультфильм, фантастика, мелодрама...)\n     ",
+            "title": "Футурама: Большой куш Бендера! (видео)",
+            "type": "Cinema",
+            "year": "2007"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/3754911/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактриса\n     \t\n     \t26 лет\n     ",
+            "title": "Карла Куш",
+            "type": "Cinema",
+            "year": "1991"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/2702308/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактриса\n     \t\n     \t26 лет\n     ",
+            "title": "Хлоя Куш",
+            "type": "Cinema",
+            "year": "1991"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/level/9/cinema/280407/",
+            "py/object": "parser_result.Component",
+            "snippet": "+7 (863) 201-28-28 ",
+            "title": "«Большой»",
+            "type": "Cinema",
+            "year": "Ростов-на-Дону"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/level/9/cinema/264747/",
+            "py/object": "parser_result.Component",
+            "snippet": "+7 (925) 822-24-35 ",
+            "title": "«Энтузиаст. Большой зал»",
+            "type": "Cinema",
+            "year": "Москва"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/level/9/cinema/280603/",
+            "py/object": "parser_result.Component",
+            "snippet": "+7 (34368) 7-79-22 ",
+            "title": "«Киноград (Большой зал)»",
+            "type": "Cinema",
+            "year": "Верхняя Пышма"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/level/9/cinema/263374/",
+            "py/object": "parser_result.Component",
+            "snippet": "+7 (495) 780-91-44 ",
+            "title": "«35ММ. Большой зал»",
+            "type": "Cinema",
+            "year": "Москва"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/level/9/cinema/264205/",
+            "py/object": "parser_result.Component",
+            "snippet": "+7 (495) 691-63-16 ",
+            "title": "«Большой зал ЦДЛ»",
+            "type": "Cinema",
+            "year": "Москва"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/level/9/cinema/263442/",
+            "py/object": "parser_result.Component",
+            "snippet": "+7 (812) 677-60-60 ",
+            "title": "«Мираж Синема на Большом»",
+            "type": "Cinema",
+            "year": "Санкт-Петербург"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

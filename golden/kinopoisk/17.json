@@ -1,0 +1,23 @@
+{
+    "components": [
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/interstellar-2014-258687/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США... реж. Кристофер Нолан\n     \t(фантастика, драма, приключения)\n     ",
+            "title": "Интерстеллар",
+            "type": "Cinema",
+            "year": "2014"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/nauka-interstellar-2015-1009186/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Гейл Виллумсен\n     \t(документальный)\n     ",
+            "title": "Наука Интерстеллар",
+            "type": "Cinema",
+            "year": "2015"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

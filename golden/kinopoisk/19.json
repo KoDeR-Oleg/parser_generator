@@ -1,0 +1,59 @@
+{
+    "components": [
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/gladiator-2000-474/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США... реж. Ридли Скотт\n     \t(боевик, драма, приключения)\n     ",
+            "title": "Гладиатор",
+            "type": "Cinema",
+            "year": "2000"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/gladiator-1992-4682/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Роуди Херрингтон\n     \t(боевик, драма, спорт)\n     ",
+            "title": "Гладиатор",
+            "type": "Cinema",
+            "year": "1992"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/gladiator-2002-337660/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Испания, реж. Антонио Адамо\n     \t(для взрослых, боевик, приключения)\n     ",
+            "title": "Гладиатор (видео)",
+            "type": "Cinema",
+            "year": "2002"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/gladiator-1986-90210/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Абель Феррара\n     \t(боевик, триллер, драма)\n     ",
+            "title": "Гладиатор (ТВ)",
+            "type": "Cinema",
+            "year": "1986"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/gladiator-1938-90212/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Эдвард Седжвик\n     \t(фэнтези, комедия)\n     ",
+            "title": "Гладиатор",
+            "type": "Cinema",
+            "year": "1938"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/gladiator-1972-90211/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "СССР, реж. Баадур Цуладзе\n     \t(короткометражка)\n     ",
+            "title": "Гладиатор",
+            "type": "Cinema",
+            "year": "1972"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}

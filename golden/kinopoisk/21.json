@@ -1,0 +1,104 @@
+{
+    "components": [
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/karty-dengi-dva-stvola-1998-522/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Великобритания, реж. Гай Ричи\n     \t(комедия, криминал)\n     ",
+            "title": "Карты, деньги, два ствола",
+            "type": "Cinema",
+            "year": "1998"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/karty-dengi-i-dva-stvola-2-2000-79512/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Великобритания... реж. Ник Джонс...\n     \t(драма, комедия)\n     ",
+            "title": "Карты, деньги и два ствола 2 (сериал)",
+            "type": "Cinema",
+            "year": "2000"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/dva-stvola-2013-464290/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Бальтасар Кормакур\n     \t(боевик, триллер, драма...)\n     ",
+            "title": "Два ствола",
+            "type": "Cinema",
+            "year": "2013"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/dva-stvola-2015-880495/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Нидерланды... реж. Мартин Смитс...\n     \t(боевик, комедия)\n     ",
+            "title": "Два ствола",
+            "type": "Cinema",
+            "year": "2015"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/dva-stvola-2013-842047/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Нидерланды, реж. Мартин Смитс...\n     \t(боевик, комедия)\n     ",
+            "title": "Два ствола (сериал)",
+            "type": "Cinema",
+            "year": "2013 – ..."
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/dva-stvola-2005-300032/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Великобритания, реж. Роберто Гомес Мартин\n     \t(криминал)\n     ",
+            "title": "Два ствола (видео)",
+            "type": "Cinema",
+            "year": "2005"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/8451/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактриса, сценарист, продюсер\n     \t\n     \t45 лет\n     ",
+            "title": "Дженни МакКарти",
+            "type": "Cinema",
+            "year": "1972"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/520400/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер, режиссер, сценарист, продюсер, монтажер\n     \t\n     \t78 лет\n     ",
+            "title": "Картал Тибет",
+            "type": "Cinema",
+            "year": "1939"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/1070730/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t40 лет\n     ",
+            "title": "Карти Шивакумар",
+            "type": "Cinema",
+            "year": "1977"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/3182748/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактриса\n     \t\n     \t26 лет\n     ",
+            "title": "Кярт Таммярв",
+            "type": "Cinema",
+            "year": "1991"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/978031/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактриса\n     \t\n     \t49 лет\n     ",
+            "title": "Марин Картье",
+            "type": "Cinema",
+            "year": "1968"
+        }
+    ],
+    "py/object": "parser_result.ParserResult"
+}
