@@ -6,7 +6,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Джеймс Кэмерон\n     \t(драма, мелодрама)\n     ",
             "title": "Титаник",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "8.4",
             "year": "1997"
         },
         {
@@ -15,7 +16,8 @@
             "py/object": "parser_result.Component",
             "snippet": "Канада... реж. Роберт Либерман\n     \t(драма, мелодрама, история)\n     ",
             "title": "Титаник (мини-сериал)",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "6.8",
             "year": "1996"
         },
         {
@@ -24,7 +26,8 @@
             "py/object": "parser_result.Component",
             "snippet": "Великобритания... реж. Джон Джонс\n     \t(драма)\n     ",
             "title": "Титаник (мини-сериал)",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "6.8",
             "year": "2012"
         },
         {
@@ -33,7 +36,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Жан Негулеско\n     \t(драма, мелодрама, история)\n     ",
             "title": "Титаник",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "7.3",
             "year": "1953"
         },
         {
@@ -42,7 +46,8 @@
             "py/object": "parser_result.Component",
             "snippet": "Италия, реж. Пьер Анджело Мадзолотти\n     \t(история)\n     ",
             "title": "Титаник",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "7.6",
             "year": "1915"
         },
         {
@@ -51,7 +56,8 @@
             "py/object": "parser_result.Component",
             "snippet": "Россия, реж. Анастасия Попова\n     \t(документальный, драма)\n     ",
             "title": "Титаник (ТВ)",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "8.6",
             "year": "2012"
         }
     ],

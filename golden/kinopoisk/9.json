@@ -6,7 +6,8 @@
             "py/object": "parser_result.Component",
             "snippet": "СССР, реж. Леонид Гайдай\n     \t(фантастика, комедия, приключения)\n     ",
             "title": "Иван Васильевич меняет профессию",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "8.8",
             "year": "1973"
         },
         {
@@ -15,7 +16,8 @@
             "py/object": "parser_result.Component",
             "snippet": "Российская империя, реж. Александр Иванов-Гай\n     \t(драма, история)\n     ",
             "title": "Царь Иван Васильевич Грозный",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "6.1",
             "year": "1915"
         },
         {
@@ -24,7 +26,8 @@
             "py/object": "parser_result.Component",
             "snippet": "Россия, реж. Дарина Шмидт\n     \t(мультфильм, приключения, семейный)\n     ",
             "title": "Иван Царевич и Серый Волк 3",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "6.2",
             "year": "2015"
         },
         {
@@ -33,7 +36,8 @@
             "py/object": "parser_result.Component",
             "snippet": "Россия, реж. Владимир Торопчин\n     \t(мультфильм, фэнтези, комедия...)\n     ",
             "title": "Иван Царевич и Серый Волк",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "6.6",
             "year": "2011"
         },
         {
@@ -42,7 +46,8 @@
             "py/object": "parser_result.Component",
             "snippet": "Россия, реж. Владимир Торопчин\n     \t(мультфильм, приключения, семейный...)\n     ",
             "title": "Иван Царевич и Серый Волк 2",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "5.3",
             "year": "2013"
         },
         {
@@ -51,7 +56,8 @@
             "py/object": "parser_result.Component",
             "snippet": "СССР, реж. Алексей Герман\n     \t(драма)\n     ",
             "title": "Мой друг Иван Лапшин",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "7.9",
             "year": "1984"
         },
         {
@@ -60,8 +66,7 @@
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер, сценарист, режиссер, продюсер, актер: дубляж\n     \t\n     \t51 год\n     ",
             "title": "Иван Охлобыстин",
-            "type": "Cinema",
-            "year": "1966"
+            "type": "Actor"
         },
         {
             "alignment": "LEFT",
@@ -69,8 +74,7 @@
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер\n     \t\n     \t32 года\n     ",
             "title": "Иван Реон",
-            "type": "Cinema",
-            "year": "1985"
+            "type": "Actor"
         },
         {
             "alignment": "LEFT",
@@ -78,8 +82,7 @@
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер\n     \t\n     \t34 года\n     ",
             "title": "Иван Жидков",
-            "type": "Cinema",
-            "year": "1983"
+            "type": "Actor"
         },
         {
             "alignment": "LEFT",
@@ -87,8 +90,7 @@
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер, актер: дубляж, сценарист, продюсер\n     \t\n     \t39 лет\n     ",
             "title": "Иван Ургант",
-            "type": "Cinema",
-            "year": "1978"
+            "type": "Actor"
         },
         {
             "alignment": "LEFT",
@@ -96,8 +98,7 @@
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер, режиссер, сценарист, продюсер\n     \t\n     \t36 лет\n     ",
             "title": "Иван Стебунов",
-            "type": "Cinema",
-            "year": "1981"
+            "type": "Actor"
         }
     ],
     "py/object": "parser_result.ParserResult"

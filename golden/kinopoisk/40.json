@@ -6,7 +6,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Сидни Люмет\n     \t(драма, криминал)\n     ",
             "title": "12 разгневанных мужчин",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "8.5",
             "year": "1957"
         },
         {
@@ -15,7 +16,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Уильям Фридкин\n     \t(драма, криминал)\n     ",
             "title": "12 разгневанных мужчин (ТВ)",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "7.8",
             "year": "1997"
         },
         {
@@ -24,7 +26,8 @@
             "py/object": "parser_result.Component",
             "snippet": "Россия, реж. Никита Михалков\n     \t(триллер, драма, криминал...)\n     ",
             "title": "12",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "7.6",
             "year": "2007"
         },
         {
@@ -33,7 +36,8 @@
             "py/object": "parser_result.Component",
             "snippet": "Индия, реж. Раджив Рай\n     \t(боевик, триллер, мелодрама)\n     ",
             "title": "Трое разгневанных мужчин",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "7.7",
             "year": "1989"
         },
         {

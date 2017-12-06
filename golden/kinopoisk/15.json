@@ -6,7 +6,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Квентин Тарантино\n     \t(триллер, комедия, криминал)\n     ",
             "title": "Криминальное чтиво",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "8.6",
             "year": "1994"
         },
         {
@@ -15,7 +16,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Меган О’Хара\n     \t(документальный, короткометражка)\n     ",
             "title": "'Криминальное чтиво' в мгновение ока: Ретроспектива к 10-летию (ТВ)",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "6.1",
             "year": "2004"
         },
         {
@@ -24,7 +26,8 @@
             "py/object": "parser_result.Component",
             "snippet": "Россия\n     \t(короткометражка, мультфильм)\n     ",
             "title": "Криминальное чтиво линейное за 60 секунд",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "5.9",
             "year": "2013"
         },
         {
@@ -33,7 +36,8 @@
             "py/object": "parser_result.Component",
             "snippet": "Россия, реж. Алексей Луканев\n     \t(криминал, драма, боевик)\n     ",
             "title": "Криминальное наследство (мини-сериал)",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "6.7",
             "year": "2014"
         },
         {
@@ -42,7 +46,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Боб Коэрр\n     \t(комедия, криминал)\n     ",
             "title": "Тривиальное чтиво",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "3.3",
             "year": "1997"
         },
         {
@@ -51,7 +56,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Эрик Бросс\n     \t(триллер, комедия)\n     ",
             "title": "Убойное чтиво",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "6.3",
             "year": "2000"
         }
     ],

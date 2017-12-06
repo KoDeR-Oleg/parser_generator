@@ -2,102 +2,99 @@
     "components": [
         {
             "alignment": "LEFT",
-            "page_url": "/film/priklyucheniya-sherloka-kholmsa-i-doktora-vatsona-sobaka-baskerviley-1981-77263/sr/1/",
+            "page_url": "/name/7640/sr/1/",
             "py/object": "parser_result.Component",
-            "snippet": "СССР, реж. Игорь Масленников\n     \t(криминал, детектив)\n     ",
-            "title": "Приключения Шерлока Холмса и доктора Ватсона: Собака Баскервилей (ТВ)",
-            "type": "Cinema",
-            "year": "1981"
+            "snippet": "\n     \tактер, сценарист, продюсер, режиссер, оператор, монтажер\n     \t\n     \t54 года\n     ",
+            "title": "Квентин Тарантино",
+            "type": "Actor"
         },
         {
             "alignment": "LEFT",
-            "page_url": "/film/sherlok-kholms-i-doktor-vatson-znakomstvo-1979-77269/sr/1/",
+            "page_url": "/name/537440/sr/1/",
             "py/object": "parser_result.Component",
-            "snippet": "СССР, реж. Игорь Масленников\n     \t(криминал, детектив)\n     ",
-            "title": "Шерлок Холмс и доктор Ватсон: Знакомство (сериал)",
-            "type": "Cinema",
-            "year": "1979"
+            "snippet": "\n     \tрежиссер, сценарист, композитор, оператор, монтажер, актер\n     \t\n     \t43 года\n     ",
+            "title": "Квентин Дюпьё",
+            "type": "Actor"
         },
         {
             "alignment": "LEFT",
-            "page_url": "/film/sherlok-kholms-i-doktor-vatson-krovavaya-nadpis-1979-77265/sr/1/",
+            "page_url": "/name/305844/sr/1/",
             "py/object": "parser_result.Component",
-            "snippet": "СССР, реж. Игорь Масленников\n     \t(криминал, детектив)\n     ",
-            "title": "Шерлок Холмс и доктор Ватсон: Кровавая надпись (ТВ)",
-            "type": "Cinema",
-            "year": "1979"
+            "snippet": "\n     \tактриса, режиссер, сценарист\n     \t\n     \t57 лет\n     ",
+            "title": "Кэролайн Квентин",
+            "type": "Actor"
         },
         {
             "alignment": "LEFT",
-            "page_url": "/film/sherlok-kholms-i-doktor-vatson-smertelnaya-skhvatka-1980-354799/sr/1/",
+            "page_url": "/name/92874/sr/1/",
             "py/object": "parser_result.Component",
-            "snippet": "СССР, реж. Игорь Масленников\n     \t(криминал, детектив)\n     ",
-            "title": "Шерлок Холмс и доктор Ватсон: Смертельная схватка (ТВ)",
-            "type": "Cinema",
-            "year": "1980"
+            "snippet": "\n     \tактер, сценарист\n     \t\n     \t90 лет\n     ",
+            "title": "Квентин Крисп",
+            "type": "Actor"
         },
         {
             "alignment": "LEFT",
-            "page_url": "/film/sherlok-kholms-i-doktor-vatson-korol-shantazha-1980-368936/sr/1/",
+            "page_url": "/name/60400/sr/1/",
             "py/object": "parser_result.Component",
-            "snippet": "СССР, реж. Игорь Масленников\n     \t(криминал, детектив)\n     ",
-            "title": "Шерлок Холмс и доктор Ватсон: Король шантажа (ТВ)",
-            "type": "Cinema",
-            "year": "1980"
+            "snippet": "\n     \tактер\n     \t\n     \t60 лет\n     ",
+            "title": "Квентин Вилсон",
+            "type": "Actor"
         },
         {
             "alignment": "LEFT",
-            "page_url": "/film/priklyucheniya-sherloka-kholmsa-i-doktora-vatsona-okhota-na-tigra-1980-368937/sr/1/",
+            "page_url": "/name/1086632/sr/1/",
             "py/object": "parser_result.Component",
-            "snippet": "СССР, реж. Игорь Масленников\n     \t(криминал, детектив)\n     ",
-            "title": "Приключения Шерлока Холмса и доктора Ватсона: Охота на тигра (ТВ)",
-            "type": "Cinema",
-            "year": "1980"
+            "snippet": "\n     \tактер\n     \t\n     \t34 года\n     ",
+            "title": "Квентин Ласбазейе",
+            "type": "Actor"
         },
         {
             "alignment": "LEFT",
-            "page_url": "/name/40779/sr/1/",
+            "page_url": "/film/21-god-kventin-tarantino-2016-885072/sr/1/",
             "py/object": "parser_result.Component",
-            "snippet": "\n     \tактриса\n     \t\n     \t27 лет\n     ",
-            "title": "Эмма Уотсон",
+            "snippet": "США, реж. Тара Вуд\n     \t(документальный)\n     ",
+            "title": "21 год: Квентин Тарантино",
             "type": "Cinema",
-            "year": "1990"
+            "year": "2016"
         },
         {
             "alignment": "LEFT",
-            "page_url": "/name/9943/sr/1/",
+            "page_url": "/film/kventin-dorvard-1955-26969/sr/1/",
             "py/object": "parser_result.Component",
-            "snippet": "\n     \tактриса, продюсер, режиссер, сценарист\n     \t\n     \t38 лет\n     ",
-            "title": "Кэти Холмс",
-            "type": "Cinema",
-            "year": "1978"
+            "snippet": "США, реж. Ричард Торп\n     \t(боевик, мелодрама, приключения...)\n     ",
+            "title": "Квентин Дорвард",
+            "type": "EvaluatedCinema",
+            "value": "6.5",
+            "year": "1955"
         },
         {
             "alignment": "LEFT",
-            "page_url": "/name/582209/sr/1/",
+            "page_url": "/film/san-kventin-1937-10733/sr/1/",
             "py/object": "parser_result.Component",
-            "snippet": "\n     \tактер\n     \t\n     \t39 лет\n     ",
-            "title": "Эштон Холмс",
-            "type": "Cinema",
-            "year": "1978"
+            "snippet": "США, реж. Ллойд Бэйкон\n     \t(фильм-нуар, драма)\n     ",
+            "title": "Сан-Квентин",
+            "type": "EvaluatedCinema",
+            "value": "7.0",
+            "year": "1937"
         },
         {
             "alignment": "LEFT",
-            "page_url": "/name/2794/sr/1/",
+            "page_url": "/film/kventin-dorvard-1971-737669/sr/1/",
             "py/object": "parser_result.Component",
-            "snippet": "\n     \tактер\n     \t\n     \t70 лет\n     ",
-            "title": "Холмс Осборн",
+            "snippet": "Франция... реж. Жиль Гранжье\n     \t(приключения)\n     ",
+            "title": "Квентин Дорвард (сериал)",
             "type": "Cinema",
-            "year": "1947"
+            "year": "1971"
         },
         {
             "alignment": "LEFT",
-            "page_url": "/name/303933/sr/1/",
+            "page_url": "/film/malenkiy-kventin-2010-736040/sr/1/",
             "py/object": "parser_result.Component",
-            "snippet": "\n     \tактер, композитор\n     \t\n     \t58 лет\n     ",
-            "title": "Константин Кинчев",
-            "type": "Cinema",
-            "year": "1958"
+            "snippet": "Нидерланды, реж. Альберт 'т Хуфт...\n     \t(мультфильм, короткометражка, комедия)\n     ",
+            "title": "Маленький Квентин",
+            "type": "EvaluatedCinema",
+            "value": "7.7",
+            "year": "2010"
         }
     ],
     "py/object": "parser_result.ParserResult"

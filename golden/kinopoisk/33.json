@@ -6,7 +6,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Мартин Скорсезе\n     \t(триллер, детектив)\n     ",
             "title": "Остров проклятых",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "8.5",
             "year": "2009"
         },
         {
@@ -15,7 +16,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Майкл Бэй\n     \t(фантастика, боевик, триллер...)\n     ",
             "title": "Остров",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "7.5",
             "year": "2005"
         },
         {
@@ -24,7 +26,8 @@
             "py/object": "parser_result.Component",
             "snippet": "Китай... реж. Джордан Вот-Робертс\n     \t(фантастика, фэнтези, боевик...)\n     ",
             "title": "Конг: Остров черепа",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "6.4",
             "year": "2017"
         },
         {
@@ -33,7 +36,8 @@
             "py/object": "parser_result.Component",
             "snippet": "Россия, реж. Михаил Старчак...\n     \t(комедия)\n     ",
             "title": "Остров (сериал)",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "6.8",
             "year": "2016 – ..."
         },
         {
@@ -42,7 +46,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Брэд Андерсон\n     \t(триллер)\n     ",
             "title": "Обитель проклятых",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "7.2",
             "year": "2014"
         },
         {
@@ -51,7 +56,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Брэд Пейтон\n     \t(фантастика, фэнтези, боевик...)\n     ",
             "title": "Путешествие 2: Таинственный остров",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "6.3",
             "year": "2012"
         },
         {
@@ -60,8 +66,7 @@
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактриса, сценарист\n     \t\n     \t27 лет\n     ",
             "title": "Анна Острём",
-            "type": "Cinema",
-            "year": "1990"
+            "type": "Actor"
         },
         {
             "alignment": "LEFT",
@@ -69,8 +74,7 @@
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактриса, продюсер\n     \t\n     \t40 лет\n     ",
             "title": "Мередит Остром",
-            "type": "Cinema",
-            "year": "1977"
+            "type": "Actor"
         },
         {
             "alignment": "LEFT",
@@ -78,26 +82,7 @@
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер, продюсер\n     \t\n     \t58 лет\n     ",
             "title": "Энди Острой",
-            "type": "Cinema",
-            "year": "1959"
-        },
-        {
-            "alignment": "LEFT",
-            "page_url": "/level/9/cinema/263857/",
-            "py/object": "parser_result.Component",
-            "snippet": "+7 (8512) 31-70-05 ",
-            "title": "«Киноцентр \"Остров сокровищ\"»",
-            "type": "Cinema",
-            "year": "Астрахань"
-        },
-        {
-            "alignment": "LEFT",
-            "page_url": "/level/9/cinema/264743/",
-            "py/object": "parser_result.Component",
-            "snippet": "+7 (8512) 31-70-05 ",
-            "title": "«Киноцентр \"Остров сокровищ\" (Магистральная)»",
-            "type": "Cinema",
-            "year": "Астрахань"
+            "type": "Actor"
         }
     ],
     "py/object": "parser_result.ParserResult"

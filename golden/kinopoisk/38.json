@@ -6,7 +6,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Пенни Маршалл\n     \t(драма, биография)\n     ",
             "title": "Пробуждение",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "8.4",
             "year": "1990"
         },
         {
@@ -15,7 +16,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Элли Каннер\n     \t(драма, мелодрама, комедия)\n     ",
             "title": "Пробуждение",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "6.4",
             "year": "2009"
         },
         {
@@ -24,7 +26,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Джеффри Рейнер...\n     \t(фантастика, фэнтези, драма...)\n     ",
             "title": "Пробуждение (сериал)",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "7.6",
             "year": "2012"
         },
         {
@@ -33,7 +36,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. М. Найт Шьямалан\n     \t(драма, комедия, семейный)\n     ",
             "title": "Пробуждение",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "7.0",
             "year": "1998"
         },
         {
@@ -42,7 +46,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Агустин\n     \t(триллер, мелодрама)\n     ",
             "title": "Пробуждение",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "7.5",
             "year": "2009"
         },
         {
@@ -51,7 +56,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Дэрик Лу\n     \t(фантастика, драма, мелодрама)\n     ",
             "title": "Пробуждение",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "7.0",
             "year": "2012"
         }
     ],

@@ -6,7 +6,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Тони Кэй\n     \t(драма, криминал)\n     ",
             "title": "Американская история X",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "8.3",
             "year": "1998"
         },
         {
@@ -15,7 +16,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Брэдли Букер...\n     \t(ужасы, триллер, драма)\n     ",
             "title": "Американская история ужасов (сериал)",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "7.9",
             "year": "2011 – ..."
         },
         {
@@ -24,7 +26,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Райан Мёрфи...\n     \t(драма, криминал, биография)\n     ",
             "title": "Американская история преступлений (сериал)",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "7.8",
             "year": "2016 – ..."
         },
         {
@@ -33,7 +36,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Дон Блут\n     \t(мультфильм, мюзикл, драма...)\n     ",
             "title": "Американская история",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "7.6",
             "year": "1986"
         },
         {
@@ -42,7 +46,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Фил Ниббелинк...\n     \t(мультфильм, мюзикл, приключения...)\n     ",
             "title": "Американская история 2: Фивел едет на Запад",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "7.2",
             "year": "1991"
         },
         {
@@ -51,7 +56,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Ларри Лэтэм\n     \t(мультфильм, приключения, семейный)\n     ",
             "title": "Американская история 3: Сокровища острова Манхэттен (видео)",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "6.5",
             "year": "1998"
         }
     ],

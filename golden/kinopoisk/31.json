@@ -6,7 +6,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Эндрю Стэнтон\n     \t(мультфильм, фантастика, приключения...)\n     ",
             "title": "ВАЛЛ·И",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "8.3",
             "year": "2008"
         },
         {
@@ -60,8 +61,7 @@
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер\n     \t\n     \t39 лет\n     ",
             "title": "Валентин Валл",
-            "type": "Cinema",
-            "year": "1978"
+            "type": "Actor"
         },
         {
             "alignment": "LEFT",
@@ -69,8 +69,7 @@
             "py/object": "parser_result.Component",
             "snippet": "\n     \tрежиссер, продюсер, монтажер, сценарист, актер\n     \t\n     \t54 года\n     ",
             "title": "Жан-Марк Валле",
-            "type": "Cinema",
-            "year": "1963"
+            "type": "Actor"
         },
         {
             "alignment": "LEFT",
@@ -78,8 +77,7 @@
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер, сценарист\n     \t\n     \t30 лет\n     ",
             "title": "Валло Кирс",
-            "type": "Cinema",
-            "year": "1987"
+            "type": "Actor"
         }
     ],
     "py/object": "parser_result.ParserResult"

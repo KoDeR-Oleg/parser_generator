@@ -6,7 +6,8 @@
             "py/object": "parser_result.Component",
             "snippet": "Италия, реж. Роберто Бениньи\n     \t(драма, комедия, военный)\n     ",
             "title": "Жизнь прекрасна",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "8.6",
             "year": "1997"
         },
         {
@@ -15,7 +16,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Джонатан Левин\n     \t(драма, мелодрама, комедия)\n     ",
             "title": "Жизнь прекрасна",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "7.5",
             "year": "2011"
         },
         {
@@ -24,7 +26,8 @@
             "py/object": "parser_result.Component",
             "snippet": "СССР... реж. Григорий Чухрай\n     \t(драма)\n     ",
             "title": "Жизнь прекрасна",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "6.5",
             "year": "1979"
         },
         {

@@ -6,7 +6,8 @@
             "py/object": "parser_result.Component",
             "snippet": "Великобритания, реж. Гай Ричи\n     \t(комедия, криминал)\n     ",
             "title": "Карты, деньги, два ствола",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "8.5",
             "year": "1998"
         },
         {
@@ -15,7 +16,8 @@
             "py/object": "parser_result.Component",
             "snippet": "Великобритания... реж. Ник Джонс...\n     \t(драма, комедия)\n     ",
             "title": "Карты, деньги и два ствола 2 (сериал)",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "5.8",
             "year": "2000"
         },
         {
@@ -24,7 +26,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Бальтасар Кормакур\n     \t(боевик, триллер, драма...)\n     ",
             "title": "Два ствола",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "7.0",
             "year": "2013"
         },
         {
@@ -33,7 +36,8 @@
             "py/object": "parser_result.Component",
             "snippet": "Нидерланды... реж. Мартин Смитс...\n     \t(боевик, комедия)\n     ",
             "title": "Два ствола",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "5.1",
             "year": "2015"
         },
         {
@@ -42,7 +46,8 @@
             "py/object": "parser_result.Component",
             "snippet": "Нидерланды, реж. Мартин Смитс...\n     \t(боевик, комедия)\n     ",
             "title": "Два ствола (сериал)",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "6.5",
             "year": "2013 – ..."
         },
         {
@@ -60,8 +65,7 @@
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактриса, сценарист, продюсер\n     \t\n     \t45 лет\n     ",
             "title": "Дженни МакКарти",
-            "type": "Cinema",
-            "year": "1972"
+            "type": "Actor"
         },
         {
             "alignment": "LEFT",
@@ -69,8 +73,7 @@
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер, режиссер, сценарист, продюсер, монтажер\n     \t\n     \t78 лет\n     ",
             "title": "Картал Тибет",
-            "type": "Cinema",
-            "year": "1939"
+            "type": "Actor"
         },
         {
             "alignment": "LEFT",
@@ -78,8 +81,7 @@
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер\n     \t\n     \t40 лет\n     ",
             "title": "Карти Шивакумар",
-            "type": "Cinema",
-            "year": "1977"
+            "type": "Actor"
         },
         {
             "alignment": "LEFT",
@@ -87,8 +89,7 @@
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактриса\n     \t\n     \t26 лет\n     ",
             "title": "Кярт Таммярв",
-            "type": "Cinema",
-            "year": "1991"
+            "type": "Actor"
         },
         {
             "alignment": "LEFT",
@@ -96,8 +97,7 @@
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактриса\n     \t\n     \t49 лет\n     ",
             "title": "Марин Картье",
-            "type": "Cinema",
-            "year": "1968"
+            "type": "Actor"
         }
     ],
     "py/object": "parser_result.ParserResult"

@@ -6,7 +6,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Гор Вербински\n     \t(фэнтези, боевик, приключения)\n     ",
             "title": "Пираты Карибского моря: Проклятие Черной жемчужины",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "8.3",
             "year": "2003"
         },
         {
@@ -15,7 +16,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Гор Вербински\n     \t(фэнтези, боевик, приключения)\n     ",
             "title": "Пираты Карибского моря: Сундук мертвеца",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "8.1",
             "year": "2006"
         },
         {
@@ -24,7 +26,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Гор Вербински\n     \t(фэнтези, боевик, приключения)\n     ",
             "title": "Пираты Карибского моря: На краю Света",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "8.0",
             "year": "2007"
         },
         {
@@ -33,7 +36,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США... реж. Роб Маршалл\n     \t(фэнтези, боевик, комедия...)\n     ",
             "title": "Пираты Карибского моря: На странных берегах",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "7.4",
             "year": "2011"
         },
         {
@@ -42,7 +46,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Хоаким Роннинг...\n     \t(фэнтези, боевик, комедия...)\n     ",
             "title": "Пираты Карибского моря: Мертвецы не рассказывают сказки",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "6.6",
             "year": "2017"
         },
         {
@@ -51,44 +56,15 @@
             "py/object": "parser_result.Component",
             "snippet": "\n     \t\n     \t\n     \t65 лет\n     ",
             "title": "Михаил Черной",
-            "type": "Cinema",
-            "year": "1952"
+            "type": "Actor"
         },
         {
             "alignment": "LEFT",
             "page_url": "/name/2669/sr/1/",
             "py/object": "parser_result.Component",
-            "snippet": "\n     \tактриса, продюсер\n     \t\n     \t56 лет\n     ",
+            "snippet": "\n     \tактриса, продюсер\n     \t\n     \t57 лет\n     ",
             "title": "Джулианна Мур",
-            "type": "Cinema",
-            "year": "1960"
-        },
-        {
-            "alignment": "LEFT",
-            "page_url": "/level/9/cinema/280854/",
-            "py/object": "parser_result.Component",
-            "snippet": "8 (800) 250-80-25 ",
-            "title": "«Формула Кино Жемчужина»",
-            "type": "Cinema",
-            "year": "Санкт-Петербург"
-        },
-        {
-            "alignment": "LEFT",
-            "page_url": "/level/9/cinema/280419/",
-            "py/object": "parser_result.Component",
-            "snippet": "+7 (965) 955-88-88 заказ билетов",
-            "title": "«Черная Жемчужина»",
-            "type": "Cinema",
-            "year": "Грозный"
-        },
-        {
-            "alignment": "LEFT",
-            "page_url": "/level/9/cinema/280448/",
-            "py/object": "parser_result.Component",
-            "snippet": "+7 (38557) 2-97-67 касса",
-            "title": "«Жемчужина»",
-            "type": "Cinema",
-            "year": "Рубцовск"
+            "type": "Actor"
         }
     ],
     "py/object": "parser_result.ParserResult"

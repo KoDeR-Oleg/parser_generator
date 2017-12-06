@@ -6,7 +6,8 @@
             "py/object": "parser_result.Component",
             "snippet": "Германия, реж. Томас Ян\n     \t(драма, комедия, криминал)\n     ",
             "title": "Достучаться до небес",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "8.6",
             "year": "1997"
         },
         {
@@ -15,7 +16,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Патрисия Ригген\n     \t(драма, семейный, биография)\n     ",
             "title": "Чудеса с небес",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "7.0",
             "year": "2016"
         },
         {
@@ -24,7 +26,8 @@
             "py/object": "parser_result.Component",
             "snippet": "Великобритания... реж. Бернардо Бертолуччи\n     \t(драма, приключения)\n     ",
             "title": "Под покровом небес",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "7.5",
             "year": "1990"
         },
         {
@@ -33,7 +36,8 @@
             "py/object": "parser_result.Component",
             "snippet": "Иран, реж. Маджид Маджиди\n     \t(драма, семейный)\n     ",
             "title": "Дети небес",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "8.0",
             "year": "1997"
         },
         {
@@ -42,7 +46,8 @@
             "py/object": "parser_result.Component",
             "snippet": "Япония, реж. Кабураки Хиро\n     \t(аниме, мультфильм, мелодрама)\n     ",
             "title": "Достучаться до тебя (сериал)",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "7.9",
             "year": "2009 – 2011"
         },
         {
@@ -51,7 +56,8 @@
             "py/object": "parser_result.Component",
             "snippet": "Россия, реж. Петр Амелин\n     \t(детектив)\n     ",
             "title": "С небес на землю (мини-сериал)",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "6.6",
             "year": "2015"
         }
     ],

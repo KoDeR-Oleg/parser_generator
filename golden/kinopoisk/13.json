@@ -6,7 +6,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Рон Ховард\n     \t(драма, биография)\n     ",
             "title": "Игры разума",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "8.6",
             "year": "2001"
         },
         {
@@ -15,7 +16,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Адриан Карр\n     \t(детектив)\n     ",
             "title": "Игры разума",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "7.8",
             "year": "2003"
         },
         {
@@ -24,7 +26,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Тимоти Басфилд...\n     \t(драма)\n     ",
             "title": "Игры разума (сериал)",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "6.3",
             "year": "2014"
         },
         {
@@ -42,7 +45,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Майкл Нигро...\n     \t(документальный, игра, реальное ТВ...)\n     ",
             "title": "Игры разума (сериал)",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "8.4",
             "year": "2011 – ..."
         },
         {
@@ -60,8 +64,7 @@
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактриса\n     \t\n     \t66 лет\n     ",
             "title": "Регина Разума",
-            "type": "Cinema",
-            "year": "1951"
+            "type": "Actor"
         },
         {
             "alignment": "LEFT",
@@ -69,8 +72,7 @@
             "py/object": "parser_result.Component",
             "snippet": "\n     \tоператор\n     \t\n     \t80 лет\n     ",
             "title": "Александр Разумов",
-            "type": "Cinema",
-            "year": "1937"
+            "type": "Actor"
         },
         {
             "alignment": "LEFT",
@@ -78,8 +80,7 @@
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер\n     \t\n     \t68 лет\n     ",
             "title": "Степан  Разумов",
-            "type": "Cinema",
-            "year": "1909 – 1978"
+            "type": "Actor"
         }
     ],
     "py/object": "parser_result.ParserResult"

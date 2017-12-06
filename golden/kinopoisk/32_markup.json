@@ -7,7 +7,7 @@
                 "py/object": "trees.html_path.HTMLPath",
                 "xpath": "//html/body[1]/div[3]/div[1]/table[1]/tr[1]/td[1]/div[1]/div[3]/div[1]/div[2]/p/a"
             },
-            "py/object": "markups.cinema_markup.CinemaComponent",
+            "py/object": "markups.cinema_markup.EvaluatedCinemaComponent",
             "snippet": {
                 "attr": "string",
                 "py/object": "trees.html_path.HTMLPath",
@@ -18,7 +18,12 @@
                 "py/object": "trees.html_path.HTMLPath",
                 "xpath": "//html/body[1]/div[3]/div[1]/table[1]/tr[1]/td[1]/div[1]/div[3]/div[1]/div[2]/p/a"
             },
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": {
+                "attr": "string",
+                "py/object": "trees.html_path.HTMLPath",
+                "xpath": "//html/body[1]/div[3]/div[1]/table[1]/tr[1]/td[1]/div[1]/div[3]/div[1]/div[1]/div"
+            },
             "year": {
                 "attr": "string",
                 "py/object": "trees.html_path.HTMLPath",
@@ -32,7 +37,7 @@
                 "py/object": "trees.html_path.HTMLPath",
                 "xpath": "//html/body[1]/div[3]/div[1]/table[1]/tr[1]/td[1]/div[1]/div[4]/div[1]/div[2]/p/a"
             },
-            "py/object": "markups.cinema_markup.CinemaComponent",
+            "py/object": "markups.cinema_markup.EvaluatedCinemaComponent",
             "snippet": {
                 "attr": "string",
                 "py/object": "trees.html_path.HTMLPath",
@@ -43,7 +48,12 @@
                 "py/object": "trees.html_path.HTMLPath",
                 "xpath": "//html/body[1]/div[3]/div[1]/table[1]/tr[1]/td[1]/div[1]/div[4]/div[1]/div[2]/p/a"
             },
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": {
+                "attr": "string",
+                "py/object": "trees.html_path.HTMLPath",
+                "xpath": "//html/body[1]/div[3]/div[1]/table[1]/tr[1]/td[1]/div[1]/div[4]/div[1]/div[1]/div"
+            },
             "year": {
                 "attr": "string",
                 "py/object": "trees.html_path.HTMLPath",
@@ -82,7 +92,7 @@
                 "py/object": "trees.html_path.HTMLPath",
                 "xpath": "//html/body[1]/div[3]/div[1]/table[1]/tr[1]/td[1]/div[1]/div[4]/div[3]/div[2]/p/a"
             },
-            "py/object": "markups.cinema_markup.CinemaComponent",
+            "py/object": "markups.cinema_markup.EvaluatedCinemaComponent",
             "snippet": {
                 "attr": "string",
                 "py/object": "trees.html_path.HTMLPath",
@@ -93,7 +103,12 @@
                 "py/object": "trees.html_path.HTMLPath",
                 "xpath": "//html/body[1]/div[3]/div[1]/table[1]/tr[1]/td[1]/div[1]/div[4]/div[3]/div[2]/p/a"
             },
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": {
+                "attr": "string",
+                "py/object": "trees.html_path.HTMLPath",
+                "xpath": "//html/body[1]/div[3]/div[1]/table[1]/tr[1]/td[1]/div[1]/div[4]/div[3]/div[1]/div"
+            },
             "year": {
                 "attr": "string",
                 "py/object": "trees.html_path.HTMLPath",
@@ -107,7 +122,7 @@
                 "py/object": "trees.html_path.HTMLPath",
                 "xpath": "//html/body[1]/div[3]/div[1]/table[1]/tr[1]/td[1]/div[1]/div[4]/div[5]/div[2]/p/a"
             },
-            "py/object": "markups.cinema_markup.CinemaComponent",
+            "py/object": "markups.cinema_markup.EvaluatedCinemaComponent",
             "snippet": {
                 "attr": "string",
                 "py/object": "trees.html_path.HTMLPath",
@@ -118,7 +133,12 @@
                 "py/object": "trees.html_path.HTMLPath",
                 "xpath": "//html/body[1]/div[3]/div[1]/table[1]/tr[1]/td[1]/div[1]/div[4]/div[5]/div[2]/p/a"
             },
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": {
+                "attr": "string",
+                "py/object": "trees.html_path.HTMLPath",
+                "xpath": "//html/body[1]/div[3]/div[1]/table[1]/tr[1]/td[1]/div[1]/div[4]/div[5]/div[1]/div"
+            },
             "year": {
                 "attr": "string",
                 "py/object": "trees.html_path.HTMLPath",
@@ -144,11 +164,7 @@
                 "xpath": "//html/body[1]/div[3]/div[1]/table[1]/tr[1]/td[1]/div[1]/div[5]/div[1]/div[2]/p/a"
             },
             "type": "Cinema",
-            "year": {
-                "attr": "string",
-                "py/object": "trees.html_path.HTMLPath",
-                "xpath": "//html/body[1]/div[3]/div[1]/table[1]/tr[1]/td[1]/div[1]/div[5]/div[1]/div[2]/p/span"
-            }
+            "year": null
         },
         {
             "alignment": "LEFT",
@@ -169,11 +185,7 @@
                 "xpath": "//html/body[1]/div[3]/div[1]/table[1]/tr[1]/td[1]/div[1]/div[5]/div[4]/div[2]/p/a"
             },
             "type": "Cinema",
-            "year": {
-                "attr": "string",
-                "py/object": "trees.html_path.HTMLPath",
-                "xpath": "//html/body[1]/div[3]/div[1]/table[1]/tr[1]/td[1]/div[1]/div[5]/div[4]/div[2]/p/span"
-            }
+            "year": null
         },
         {
             "alignment": "LEFT",
@@ -194,11 +206,7 @@
                 "xpath": "//html/body[1]/div[3]/div[1]/table[1]/tr[1]/td[1]/div[1]/div[6]/div[1]/div[2]/p/a"
             },
             "type": "Cinema",
-            "year": {
-                "attr": "string",
-                "py/object": "trees.html_path.HTMLPath",
-                "xpath": "//html/body[1]/div[3]/div[1]/table[1]/tr[1]/td[1]/div[1]/div[6]/div[1]/div[2]/p/span"
-            }
+            "year": null
         },
         {
             "alignment": "LEFT",
@@ -219,11 +227,7 @@
                 "xpath": "//html/body[1]/div[3]/div[1]/table[1]/tr[1]/td[1]/div[1]/div[6]/div[2]/div[2]/p/a"
             },
             "type": "Cinema",
-            "year": {
-                "attr": "string",
-                "py/object": "trees.html_path.HTMLPath",
-                "xpath": "//html/body[1]/div[3]/div[1]/table[1]/tr[1]/td[1]/div[1]/div[6]/div[2]/div[2]/p/span"
-            }
+            "year": null
         },
         {
             "alignment": "LEFT",
@@ -244,11 +248,7 @@
                 "xpath": "//html/body[1]/div[3]/div[1]/table[1]/tr[1]/td[1]/div[1]/div[6]/div[3]/div[2]/p/a"
             },
             "type": "Cinema",
-            "year": {
-                "attr": "string",
-                "py/object": "trees.html_path.HTMLPath",
-                "xpath": "//html/body[1]/div[3]/div[1]/table[1]/tr[1]/td[1]/div[1]/div[6]/div[3]/div[2]/p/span"
-            }
+            "year": null
         },
         {
             "alignment": "LEFT",
@@ -269,11 +269,7 @@
                 "xpath": "//html/body[1]/div[3]/div[1]/table[1]/tr[1]/td[1]/div[1]/div[6]/div[4]/div[2]/p/a"
             },
             "type": "Cinema",
-            "year": {
-                "attr": "string",
-                "py/object": "trees.html_path.HTMLPath",
-                "xpath": "//html/body[1]/div[3]/div[1]/table[1]/tr[1]/td[1]/div[1]/div[6]/div[4]/div[2]/p/span"
-            }
+            "year": null
         },
         {
             "alignment": "LEFT",
@@ -294,11 +290,7 @@
                 "xpath": "//html/body[1]/div[3]/div[1]/table[1]/tr[1]/td[1]/div[1]/div[6]/div[5]/div[2]/p/a"
             },
             "type": "Cinema",
-            "year": {
-                "attr": "string",
-                "py/object": "trees.html_path.HTMLPath",
-                "xpath": "//html/body[1]/div[3]/div[1]/table[1]/tr[1]/td[1]/div[1]/div[6]/div[5]/div[2]/p/span"
-            }
+            "year": null
         },
         {
             "alignment": "LEFT",
@@ -319,11 +311,7 @@
                 "xpath": "//html/body[1]/div[3]/div[1]/table[1]/tr[1]/td[1]/div[1]/div[6]/div[6]/div[2]/p/a"
             },
             "type": "Cinema",
-            "year": {
-                "attr": "string",
-                "py/object": "trees.html_path.HTMLPath",
-                "xpath": "//html/body[1]/div[3]/div[1]/table[1]/tr[1]/td[1]/div[1]/div[6]/div[6]/div[2]/p/span"
-            }
+            "year": null
         }
     ],
     "file": "32.html",

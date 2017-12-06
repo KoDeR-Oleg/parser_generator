@@ -6,7 +6,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Билли Уайлдер\n     \t(мелодрама, комедия, криминал...)\n     ",
             "title": "В джазе только девушки",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "8.5",
             "year": "1959"
         },
         {
@@ -15,7 +16,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Майкл Лембек\n     \t(комедия, криминал, музыка)\n     ",
             "title": "В шоу только девушки",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "6.7",
             "year": "2004"
         },
         {
@@ -24,7 +26,8 @@
             "py/object": "parser_result.Component",
             "snippet": "Россия, реж. Евгений Невский\n     \t(комедия)\n     ",
             "title": "В спорте только девушки",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "5.7",
             "year": "2014"
         },
         {
@@ -60,8 +63,7 @@
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактриса, продюсер\n     \t\n     \t25 лет\n     ",
             "title": "Дэйзи Ридли",
-            "type": "Cinema",
-            "year": "1992"
+            "type": "Actor"
         },
         {
             "alignment": "LEFT",
@@ -69,8 +71,7 @@
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактриса\n     \t\n     \t29 лет\n     ",
             "title": "Джаз Рэйкол",
-            "type": "Cinema",
-            "year": "1988"
+            "type": "Actor"
         }
     ],
     "py/object": "parser_result.ParserResult"

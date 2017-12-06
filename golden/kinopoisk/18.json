@@ -6,7 +6,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США... реж. Питер Джексон\n     \t(фэнтези, драма, приключения)\n     ",
             "title": "Властелин колец: Возвращение Короля",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "8.6",
             "year": "2003"
         },
         {
@@ -15,7 +16,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США... реж. Питер Джексон\n     \t(фэнтези, драма, приключения)\n     ",
             "title": "Властелин колец: Братство кольца",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "8.6",
             "year": "2001"
         },
         {
@@ -24,7 +26,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США... реж. Питер Джексон\n     \t(фэнтези, драма, приключения)\n     ",
             "title": "Властелин колец: Две крепости",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "8.6",
             "year": "2002"
         },
         {
@@ -33,7 +36,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США\n     \t(документальный)\n     ",
             "title": "НГО: За кадром – Властелин колец: Возвращение Короля (ТВ)",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "7.1",
             "year": "2003"
         },
         {
@@ -42,7 +46,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Ральф Бакши\n     \t(мультфильм, фэнтези, приключения)\n     ",
             "title": "Властелин колец",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "7.0",
             "year": "1978"
         },
         {
@@ -51,7 +56,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США... реж. Джулз Басс...\n     \t(мультфильм, мюзикл, фэнтези...)\n     ",
             "title": "Возвращение короля (ТВ)",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "6.8",
             "year": "1980"
         },
         {
@@ -60,8 +66,7 @@
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактриса\n     \t\n     \t31 год\n     ",
             "title": "Волга Король",
-            "type": "Cinema",
-            "year": "1986"
+            "type": "Actor"
         },
         {
             "alignment": "LEFT",
@@ -69,8 +74,7 @@
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактриса\n     \t\n     \t31 год\n     ",
             "title": "Катя Король",
-            "type": "Cinema",
-            "year": "1986"
+            "type": "Actor"
         },
         {
             "alignment": "LEFT",
@@ -78,8 +82,7 @@
             "py/object": "parser_result.Component",
             "snippet": "\n     \tрежиссер, актер, сценарист, продюсер\n     \t\n     \t52 года\n     ",
             "title": "Юрий Стааль",
-            "type": "Cinema",
-            "year": "1964"
+            "type": "Actor"
         },
         {
             "alignment": "LEFT",
@@ -87,8 +90,7 @@
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер\n     \t\n     \t28 лет\n     ",
             "title": "Артём Королёв",
-            "type": "Cinema",
-            "year": "1989"
+            "type": "Actor"
         }
     ],
     "py/object": "parser_result.ParserResult"

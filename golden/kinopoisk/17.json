@@ -6,7 +6,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США... реж. Кристофер Нолан\n     \t(фантастика, драма, приключения)\n     ",
             "title": "Интерстеллар",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "8.6",
             "year": "2014"
         },
         {

@@ -6,7 +6,8 @@
             "py/object": "parser_result.Component",
             "snippet": "СССР, реж. Александр Серый\n     \t(драма, комедия, криминал...)\n     ",
             "title": "Джентльмены удачи",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "8.5",
             "year": "1971"
         },
         {
@@ -24,7 +25,8 @@
             "py/object": "parser_result.Component",
             "snippet": "Россия, реж. Александр Баранов...\n     \t(комедия, криминал)\n     ",
             "title": "Джентльмены, удачи!",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "3.0",
             "year": "2012"
         },
         {
@@ -33,7 +35,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США... реж. Марк Хелфрич\n     \t(мелодрама, комедия)\n     ",
             "title": "Удачи, Чак!",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "6.6",
             "year": "2007"
         },
         {
@@ -42,7 +45,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США... реж. Джордж Клуни\n     \t(драма, биография, история)\n     ",
             "title": "Доброй ночи и удачи",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "7.0",
             "year": "2005"
         },
         {
@@ -51,7 +55,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Максим Коростышевский\n     \t(боевик, приключения)\n     ",
             "title": "Солдаты удачи",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "4.9",
             "year": "2011"
         }
     ],

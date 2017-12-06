@@ -6,7 +6,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Роджер Аллерс...\n     \t(мультфильм, мюзикл, драма...)\n     ",
             "title": "Король Лев",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "8.8",
             "year": "1994"
         },
         {
@@ -24,7 +25,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США... реж. Даррел Руни...\n     \t(мультфильм, мюзикл, мелодрама...)\n     ",
             "title": "Король Лев 2: Гордость Симбы (видео)",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "7.8",
             "year": "1998"
         },
         {
@@ -33,7 +35,8 @@
             "py/object": "parser_result.Component",
             "snippet": "Австралия... реж. Брэдли Рэймонд\n     \t(мультфильм, мюзикл, комедия...)\n     ",
             "title": "Король Лев 3: Акуна Матата (видео)",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "7.3",
             "year": "2004"
         },
         {
@@ -42,7 +45,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Хауи Паркинс...\n     \t(мультфильм, приключения, семейный...)\n     ",
             "title": "Хранитель Лев (сериал)",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "5.7",
             "year": "2016 – ..."
         },
         {
@@ -51,7 +55,8 @@
             "py/object": "parser_result.Component",
             "snippet": "Италия, реж. Ким Джон-ок\n     \t(мультфильм, приключения)\n     ",
             "title": "Симба: Король-лев (сериал)",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "6.3",
             "year": "1995"
         },
         {
@@ -60,8 +65,7 @@
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер, актер: дубляж, режиссер\n     \t\n     \t83 года\n     ",
             "title": "Лев Дуров",
-            "type": "Cinema",
-            "year": "1931 – 2015"
+            "type": "Actor"
         },
         {
             "alignment": "LEFT",
@@ -69,8 +73,7 @@
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер\n     \t\n     \t77 лет\n     ",
             "title": "Лев Борисов",
-            "type": "Cinema",
-            "year": "1933 – 2011"
+            "type": "Actor"
         },
         {
             "alignment": "LEFT",
@@ -78,8 +81,7 @@
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер, актер: дубляж\n     \t\n     \t78 лет\n     ",
             "title": "Лев Прыгунов",
-            "type": "Cinema",
-            "year": "1939"
+            "type": "Actor"
         },
         {
             "alignment": "LEFT",
@@ -87,8 +89,7 @@
             "py/object": "parser_result.Component",
             "snippet": "\n     \tсценарист\n     \t\n     \t82 года\n     ",
             "title": "Лев Толстой",
-            "type": "Cinema",
-            "year": "1828 – 1910"
+            "type": "Actor"
         },
         {
             "alignment": "LEFT",
@@ -96,17 +97,7 @@
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер, актер: дубляж\n     \t\n     \t66 лет\n     ",
             "title": "Лев Перфилов",
-            "type": "Cinema",
-            "year": "1933 – 2000"
-        },
-        {
-            "alignment": "LEFT",
-            "page_url": "/level/9/cinema/281118/",
-            "py/object": "parser_result.Component",
-            "snippet": "+7 (473) 202-07-87 ",
-            "title": "«Левый берег»",
-            "type": "Cinema",
-            "year": "Воронеж"
+            "type": "Actor"
         }
     ],
     "py/object": "parser_result.ParserResult"

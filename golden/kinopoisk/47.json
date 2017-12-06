@@ -6,7 +6,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Чарльз Чаплин\n     \t(драма, мелодрама, комедия)\n     ",
             "title": "Огни большого города",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "8.5",
             "year": "1931"
         },
         {
@@ -15,7 +16,8 @@
             "py/object": "parser_result.Component",
             "snippet": "Россия, реж. Сергей Виноградов\n     \t(мелодрама)\n     ",
             "title": "Огни большого города (сериал)",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "3.8",
             "year": "2009"
         },
         {
@@ -33,7 +35,8 @@
             "py/object": "parser_result.Component",
             "snippet": "Индия, реж. Зоя Ахтар...\n     \t(драма)\n     ",
             "title": "Говорит и показывает Бомбей",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "6.7",
             "year": "2013"
         },
         {
@@ -51,7 +54,8 @@
             "py/object": "parser_result.Component",
             "snippet": "Россия, реж. Кира Ангелина\n     \t(мелодрама)\n     ",
             "title": "Хозяйка большого города (мини-сериал)",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "6.3",
             "year": "2013"
         },
         {
@@ -60,8 +64,7 @@
             "py/object": "parser_result.Component",
             "snippet": "\n     \tгруппа, актер\n     \t\n     \t16 лет\n     ",
             "title": "Город 312",
-            "type": "Cinema",
-            "year": "2001"
+            "type": "Actor"
         },
         {
             "alignment": "LEFT",
@@ -69,62 +72,7 @@
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер, сценарист\n     \t\n     \t59 лет\n     ",
             "title": "Владимир Большов",
-            "type": "Cinema",
-            "year": "1958"
-        },
-        {
-            "alignment": "LEFT",
-            "page_url": "/level/9/cinema/280663/",
-            "py/object": "parser_result.Component",
-            "snippet": "+7 (3852) 22-32-42 ",
-            "title": "«Огни»",
-            "type": "Cinema",
-            "year": "Барнаул"
-        },
-        {
-            "alignment": "LEFT",
-            "page_url": "/level/9/cinema/280407/",
-            "py/object": "parser_result.Component",
-            "snippet": "+7 (863) 201-28-28 ",
-            "title": "«Большой»",
-            "type": "Cinema",
-            "year": "Ростов-на-Дону"
-        },
-        {
-            "alignment": "LEFT",
-            "page_url": "/level/9/cinema/263442/",
-            "py/object": "parser_result.Component",
-            "snippet": "+7 (812) 677-60-60 ",
-            "title": "«Мираж Синема на Большом»",
-            "type": "Cinema",
-            "year": "Санкт-Петербург"
-        },
-        {
-            "alignment": "LEFT",
-            "page_url": "/level/9/cinema/280465/",
-            "py/object": "parser_result.Component",
-            "snippet": "+7 (8512) 99-95-05 ",
-            "title": "«Большое кино»",
-            "type": "Cinema",
-            "year": "Астрахань"
-        },
-        {
-            "alignment": "LEFT",
-            "page_url": "/level/9/cinema/264556/",
-            "py/object": "parser_result.Component",
-            "snippet": "+7 (391) 290-21-11 ",
-            "title": "«Киномечта (закрыт)»",
-            "type": "Cinema",
-            "year": "Красноярск"
-        },
-        {
-            "alignment": "LEFT",
-            "page_url": "/level/9/cinema/264300/",
-            "py/object": "parser_result.Component",
-            "snippet": "+7 (4212) 45-19-00 ",
-            "title": "«Форум (ТРЦ \"Большая Медведица\")»",
-            "type": "Cinema",
-            "year": "Хабаровск"
+            "type": "Actor"
         }
     ],
     "py/object": "parser_result.ParserResult"

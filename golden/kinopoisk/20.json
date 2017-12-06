@@ -6,7 +6,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Роберт Земекис\n     \t(фантастика, комедия, приключения)\n     ",
             "title": "Назад в будущее",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "8.6",
             "year": "1985"
         },
         {
@@ -15,7 +16,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Фрэнк Маршалл\n     \t(короткометражка, фантастика, комедия)\n     ",
             "title": "Назад в будущее",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "6.7",
             "year": "2011"
         },
         {
@@ -24,7 +26,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Пейтон Рид...\n     \t(мультфильм, фантастика, приключения...)\n     ",
             "title": "Назад в будущее (сериал)",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "6.6",
             "year": "1991 – 1993"
         },
         {
@@ -33,7 +36,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Роберт Земекис\n     \t(фантастика, боевик, комедия...)\n     ",
             "title": "Назад в будущее 2",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "8.3",
             "year": "1989"
         },
         {
@@ -42,7 +46,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Роберт Земекис\n     \t(фантастика, комедия, приключения...)\n     ",
             "title": "Назад в будущее 3",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "8.2",
             "year": "1990"
         },
         {

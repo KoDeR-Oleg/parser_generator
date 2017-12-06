@@ -2,11 +2,37 @@
     "components": [
         {
             "alignment": "LEFT",
+            "page_url": "/name/1829806/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t63 года\n     ",
+            "title": "Шурик Харитонов",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/352432/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t60 лет\n     ",
+            "title": "Руди Шурике",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/film/zheleznyy-shurik-2012-793910/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Россия, реж. Александр Абраменко\n     \t(документальный)\n     ",
+            "title": "Железный Шурик",
+            "type": "Cinema",
+            "year": "2012"
+        },
+        {
+            "alignment": "LEFT",
             "page_url": "/film/operatsiya-y-i-drugie-priklyucheniya-shurika-1965-42782/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "СССР, реж. Леонид Гайдай\n     \t(мелодрама, комедия, криминал)\n     ",
             "title": "Операция «Ы» и другие приключения Шурика",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "8.7",
             "year": "1965"
         },
         {
@@ -15,71 +41,29 @@
             "py/object": "parser_result.Component",
             "snippet": "СССР, реж. Леонид Гайдай\n     \t(мелодрама, комедия, приключения...)\n     ",
             "title": "Кавказская пленница, или Новые приключения Шурика",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "8.5",
             "year": "1966"
         },
         {
             "alignment": "LEFT",
-            "page_url": "/film/prodavec-i-drugie-priklyucheniya-1995-196022/sr/1/",
+            "page_url": "/film/kavkazskaya-plennica-2014-689077/sr/1/",
             "py/object": "parser_result.Component",
-            "snippet": "США, реж. Ханна Вейер\n     \t(короткометражка)\n     ",
-            "title": "Продавец и другие приключения",
-            "type": "Cinema",
-            "year": "1995"
+            "snippet": "Россия, реж. Максим Воронков\n     \t(комедия)\n     ",
+            "title": "Кавказская пленница!",
+            "type": "EvaluatedCinema",
+            "value": "1.1",
+            "year": "2014"
         },
         {
             "alignment": "LEFT",
-            "page_url": "/film/drugie-2001-494/sr/1/",
+            "page_url": "/film/eti-neveroyatnye-muzykanty-1977-469530/sr/1/",
             "py/object": "parser_result.Component",
-            "snippet": "Испания... реж. Алехандро Аменабар\n     \t(ужасы, триллер, детектив)\n     ",
-            "title": "Другие",
-            "type": "Cinema",
-            "year": "2001"
-        },
-        {
-            "alignment": "LEFT",
-            "page_url": "/film/operatsiya-argo-2012-462487/sr/1/",
-            "py/object": "parser_result.Component",
-            "snippet": "США, реж. Бен Аффлек\n     \t(триллер, драма, биография...)\n     ",
-            "title": "Операция «Арго»",
-            "type": "Cinema",
-            "year": "2012"
-        },
-        {
-            "alignment": "LEFT",
-            "page_url": "/film/lyubov-i-drugie-lekarstva-2010-463695/sr/1/",
-            "py/object": "parser_result.Component",
-            "snippet": "США, реж. Эдвард Цвик\n     \t(драма, мелодрама, комедия)\n     ",
-            "title": "Любовь и другие лекарства",
-            "type": "Cinema",
-            "year": "2010"
-        },
-        {
-            "alignment": "LEFT",
-            "page_url": "/name/1829806/sr/1/",
-            "py/object": "parser_result.Component",
-            "snippet": "\n     \tактер\n     \t\n     \t63 года\n     ",
-            "title": "Шурик Харитонов",
-            "type": "Cinema",
-            "year": "1954"
-        },
-        {
-            "alignment": "LEFT",
-            "page_url": "/name/1578249/sr/1/",
-            "py/object": "parser_result.Component",
-            "snippet": "\n     \tсценарист\n     \t\n     \t57 лет\n     ",
-            "title": "Александр Другов",
-            "type": "Cinema",
-            "year": "1960"
-        },
-        {
-            "alignment": "LEFT",
-            "page_url": "/name/352432/sr/1/",
-            "py/object": "parser_result.Component",
-            "snippet": "\n     \tактер\n     \t\n     \t60 лет\n     ",
-            "title": "Руди Шурике",
-            "type": "Cinema",
-            "year": "1913 – 1973"
+            "snippet": "СССР, реж. Юрий Сааков\n     \t(комедия, музыка)\n     ",
+            "title": "Эти невероятные музыканты (ТВ)",
+            "type": "EvaluatedCinema",
+            "value": "7.3",
+            "year": "1977"
         }
     ],
     "py/object": "parser_result.ParserResult"

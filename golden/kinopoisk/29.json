@@ -6,7 +6,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США... реж. Питер Джексон\n     \t(фэнтези, драма, приключения)\n     ",
             "title": "Властелин колец: Две крепости",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "8.6",
             "year": "2002"
         },
         {
@@ -15,7 +16,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США... реж. Питер Джексон\n     \t(фэнтези, драма, приключения)\n     ",
             "title": "Властелин колец: Братство кольца",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "8.6",
             "year": "2001"
         },
         {
@@ -24,7 +26,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США... реж. Питер Джексон\n     \t(фэнтези, драма, приключения)\n     ",
             "title": "Властелин колец: Возвращение Короля",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "8.6",
             "year": "2003"
         },
         {
@@ -33,7 +36,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Ральф Бакши\n     \t(мультфильм, фэнтези, приключения)\n     ",
             "title": "Властелин колец",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "7.0",
             "year": "1978"
         },
         {
@@ -42,7 +46,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США\n     \t(документальный)\n     ",
             "title": "НГО: За кадром – Властелин колец: Возвращение Короля (ТВ)",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "7.1",
             "year": "2003"
         },
         {
@@ -51,7 +56,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Лиза Корс\n     \t(документальный)\n     ",
             "title": "НГО: За кадром – Властелин колец: Братство кольца (ТВ)",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "7.5",
             "year": "2002"
         }
     ],

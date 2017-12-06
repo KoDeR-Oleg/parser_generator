@@ -2,57 +2,100 @@
     "components": [
         {
             "alignment": "LEFT",
-            "page_url": "/film/pianist-2002-355/sr/1/",
+            "page_url": "/film/ivan-2016-977495/sr/1/",
             "py/object": "parser_result.Component",
-            "snippet": "Польша... реж. Роман Полански\n     \t(драма, военный, биография...)\n     ",
-            "title": "Пианист",
-            "type": "Cinema",
-            "year": "2002"
+            "snippet": "Россия, реж. Алена Давыдова\n     \t(драма)\n     ",
+            "title": "Иван",
+            "type": "EvaluatedCinema",
+            "value": "6.7",
+            "year": "2016"
         },
         {
             "alignment": "LEFT",
-            "page_url": "/film/pianist-1996-167829/sr/1/",
+            "page_url": "/film/ivan-1932-42652/sr/1/",
             "py/object": "parser_result.Component",
-            "snippet": "Корея Южная, реж. Сан-ук Ю\n     \t(ужасы, триллер, детектив)\n     ",
-            "title": "Пианист",
-            "type": "Cinema",
-            "year": "1996"
+            "snippet": "СССР, реж. Александр Довженко\n     \t(драма)\n     ",
+            "title": "Иван",
+            "type": "EvaluatedCinema",
+            "value": "6.2",
+            "year": "1932"
         },
         {
             "alignment": "LEFT",
-            "page_url": "/film/pianist-1991-52556/sr/1/",
+            "page_url": "/film/ivan-1982-418672/sr/1/",
             "py/object": "parser_result.Component",
-            "snippet": "Канада, реж. Клод Ганьон\n     \t(мелодрама)\n     ",
-            "title": "Пианист",
-            "type": "Cinema",
-            "year": "1991"
+            "snippet": "СССР, реж. Виталий Дудин\n     \t(драма)\n     ",
+            "title": "Иван (ТВ)",
+            "type": "EvaluatedCinema",
+            "value": "7.2",
+            "year": "1982"
         },
         {
             "alignment": "LEFT",
-            "page_url": "/film/pianist-2010-714243/sr/1/",
+            "page_url": "/film/ivan-2014-910051/sr/1/",
             "py/object": "parser_result.Component",
-            "snippet": "Корея Южная, реж. Мун Джун-ха\n     \t(драма, мелодрама, музыка)\n     ",
-            "title": "Пианист (ТВ)",
+            "snippet": "Россия, реж. Вероника Актанова\n     \t(короткометражка, драма)\n     ",
+            "title": "Иван",
             "type": "Cinema",
-            "year": "2010"
+            "year": "2014"
         },
         {
             "alignment": "LEFT",
-            "page_url": "/film/pianist-2013-841600/sr/1/",
+            "page_url": "/film/ivan-2013-846877/sr/1/",
             "py/object": "parser_result.Component",
-            "snippet": "Россия, реж. Константин Шатов\n     \t(короткометражка, драма)\n     ",
-            "title": "Пианист",
+            "snippet": "Россия, реж. Игорь Моисеев\n     \t(драма, короткометражка)\n     ",
+            "title": "Иван",
             "type": "Cinema",
             "year": "2013"
         },
         {
             "alignment": "LEFT",
-            "page_url": "/film/pianist-2012-915318/sr/1/",
+            "page_url": "/film/ivan-2016-1108611/sr/1/",
             "py/object": "parser_result.Component",
-            "snippet": "Болгария, реж. Ася Кованова...\n     \t(короткометражка)\n     ",
-            "title": "Пианист",
+            "snippet": "Россия, реж. Alyona Davydova\n     \t(драма)\n     ",
+            "title": "Ivan",
             "type": "Cinema",
-            "year": "2012"
+            "year": "2016"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/238527/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер, сценарист, режиссер, продюсер, актер: дубляж\n     \t\n     \t51 год\n     ",
+            "title": "Иван Охлобыстин",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/1908986/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t32 года\n     ",
+            "title": "Иван Реон",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/1122331/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t34 года\n     ",
+            "title": "Иван Жидков",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/681410/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер, актер: дубляж, сценарист, продюсер\n     \t\n     \t39 лет\n     ",
+            "title": "Иван Ургант",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "page_url": "/name/564278/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер, режиссер, сценарист, продюсер\n     \t\n     \t36 лет\n     ",
+            "title": "Иван Стебунов",
+            "type": "Actor"
         }
     ],
     "py/object": "parser_result.ParserResult"

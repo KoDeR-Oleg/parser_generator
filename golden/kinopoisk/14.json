@@ -6,7 +6,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США... реж. Кристофер Нолан\n     \t(фантастика, триллер, драма...)\n     ",
             "title": "Престиж",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "8.5",
             "year": "2006"
         },
         {

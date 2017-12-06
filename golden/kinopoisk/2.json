@@ -6,7 +6,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Роберт Земекис\n     \t(драма, мелодрама, комедия)\n     ",
             "title": "Форрест Гамп",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "8.9",
             "year": "1994"
         },
         {
@@ -15,8 +16,7 @@
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер\n     \t\n     \t19 лет\n     ",
             "title": "Форрест Гудлак",
-            "type": "Cinema",
-            "year": "1998"
+            "type": "Actor"
         },
         {
             "alignment": "LEFT",
@@ -24,8 +24,7 @@
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер\n     \t\n     \t80 лет\n     ",
             "title": "Фредерик Форрест",
-            "type": "Cinema",
-            "year": "1936"
+            "type": "Actor"
         },
         {
             "alignment": "LEFT",
@@ -33,8 +32,7 @@
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер\n     \t\n     \t23 года\n     ",
             "title": "Форрест Лэндис",
-            "type": "Cinema",
-            "year": "1994"
+            "type": "Actor"
         },
         {
             "alignment": "LEFT",
@@ -42,8 +40,7 @@
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер\n     \t\n     \t42 года\n     ",
             "title": "Нэйтан Форрест Уинтерс",
-            "type": "Cinema",
-            "year": "1975"
+            "type": "Actor"
         }
     ],
     "py/object": "parser_result.ParserResult"

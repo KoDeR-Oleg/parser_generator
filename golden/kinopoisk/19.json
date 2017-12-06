@@ -6,7 +6,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США... реж. Ридли Скотт\n     \t(боевик, драма, приключения)\n     ",
             "title": "Гладиатор",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "8.6",
             "year": "2000"
         },
         {
@@ -15,7 +16,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Роуди Херрингтон\n     \t(боевик, драма, спорт)\n     ",
             "title": "Гладиатор",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "7.4",
             "year": "1992"
         },
         {
@@ -24,7 +26,8 @@
             "py/object": "parser_result.Component",
             "snippet": "Испания, реж. Антонио Адамо\n     \t(для взрослых, боевик, приключения)\n     ",
             "title": "Гладиатор (видео)",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "5.2",
             "year": "2002"
         },
         {
@@ -33,7 +36,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Абель Феррара\n     \t(боевик, триллер, драма)\n     ",
             "title": "Гладиатор (ТВ)",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "5.9",
             "year": "1986"
         },
         {

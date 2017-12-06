@@ -6,7 +6,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США... реж. Мартин Скорсезе\n     \t(триллер, драма, криминал)\n     ",
             "title": "Отступники",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "8.5",
             "year": "2006"
         },
         {
@@ -15,7 +16,8 @@
             "py/object": "parser_result.Component",
             "snippet": "Великобритания... реж. Майлс Коннелл\n     \t(драма, мелодрама, комедия...)\n     ",
             "title": "Отступники",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "6.1",
             "year": "2000"
         },
         {

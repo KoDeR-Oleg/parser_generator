@@ -6,7 +6,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США... реж. Питер Джексон\n     \t(фэнтези, драма, приключения)\n     ",
             "title": "Властелин колец: Братство кольца",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "8.6",
             "year": "2001"
         },
         {
@@ -15,7 +16,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США... реж. Питер Джексон\n     \t(фэнтези, драма, приключения)\n     ",
             "title": "Властелин колец: Две крепости",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "8.6",
             "year": "2002"
         },
         {
@@ -24,7 +26,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США... реж. Питер Джексон\n     \t(фэнтези, драма, приключения)\n     ",
             "title": "Властелин колец: Возвращение Короля",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "8.6",
             "year": "2003"
         },
         {
@@ -33,7 +36,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Лиза Корс\n     \t(документальный)\n     ",
             "title": "НГО: За кадром – Властелин колец: Братство кольца (ТВ)",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "7.5",
             "year": "2002"
         },
         {
@@ -42,7 +46,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Ральф Бакши\n     \t(мультфильм, фэнтези, приключения)\n     ",
             "title": "Властелин колец",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "7.0",
             "year": "1978"
         },
         {
@@ -51,7 +56,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США\n     \t(документальный)\n     ",
             "title": "НГО: За кадром – Властелин колец: Возвращение Короля (ТВ)",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "7.1",
             "year": "2003"
         },
         {
@@ -60,8 +66,7 @@
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер\n     \t\n     \t42 года\n     ",
             "title": "Александр Кольцов",
-            "type": "Cinema",
-            "year": "1975"
+            "type": "Actor"
         },
         {
             "alignment": "LEFT",
@@ -69,8 +74,7 @@
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер\n     \t\n     \t79 лет\n     ",
             "title": "Виктор Кольцов",
-            "type": "Cinema",
-            "year": "1898 – 1978"
+            "type": "Actor"
         },
         {
             "alignment": "LEFT",
@@ -78,8 +82,7 @@
             "py/object": "parser_result.Component",
             "snippet": "\n     \tгруппа\n     \t\n     \t29 лет\n     ",
             "title": "Золотое кольцо",
-            "type": "Cinema",
-            "year": "1988"
+            "type": "Actor"
         },
         {
             "alignment": "LEFT",
@@ -87,26 +90,7 @@
             "py/object": "parser_result.Component",
             "snippet": "\n     \tрежиссер, режиссер дубляжа\n     \t\n     \t66 лет\n     ",
             "title": "Виталий Кольцов",
-            "type": "Cinema",
-            "year": "1940 – 2006"
-        },
-        {
-            "alignment": "LEFT",
-            "page_url": "/level/9/cinema/263943/",
-            "py/object": "parser_result.Component",
-            "snippet": "+7 (843) 238-20-20 ",
-            "title": "«Каро 6 Кольцо»",
-            "type": "Cinema",
-            "year": "Казань"
-        },
-        {
-            "alignment": "LEFT",
-            "page_url": "/level/9/cinema/264416/",
-            "py/object": "parser_result.Component",
-            "snippet": "+380 (62) 345-64-89 ",
-            "title": "«Мультиплекс в ТРЦ «Золотое Кольцо»»",
-            "type": "Cinema",
-            "year": "Донецк"
+            "type": "Actor"
         }
     ],
     "py/object": "parser_result.ParserResult"

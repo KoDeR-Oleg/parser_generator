@@ -6,7 +6,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Мартин Брест\n     \t(драма)\n     ",
             "title": "Запах женщины",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "8.5",
             "year": "1992"
         },
         {
@@ -15,7 +16,8 @@
             "py/object": "parser_result.Component",
             "snippet": "Италия, реж. Дино Ризи\n     \t(драма, комедия)\n     ",
             "title": "Запах женщины",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "7.9",
             "year": "1974"
         },
         {
@@ -24,7 +26,8 @@
             "py/object": "parser_result.Component",
             "snippet": "Корея Южная, реж. Пак Хён-ги\n     \t(мелодрама, комедия)\n     ",
             "title": "Запах женщины (сериал)",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "7.8",
             "year": "2011"
         },
         {
@@ -42,7 +45,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США\n     \t(документальный, короткометражка)\n     ",
             "title": "Создание фильма «Запах женщины»",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "6.8",
             "year": "1992"
         },
         {
@@ -51,7 +55,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Нэнси Майерс\n     \t(фэнтези, мелодрама, комедия)\n     ",
             "title": "Чего хотят женщины",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "7.7",
             "year": "2000"
         }
     ],

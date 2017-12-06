@@ -6,7 +6,8 @@
             "py/object": "parser_result.Component",
             "snippet": "Япония, реж. Хаяо Миядзаки\n     \t(аниме, мультфильм, фэнтези...)\n     ",
             "title": "Унесённые призраками",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "8.4",
             "year": "2001"
         },
         {
@@ -15,7 +16,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Виктор Флеминг...\n     \t(драма, мелодрама, военный...)\n     ",
             "title": "Унесенные ветром",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "8.4",
             "year": "1939"
         },
         {
@@ -24,7 +26,8 @@
             "py/object": "parser_result.Component",
             "snippet": "Великобритания... реж. Гай Ричи\n     \t(мелодрама, комедия)\n     ",
             "title": "Унесенные",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "5.8",
             "year": "2002"
         },
         {
@@ -33,7 +36,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Йен Сэндер...\n     \t(фэнтези, драма)\n     ",
             "title": "Говорящая с призраками (сериал)",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "7.3",
             "year": "2005 – 2010"
         },
         {
@@ -42,7 +46,8 @@
             "py/object": "parser_result.Component",
             "snippet": "США... реж. Марк Манден\n     \t(драма, мелодрама, военный...)\n     ",
             "title": "Любовница Дьявола: Унесенные страстью (мини-сериал)",
-            "type": "Cinema",
+            "type": "EvaluatedCinema",
+            "value": "6.8",
             "year": "2008"
         }
     ],
