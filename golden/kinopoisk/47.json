@@ -1,6 +1,7 @@
 {
     "components": [
         {
+            "actors": "\n      Вирджиния Черрилл, Гарри Майерс, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/ogni-bolshogo-goroda-1931-414/sr/1/",
@@ -12,6 +13,7 @@
             "year": "1931"
         },
         {
+            "actors": "\n      Анна Тришкина, Александр Андриенко, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/ogni-bolshogo-goroda-2009-466451/sr/1/",
@@ -23,6 +25,7 @@
             "year": "2009"
         },
         {
+            "actors": "\n      William Zanders, Bryan Zanders, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/ogni-bolshogo-goroda-2012-653316/sr/1/",
@@ -33,6 +36,7 @@
             "year": "2012"
         },
         {
+            "actors": "\n      Рани Мукхерджи, Рандип Худа, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/govorit-i-pokazyvaet-bombey-2013-746636/sr/1/",
@@ -44,6 +48,7 @@
             "year": "2013"
         },
         {
+            "actors": "\n      Чарльз Чаплин, Питер Лорд, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/chaplin-segodnya-ogni-bolshogo-goroda-2003-299272/sr/1/",
@@ -54,6 +59,7 @@
             "year": "2003"
         },
         {
+            "actors": "\n      Дарья Щербакова, Ян Ильвес, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/khozyayka-bolshogo-goroda-2013-804616/sr/1/",

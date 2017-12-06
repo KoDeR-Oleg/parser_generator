@@ -1,6 +1,7 @@
 {
     "components": [
         {
+            "actors": "\n      Эдвард Нортон, Эдвард Ферлонг, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/amerikanskaya-istoriya-kh-1998-382/sr/1/",
@@ -12,6 +13,7 @@
             "year": "1998"
         },
         {
+            "actors": "\n      Эван Питерс, Сара Полсон, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/amerikanskaya-istoriya-uzhasov-2011-589167/sr/1/",
@@ -23,6 +25,7 @@
             "year": "2011 – ..."
         },
         {
+            "actors": "\n      Кьюба Гудинг мл., Сара Полсон, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/amerikanskaya-istoriya-prestupleniy-2016-745939/sr/1/",
@@ -34,6 +37,7 @@
             "year": "2016 – ..."
         },
         {
+            "actors": "\n      Эрика Йон, Нехемия Персофф, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/amerikanskaya-istoriya-1986-7111/sr/1/",
@@ -45,6 +49,7 @@
             "year": "1986"
         },
         {
+            "actors": "\n      Филлип Глассер, Джеймс Стюарт, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/amerikanskaya-istoriya-2-fivel-edet-na-zapad-1991-6670/sr/1/",
@@ -56,6 +61,7 @@
             "year": "1991"
         },
         {
+            "actors": "\n      Томас Деккер, Дом ДеЛуис, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/amerikanskaya-istoriya-3-sokrovishha-ostrova-mankhetten-1998-211926/sr/1/",

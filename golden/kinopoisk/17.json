@@ -1,6 +1,7 @@
 {
     "components": [
         {
+            "actors": "\n      Мэттью МакКонахи, Энн Хэтэуэй, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/interstellar-2014-258687/sr/1/",
@@ -12,6 +13,7 @@
             "year": "2014"
         },
         {
+            "actors": "\n      Шон Кэрролл, Мэттью МакКонахи, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/nauka-interstellar-2015-1009186/sr/1/",

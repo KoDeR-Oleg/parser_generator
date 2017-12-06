@@ -1,6 +1,7 @@
 {
     "components": [
         {
+            "actors": "\n      Бенисио Дель Торо, Деннис Фарина, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/bolshoy-kush-2000-526/sr/1/",
@@ -12,6 +13,7 @@
             "year": "2000"
         },
         {
+            "actors": "\n      Руперт Гринт, Люк Паскуалино, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/bolshoy-kush-2017-1006647/sr/1/",
@@ -23,6 +25,7 @@
             "year": "2017 – ..."
         },
         {
+            "actors": "\n      Джеймс Стюарт, Барбара Хейл, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/bolshoy-kush-1950-1308/sr/1/",
@@ -33,6 +36,7 @@
             "year": "1950"
         },
         {
+            "actors": "\n      Маюми Танака, Тони Бек, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/van-pis-1999-382731/sr/1/",
@@ -53,6 +57,7 @@
             "type": "Actor"
         },
         {
+            "actors": "\n      Билли Уэст, Кэти Сагал, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/futurama-bolshoy-kush-bendera-2007-229938/sr/1/",

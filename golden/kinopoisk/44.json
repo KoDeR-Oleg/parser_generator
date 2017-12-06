@@ -1,6 +1,7 @@
 {
     "components": [
         {
+            "actors": "\n      Руми Хираги, Ирино Мию, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/unesyonnye-prizrakami-2001-370/sr/1/",
@@ -21,6 +22,7 @@
             "type": "Actor"
         },
         {
+            "actors": "\n      Вивьен Ли, Кларк Гейбл, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/unesennye-vetrom-1939-456/sr/1/",
@@ -32,6 +34,7 @@
             "year": "1939"
         },
         {
+            "actors": "\n      Брюс Гринвуд, Мадонна, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/unesennye-2002-18974/sr/1/",
@@ -43,6 +46,7 @@
             "year": "2002"
         },
         {
+            "actors": "\n      Дженнифер Лав Хьюитт, Дэвид Конрад, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/govoryashhaya-s-prizrakami-2005-151513/sr/1/",
@@ -54,6 +58,7 @@
             "year": "2005 – 2010"
         },
         {
+            "actors": "\n      Андреа Райзборо, Доминик Уэст, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/lyubovnitsa-dyavola-unesennye-strastyu-2008-436178/sr/1/",

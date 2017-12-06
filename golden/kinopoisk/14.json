@@ -1,6 +1,7 @@
 {
     "components": [
         {
+            "actors": "\n      Хью Джекман, Кристиан Бэйл, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/prestizh-2006-195334/sr/1/",
@@ -12,6 +13,7 @@
             "year": "2006"
         },
         {
+            "actors": "\n      Энн Хардинг, Адольф Менжу, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/prestizh-1932-12007/sr/1/",
@@ -22,6 +24,7 @@
             "year": "1932"
         },
         {
+            "actors": "\n      Люк Мулле, Антониетта Пиццорно, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/prestizh-smerti-2006-222149/sr/1/",

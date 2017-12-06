@@ -1,6 +1,7 @@
 {
     "components": [
         {
+            "actors": "\n      Лиам Нисон, Бен Кингсли, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/spisok-shindlera-1993-329/sr/1/",
@@ -12,6 +13,7 @@
             "year": "1993"
         },
         {
+            "actors": "\n      Джеймс Спэйдер, Меган Бун, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/chyornyy-spisok-2013-741231/sr/1/",
@@ -23,6 +25,7 @@
             "year": "2013 – ..."
         },
         {
+            "actors": "\n      Юэн МакГрегор, Хью Джекман, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/spisok-kontaktov-2008-258275/sr/1/",
@@ -34,6 +37,7 @@
             "year": "2008"
         },
         {
+            "actors": "\n      Дженнифер Лав Хьюитт, Лоретта Дивайн, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/spisok-klientov-2012-611388/sr/1/",
@@ -54,6 +58,7 @@
             "type": "Actor"
         },
         {
+            "actors": "\n      Дженнифер Лав Хьюитт, Тедди Сирс, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/spisok-klientov-2010-504091/sr/1/",

@@ -1,6 +1,7 @@
 {
     "components": [
         {
+            "actors": "\n      Джеймс Стюарт, Донна Рид, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/eta-zamechatelnaya-zhizn-1946-348/sr/1/",
@@ -12,6 +13,7 @@
             "year": "1946"
         },
         {
+            "actors": "\n      Изабелла Камиль, Азия Каррера, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/eta-zamechatelnaya-zhizn-2000-339241/sr/1/",
@@ -22,6 +24,7 @@
             "year": "2000"
         },
         {
+            "actors": "\n      Рэймонд Вон, Лесли Чун, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/eta-zamechatelnaya-zhizn-1994-36985/sr/1/",
@@ -41,6 +44,7 @@
             "type": "Actor"
         },
         {
+            "actors": "\n      Ричард Э. Грант, Криспин Леттс, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/eta-zamechatelnaya-zhizn-franca-kafki-1993-196102/sr/1/",
@@ -52,6 +56,7 @@
             "year": "1993"
         },
         {
+            "actors": "\n      Санджив Бхаскар, Стив Морфью, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/eta-zamechatelnaya-zagrobnaya-zhizn-2009-432968/sr/1/",

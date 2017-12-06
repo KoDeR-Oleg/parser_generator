@@ -1,6 +1,7 @@
 {
     "components": [
         {
+            "actors": "\n      Кристиан Бэйл, Хит Леджер, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/temnyy-rytsar-2008-111543/sr/1/",
@@ -12,6 +13,7 @@
             "year": "2008"
         },
         {
+            "actors": "\n      Шарлотта Комер, Бен Пуллен, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/temnyy-rycar-2000-321839/sr/1/",
@@ -22,6 +24,7 @@
             "year": "2000 – 2002"
         },
         {
+            "actors": "\n      Кевин Конрой, Джейсон Мэрсден, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/betmen-rytsar-gotema-2008-401176/sr/1/",
@@ -33,6 +36,7 @@
             "year": "2008"
         },
         {
+            "actors": "\n      Кристиан Бэйл, Том Харди, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/temnyy-rytsar-vozrozhdenie-legendy-2012-437410/sr/1/",
@@ -44,6 +48,7 @@
             "year": "2012"
         },
         {
+            "actors": "\n      Дэниэл Гидлоу, 645059, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/betmen-temnyy-rytsar-2008-645059/sr/1/",
@@ -55,6 +60,7 @@
             "year": "2008"
         },
         {
+            "actors": "\n      Леа Дизон, Мика Хидзии, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/kiba-tyomnyy-rycar-2011-634605/sr/1/",

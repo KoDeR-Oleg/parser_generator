@@ -51,6 +51,11 @@
             "type": "Actor"
         },
         {
+            "actors": {
+                "attr": "string",
+                "py/object": "trees.html_path.HTMLPath",
+                "xpath": "//html/body[1]/div[3]/div[1]/table[1]/tr[1]/td[1]/div[1]/div[5]/div[1]/div[2]/span[3]"
+            },
             "alignment": "LEFT",
             "image": {
                 "attr": "src",
@@ -81,6 +86,11 @@
             }
         },
         {
+            "actors": {
+                "attr": "string",
+                "py/object": "trees.html_path.HTMLPath",
+                "xpath": "//html/body[1]/div[3]/div[1]/table[1]/tr[1]/td[1]/div[1]/div[5]/div[2]/div[2]/span[3]"
+            },
             "alignment": "LEFT",
             "image": {
                 "attr": "src",
@@ -116,6 +126,11 @@
             }
         },
         {
+            "actors": {
+                "attr": "string",
+                "py/object": "trees.html_path.HTMLPath",
+                "xpath": "//html/body[1]/div[3]/div[1]/table[1]/tr[1]/td[1]/div[1]/div[5]/div[3]/div[2]/span[3]"
+            },
             "alignment": "LEFT",
             "image": {
                 "attr": "src",
@@ -151,6 +166,11 @@
             }
         },
         {
+            "actors": {
+                "attr": "string",
+                "py/object": "trees.html_path.HTMLPath",
+                "xpath": "//html/body[1]/div[3]/div[1]/table[1]/tr[1]/td[1]/div[1]/div[5]/div[4]/div[2]/span[3]"
+            },
             "alignment": "LEFT",
             "image": {
                 "attr": "src",
@@ -186,6 +206,11 @@
             }
         },
         {
+            "actors": {
+                "attr": "string",
+                "py/object": "trees.html_path.HTMLPath",
+                "xpath": "//html/body[1]/div[3]/div[1]/table[1]/tr[1]/td[1]/div[1]/div[5]/div[5]/div[2]/span[3]"
+            },
             "alignment": "LEFT",
             "image": {
                 "attr": "src",

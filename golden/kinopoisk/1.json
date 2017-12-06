@@ -1,6 +1,7 @@
 {
     "components": [
         {
+            "actors": "\n      Том Хэнкс, Дэвид Морс, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/zelenaya-milya-1999-435/sr/1/",
@@ -12,6 +13,7 @@
             "year": "1999"
         },
         {
+            "actors": "\n      Эминем, Ким Бейсингер, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/8-milya-2002-581/sr/1/",
@@ -23,6 +25,7 @@
             "year": "2002"
         },
         {
+            "actors": "\n      Андрей Мерзликин, Виктория Исакова, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/zelenaya-kareta-2015-839018/sr/1/",
@@ -34,6 +37,7 @@
             "year": "2015"
         },
         {
+            "actors": "\n      Джон Уайт, Мария Рикосса, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/amerikanskiy-pirog-golaya-milya-2006-258454/sr/1/",
@@ -45,6 +49,7 @@
             "year": "2006"
         },
         {
+            "actors": "\n      Антон Ельчин, Имоджен Путс, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/zelenaya-komnata-2015-844150/sr/1/",
@@ -56,6 +61,7 @@
             "year": "2015"
         },
         {
+            "actors": "\n      Колин Серро, Венсан Линдон, ...\n     ",
             "alignment": "LEFT",
             "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/prekrasnaya-zelenaya-1996-55035/sr/1/",
