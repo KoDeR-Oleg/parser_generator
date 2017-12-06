@@ -1,6 +1,6 @@
 from lxml import html
 
-from markups.cinema_markup import CinemaComponent, CinemaMarkup
+from markups.cinema_markup import CinemaComponent, CinemaMarkup, EvaluatedCinemaComponent, ActorComponent
 from parser_result import ParserResult, Component
 from parsers.parser import Parser
 from trees.html_path import HTMLPath
@@ -31,7 +31,7 @@ class KinopoiskParser(Parser):
         if len(tag) == 0:
             return ""
         tag = tag[0]
-        attrs = ["href", "title"]
+        attrs = ["href", "title", "src"]
         if attr in attrs:
             return tag.get(attr)
         text = ""
@@ -46,7 +46,32 @@ class KinopoiskParser(Parser):
         cinema.page_url = self.get_from_page(element, "./div[2]/p/a", "href")
         cinema.title = self.get_from_page(element, "./div[2]/p/a", "string")
         cinema.snippet = self.get_from_page(element, "./div[2]/span[2]", "string")
+        cinema.actors = self.get_from_page(element, "./div[2]/span[3]", "string")
         cinema.year = self.get_from_page(element, "./div[2]/p/span", "string")
+        cinema.image = self.get_from_page(element, "./p/a/img", "src")
+        return cinema
+
+    def parse_evaluated_cinema(self, element):
+        cinema = Component()
+        cinema.type = "EvaluatedCinema"
+        cinema.alignment = "LEFT"
+        cinema.page_url = self.get_from_page(element, "./div[2]/p/a", "href")
+        cinema.title = self.get_from_page(element, "./div[2]/p/a", "string")
+        cinema.snippet = self.get_from_page(element, "./div[2]/span[2]", "string")
+        cinema.actors = self.get_from_page(element, "./div[2]/span[3]", "string")
+        cinema.year = self.get_from_page(element, "./div[2]/p/span", "string")
+        cinema.value = self.get_from_page(element, "./div[1]/div", "string")
+        cinema.image = self.get_from_page(element, "./p/a/img", "src")
+        return cinema
+
+    def parse_actor(self, element):
+        cinema = Component()
+        cinema.type = "Actor"
+        cinema.alignment = "LEFT"
+        cinema.page_url = self.get_from_page(element, "./div[2]/p/a", "href")
+        cinema.title = self.get_from_page(element, "./div[2]/p/a", "string")
+        cinema.snippet = self.get_from_page(element, "./div[2]/span[2]", "string")
+        cinema.image = self.get_from_page(element, "./p/a/img", "src")
         return cinema
 
     def extract_cinema(self, element):
@@ -54,7 +79,28 @@ class KinopoiskParser(Parser):
         cinema.page_url = HTMLPath(KinopoiskParser.get_path(element) + "/div[2]/p/a", "href")
         cinema.title = HTMLPath(KinopoiskParser.get_path(element) + "/div[2]/p/a", "string")
         cinema.snippet = HTMLPath(KinopoiskParser.get_path(element) + "/div[2]/span[2]", "string")
+        cinema.actors = HTMLPath(KinopoiskParser.get_path(element) + "/div[2]/span[3]", "string")
         cinema.year = HTMLPath(KinopoiskParser.get_path(element) + "/div[2]/p/span", "string")
+        cinema.image = HTMLPath(KinopoiskParser.get_path(element) + "/p/a/img", "src")
+        return cinema
+
+    def extract_evaluated_cinema(self, element):
+        cinema = EvaluatedCinemaComponent()
+        cinema.page_url = HTMLPath(KinopoiskParser.get_path(element) + "/div[2]/p/a", "href")
+        cinema.title = HTMLPath(KinopoiskParser.get_path(element) + "/div[2]/p/a", "string")
+        cinema.snippet = HTMLPath(KinopoiskParser.get_path(element) + "/div[2]/span[2]", "string")
+        cinema.actors = HTMLPath(KinopoiskParser.get_path(element) + "/div[2]/span[3]", "string")
+        cinema.year = HTMLPath(KinopoiskParser.get_path(element) + "/div[2]/p/span", "string")
+        cinema.value = HTMLPath(KinopoiskParser.get_path(element) + "/div[1]/div", "string")
+        cinema.image = HTMLPath(KinopoiskParser.get_path(element) + "/p/a/img", "src")
+        return cinema
+
+    def extract_actor(self, element):
+        cinema = ActorComponent()
+        cinema.page_url = HTMLPath(KinopoiskParser.get_path(element) + "/div[2]/p/a", "href")
+        cinema.title = HTMLPath(KinopoiskParser.get_path(element) + "/div[2]/p/a", "string")
+        cinema.snippet = HTMLPath(KinopoiskParser.get_path(element) + "/div[2]/span[2]", "string")
+        cinema.image = HTMLPath(KinopoiskParser.get_path(element) + "/p/a/img", "src")
         return cinema
 
     def extract_markup(self, file_name):
@@ -67,8 +113,15 @@ class KinopoiskParser(Parser):
         for block in block_list:
             cinema_list = block.xpath(".")
             for cinema in cinema_list:
-                if len(cinema.xpath("./div[2]/p/a")) > 0 and len(cinema.xpath("./div[2]/p/span")) > 0:
-                    result = self.extract_cinema(cinema)
+                if len(cinema.xpath("./div[2]/p/a")) > 0 and \
+                   len(cinema.xpath("./p")) > 0:
+                    if len(cinema.xpath("./div[2]/span[3]")) > 0 and len(cinema.xpath("./div[2]/p/span")) > 0:
+                        if len(cinema.xpath("./div[1]/div")) > 0:
+                            result = self.extract_evaluated_cinema(cinema)
+                        else:
+                            result = self.extract_cinema(cinema)
+                    else:
+                        result = self.extract_actor(cinema)
                     markup.add(result)
         return markup
 
@@ -79,7 +132,14 @@ class KinopoiskParser(Parser):
         for block in block_list:
             cinema_list = block.xpath(".")
             for cinema in cinema_list:
-                if len(cinema.xpath("./div[2]/p/a")) > 0 and len(cinema.xpath("./div[2]/p/span")) > 0:
-                    result = self.parse_cinema(cinema)
+                if len(cinema.xpath("./div[2]/p/a")) > 0 and \
+                   len(cinema.xpath("./p")) > 0:
+                    if len(cinema.xpath("./div[2]/span[3]")) > 0 and len(cinema.xpath("./div[2]/p/span")) > 0:
+                        if len(cinema.xpath("./div[1]/div")) > 0:
+                            result = self.parse_evaluated_cinema(cinema)
+                        else:
+                            result = self.parse_cinema(cinema)
+                    else:
+                        result = self.parse_actor(cinema)
                     parser_result.add(result)
         return parser_result
