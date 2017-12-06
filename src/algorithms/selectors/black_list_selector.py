@@ -7,6 +7,7 @@ class BlackListSelector(Selector):
         self.blacks = None
 
     def learn(self, algorithm, markup_list):
+        check_list = list()
         self.blacks = list()
         for i in range(len(algorithm.types)):
             self.blacks.append(list())
@@ -25,9 +26,11 @@ class BlackListSelector(Selector):
             for component in actual.components:
                 if component not in expected.components:
                     element, element_path, element_type = algorithm.get_element_for_parser_component(component, tree)
-                    self.add_black_for_element(algorithm, element, element_path, element_type, markup_list)
-                    i -= 1
-                    break
+                    if element_type not in check_list:
+                        self.add_black_for_element(algorithm, element, element_path, element_type, markup_list)
+                        i -= 1
+                        break
+                    check_list.append(element_type)
             i += 1
         return self
 
@@ -38,6 +41,14 @@ class BlackListSelector(Selector):
         for i in range(len(node.indexes)):
             if self.is_not_black(tree, node.indexes[i]):
                 lst.append(i)
+        i = 0
+        while i < len(lst) - 1:
+            if len(node.samples[lst[i]].__dict__) < len(node.samples[lst[i + 1]].__dict__):
+                lst[i], lst[i + 1] = lst[i + 1], lst[i]
+                if i > 0:
+                    i -= 1
+            else:
+                i += 1
         return lst
 
     def is_not_black(self, element, element_type):
