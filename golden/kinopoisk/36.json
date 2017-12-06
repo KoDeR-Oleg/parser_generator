@@ -2,6 +2,7 @@
     "components": [
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/piraty-karibskogo-morya-proklyatie-chernoy-zhemchuzhiny-2003-4374/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Гор Вербински\n     \t(фэнтези, боевик, приключения)\n     ",
@@ -12,6 +13,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/piraty-karibskogo-morya-sunduk-mertvetsa-2006-63991/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Гор Вербински\n     \t(фэнтези, боевик, приключения)\n     ",
@@ -22,6 +24,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/piraty-karibskogo-morya-na-krayu-sveta-2007-102124/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Гор Вербински\n     \t(фэнтези, боевик, приключения)\n     ",
@@ -32,6 +35,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/piraty-karibskogo-morya-na-strannykh-beregakh-2011-427076/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США... реж. Роб Маршалл\n     \t(фэнтези, боевик, комедия...)\n     ",
@@ -42,6 +46,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/piraty-karibskogo-morya-mertvetsy-ne-rasskazyvayut-skazki-2017-575180/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Хоаким Роннинг...\n     \t(фэнтези, боевик, комедия...)\n     ",
@@ -52,6 +57,25 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
+            "page_url": "/film/piraty-karibskogo-morya-6-575179/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Хоаким Роннинг\n     \t(фэнтези, боевик, комедия...)\n     ",
+            "title": "Пираты Карибского моря 6",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/no-poster.gif",
+            "page_url": "/name/3670596/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t\n     ",
+            "title": "Т. Моря",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/2433898.jpg",
             "page_url": "/name/2433898/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \t\n     \t\n     \t65 лет\n     ",
@@ -60,6 +84,25 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/no-poster.gif",
+            "page_url": "/name/2729160/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t\n     ",
+            "title": "Сомчай Моря",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/no-poster.gif",
+            "page_url": "/name/3571115/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактриса\n     \t\n     \t\n     ",
+            "title": "Миттал Моря",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/2669.jpg",
             "page_url": "/name/2669/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактриса, продюсер\n     \t\n     \t57 лет\n     ",

@@ -2,6 +2,7 @@
     "components": [
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/zapakh-zhenshhiny-1992-4871/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Мартин Брест\n     \t(драма)\n     ",
@@ -12,6 +13,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/zapakh-zhenshhiny-1974-57095/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Италия, реж. Дино Ризи\n     \t(драма, комедия)\n     ",
@@ -22,6 +24,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/zapakh-zhenshhiny-2011-644513/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Корея Южная, реж. Пак Хён-ги\n     \t(мелодрама, комедия)\n     ",
@@ -32,6 +35,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/zapakh-zhenshhiny-2011-661711/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США\n     \t(для взрослых)\n     ",
@@ -41,6 +45,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/sozdanie-filma-zapakh-zhenshhiny-1992-743523/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США\n     \t(документальный, короткометражка)\n     ",
@@ -51,6 +56,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/chego-khotyat-zhenshhiny-2000-880/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Нэнси Майерс\n     \t(фэнтези, мелодрама, комедия)\n     ",

@@ -2,6 +2,7 @@
     "components": [
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/kriminalnoe-chtivo-1994-342/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Квентин Тарантино\n     \t(триллер, комедия, криминал)\n     ",
@@ -12,6 +13,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/kriminalnoe-chtivo-v-mgnovenie-oka-retrospektiva-k-10-letiyu-2004-299558/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Меган О’Хара\n     \t(документальный, короткометражка)\n     ",
@@ -22,6 +24,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/kriminalnoe-chtivo-lineynoe-za-60-sekund-2013-802847/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Россия\n     \t(короткометражка, мультфильм)\n     ",
@@ -32,6 +35,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/kriminalnoe-nasledstvo-2014-842859/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Россия, реж. Алексей Луканев\n     \t(криминал, драма, боевик)\n     ",
@@ -42,6 +46,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/trivialnoe-chtivo-1997-21531/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Боб Коэрр\n     \t(комедия, криминал)\n     ",
@@ -52,6 +57,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/uboynoe-chtivo-2000-6505/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Эрик Бросс\n     \t(триллер, комедия)\n     ",

@@ -2,6 +2,7 @@
     "components": [
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/nachalo-2010-447301/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США... реж. Кристофер Нолан\n     \t(фантастика, боевик, триллер...)\n     ",
@@ -12,6 +13,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/nachalo-1970-46294/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "СССР, реж. Глеб Панфилов\n     \t(драма, мелодрама)\n     ",
@@ -22,6 +24,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/nachalo-2014-804935/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Германия, реж. Марко Кройцпайнтнер\n     \t(мелодрама, комедия)\n     ",
@@ -31,6 +34,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/nachalo-2008-517442/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Великобритания, реж. Робин Вэнари\n     \t(короткометражка, драма)\n     ",
@@ -40,6 +44,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/nachalo-2007-640146/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Россия, реж. Наташа Новик\n     \t(короткометражка)\n     ",
@@ -49,6 +54,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/nachalo-1967-43823/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "СССР, реж. Артавазд Пелешян\n     \t(документальный, короткометражка)\n     ",
@@ -59,6 +65,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/548934.jpg",
             "page_url": "/name/548934/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер, сценарист, режиссер, продюсер\n     \t\n     \t40 лет\n     ",
@@ -67,6 +74,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/466868.jpg",
             "page_url": "/name/466868/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер, режиссер, сценарист, продюсер\n     \t\n     \t43 года\n     ",
@@ -75,6 +83,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/395275.jpg",
             "page_url": "/name/395275/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tрежиссер, сценарист, продюсер, актер, оператор, монтажер\n     \t\n     \t48 лет\n     ",
@@ -83,6 +92,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/540217.jpg",
             "page_url": "/name/540217/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер\n     \t\n     \t25 лет\n     ",
@@ -91,6 +101,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/599262.jpg",
             "page_url": "/name/599262/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер\n     \t\n     \t46 лет\n     ",

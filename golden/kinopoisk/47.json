@@ -2,6 +2,7 @@
     "components": [
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/ogni-bolshogo-goroda-1931-414/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Чарльз Чаплин\n     \t(драма, мелодрама, комедия)\n     ",
@@ -12,6 +13,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/ogni-bolshogo-goroda-2009-466451/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Россия, реж. Сергей Виноградов\n     \t(мелодрама)\n     ",
@@ -22,6 +24,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/ogni-bolshogo-goroda-2012-653316/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Билл Росс IV...\n     \t(документальный)\n     ",
@@ -31,6 +34,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/govorit-i-pokazyvaet-bombey-2013-746636/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Индия, реж. Зоя Ахтар...\n     \t(драма)\n     ",
@@ -41,6 +45,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/chaplin-segodnya-ogni-bolshogo-goroda-2003-299272/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Франция, реж. Серж Бромберг\n     \t(документальный, короткометражка)\n     ",
@@ -50,6 +55,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/khozyayka-bolshogo-goroda-2013-804616/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Россия, реж. Кира Ангелина\n     \t(мелодрама)\n     ",
@@ -60,6 +66,16 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/no-poster.gif",
+            "page_url": "/name/1590133/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t\n     ",
+            "title": "Концертный хор города Дармштадта под управлением Вольфганга Зеелингера",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/1543745.jpg",
             "page_url": "/name/1543745/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tгруппа, актер\n     \t\n     \t16 лет\n     ",
@@ -68,10 +84,29 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/269762.jpg",
             "page_url": "/name/269762/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер, сценарист\n     \t\n     \t59 лет\n     ",
             "title": "Владимир Большов",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/no-poster.gif",
+            "page_url": "/name/1868954/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t\n     ",
+            "title": "Даниил Большов",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/no-poster.gif",
+            "page_url": "/name/1232672/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tпродюсер, сценарист, оператор\n     \t\n     \t\n     ",
+            "title": "Илья Огнев",
             "type": "Actor"
         }
     ],

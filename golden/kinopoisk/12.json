@@ -2,6 +2,7 @@
     "components": [
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/krestnyy-otec-1972-325/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Фрэнсис Форд Коппола\n     \t(драма, криминал)\n     ",
@@ -12,6 +13,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/krestnyy-otets-1975-97002/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Индия, реж. Фероз Кхан\n     \t(боевик, триллер, мелодрама)\n     ",
@@ -22,6 +24,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/krestnyy-otets-1991-98560/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Индия, реж. Лал...\n     \t(драма, мелодрама, комедия)\n     ",
@@ -31,6 +34,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/kryostnyy-otec-1973-151595/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Италия, реж. Джузеппе Вери\n     \t\n     ",
@@ -40,6 +44,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/krestnyy-otec-2-1974-327/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Фрэнсис Форд Коппола\n     \t(драма, криминал)\n     ",
@@ -50,6 +55,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/krestnyy-otec-3-1990-4500/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Фрэнсис Форд Коппола\n     \t(боевик, триллер, драма...)\n     ",
@@ -60,6 +66,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/40422.jpg",
             "page_url": "/name/40422/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tсценарист\n     \t\n     \t68 лет\n     ",
@@ -68,10 +75,38 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/no-poster.gif",
+            "page_url": "/name/3923525/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t\n     ",
+            "title": "отец Эдвард",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/no-poster.gif",
             "page_url": "/name/1780687/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \t\n     \t\n     \t85 лет\n     ",
             "title": "отец Джон Толкин",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/no-poster.gif",
+            "page_url": "/name/589780/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t\n     ",
+            "title": "К. отец",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/no-poster.gif",
+            "page_url": "/name/23676/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t\n     ",
+            "title": "отец Майкл Роча",
             "type": "Actor"
         }
     ],

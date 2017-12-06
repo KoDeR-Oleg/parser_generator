@@ -2,6 +2,7 @@
     "components": [
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/dostuchatsya-do-nebes-1997-32898/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Германия, реж. Томас Ян\n     \t(драма, комедия, криминал)\n     ",
@@ -12,6 +13,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/chudesa-s-nebes-2016-910532/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Патрисия Ригген\n     \t(драма, семейный, биография)\n     ",
@@ -22,6 +24,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/pod-pokrovom-nebes-1990-6777/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Великобритания... реж. Бернардо Бертолуччи\n     \t(драма, приключения)\n     ",
@@ -32,6 +35,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/deti-nebes-1997-76749/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Иран, реж. Маджид Маджиди\n     \t(драма, семейный)\n     ",
@@ -42,6 +46,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/dostuchatsya-do-tebya-2009-500456/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Япония, реж. Кабураки Хиро\n     \t(аниме, мультфильм, мелодрама)\n     ",
@@ -52,6 +57,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/s-nebes-na-zemlyu-2015-893543/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Россия, реж. Петр Амелин\n     \t(детектив)\n     ",

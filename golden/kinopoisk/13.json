@@ -2,6 +2,7 @@
     "components": [
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/igry-razuma-2001-530/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Рон Ховард\n     \t(драма, биография)\n     ",
@@ -12,6 +13,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/igry-razuma-2003-23828/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Адриан Карр\n     \t(детектив)\n     ",
@@ -22,6 +24,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/igry-razuma-2014-742558/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Тимоти Басфилд...\n     \t(драма)\n     ",
@@ -32,6 +35,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/igry-razuma-1989-32113/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Боб Яри\n     \t(триллер)\n     ",
@@ -41,6 +45,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/igry-razuma-2011-635433/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Майкл Нигро...\n     \t(документальный, игра, реальное ТВ...)\n     ",
@@ -51,6 +56,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/igry-razuma-2001-298744/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Великобритания, реж. Ричард Стэндевен\n     \t(триллер, драма, криминал...)\n     ",
@@ -60,6 +66,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/284474.jpg",
             "page_url": "/name/284474/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактриса\n     \t\n     \t66 лет\n     ",
@@ -68,6 +75,16 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/no-poster.gif",
+            "page_url": "/name/91431/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t\n     ",
+            "title": "Игро Галин",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/no-poster.gif",
             "page_url": "/name/766495/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tоператор\n     \t\n     \t80 лет\n     ",
@@ -76,10 +93,20 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/no-poster.gif",
             "page_url": "/name/351872/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер\n     \t\n     \t68 лет\n     ",
             "title": "Степан  Разумов",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/no-poster.gif",
+            "page_url": "/name/2763976/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tхудожник\n     \t\n     \t\n     ",
+            "title": "Дмитрий Разумов",
             "type": "Actor"
         }
     ],

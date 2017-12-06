@@ -2,6 +2,7 @@
     "components": [
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/forrest-gamp-1994-448/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Роберт Земекис\n     \t(драма, мелодрама, комедия)\n     ",
@@ -12,6 +13,16 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
+            "page_url": "/film/gamp-i-kompaniya-321772/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \t\n     ",
+            "title": "Гамп и компания",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/3731193.jpg",
             "page_url": "/name/3731193/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер\n     \t\n     \t19 лет\n     ",
@@ -20,6 +31,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/14084.jpg",
             "page_url": "/name/14084/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер\n     \t\n     \t80 лет\n     ",
@@ -28,6 +40,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/33222.jpg",
             "page_url": "/name/33222/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер\n     \t\n     \t23 года\n     ",
@@ -36,10 +49,20 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/141158.jpg",
             "page_url": "/name/141158/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер\n     \t\n     \t42 года\n     ",
             "title": "Нэйтан Форрест Уинтерс",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/111132.jpg",
+            "page_url": "/name/111132/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактриса, продюсер\n     \t\n     \t\n     ",
+            "title": "Кристин Форрест",
             "type": "Actor"
         }
     ],

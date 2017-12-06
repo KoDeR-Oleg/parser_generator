@@ -2,6 +2,7 @@
     "components": [
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/spisok-shindlera-1993-329/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Стивен Спилберг\n     \t(драма, биография, история)\n     ",
@@ -12,6 +13,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/chyornyy-spisok-2013-741231/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Майкл В. Уоткинс...\n     \t(триллер, драма, криминал...)\n     ",
@@ -22,6 +24,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/spisok-kontaktov-2008-258275/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Марсель Лангенеггер\n     \t(триллер, драма, криминал...)\n     ",
@@ -32,6 +35,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/spisok-klientov-2012-611388/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Аллан Аркуш...\n     \t(драма)\n     ",
@@ -42,6 +46,16 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
+            "page_url": "/film/missiya-chernyy-spisok-679795/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США, реж. Йеспер Гансландт\n     \t(триллер)\n     ",
+            "title": "Миссия: Черный список",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/spisok-klientov-2010-504091/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Эрик Ланёвилль\n     \t(драма)\n     ",
@@ -52,6 +66,16 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/2508767.jpg",
+            "page_url": "/name/2508767/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tрежиссер, сценарист, продюсер, монтажер\n     \t\n     \t\n     ",
+            "title": "Адам Шиндлер",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/1466133.jpg",
             "page_url": "/name/1466133/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \t\n     \t\n     \t66 лет\n     ",
@@ -60,6 +84,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/277112.jpg",
             "page_url": "/name/277112/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \t\n     \t\n     \t93 года\n     ",
@@ -68,10 +93,20 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/no-poster.gif",
             "page_url": "/name/527615/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактриса\n     \t\n     \t77 лет\n     ",
             "title": "Ротрауд Шиндлер",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/no-poster.gif",
+            "page_url": "/name/64635/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tпродюсер, актер\n     \t\n     \t\n     ",
+            "title": "Питер Шиндлер",
             "type": "Actor"
         }
     ],

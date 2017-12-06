@@ -2,6 +2,7 @@
     "components": [
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/pobeg-iz-shoushenka-1994-326/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Фрэнк Дарабонт\n     \t(драма, криминал)\n     ",
@@ -12,6 +13,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/pobeg-iz-vegasa-2010-412299/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Николас Столлер\n     \t(комедия, приключения, музыка)\n     ",
@@ -22,6 +24,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/pobeg-iz-tyurmy-finalnyy-pobeg-2009-415249/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Кевин Хукс...\n     \t(боевик, триллер, драма)\n     ",
@@ -32,6 +35,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/pobeg-iz-alkatrasa-1979-10851/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Дон Сигел\n     \t(триллер, драма, криминал...)\n     ",
@@ -42,6 +46,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/pobeg-iz-tyurmy-doroga-k-svobode-2007-391746/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Джим Баррет...\n     \t(короткометражка, боевик, драма...)\n     ",
@@ -52,6 +57,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/pobeg-iz-nyu-yorka-1981-4404/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США... реж. Джон Карпентер\n     \t(фантастика, боевик)\n     ",
@@ -59,6 +65,15 @@
             "type": "EvaluatedCinema",
             "value": "7.1",
             "year": "1981"
+        },
+        {
+            "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/no-poster.gif",
+            "page_url": "/name/4717722/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t\n     ",
+            "title": "Алексей Побегай",
+            "type": "Actor"
         }
     ],
     "py/object": "parser_result.ParserResult"

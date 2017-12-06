@@ -2,6 +2,7 @@
     "components": [
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/khatiko-samyy-vernyy-drug-2008-387556/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Великобритания... реж. Лассе Халльстрём\n     \t(драма, семейный)\n     ",
@@ -12,6 +13,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/samyy-blizkiy-drug-2012-568262/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Лоуренс Кэздан\n     \t(драма, мелодрама, комедия)\n     ",
@@ -22,6 +24,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/ryzhiy-pes-samyy-vernyy-2016-855384/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Австралия, реж. Крив Стендерс\n     \t(драма, мелодрама, комедия...)\n     ",
@@ -31,6 +34,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/vernyy-drug-1974-78563/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Индия, реж. Дулал Гуха\n     \t(драма)\n     ",
@@ -40,6 +44,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/samyy-bolshoy-drug-1968-540819/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "СССР, реж. Петр Носов\n     \t(мультфильм, короткометражка, детский)\n     ",
@@ -50,6 +55,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/vernyy-drug-1989-208330/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Индия, реж. К. Муралимохан Рао\n     \t(мелодрама, боевик)\n     ",
@@ -59,6 +65,16 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/2129587.jpg",
+            "page_url": "/name/2129587/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактриса\n     \t\n     \t\n     ",
+            "title": "Барбара Друг",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/55289.jpg",
             "page_url": "/name/55289/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер\n     \t\n     \t56 лет\n     ",
@@ -67,6 +83,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/3196.jpg",
             "page_url": "/name/3196/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер, продюсер, режиссер, сценарист\n     \t\n     \t65 лет\n     ",
@@ -75,6 +92,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/2035843.jpg",
             "page_url": "/name/2035843/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактриса\n     \t\n     \t21 год\n     ",
@@ -83,6 +101,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/8953.jpg",
             "page_url": "/name/8953/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер\n     \t\n     \t48 лет\n     ",

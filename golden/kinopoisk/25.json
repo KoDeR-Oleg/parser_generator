@@ -2,6 +2,7 @@
     "components": [
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/vlastelin-kolec-bratstvo-kolca-2001-328/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США... реж. Питер Джексон\n     \t(фэнтези, драма, приключения)\n     ",
@@ -12,6 +13,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/vlastelin-kolec-dve-kreposti-2002-312/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США... реж. Питер Джексон\n     \t(фэнтези, драма, приключения)\n     ",
@@ -22,6 +24,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/vlastelin-kolec-vozvrashhenie-korolya-2003-3498/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США... реж. Питер Джексон\n     \t(фэнтези, драма, приключения)\n     ",
@@ -32,6 +35,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/ngo-za-kadrom-vlastelin-kolec-bratstvo-kolca-2002-581524/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Лиза Корс\n     \t(документальный)\n     ",
@@ -42,6 +46,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/vlastelin-kolec-1978-5919/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Ральф Бакши\n     \t(мультфильм, фэнтези, приключения)\n     ",
@@ -52,6 +57,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/ngo-za-kadrom-vlastelin-kolec-vozvrashhenie-korolya-2003-581525/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США\n     \t(документальный)\n     ",
@@ -62,6 +68,16 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/no-poster.gif",
+            "page_url": "/name/3672549/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t\n     ",
+            "title": "Николай Кольца",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/1174290.jpg",
             "page_url": "/name/1174290/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер\n     \t\n     \t42 года\n     ",
@@ -70,6 +86,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/341022.jpg",
             "page_url": "/name/341022/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер\n     \t\n     \t79 лет\n     ",
@@ -78,6 +95,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/no-poster.gif",
             "page_url": "/name/1543878/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tгруппа\n     \t\n     \t29 лет\n     ",
@@ -86,6 +104,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/280972.jpg",
             "page_url": "/name/280972/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tрежиссер, режиссер дубляжа\n     \t\n     \t66 лет\n     ",

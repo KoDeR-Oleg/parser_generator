@@ -2,6 +2,7 @@
     "components": [
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/v-boy-idut-odni-stariki-1973-25108/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "СССР, реж. Леонид Быков\n     \t(драма, комедия, военный)\n     ",
@@ -12,6 +13,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/men-go-to-battle-2015-906693/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Закари Трейц\n     \t(драма, комедия, история)\n     ",
@@ -21,6 +23,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/odni-v-berline-2016-776996/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Великобритания... реж. Венсан Перес\n     \t(драма)\n     ",
@@ -31,6 +34,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/mak-i-devin-idut-v-shkolu-2012-690281/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Дилан С. Браун\n     \t(комедия)\n     ",
@@ -41,6 +45,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/snova-v-boy-1993-4936/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Канада, реж. Стив ДиМарко...\n     \t(боевик)\n     ",
@@ -51,6 +56,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/farshirovannye-percy-idut-v-delo-2004-340003/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Германия... реж. Лина Вертмюллер\n     \t(драма, комедия)\n     ",
@@ -60,6 +66,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/291664.jpg",
             "page_url": "/name/291664/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер, режиссер\n     \t\n     \t61 год\n     ",
@@ -68,6 +75,16 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/12772.jpg",
+            "page_url": "/name/12772/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t\n     ",
+            "title": "Гучи Бой",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/17621.jpg",
             "page_url": "/name/17621/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер, продюсер\n     \t\n     \t48 лет\n     ",
@@ -76,6 +93,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/385713.jpg",
             "page_url": "/name/385713/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер, композитор, группа\n     \t\n     \t56 лет\n     ",
@@ -84,6 +102,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/1552855.jpg",
             "page_url": "/name/1552855/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер, продюсер, композитор\n     \t\n     \t27 лет\n     ",

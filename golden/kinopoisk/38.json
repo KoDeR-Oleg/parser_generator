@@ -2,6 +2,7 @@
     "components": [
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/probuzhdenie-1990-2950/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Пенни Маршалл\n     \t(драма, биография)\n     ",
@@ -12,6 +13,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/probuzhdenie-2009-325544/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Элли Каннер\n     \t(драма, мелодрама, комедия)\n     ",
@@ -22,6 +24,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/probuzhdenie-2012-580655/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Джеффри Рейнер...\n     \t(фантастика, фэнтези, драма...)\n     ",
@@ -32,6 +35,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/probuzhdenie-1998-4675/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. М. Найт Шьямалан\n     \t(драма, комедия, семейный)\n     ",
@@ -42,6 +46,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/probuzhdenie-2009-391436/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Агустин\n     \t(триллер, мелодрама)\n     ",
@@ -52,6 +57,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/probuzhdenie-2012-586848/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Дэрик Лу\n     \t(фантастика, драма, мелодрама)\n     ",

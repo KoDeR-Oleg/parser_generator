@@ -2,6 +2,7 @@
     "components": [
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/brilliantovaya-ruka-1968-46225/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "СССР, реж. Леонид Гайдай\n     \t(комедия, криминал, приключения...)\n     ",
@@ -12,6 +13,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/russkiy-gollivud-brilliantovaya-ruka-2-2010-573340/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Россия, реж. Сергей Иванов\n     \t(документальный, комедия)\n     ",
@@ -22,6 +24,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/ruka-dyavola-2014-672376/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Кристиан Е. Кристиансен\n     \t(триллер, ужасы)\n     ",
@@ -32,6 +35,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/ruka-na-million-2014-518117/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Крэйг Гиллеспи\n     \t(спорт, драма, история)\n     ",
@@ -42,6 +46,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/ruka-kachayushhaya-kolybel-1992-12514/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Кёртис Хэнсон\n     \t(триллер, драма)\n     ",
@@ -52,6 +57,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/dzhim-kerri-kholodnaya-myortvaya-ruka-2013-748778/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Ник Кориросси...\n     \t(короткометражка, комедия, музыка)\n     ",
@@ -62,10 +68,47 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/560289.jpg",
+            "page_url": "/name/560289/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tсценарист, продюсер\n     \t\n     \t\n     ",
+            "title": "Грег Рука",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/no-poster.gif",
             "page_url": "/name/1242703/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер\n     \t\n     \t33 года\n     ",
             "title": "Рука Стоун",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/556998.jpg",
+            "page_url": "/name/556998/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер, режиссер, сценарист\n     \t\n     \t\n     ",
+            "title": "Марк Рука",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/no-poster.gif",
+            "page_url": "/name/1303157/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактриса\n     \t\n     \t\n     ",
+            "title": "Ивета Рука",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/no-poster.gif",
+            "page_url": "/name/309036/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t\n     ",
+            "title": "Рег Рука",
             "type": "Actor"
         }
     ],

@@ -2,6 +2,7 @@
     "components": [
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/eta-zamechatelnaya-zhizn-1946-348/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Фрэнк Капра\n     \t(фэнтези, драма, семейный)\n     ",
@@ -12,6 +13,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/eta-zamechatelnaya-zhizn-2000-339241/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Франсуа Клузо\n     \t(для взрослых)\n     ",
@@ -21,6 +23,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/eta-zamechatelnaya-zhizn-1994-36985/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Гонконг, реж. Клифтон Ко\n     \t(комедия, семейный)\n     ",
@@ -30,6 +33,16 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
+            "page_url": "/film/eta-zamechatelnaya-zhizn-konets-istorii-819248/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "США\n     \t(семейный)\n     ",
+            "title": "Эта замечательная жизнь: Конец истории",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/eta-zamechatelnaya-zhizn-franca-kafki-1993-196102/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Великобритания, реж. Питер Капальди\n     \t(короткометражка, фэнтези, комедия...)\n     ",
@@ -40,6 +53,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/eta-zamechatelnaya-zagrobnaya-zhizn-2009-432968/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Великобритания, реж. Гуриндер Чадха\n     \t(ужасы, драма, мелодрама...)\n     ",
@@ -50,6 +64,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/no-poster.gif",
             "page_url": "/name/334162/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактриса\n     \t\n     \t79 лет\n     ",
@@ -58,6 +73,34 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/no-poster.gif",
+            "page_url": "/name/413158/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактриса\n     \t\n     \t\n     ",
+            "title": "Натали Эта",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/no-poster.gif",
+            "page_url": "/name/509816/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактриса\n     \t\n     \t\n     ",
+            "title": "Эта фон Шторм",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/no-poster.gif",
+            "page_url": "/name/523686/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактриса\n     \t\n     \t\n     ",
+            "title": "Эта Клингенберг",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/no-poster.gif",
             "page_url": "/name/509335/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактриса\n     \t\n     \t58 лет\n     ",

@@ -2,6 +2,7 @@
     "components": [
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/poymay-menya-esli-smozhesh-2002-324/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США... реж. Стивен Спилберг\n     \t(драма, криминал, биография)\n     ",
@@ -12,6 +13,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/poymay-menya-esli-smozhesh-1989-2788/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Стивен Соммерс\n     \t(боевик, драма, комедия)\n     ",
@@ -22,6 +24,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/poymay-menya-esli-smozhesh-1982-64034/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Италия, реж. Карло Ванцина\n     \t(комедия)\n     ",
@@ -31,6 +34,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/poymay-tolstukhu-esli-smozhesh-2013-606698/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Сет Гордон\n     \t(комедия, криминал)\n     ",
@@ -41,6 +45,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/dostan-menya-esli-smozhesh-2014-716461/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Джон Херцфелд\n     \t(драма, триллер, комедия)\n     ",
@@ -51,6 +56,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/naydi-menya-esli-smozhesh-2016-733412/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Канада... реж. Зак Уэдон\n     \t(триллер)\n     ",
@@ -61,6 +67,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/298.jpg",
             "page_url": "/name/298/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактриса, продюсер\n     \t\n     \t38 лет\n     ",
@@ -69,6 +76,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/2811410.jpg",
             "page_url": "/name/2811410/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер\n     \t\n     \t25 лет\n     ",
@@ -77,6 +85,16 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/2511574.jpg",
+            "page_url": "/name/2511574/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t\n     ",
+            "title": "Мена Массуд",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/493531.jpg",
             "page_url": "/name/493531/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер\n     \t\n     \t45 лет\n     ",
@@ -85,6 +103,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/493821.jpg",
             "page_url": "/name/493821/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер\n     \t\n     \t37 лет\n     ",

@@ -2,6 +2,7 @@
     "components": [
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/unesyonnye-prizrakami-2001-370/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Япония, реж. Хаяо Миядзаки\n     \t(аниме, мультфильм, фэнтези...)\n     ",
@@ -12,6 +13,16 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
+            "page_url": "/film/unesyonnye-prizrakami-1033629/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Великобритания, реж. Julian Lelissa\n     \t(фэнтези, драма, мелодрама...)\n     ",
+            "title": "Унесённые призраками",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/unesennye-vetrom-1939-456/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Виктор Флеминг...\n     \t(драма, мелодрама, военный...)\n     ",
@@ -22,6 +33,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/unesennye-2002-18974/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Великобритания... реж. Гай Ричи\n     \t(мелодрама, комедия)\n     ",
@@ -32,6 +44,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/govoryashhaya-s-prizrakami-2005-151513/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Йен Сэндер...\n     \t(фэнтези, драма)\n     ",
@@ -42,6 +55,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/lyubovnitsa-dyavola-unesennye-strastyu-2008-436178/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США... реж. Марк Манден\n     \t(драма, мелодрама, военный...)\n     ",

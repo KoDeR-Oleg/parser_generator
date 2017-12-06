@@ -2,6 +2,7 @@
     "components": [
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/bolshoy-kush-2000-526/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Великобритания... реж. Гай Ричи\n     \t(криминал, комедия)\n     ",
@@ -12,6 +13,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/bolshoy-kush-2017-1006647/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США... реж. Лоуренс Гоф...\n     \t(комедия, криминал)\n     ",
@@ -22,6 +24,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/bolshoy-kush-1950-1308/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Уолтер Лэнг\n     \t(комедия)\n     ",
@@ -31,6 +34,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/van-pis-1999-382731/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Япония, реж. Сакаи Мунэхиса...\n     \t(аниме, мультфильм, фэнтези...)\n     ",
@@ -41,6 +45,16 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
+            "page_url": "/film/van-pis-992004/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "Япония\n     \t(боевик, комедия, приключения)\n     ",
+            "title": "Ван-Пис",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/futurama-bolshoy-kush-bendera-2007-229938/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Дуэйн Кэри-Хилл\n     \t(мультфильм, фантастика, мелодрама...)\n     ",
@@ -51,6 +65,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/3754911.jpg",
             "page_url": "/name/3754911/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактриса\n     \t\n     \t26 лет\n     ",
@@ -59,10 +74,38 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/1731971.jpg",
+            "page_url": "/name/1731971/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t\n     ",
+            "title": "Хади Ка-Куш",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/1689602.jpg",
+            "page_url": "/name/1689602/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактриса, монтажер, продюсер\n     \t\n     \t\n     ",
+            "title": "Ребекка Куш",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/2702308.jpg",
             "page_url": "/name/2702308/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактриса\n     \t\n     \t26 лет\n     ",
             "title": "Хлоя Куш",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/no-poster.gif",
+            "page_url": "/name/1153058/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tкомпозитор\n     \t\n     \t\n     ",
+            "title": "Куш",
             "type": "Actor"
         }
     ],

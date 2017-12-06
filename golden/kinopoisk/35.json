@@ -2,6 +2,7 @@
     "components": [
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/temnyy-rytsar-2008-111543/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США... реж. Кристофер Нолан\n     \t(фантастика, боевик, триллер...)\n     ",
@@ -12,6 +13,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/temnyy-rycar-2000-321839/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Великобритания, реж. Кит Клэкстон...\n     \t(фэнтези, приключения)\n     ",
@@ -21,6 +23,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/betmen-rytsar-gotema-2008-401176/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США... реж. Ясухиро Аоки...\n     \t(аниме, мультфильм, фантастика...)\n     ",
@@ -31,6 +34,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/temnyy-rytsar-vozrozhdenie-legendy-2012-437410/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Великобритания... реж. Кристофер Нолан\n     \t(фантастика, боевик, триллер...)\n     ",
@@ -41,6 +45,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/betmen-temnyy-rytsar-2008-645059/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Великобритания, реж. Клинт Уокер\n     \t(короткометражка, фантастика, боевик...)\n     ",
@@ -51,6 +56,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/kiba-tyomnyy-rycar-2011-634605/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Япония, реж. Кэйта Амэмия\n     \t(фэнтези)\n     ",
@@ -60,10 +66,38 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/no-poster.gif",
+            "page_url": "/name/4713596/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t\n     ",
+            "title": "Максим Темный",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/193820.jpg",
             "page_url": "/name/193820/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tрежиссер, сценарист\n     \t\n     \t65 лет\n     ",
             "title": "Борис Рыцарев",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/no-poster.gif",
+            "page_url": "/name/2460085/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t\n     ",
+            "title": "Глеб Темнов",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/no-poster.gif",
+            "page_url": "/name/3001035/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t\n     ",
+            "title": "А. Темнов",
             "type": "Actor"
         }
     ],

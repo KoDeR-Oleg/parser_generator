@@ -2,6 +2,7 @@
     "components": [
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/vlastelin-kolec-vozvrashhenie-korolya-2003-3498/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США... реж. Питер Джексон\n     \t(фэнтези, драма, приключения)\n     ",
@@ -12,6 +13,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/vlastelin-kolec-bratstvo-kolca-2001-328/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США... реж. Питер Джексон\n     \t(фэнтези, драма, приключения)\n     ",
@@ -22,6 +24,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/vlastelin-kolec-dve-kreposti-2002-312/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США... реж. Питер Джексон\n     \t(фэнтези, драма, приключения)\n     ",
@@ -32,6 +35,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/ngo-za-kadrom-vlastelin-kolec-vozvrashhenie-korolya-2003-581525/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США\n     \t(документальный)\n     ",
@@ -42,6 +46,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/vlastelin-kolec-1978-5919/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Ральф Бакши\n     \t(мультфильм, фэнтези, приключения)\n     ",
@@ -52,6 +57,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/vozvrashhenie-korolya-1980-229253/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США... реж. Джулз Басс...\n     \t(мультфильм, мюзикл, фэнтези...)\n     ",
@@ -62,6 +68,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/3442564.jpg",
             "page_url": "/name/3442564/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактриса\n     \t\n     \t31 год\n     ",
@@ -70,6 +77,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/3442560.jpg",
             "page_url": "/name/3442560/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактриса\n     \t\n     \t31 год\n     ",
@@ -78,6 +86,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/1629235.jpg",
             "page_url": "/name/1629235/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tрежиссер, актер, сценарист, продюсер\n     \t\n     \t52 года\n     ",
@@ -86,10 +95,20 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/1862303.jpg",
             "page_url": "/name/1862303/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер\n     \t\n     \t28 лет\n     ",
             "title": "Артём Королёв",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/1627837.jpg",
+            "page_url": "/name/1627837/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t\n     ",
+            "title": "Евгений Королёв",
             "type": "Actor"
         }
     ],

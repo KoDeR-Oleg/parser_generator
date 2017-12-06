@@ -2,6 +2,7 @@
     "components": [
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/proletaya-nad-gnezdom-kukushki-1975-336/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Милош Форман\n     \t(драма)\n     ",
@@ -12,6 +13,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/sozdanie-filma-proletaya-nad-gnezdom-kukushki-1997-765926/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Charles Kiselyak\n     \t(документальный)\n     ",
@@ -21,6 +23,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/proletaya-nad-kuryatnikom-2012-765247/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Annie Schwartz\n     \t(короткометражка, комедия)\n     ",
@@ -30,6 +33,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/tri-metra-nad-urovnem-neba-2010-523362/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Испания, реж. Фернандо Гонзалез Молина\n     \t(драма, мелодрама)\n     ",
@@ -40,6 +44,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/tri-metra-nad-urovnem-neba-ya-tebya-khochu-2012-603616/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Испания, реж. Фернандо Гонзалез Молина\n     \t(драма, мелодрама)\n     ",
@@ -50,6 +55,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/tri-metra-nad-nebom-2004-64994/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Италия, реж. Люка Лючини\n     \t(мелодрама)\n     ",
@@ -60,6 +66,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/229425.jpg",
             "page_url": "/name/229425/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактриса\n     \t\n     \t44 года\n     ",
@@ -68,6 +75,34 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/no-poster.gif",
+            "page_url": "/name/199130/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактриса\n     \t\n     \t\n     ",
+            "title": "Над Билл",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/4133199.jpg",
+            "page_url": "/name/4133199/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t\n     ",
+            "title": "Над Абдулахан",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/no-poster.gif",
+            "page_url": "/name/987246/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактриса\n     \t\n     \t\n     ",
+            "title": "Сара Над",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/101750.jpg",
             "page_url": "/name/101750/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактриса, продюсер, актриса: дубляж, режиссер\n     \t\n     \t31 год\n     ",

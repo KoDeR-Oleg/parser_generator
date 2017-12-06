@@ -2,6 +2,7 @@
     "components": [
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/zhizn-prekrasna-1997-381/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Италия, реж. Роберто Бениньи\n     \t(драма, комедия, военный)\n     ",
@@ -12,6 +13,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/zhizn-prekrasna-2011-462515/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Джонатан Левин\n     \t(драма, мелодрама, комедия)\n     ",
@@ -22,6 +24,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/zhizn-prekrasna-1979-23194/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "СССР... реж. Григорий Чухрай\n     \t(драма)\n     ",
@@ -32,6 +35,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/zhizn-prekrasna-1991-102237/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Форест Уайз\n     \t\n     ",
@@ -41,6 +45,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/zhizn-prekrasna-1985-19059/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Югославия, реж. Боро Драшкович\n     \t(драма)\n     ",
@@ -50,6 +55,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/zhizn-prekrasna-2004-448742/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Франция, реж. Roger Wielgus...\n     \t(драма, мелодрама, комедия)\n     ",

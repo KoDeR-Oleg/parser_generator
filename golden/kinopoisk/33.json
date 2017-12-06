@@ -2,6 +2,7 @@
     "components": [
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/ostrov-proklyatykh-2009-397667/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Мартин Скорсезе\n     \t(триллер, детектив)\n     ",
@@ -12,6 +13,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/ostrov-2005-81291/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Майкл Бэй\n     \t(фантастика, боевик, триллер...)\n     ",
@@ -22,6 +24,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/kong-ostrov-cherepa-2017-843147/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Китай... реж. Джордан Вот-Робертс\n     \t(фантастика, фэнтези, боевик...)\n     ",
@@ -32,6 +35,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/ostrov-2016-941521/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Россия, реж. Михаил Старчак...\n     \t(комедия)\n     ",
@@ -42,6 +46,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/obitel-proklyatykh-2014-572035/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Брэд Андерсон\n     \t(триллер)\n     ",
@@ -52,6 +57,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/puteshestvie-2-tainstvennyy-ostrov-2012-453367/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Брэд Пейтон\n     \t(фантастика, фэнтези, боевик...)\n     ",
@@ -62,6 +68,25 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/2817589.jpg",
+            "page_url": "/name/2817589/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t\n     ",
+            "title": "Владимир Остров",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/no-poster.gif",
+            "page_url": "/name/3610058/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t\n     ",
+            "title": "Егор Остров",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/1854724.jpg",
             "page_url": "/name/1854724/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактриса, сценарист\n     \t\n     \t27 лет\n     ",
@@ -70,6 +95,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/53800.jpg",
             "page_url": "/name/53800/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактриса, продюсер\n     \t\n     \t40 лет\n     ",
@@ -78,6 +104,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/1091355.jpg",
             "page_url": "/name/1091355/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер, продюсер\n     \t\n     \t58 лет\n     ",

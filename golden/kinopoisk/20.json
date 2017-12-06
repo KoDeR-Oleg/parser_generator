@@ -2,6 +2,7 @@
     "components": [
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/nazad-v-budushhee-1985-476/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Роберт Земекис\n     \t(фантастика, комедия, приключения)\n     ",
@@ -12,6 +13,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/nazad-v-budushhee-2011-623259/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Фрэнк Маршалл\n     \t(короткометражка, фантастика, комедия)\n     ",
@@ -22,6 +24,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/nazad-v-budushhee-1991-229404/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Пейтон Рид...\n     \t(мультфильм, фантастика, приключения...)\n     ",
@@ -32,6 +35,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/nazad-v-budushhee-2-1989-5502/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Роберт Земекис\n     \t(фантастика, боевик, комедия...)\n     ",
@@ -42,6 +46,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/nazad-v-budushhee-3-1990-7103/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Роберт Земекис\n     \t(фантастика, комедия, приключения...)\n     ",
@@ -52,12 +57,22 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/nazad-v-budushhee-2015-944474/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Kyle Chen\n     \t(короткометражка, фантастика)\n     ",
             "title": "Назад в будущее?",
             "type": "Cinema",
             "year": "2015"
+        },
+        {
+            "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/1543876.jpg",
+            "page_url": "/name/1543876/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tгруппа\n     \t\n     \t\n     ",
+            "title": "Гости из будущего",
+            "type": "Actor"
         }
     ],
     "py/object": "parser_result.ParserResult"

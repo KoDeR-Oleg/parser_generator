@@ -2,6 +2,7 @@
     "components": [
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/interstellar-2014-258687/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США... реж. Кристофер Нолан\n     \t(фантастика, драма, приключения)\n     ",
@@ -12,6 +13,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/nauka-interstellar-2015-1009186/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Гейл Виллумсен\n     \t(документальный)\n     ",

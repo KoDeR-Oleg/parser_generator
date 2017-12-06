@@ -2,6 +2,7 @@
     "components": [
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/7640.jpg",
             "page_url": "/name/7640/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер, сценарист, продюсер, режиссер, оператор, монтажер\n     \t\n     \t54 года\n     ",
@@ -10,6 +11,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/537440.jpg",
             "page_url": "/name/537440/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tрежиссер, сценарист, композитор, оператор, монтажер, актер\n     \t\n     \t43 года\n     ",
@@ -18,6 +20,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/305844.jpg",
             "page_url": "/name/305844/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактриса, режиссер, сценарист\n     \t\n     \t57 лет\n     ",
@@ -26,6 +29,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/92874.jpg",
             "page_url": "/name/92874/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер, сценарист\n     \t\n     \t90 лет\n     ",
@@ -34,6 +38,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/60400.jpg",
             "page_url": "/name/60400/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер\n     \t\n     \t60 лет\n     ",
@@ -42,6 +47,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/1086632.jpg",
             "page_url": "/name/1086632/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер\n     \t\n     \t34 года\n     ",
@@ -50,6 +56,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/21-god-kventin-tarantino-2016-885072/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Тара Вуд\n     \t(документальный)\n     ",
@@ -59,6 +66,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/kventin-dorvard-1955-26969/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Ричард Торп\n     \t(боевик, мелодрама, приключения...)\n     ",
@@ -69,6 +77,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/san-kventin-1937-10733/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США, реж. Ллойд Бэйкон\n     \t(фильм-нуар, драма)\n     ",
@@ -79,6 +88,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/kventin-dorvard-1971-737669/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Франция... реж. Жиль Гранжье\n     \t(приключения)\n     ",
@@ -88,6 +98,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/malenkiy-kventin-2010-736040/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Нидерланды, реж. Альберт 'т Хуфт...\n     \t(мультфильм, короткометражка, комедия)\n     ",

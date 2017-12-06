@@ -2,6 +2,7 @@
     "components": [
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/1193762.jpg",
             "page_url": "/name/1193762/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер, продюсер, актер: дубляж\n     \t\n     \t38 лет\n     ",
@@ -10,6 +11,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/231287.jpg",
             "page_url": "/name/231287/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер, сценарист, актер: дубляж\n     \t\n     \t54 года\n     ",
@@ -18,6 +20,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/238532.jpg",
             "page_url": "/name/238532/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер, актер: дубляж, продюсер, режиссер\n     \t\n     \t48 лет\n     ",
@@ -26,6 +29,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/238512.jpg",
             "page_url": "/name/238512/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер, актер: дубляж\n     \t\n     \t67 лет\n     ",
@@ -34,6 +38,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/1769504.jpg",
             "page_url": "/name/1769504/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер, сценарист, продюсер, актер: дубляж\n     \t\n     \t36 лет\n     ",
@@ -42,6 +47,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/238750.jpg",
             "page_url": "/name/238750/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер, актер: дубляж\n     \t\n     \t36 лет\n     ",
@@ -50,6 +56,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/mikhail-porechenkov-teper-u-menya-est-vsyo-2011-714484/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Россия, реж. Михаил Минкин\n     \t(документальный)\n     ",
@@ -59,6 +66,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/mikhail-gorbachev-on-prishel-dat-nam-volyu-2011-581815/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Россия, реж. Андрей Лазарев...\n     \t(документальный)\n     ",
@@ -69,6 +77,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/mikhail-strogov-carskiy-kurer-1999-331019/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Италия... реж. Фабрицио Коста\n     \t(драма, приключения)\n     ",
@@ -78,6 +87,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/mikhail-strogov-1956-59572/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Франция... реж. Кармине Галлоне\n     \t(приключения, военный, история)\n     ",
@@ -87,6 +97,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/ulybnis-mikhail-2006-105898/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Япония, реж. Иссей Ода\n     \t(комедия, приключения)\n     ",

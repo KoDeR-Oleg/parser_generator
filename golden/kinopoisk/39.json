@@ -2,6 +2,7 @@
     "components": [
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/vasiliy-2013-811116/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Россия, реж. Александр Худоконь\n     \t(документальный, короткометражка)\n     ",
@@ -12,6 +13,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/vasiliy-2008-1021874/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Россия, реж. Михаил Плотинский\n     \t(короткометражка, документальный)\n     ",
@@ -21,6 +23,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/vasiliy-buslaev-1982-45674/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "СССР, реж. Геннадий Васильев\n     \t(фэнтези, драма, история)\n     ",
@@ -31,6 +34,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/moy-luchshiy-drug-general-vasiliy-syn-iosifa-1991-46674/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "СССР, реж. Виктор Садовский\n     \t(драма, комедия, биография...)\n     ",
@@ -41,6 +45,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/vasiliy-i-vasilisa-1981-45675/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "СССР, реж. Ирина Поплавская\n     \t(драма, мелодрама, биография)\n     ",
@@ -51,6 +56,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/vasiliy-surikov-1959-25088/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "СССР, реж. Анатолий Рыбаков\n     \t(драма, биография)\n     ",
@@ -61,6 +67,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/1205094.jpg",
             "page_url": "/name/1205094/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер\n     \t\n     \t31 год\n     ",
@@ -69,6 +76,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/1801607.jpg",
             "page_url": "/name/1801607/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tсценарист, режиссер, продюсер, оператор, монтажер\n     \t\n     \t40 лет\n     ",
@@ -77,6 +85,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/266224.jpg",
             "page_url": "/name/266224/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер, сценарист, режиссер, актер: дубляж\n     \t\n     \t82 года\n     ",
@@ -85,6 +94,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/1078858.jpg",
             "page_url": "/name/1078858/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер: дубляж, актер\n     \t\n     \t50 лет\n     ",
@@ -93,6 +103,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/256968.jpg",
             "page_url": "/name/256968/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер, актер: дубляж\n     \t\n     \t83 года\n     ",

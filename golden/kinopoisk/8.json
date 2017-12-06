@@ -2,6 +2,7 @@
     "components": [
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/boycovskiy-klub-1999-361/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США... реж. Дэвид Финчер\n     \t(триллер, драма, криминал)\n     ",
@@ -12,6 +13,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/boytsovskiy-klub-2006-211448/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Индия, реж. Абхай Чопра...\n     \t(боевик)\n     ",
@@ -22,6 +24,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/boycovskiy-klub-supergeroev-2015-903251/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США\n     \t(боевик, короткометражка)\n     ",
@@ -32,6 +35,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/boytsovskiy-klub-zombi-2014-839371/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Тайвань, реж. Джо Цзе\n     \t(ужасы, боевик)\n     ",
@@ -42,6 +46,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/boytsovskiy-klub-supergeroev-20-2016-1005887/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "США\n     \t(короткометражка, боевик)\n     ",
@@ -52,6 +57,7 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/spacer.gif",
             "page_url": "/film/spidran-boycovskiy-klub-za-60-sekund-2013-807495/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "Россия\n     \t(короткометражка, мультфильм)\n     ",
@@ -62,10 +68,29 @@
         },
         {
             "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/no-poster.gif",
+            "page_url": "/name/1486174/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t\n     ",
+            "title": "Парни из Яхт-клуба",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/sm_actor/2275445.jpg",
             "page_url": "/name/2275445/sr/1/",
             "py/object": "parser_result.Component",
             "snippet": "\n     \tактер\n     \t\n     \t60 лет\n     ",
             "title": "Евгений Клубов",
+            "type": "Actor"
+        },
+        {
+            "alignment": "LEFT",
+            "image": "https://st.kp.yandex.net/images/no-poster.gif",
+            "page_url": "/name/3245979/sr/1/",
+            "py/object": "parser_result.Component",
+            "snippet": "\n     \tактер\n     \t\n     \t\n     ",
+            "title": "Дмитрий Клубов",
             "type": "Actor"
         }
     ],
