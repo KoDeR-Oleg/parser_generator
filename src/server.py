@@ -6,6 +6,7 @@ import jsonpickle
 import urllib.parse
 from algorithms.algorithm_v2 import Algorithm_v2
 from algorithms.selectors.black_list_selector import BlackListSelector
+from algorithms.selectors.simple_selector import SimpleSelector
 from markups.search_markup import SearchMarkup
 
 WEBHOOK_HOST = '127.0.0.1'
@@ -22,6 +23,7 @@ class WebhookServer(object):
         self.algorithm = None
 
     @cherrypy.expose
+    @cherrypy.tools.json_out()
     def index(self, **kwargs):
         action = kwargs['action']
         if action == "reset":
@@ -31,49 +33,23 @@ class WebhookServer(object):
         if action == "add":
             text = str(kwargs['markup']).replace("\'", "\"")
             markup = jsonpickle.decode(text)
+            markup.file = str(len(self.markup_list)) + ".html"
+            markup.type = "HTMLTree"
+            with open(str(len(self.markup_list)) + ".html", "w") as file:
+                file.write(kwargs['raw_page'])
             self.markup_list.append(markup)
-            with open(str(len(self.markup_list)) + ".html", "wb") as file:
-                file.write(kwargs['raw_page'].file.read())
             print("Add markup")
+            return "Markup added"
         if action == "learn":
-            selector = BlackListSelector()
-            self.algorithm = Algorithm_v2("../golden/google/", selector=selector)
+            selector = SimpleSelector()
+            self.algorithm = Algorithm_v2("", selector=selector)
             self.algorithm.learn(self.markup_list)
             print("Learn is done")
-    """
-    @cherrypy.expose
-    def index(self):
-        print(str(cherrypy.request.headers['content-length']))
-        if 'content-length' in cherrypy.request.headers and \
-           'content-type' in cherrypy.request.headers and \
-           cherrypy.request.headers['content-type'] == 'application/json':
-
-            length = int(cherrypy.request.headers['content-length'])
-            json_string = cherrypy.request.body.read(length).decode("utf-8")
-            obj = json.loads(json_string)
-
-            print("Op" + str(obj))
-            if obj['action'] == "reset":
-                self.markup_list = list()
-                print("Reset")
-            elif obj['action'] == "learn":
-                selector = BlackListSelector()
-                self.algorithm = Algorithm_v2("../golden/google/", selector=selector)
-                self.algorithm.learn(self.markup_list)
-                print("Learn is done")
-            elif obj['action'] == "add":
-                text = str(obj['markup']).replace("\'", "\"")
-                markup = jsonpickle.decode(text)
-                self.markup_list.append(markup)
-                print("Add markup")
-            elif obj['action'] == "parse":
-                parser_result = self.algorithm.parse(obj['raw_page'])
-                print(str(parser_result))
-
-            return ''
-        else:
-            raise cherrypy.HTTPError(403)
-    """
+            return "Learn is done"
+        if action == "parse":
+            parser_result = self.algorithm.parse(kwargs['raw_page'])
+            print(str(parser_result))
+            return json.loads(str(parser_result))
 
 
 cherrypy.config.update({
