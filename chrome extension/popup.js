@@ -2,6 +2,13 @@ function getRandomInt(min, max) {
     return Math.floor(Math.random() * (max - min)) + min;
 }
 
+var raw_page = "";
+
+chrome.extension.onRequest.addListener(function(request, sender, sendResponse) {
+    raw_page = request.content;
+});
+
+
 document.addEventListener('DOMContentLoaded', function() {
     var clearMarkupList = document.getElementById('clearMarkupList');
     clearMarkupList.addEventListener('click', function() {
@@ -18,19 +25,73 @@ document.addEventListener('DOMContentLoaded', function() {
     d.body.appendChild(f);
     f.submit();
 
-/*
-        alert("ok0");
-        $.ajax({
-            url:'http://127.0.0.1:9876'
-            , type:'POST'
-            , contentType:'application/json'
-            , data: 'text'//{action: "reset"}
-            , success: function(res) {
-                alert(res);
-            }
-        });
-        alert("ok1");
-*/
+    });
+}, false);
+
+document.addEventListener('DOMContentLoaded', function() {
+    var actionLearn = document.getElementById('actionLearn');
+    actionLearn.addEventListener('click', function() {
+
+    d = document;
+    var f = d.createElement('form');
+    f.action = 'http://127.0.0.1:9876';
+    f.method = 'post';
+    var i = d.createElement('input');
+    i.type = 'hidden';
+    i.name = 'action';
+    i.value = 'learn';
+    f.appendChild(i);
+    d.body.appendChild(f);
+    f.submit();
+
+    });
+}, false);
+
+document.addEventListener('DOMContentLoaded', function() {
+    var actionParse = document.getElementById('actionParse');
+    actionParse.addEventListener('click', function() {
+
+    d = document;
+    var f = d.createElement('form');
+    f.action = 'http://127.0.0.1:9876';
+    f.method = 'post';
+    var i = d.createElement('input');
+    i.id = "action";
+    i.type = 'hidden';
+    i.name = 'action';
+    i.value = 'parse';
+    f.appendChild(i);
+    var j = d.createElement('input');
+    j.type = 'hidden';
+    j.name = 'raw_page';
+    j.value = raw_page;
+    f.appendChild(j);
+    var k = d.createElement('iframe');
+    k.id = 'response';
+    k.name = 'response';
+    f.target = '_blank';
+    k.appendChild(f);
+    k.onload = function(){
+        if (document.getElementById("response"))
+            alert(document.getElementById("response").innerHTML);
+    };
+    d.body.appendChild(k);
+    f.submit();
+
+    /*
+        var fd = new FormData();
+        fd.append("action", "parse");
+        fd.append("raw_page", raw_page);
+
+        var request = new XMLHttpRequest();
+        request.open("POST", "http://127.0.0.1:9876");
+        request.send(fd);
+        if (request.status != 200) {
+            alert("Error = " + request.status + ", " + request.statusText);
+        } else {
+            document.getElementById("markup").innerHTML = request.responseText;
+        }
+        */
     });
 }, false);
 
@@ -40,30 +101,32 @@ document.addEventListener('DOMContentLoaded', function() {
         chrome.storage.sync.get("markup", function (obj) {
             if (obj.markup != null)
             {
-                chrome.tabs.getSelected(null, function(tab) {
-                    details = {tabId: tab.id};
-                    chrome.pageCapture.saveAsMHTML(details, function(mhtml){
-                        var fd = new FormData();
-                        fd.append("action", "add");
-                        var markup = {
-                            components: obj.markup,
-                            "py/object": "markups.search_markup.SearchMarkup",
-                            "file": "0.html",
-                        };
-                        fd.append("markup", JSON.stringify(markup));
-                        fd.append("raw_page", mhtml);
+                var fd = new FormData();
+                fd.append("action", "add");
+                var markup = {
+                    components: obj.markup,
+                    "py/object": "markups.search_markup.SearchMarkup",
+                    "file": "0.html",
+                };
+                fd.append("markup", JSON.stringify(markup));
+                fd.append("raw_page", raw_page);
 
-                        var request = new XMLHttpRequest();
-                        request.open("POST", "http://127.0.0.1:9876");
-                        request.send(fd);
-                     });
-                });
+                var request = new XMLHttpRequest();
+                request.open("POST", "http://127.0.0.1:9876");
+                request.send(fd);
+
             }
         });
     });
 }, false);
 
 document.addEventListener('DOMContentLoaded', function() {
+    chrome.tabs.getSelected(null, function(tab) {
+        chrome.tabs.executeScript(tab.id, {
+            code: "chrome.extension.sendRequest({content: document.documentElement.outerHTML}, function(response) { console.log('success'); });"
+        }, function() { });
+    });
+
     var clearMarkup = document.getElementById('clearMarkup');
     clearMarkup.addEventListener('click', function() {
         chrome.storage.sync.set({'markup': null});
