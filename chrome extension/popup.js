@@ -72,26 +72,10 @@ document.addEventListener('DOMContentLoaded', function() {
     f.target = '_blank';
     k.appendChild(f);
     k.onload = function(){
-        if (document.getElementById("response"))
-            alert(document.getElementById("response").innerHTML);
+
     };
     d.body.appendChild(k);
     f.submit();
-
-    /*
-        var fd = new FormData();
-        fd.append("action", "parse");
-        fd.append("raw_page", raw_page);
-
-        var request = new XMLHttpRequest();
-        request.open("POST", "http://127.0.0.1:9876");
-        request.send(fd);
-        if (request.status != 200) {
-            alert("Error = " + request.status + ", " + request.statusText);
-        } else {
-            document.getElementById("markup").innerHTML = request.responseText;
-        }
-        */
     });
 }, false);
 
@@ -176,6 +160,37 @@ function getTreePathElement(title, value, key, index)
         return div;
 }
 
+function getArrayOfTreePath(title, value, key, index)
+{
+        var suf = getRandomInt(0, 999999);
+        d = document;
+        var div = d.createElement('div');
+        var spage = d.createElement('span'); spage.innerHTML = title + ': ';
+        div.appendChild(spage);
+        var ipage = d.createElement('input'); ipage.value = value[0].xpath; ipage.id='page_xpath_' + suf;
+        div.appendChild(ipage);
+        var iattr = d.createElement('input'); iattr.value = value[0].attr; iattr.id='page_attr_' + suf; iattr.size = '5';
+        div.appendChild(iattr);
+        var bpage = d.createElement('button'); bpage.innerHTML = 'Save'; bpage.id = 'bpage_' + suf;
+        bpage.addEventListener('click', function() {
+            chrome.storage.sync.get("markup", function (obj) {
+                var array_of_xpath = document.getElementById('page_xpath_' + suf).value.split(',');
+                obj.markup[index][key] = new Array(array_of_xpath.length);
+                for (var i = 0; i < array_of_xpath.length; ++i)
+                {
+                    obj.markup[index][key][i] = {
+                        xpath: array_of_xpath[i],
+                        attr: document.getElementById('page_attr_' + suf).value,
+                        "py/object": "trees.html_path.HTMLPath"
+                    };
+                }
+                chrome.storage.sync.set({'markup': obj.markup});
+            });
+        });
+        div.appendChild(bpage);
+        return div;
+}
+
 function getSearchResult(element, index)
 {
         d = document;
@@ -187,6 +202,31 @@ function getSearchResult(element, index)
         div.appendChild(getTreePathElement('title', element.title, 'title', index));
         div.appendChild(getTreePathElement('snippet', element.snippet, 'snippet', index));
         div.appendChild(getTreePathElement('view url', element.view_url, 'view_url', index));
+        return div;
+}
+
+function getWizardNews(element, index)
+{
+        d = document;
+        var div = d.createElement('div');
+        var stype = d.createElement('span'); stype.innerHTML = '<br>WIZARD NEWS';
+        div.appendChild(stype);
+        div.appendChild(getStringElement('alignment', element.alignment, 'alignment', index));
+        div.appendChild(getTreePathElement('page url', element.page_url, 'page_url', index));
+        div.appendChild(getTreePathElement('title', element.title, 'title', index));
+        return div;
+}
+
+function getWizardImage(element, index)
+{
+        d = document;
+        var div = d.createElement('div');
+        var stype = d.createElement('span'); stype.innerHTML = '<br>WIZARD IMAGE';
+        div.appendChild(stype);
+        div.appendChild(getStringElement('alignment', element.alignment, 'alignment', index));
+        div.appendChild(getTreePathElement('page url', element.page_url, 'page_url', index));
+        div.appendChild(getTreePathElement('title', element.title, 'title', index));
+        div.appendChild(getArrayOfTreePath('media links', element.media_links, 'media_links', index));
         return div;
 }
 
@@ -216,12 +256,69 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 }, false);
 
+document.addEventListener('DOMContentLoaded', function() {
+    var addWizardNews = document.getElementById('addWizardNews');
+    addWizardNews.addEventListener('click', function() {
+
+        chrome.storage.sync.get("markup", function (obj) {
+
+            var element = {
+                type: 'WIZARD',
+                wizard_type: 'WIZARD_NEWS',
+                alignment: 'LEFT',
+                page_url: {xpath: '', attr: '', "py/object": "trees.html_path.HTMLPath"},
+                title: {xpath: '', attr: '', "py/object": "trees.html_path.HTMLPath"},
+                "py/object": "markups.search_markup.SearchMarkupWizardNews"
+            };
+            obj.markup[obj.markup.length] = element;
+            chrome.storage.sync.set({'markup': obj.markup});
+
+            d = document;
+            var markup = d.getElementById('markup');
+            var div = getWizardNews(element, obj.markup.length - 1);
+            markup.appendChild(div);
+        });
+    });
+}, false);
+
+document.addEventListener('DOMContentLoaded', function() {
+    var addWizardImage = document.getElementById('addWizardImage');
+    addWizardImage.addEventListener('click', function() {
+
+        chrome.storage.sync.get("markup", function (obj) {
+
+            var element = {
+                type: 'WIZARD',
+                wizard_type: 'WIZARD_IMAGE',
+                alignment: 'LEFT',
+                page_url: {xpath: '', attr: '', "py/object": "trees.html_path.HTMLPath"},
+                title: {xpath: '', attr: '', "py/object": "trees.html_path.HTMLPath"},
+                media_links: {0: {xpath: '', attr: ''}},
+                "py/object": "markups.search_markup.SearchMarkupWizardImage"
+            };
+            obj.markup[obj.markup.length] = element;
+            chrome.storage.sync.set({'markup': obj.markup});
+
+            d = document;
+            var markup = d.getElementById('markup');
+            var div = getWizardImage(element, obj.markup.length - 1);
+            markup.appendChild(div);
+        });
+    });
+}, false);
 
 function getElem(element, index)
 {
-    if (element.type = "SEARCH_RESULT")
+    if (element.type == "SEARCH_RESULT")
     {
         return getSearchResult(element, index);
+    }
+    if (element.type == "WIZARD")
+    {
+        if (element.wizard_type == "WIZARD_NEWS")
+            return getWizardNews(element, index);
+        else
+            return getWizardImage(element, index);
     }
 }
 
