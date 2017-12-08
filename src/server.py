@@ -39,6 +39,7 @@ class WebhookServer(object):
                 file.write(kwargs['raw_page'])
             self.markup_list.append(markup)
             print("Add markup")
+            print(str(markup))
             return "Markup added"
         if action == "learn":
             selector = SimpleSelector()
