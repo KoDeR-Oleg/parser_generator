@@ -7,7 +7,6 @@ import urllib.parse
 from algorithms.algorithm_v2 import Algorithm_v2
 from algorithms.selectors.black_list_selector import BlackListSelector
 from algorithms.selectors.simple_selector import SimpleSelector
-from markups.search_markup import SearchMarkup
 
 WEBHOOK_HOST = '127.0.0.1'
 WEBHOOK_PORT = 9876
@@ -42,7 +41,7 @@ class WebhookServer(object):
             print(str(markup))
             return "Markup added"
         if action == "learn":
-            selector = SimpleSelector()
+            selector = BlackListSelector()
             self.algorithm = Algorithm_v2("", selector=selector)
             self.algorithm.learn(self.markup_list)
             print("Learn is done")
