@@ -139,7 +139,7 @@ function getStringElement(title, value, key, index)
 
 function getTreePathElement(title, value, key, index)
 {
-        var suf = getRandomInt(0, 999999);
+        var suf = getRandomInt(0, 999999999);
         d = document;
         var div = d.createElement('div');
         var spage = d.createElement('span'); spage.innerHTML = title + ': ';
