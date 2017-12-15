@@ -1,0 +1,94 @@
+\documentclass[a4paper,14pt]{extbook}
+\usepackage[utf8]{inputenc}
+\usepackage[T2A]{fontenc}
+\usepackage[english,russian]{babel}
+\usepackage[dvips]{graphicx}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsfonts}
+\usepackage{makeidx}
+\makeindex
+\usepackage{longtable}
+\usepackage{fontspec}
+\usepackage{courier}
+
+\usepackage[indentfirst,compact,topmarks,calcwidth,pagestyles]{titlesec}
+\usepackage{titletoc}
+
+\usepackage{listings}
+
+\usepackage{pst-tree}
+
+\linespread{1.3}
+\setlength{\parskip}{2mm plus 1mm minus 1mm} 
+
+\usepackage[left=3cm,right=2cm,top=2.5cm,bottom=1.5cm,bindingoffset=0cm]{geometry}
+
+
+\newcommand{\Subsection}[1]{
+	\subsubsection*{#1}\addcontentsline{toc}{subsection}{#1}
+}
+
+\newcommand{\Section}[1]{
+	\subsection*{#1}\addcontentsline{toc}{section}{#1}
+}
+
+\makeatletter
+    \renewcommand{\l@chapter}[2]{\vspace{0.2cm}\@tempdima=1.0cm
+        \hbox to\textwidth{{\bf \noindent Глава #1} \hfil}}
+    \renewcommand{\thechapter}{\arabic{chapter}.}
+    \renewcommand{\@makechapterhead}[1]{
+       {\vspace*{1.0cm}
+        \noindent
+        \Large \bf \@chapapp{} \thechapter~\Large #1
+        \vskip 1.0cm}}
+    \renewcommand{\chapter}{
+        \global\@topnum=0
+        \@afterindentfalse
+        \secdef\@chapter\@schapter}
+    \renewcommand{\chaptermark}[1]{\markboth{}{\hbox to\textwidth{\it Глава \thechapter \hfil \hspace{0.1cm} #1}}}
+\makeatother
+
+\titleclass{\part}{top} % make part like a chapter
+\titleformat{\part}
+[display]
+{\centering\normalfont\Huge\bfseries}
+{\titlerule[5pt]\vspace{3pt}\titlerule[2pt]\vspace{3pt}\MakeUppercase{\partname} \thepart}
+{0pt}
+{\titlerule[2pt]\vspace{1pc}\huge\MakeUppercase}
+%
+\titlespacing*{\part}{0pt}{0pt}{20pt}
+
+\setmainfont[Mapping=tex-text]{Times New Roman}
+\setmonofont[Scale=MatchLowercase,Mapping=tex-text]{Courier New}
+
+\begin{document}
+
+\lstset{ %
+language=Python,
+basicstyle=\linespread{1.0}\small\ttfamily, % размер и начертание шрифта для подсветки кода
+numbers=none,
+%showspaces=false,
+%showstringspaces=false,
+%showtabs=false,
+frame=lines,              % рисовать рамку вокруг кода
+tabsize=4,                 % размер табуляции по умолчанию равен 2 пробелам
+captionpos=t,
+breaklines=true,
+breakatwhitespace=false,
+escapeinside={@}{@},
+deletekeywords={sizeof},
+otherkeywords={LL, vector}
+}
+
+\renewcommand{\indexname}{Алфавитный указатель}
+
+\input{begin.tex}
+\pagestyle{plain}
+\tableofcontents
+\clearpage
+\input{interfaces.tex}
+\clearpage
+\input{classes.tex}
+
+\end{document}

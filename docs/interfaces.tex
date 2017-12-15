@@ -1,0 +1,116 @@
+\chapter{Интерфейсы}
+
+
+\Section{Tree}
+
+Интерфейс деревьев, для парсинга которых генерируется парсер. Задаёт три абстрактных метода:
+\\
+
+\begin{lstlisting}
+def get_value(self, tree_path: TreePath) -> str
+\end{lstlisting}
+Метод возвращает значение элемента дерева, на который указывает $tree\_path$.
+\\
+
+\begin{lstlisting}
+def get_elements(self, tree_path: TreePath) -> List[Tree]
+\end{lstlisting}
+Метод возвращает список поддеревьев, которые удовлетворяют пути $tree\_path$.
+\\
+
+\begin{lstlisting}
+def get_iter(self)
+\end{lstlisting}
+Переопределение базового метода. Возвращает итератор по всем элементам дерева.
+
+\Section{TreePath}
+
+Интерфейс путей в дереве. Задаёт основные операции, которые можно производить с путями:
+\\
+
+\begin{lstlisting}
+def get_relative_path(self, tree_path) -> TreePath
+\end{lstlisting}
+
+Метод возвращает путь относительно пути $tree\_path$. Необходима поддержка лишь случая, когда $tree\_path$ является префиксом текущего пути. Без обобщения на пути вида <<../../>>.
+\\
+
+\begin{lstlisting}
+def get_common_prefix(self, tree_path, in_block=False) -> TreePath
+\end{lstlisting}
+
+Метод возвращает наибольший общий префикс путей. Если флак $in\_block$ выставлен, то для путей производится их обощение по индексам. Иначе определяется точное совпадение.
+\\
+
+\begin{lstlisting}
+def len(self) -> int
+\end{lstlisting}
+
+Метод возвращает длину пути -- целое число.
+\\
+
+\begin{lstlisting}
+def drop_for_len(self, len) -> TreePath
+\end{lstlisting}
+
+Обрезание пути до заданной длины.
+\\
+
+\begin{lstlisting}
+def concat(self, tree_path) -> TreePath
+\end{lstlisting}
+
+Конкатенация путей. Входной параметр должен содержать относительный путь.
+\\
+
+\Section{Markup}
+
+Интерфейс разметки. Необходимо определить три поля и один метод:
+\\
+
+\begin{lstlisting}
+file
+\end{lstlisting}
+
+Относительный путь до файла, которому соответствует разметка.
+\\
+
+\begin{lstlisting}
+type
+\end{lstlisting}
+
+Тип разметки, поддерживаемый классом $MarkupTypeRegistry$.
+\\
+
+\begin{lstlisting}
+components
+\end{lstlisting}
+
+Список элементов разметки, определённых в заданном файле.
+\\
+
+\begin{lstlisting}
+def add(self, component)
+\end{lstlisting}
+
+Метод добавления новой компоненты в список $components$.
+\\
+
+
+\Section{Algorithm}
+
+Интерфейс основного алгоритма. Задаёт два метода, которые определяют схему взаимодействия с ним:
+\\
+
+\begin{lstlisting}
+def learn(self, markup_list: List[Markup])
+\end{lstlisting}
+
+Метод обучения парсера на списке разметок. На вход принимает список разметок одного типа.
+\\
+
+\begin{lstlisting}
+def parse(self, raw_page: str) -> ParserResult:
+\end{lstlisting}
+
+Метод для парсинга страницы. Следует вызывать после вызова обучения парсера. Возвращает элемент типа $ParserResult$.
