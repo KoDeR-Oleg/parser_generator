@@ -41,7 +41,7 @@ class WebhookServer(object):
             print(str(markup))
             return "Markup added"
         if action == "learn":
-            selector = BlackListSelector()
+            selector = SimpleSelector()
             self.algorithm = Algorithm_v2("", selector=selector)
             self.algorithm.learn(self.markup_list)
             print("Learn is done")
