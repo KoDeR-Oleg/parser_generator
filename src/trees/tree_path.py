@@ -9,7 +9,7 @@ class TreePath:
         "Получение пути относительно tree_path"
 
     @abstractmethod
-    def get_common_prefix(self, tree_path):
+    def get_common_prefix(self, tree_path, in_block=False):
         "Получение наибольшего общего пути"
 
     @abstractmethod
