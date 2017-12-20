@@ -3,7 +3,19 @@
 
 \Section{Tree}
 
-Интерфейс деревьев, для парсинга которых генерируется парсер. Задаёт три абстрактных метода:
+Интерфейс деревьев, для парсинга которых генерируется парсер. Задаёт три абстрактных метода и два поля:
+\\
+
+\begin{lstlisting}
+tag
+\end{lstlisting}
+Поле задаёт название или тип корня дерева.
+\\
+
+\begin{lstlisting}
+classes
+\end{lstlisting}
+Поле задаёт список каких-либо атрибутов корня дерева. Необходим для работы $BlackListSelector$, но не для $SimpleSelector$.
 \\
 
 \begin{lstlisting}
@@ -22,6 +34,12 @@ def get_elements(self, tree_path: TreePath) -> List[Tree]
 def get_iter(self)
 \end{lstlisting}
 Переопределение базового метода. Возвращает итератор по всем элементам дерева.
+\\
+
+\begin{lstlisting}
+def cssselect(self, attribute: str) -> List(Tree)
+\end{lstlisting}
+Опционально. Метод возвращает список всех вершин дерева, удовлетворяющих CSS селектору $attribute$. Необходим для работы $BlackListSelector$.
 
 \Section{TreePath}
 
@@ -114,3 +132,24 @@ def parse(self, raw_page: str) -> ParserResult:
 \end{lstlisting}
 
 Метод для парсинга страницы. Следует вызывать после вызова обучения парсера. Возвращает элемент типа $ParserResult$.
+
+
+\Section{Selector}
+
+Интерфейс стратегии разрешения коллизий разных типов компонент, расположенных по одному пути.
+\\
+
+\begin{lstlisting}
+def learn(self, algorithm: Algorithm, markup_list: List[Markup]) -> None
+\end{lstlisting}
+
+Метод обучения селектора на данных алгоритма и списке разметок.
+\\
+
+\begin{lstlisting}
+def get_iter(self, **kwargs)
+\end{lstlisting}
+
+Переопределение базового метода. Возвращает итератор по компонентам в порядке разрешения коллизий.
+\\
+
