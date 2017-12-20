@@ -1,4 +1,3 @@
-from trees.json_tree import JSONTree
 from trees.tree_path import TreePath
 
 
