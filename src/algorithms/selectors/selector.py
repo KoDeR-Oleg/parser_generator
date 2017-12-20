@@ -3,6 +3,7 @@ from algorithms.algorithm import Algorithm
 from markups.markup import Markup
 from typing import List
 
+
 class Selector:
     __metaclass__ = ABCMeta
 
