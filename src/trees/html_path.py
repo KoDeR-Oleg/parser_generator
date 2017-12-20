@@ -1,4 +1,3 @@
-from trees.html_tree import HTMLTree
 from trees.tree_path import TreePath
 
 
